@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live news",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-02-06-21/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Maine CDC reports 2 new coronavirus-related deaths, 265 new cases",
+    "url": "https://www.wmtw.com/article/maine-cdc-reports-2-new-coronavirus-related-deaths-265-new-cases/35436688",
+    "source": "WMTW Portland",
+    "time": "46 mins ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.wmtw.com"
+  },
+  {
+    "title": "Maine CDC reports 2 more deaths and 265 coronavirus cases across the state",
+    "url": "https://bangordailynews.com/2021/02/06/news/maine-cdc-reports-2-more-deaths-and-265-coronavirus-cases-across-the-state-0vzoa9n507wn/",
+    "source": "Bangor Daily News",
+    "time": "1 hour ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "bangordailynews.com"
+  },
+  {
+    "title": "\u2018Hateful, racist\u2019 emails prompted state to close coronavirus vaccine equity \ngroup meetings to public",
+    "url": "https://www.oregonlive.com/coronavirus/2021/02/hateful-racist-emails-prompted-state-to-close-coronavirus-vaccine-equity-group-meetings-to-public.html",
+    "source": "oregonlive.com",
+    "time": "14 mins ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "Actual Coronavirus Infections Far Higher Than Confirmed Cases, Model Shows \n: Shots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2021/02/06/964527835/why-the-pandemic-is-10-times-worse-than-you-think",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Wuhan residents remember coronavirus 'whistleblower' doctor a year after \nhis death",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-wuhan-doctor-anniv-idUSKBN2A60AK",
+    "source": "Reuters",
+    "time": "6 hours ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Israel's handling of coronavirus seems like a success. Residents tell a \ndifferent story.",
+    "url": "https://www.nbcnews.com/news/world/israel-s-handling-coronavirus-seems-success-residents-tell-different-story-n1256835",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Supreme Court lifts California worship bans prompted by coronavirus",
+    "url": "https://www.politico.com/news/2021/02/05/scotus-california-worship-bans-466466",
+    "source": "Politico",
+    "time": "10 hours ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Coronavirus Mutations In Boston Patient May Hold Clues To Variant Origins : \nGoats and Soda",
+    "url": "https://www.npr.org/sections/goatsandsoda/2021/02/05/964447070/where-did-the-coronavirus-variants-come-from",
+    "source": "NPR",
+    "time": "17 hours ago",
+    "date": "2021-02-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

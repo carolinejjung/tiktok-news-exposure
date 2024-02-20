@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/11/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "15 mins ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid-19 vaccination plan 'not working,' former FDA official warns",
+    "url": "https://www.cnn.com/2021/01/11/health/us-coronavirus-monday/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus updates: Biden to receive 2nd dose of vaccine; members of \nCongress exposed to virus during riot lockdown; Chicago schools reopen",
+    "url": "https://www.usatoday.com/story/news/health/2021/01/11/covid-news-25-k-deaths-new-years-day-chicago-schools/6609727002/",
+    "source": "USA TODAY",
+    "time": "25 mins ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Covid live updates: Cooperation required to hit 100 million Covid \nvaccination goal",
+    "url": "https://www.nbcnews.com/news/us-news/live-blog/2021-01-011-covid-live-updates-vaccine-news-n1253674",
+    "source": "NBC News",
+    "time": "52 mins ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Boris Johnson: If we must, we\u2019ll tighten COVID-19 measures",
+    "url": "https://www.jpost.com/breaking-news/boris-johnson-if-we-must-well-tighten-covid-19-measures-655043",
+    "source": "The Jerusalem Post",
+    "time": "33 mins ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.jpost.com"
+  },
+  {
+    "title": "Richard Branson's mother dies of Covid-19",
+    "url": "https://www.cnn.com/2021/01/11/business/richard-branson-mother-death-covid/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "mRNA Technology Gave Us the First COVID-19 Vaccines. It Could Also Upend \nthe Drug Industry",
+    "url": "https://time.com/5927342/mrna-covid-vaccine/",
+    "source": "TIME",
+    "time": "5 hours ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "time.com"
+  },
+  {
+    "title": "Arsenal's Arteta: 'Morally strange' to be playing amid COVID-19 pandemic",
+    "url": "https://www.espn.com/soccer/arsenal/story/4285172/arsenals-arteta-morally-strange-to-be-playing-amid-covid-19-pandemic",
+    "source": "ESPN",
+    "time": "4 hours ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "COVID-19 Case Numbers Up In Almost Every State; Lawmakers May Have Been \nExposed : Coronavirus Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/10/955432645/coronavirus-numbers-rising-in-nearly-every-state-capitol-siege-put-members-at-ri",
+    "source": "NPR",
+    "time": "18 hours ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Rise in COVID-19 cases has athletic directors scrambling to find ways to \nget through winter sports season",
+    "url": "https://www.bostonglobe.com/2021/01/10/sports/rise-covid-19-cases-has-athletic-directors-scrambling-find-ways-get-through-winter-sports-season/",
+    "source": "The Boston Globe",
+    "time": "13 hours ago",
+    "date": "2021-01-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.bostonglobe.com"
+  }
+]

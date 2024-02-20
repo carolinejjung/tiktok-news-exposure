@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/10/25/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "7 mins ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "White House signals defeat in pandemic as coronavirus outbreak roils \nPence\u2019s office",
+    "url": "https://www.washingtonpost.com/politics/pence-coronavirus-outbreak/2020/10/25/923bb382-16d5-11eb-befb-8864259bd2d8_story.html",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus cases force 3 Onondaga County high schools to go remote Monday",
+    "url": "https://www.syracuse.com/coronavirus/2020/10/coronavirus-cases-force-3-onondaga-county-high-schools-to-go-remote-monday.html",
+    "source": "syracuse.com",
+    "time": "1 hour ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.syracuse.com"
+  },
+  {
+    "title": "US opioid deaths rising amid coronavirus lockdowns, state health officials \nsay",
+    "url": "https://www.foxnews.com/us/us-opioid-deaths-rising-coronavirus-lockdowns",
+    "source": "Fox News",
+    "time": "8 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Utah's hospitals prepare to ration care as a record number of coronavirus \npatients flood their ICUs",
+    "url": "https://www.sltrib.com/news/2020/10/25/with-coronavirus-cases/",
+    "source": "Salt Lake Tribune",
+    "time": "14 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.sltrib.com"
+  },
+  {
+    "title": "White House chief Meadows says \u2018we're not going to control the pandemic\u2019 \nafter coronavirus cases hit record high",
+    "url": "https://www.cnbc.com/2020/10/25/coronavirus-mark-meadows-says-were-not-going-to-control-the-pandemic-.html",
+    "source": "CNBC",
+    "time": "11 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Fauci says findings on a potential coronavirus vaccine are expected by \nearly December but widespread availability will come later",
+    "url": "https://www.cnn.com/2020/10/25/us/covid-vaccine-fauci/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Europe Imposes New Restrictions As COVID-19 Cases Soar",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/25/927637746/europe-imposes-new-restrictions-as-covid-19-cases-soar",
+    "source": "NPR",
+    "time": "2 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Colorado governor to quarantine after Aurora mayor's positive coronavirus \ntest | TheHill",
+    "url": "https://thehill.com/homenews/state-watch/522708-colorado-governor-to-quarantine-after-aurora-mayors-positive-coronavirus",
+    "source": "The Hill",
+    "time": "1 hour ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Tool's Maynard James Keenan Has a Not-So-Nice Message for Coronavirus \nDeniers",
+    "url": "https://www.billboard.com/articles/news/9472600/tool-maynard-james-keenan-coronavirus-deniers-message",
+    "source": "Billboard",
+    "time": "4 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.billboard.com"
+  }
+]

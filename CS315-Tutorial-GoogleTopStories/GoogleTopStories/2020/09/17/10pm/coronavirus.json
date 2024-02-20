@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "46 mins ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Scientists may know where coronavirus originated, study says",
+    "url": "https://www.foxnews.com/health/where-coronavirus-originated-study",
+    "source": "Fox News",
+    "time": "7 hours ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Biden says that Trump should step down over coronavirus response | TheHill",
+    "url": "https://thehill.com/homenews/campaign/517008-biden-calls-for-trump-to-step-down-over-coronavirus-response",
+    "source": "The Hill",
+    "time": "36 mins ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Biden blasts AG Barr for comments comparing coronavirus restrictions to \nslavery",
+    "url": "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous",
+    "source": "Fox News",
+    "time": "44 mins ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Global coronavirus cases pass 30 million: Live news",
+    "url": "https://www.aljazeera.com/news/2020/09/global-coronavirus-cases-pass-30-million-live-news-200917235058708.html",
+    "source": "Aljazeera.com",
+    "time": "46 mins ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Pence's former lead coronavirus task force aide slams Trump and endorses \nBiden in new video",
+    "url": "https://www.cnn.com/2020/09/17/politics/former-pence-aide-coronvirus-task-force-slams-trump/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Mass. parents knew kid had coronavirus, sent him to 1st day of school \nanyway, officials say",
+    "url": "https://www.nbcnews.com/news/us-news/mass-parents-knew-kid-had-coronavirus-sent-him-1st-day-n1240295",
+    "source": "NBC News",
+    "time": "9 hours ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Vitamin D can help reduce coronavirus risk by 54%: Boston University doctor",
+    "url": "https://www.bostonherald.com/2020/09/17/vitamin-d-can-help-reduce-coronavirus-risk-by-54-boston-university-doctor/",
+    "source": "Boston Herald",
+    "time": "8 hours ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "CDC Virus Testing Guidance Was Posted Against Scientists' Objections",
+    "url": "https://www.nytimes.com/2020/09/17/health/coronavirus-testing-cdc.html",
+    "source": "The New York Times",
+    "time": "4 hours ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Colleges race to close gaps in coronavirus tracing systems",
+    "url": "https://www.bostonglobe.com/2020/09/17/metro/colleges-race-close-gaps-coronavirus-tracing-systems/",
+    "source": "The Boston Globe",
+    "time": "2 hours ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bostonglobe.com"
+  }
+]

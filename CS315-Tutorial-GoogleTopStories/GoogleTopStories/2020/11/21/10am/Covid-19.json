@@ -1,0 +1,102 @@
+[
+  {
+    "title": "I Traced My Covid-19 Bubble and It\u2019s Enormous",
+    "url": "https://www.nytimes.com/2020/11/20/opinion/covid-bubble-thanksgiving-family.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "U.S. Passes 12 Million Covid-19 Cases",
+    "url": "https://www.nytimes.com/live/2020/11/20/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "6 mins ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The US recorded 195,000 new Covid-19 cases in a day. An expert says spread \nis now 'faster' and 'broader' than ever",
+    "url": "https://www.cnn.com/2020/11/21/health/us-coronavirus-saturday/index.html",
+    "source": "CNN",
+    "time": "18 mins ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Andrew Cuomo To Receive International Emmy For 'Masterful' COVID-19 \nBriefings",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/11/21/937445923/andrew-cuomo-to-receive-international-emmy-for-masterful-covid-19-briefings",
+    "source": "NPR",
+    "time": "49 mins ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "California curfew goes into effect Saturday as COVID-19 cases spike",
+    "url": "https://www.cbsnews.com/news/california-curfew-goes-into-effect-saturday-covid-19-cases-spike/",
+    "source": "CBS News",
+    "time": "12 mins ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Many western Massachusetts residents hoping to get a COVID-19 test before \nthe holidays",
+    "url": "https://www.wwlp.com/news/health/coronavirus-local-impact/many-western-massachusetts-residents-hoping-to-get-a-covid-19-test-before-the-holidays/",
+    "source": "WWLP.com",
+    "time": "48 mins ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "A traveler tested negative for covid-19 before a flight. He had the virus \nand infected 4 passengers.",
+    "url": "https://www.washingtonpost.com/travel/2020/11/20/new-zealand-flight-covid/",
+    "source": "Washington Post",
+    "time": "16 hours ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "COVID-19: Long Island Reports 805 New Cases; Here's Brand-New Breakdown By \nLocation",
+    "url": "https://dailyvoice.com/new-york/nassau/news/covid-19-long-island-reports-805-new-cases-heres-brand-new-breakdown-by-location/798334/",
+    "source": "Daily Voice",
+    "time": "17 hours ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Don Trump Jr. tests positive for COVID-19",
+    "url": "https://www.foxnews.com/politics/don-trump-jr-tests-positive-for-covid-19",
+    "source": "Fox News",
+    "time": "15 hours ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "A $10 Covid-19 Test? Walmart Heirs Back Startup Developing At-Home Tests",
+    "url": "https://www.wsj.com/articles/a-10-covid-19-test-walmart-heirs-back-startup-developing-at-home-tests-11605912181",
+    "source": "Wall Street Journal",
+    "time": "14 hours ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

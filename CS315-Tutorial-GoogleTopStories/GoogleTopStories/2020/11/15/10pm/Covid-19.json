@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/11/15/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "19 mins ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The best way to make masks work against Covid-19",
+    "url": "https://www.cnn.com/2020/11/15/opinions/covid-19-face-masks-wearing-blumenthal-stark/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Vikings' Dru Samia tests positive for COVID-19 before trip to Chicago",
+    "url": "https://www.startribune.com/vikings-samia-tests-positive-for-covid-19-before-trip-to-chicago/573083461/",
+    "source": "Minneapolis Star Tribune",
+    "time": "14 mins ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "Businesses working to keep customers safe during latest rise in COVID-19 \ncases",
+    "url": "https://news4sanantonio.com/news/local/businesses-working-to-keep-customers-safe-during-latest-rise-in-covid-19-cases",
+    "source": "WOAI",
+    "time": "12 mins ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "news4sanantonio.com"
+  },
+  {
+    "title": "San Diego County reports record 1,087 New COVID-19 cases",
+    "url": "https://www.sandiegouniontribune.com/news/health/story/2020-11-15/san-diego-county-reports-record-1-087-new-covid-19-cases",
+    "source": "The San Diego Union-Tribune",
+    "time": "23 mins ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.sandiegouniontribune.com"
+  },
+  {
+    "title": "Trump coronavirus adviser Scott Atlas urges Michigan to 'rise up' against \nnew Covid-19 measures",
+    "url": "https://www.cnn.com/2020/11/15/politics/scott-atlas-coronavirus-michigan/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Elon Musk sidelined from historic SpaceX launch by COVID-19",
+    "url": "https://www.foxnews.com/science/elon-musk-sidelined-spacex-launch-covid-19",
+    "source": "Fox News",
+    "time": "2 hours ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Pfizer-BioNTech vaccine creator says life could return to 'normal' next \nwinter",
+    "url": "https://nypost.com/2020/11/15/covid-19-vaccine-creator-life-could-return-to-normal-next-winter/",
+    "source": "New York Post",
+    "time": "6 hours ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "As Covid-19 Surges, the Big Unknown Is Where People Are Getting Infected",
+    "url": "https://www.wsj.com/articles/as-covid-19-surges-the-big-unknown-is-where-people-are-getting-infected-11605474874",
+    "source": "Wall Street Journal",
+    "time": "6 hours ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Gov. Inslee orders sweeping restrictions on indoor gatherings, restaurants, \nbars, gyms as COVID-19 cases surge in Washington state",
+    "url": "https://www.seattletimes.com/seattle-news/health/gov-inslee-orders-sweeping-restrictions-on-indoor-gatherings-restaurants-bars-gyms-as-covid-19-cases-surge-in-washington-state/",
+    "source": "Seattle Times",
+    "time": "8 hours ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.seattletimes.com"
+  }
+]

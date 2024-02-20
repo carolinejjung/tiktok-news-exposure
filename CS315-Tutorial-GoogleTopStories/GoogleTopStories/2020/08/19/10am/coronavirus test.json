@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Why Pooled Testing for the Coronavirus Isn't Working",
+    "url": "https://www.nytimes.com/2020/08/18/health/coronavirus-pool-testing.html",
+    "source": "The New York Times",
+    "time": "19 hours ago",
+    "date": "2020-08-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus saliva tests could be cheaper and faster. Here\u2019s how they work.",
+    "url": "https://www.washingtonpost.com/health/2020/08/19/coronavirus-saliva-test/",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2020-08-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "London's Heathrow Airport unveils new coronavirus testing facility that \ncould reduce quarantine time",
+    "url": "https://www.usatoday.com/story/travel/airline-news/2020/08/19/coronavirus-testing-facility-opens-london-heathrow-airport/3399241001/",
+    "source": "USA TODAY",
+    "time": "40 mins ago",
+    "date": "2020-08-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "8 mins ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-12-18-20/index.html",
+    "source": "CNN.com",
+    "time": "12 mins ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Baker speaks on coronavirus response in Massachusetts",
+    "url": "https://turnto10.com/news/local/baker-speaks-on-coronavirus-response-in-massachusetts",
+    "source": "WJAR",
+    "time": "9 mins ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "French President Macron at retreat to ride out coronavirus diagnosis | \nTheHill",
+    "url": "https://thehill.com/homenews/news/530812-french-president-macron-at-retreat-to-ride-out-coronavirus-diagnosis",
+    "source": "The Hill",
+    "time": "26 mins ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Stocks seek direction on coronavirus stimulus plan wait, Moderna vaccine \nprogress",
+    "url": "https://www.foxbusiness.com/markets/us-stocks-dec-18-2020",
+    "source": "Fox Business",
+    "time": "37 mins ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Trump fights for a job that he's not doing as coronavirus rages",
+    "url": "https://www.cnn.com/2020/12/18/politics/donald-trump-absent-covid-stimulus-vaccine/index.html",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Tested Positive For COVID Virus, But Don't Have Symptoms. What's That Mean? \n: Shots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/12/18/947407917/i-felt-fine-but-tested-positive-for-the-coronavirus-whats-that-really-mean",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Coronavirus live updates: Pence vaccinated on live TV as FDA prepares to \nauthorize Moderna shots",
+    "url": "https://www.washingtonpost.com/nation/2020/12/18/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "21 mins ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Both Republicans And Democrats Want Congress To Approve A New Coronavirus \nStimulus Package",
+    "url": "https://fivethirtyeight.com/features/both-republicans-and-democrats-want-congress-to-approve-a-new-coronavirus-stimulus-package/",
+    "source": "FiveThirtyEight",
+    "time": "4 hours ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "fivethirtyeight.com"
+  },
+  {
+    "title": "Omar says her father died of coronavirus because of Trump's 'criminal \nneglect'",
+    "url": "https://www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect",
+    "source": "Fox News",
+    "time": "14 hours ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

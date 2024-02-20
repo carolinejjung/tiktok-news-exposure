@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pennsylvania COVID-19 Vaccines",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx",
+    "source": "Governor.Pa.gov",
+    "time": "6 days ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.health.pa.gov"
+  },
+  {
+    "title": "Covid-19 Live Updates: First Case of Brazil-Based Virus Variant Found in \nU.S.",
+    "url": "https://www.nytimes.com/live/2021/01/25/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "13 mins ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid-19 masks: Which mask is best for you, and when to use it",
+    "url": "https://www.cnn.com/2021/01/25/health/covid-19-masks-which-is-best-wellness/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19 variant spurs concern about deaths, hospital capacity in \nWashington state",
+    "url": "https://komonews.com/news/coronavirus/covid-19-variant-spurs-concern-about-hospital-capacity-in-washington-state",
+    "source": "KOMO News",
+    "time": "6 mins ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Nurse at Massachusetts field hospital collecting clothes for homeless \nCOVID-19 patients",
+    "url": "https://www.wcvb.com/article/nurse-at-worcester-massachusetts-field-hospital-collecting-clothes-for-homeless-covid-19-patients/35314591",
+    "source": "WCVB Boston",
+    "time": "26 mins ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wcvb.com"
+  },
+  {
+    "title": "China says COVID-19 outbreaks will not lead to industrial shutdowns in north",
+    "url": "https://www.reuters.com/article/us-china-economy-industry/china-says-covid-19-outbreaks-will-not-lead-to-industrial-shutdowns-in-north-idUSKBN29V09T",
+    "source": "Reuters",
+    "time": "19 mins ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Tom Brady's dad reveals 'life and death' battle with Covid-19",
+    "url": "https://www.cnn.com/2021/01/25/us/tom-brady-father-covid-trnd-spt/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "US requires negative Covid-19 test to fly: What an outbreak on a flight \nfrom Dubai to New Zealand shows about\u2026",
+    "url": "https://www.vox.com/22248738/test-covid-flying-mandatory-safe-flights",
+    "source": "Vox",
+    "time": "7 hours ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.vox.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, January 25: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-january-25-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "12 hours ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "Italy\u2019s Prime Minister Conte Resigns Amid Struggle Against Covid-19 and \nRecession",
+    "url": "https://www.wsj.com/articles/italian-prime-minister-giuseppe-conte-to-resign-11611599680",
+    "source": "The Wall Street Journal",
+    "time": "6 hours ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

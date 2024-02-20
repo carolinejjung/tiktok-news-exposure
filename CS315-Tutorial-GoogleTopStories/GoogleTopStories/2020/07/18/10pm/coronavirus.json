@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/07/18/world/coronavirus-news.html",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: 19 states set single-day case records this week",
+    "url": "https://abcnews.go.com/US/coronavirus-live-updates-us-death-case-count-rise/story?id=71856236",
+    "source": "ABC News",
+    "time": "1 hour ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "MLB star Freddie Freeman prayed for his life fighting COVID-19",
+    "url": "https://www.nydailynews.com/coronavirus/ny-coronavirus-atlanta-braves-freddie-freeman-c-20200719-ga5eczkenzg2nbxdlwig4g6yay-story.html",
+    "source": "NY Daily News",
+    "time": "20 mins ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nydailynews.com"
+  },
+  {
+    "title": "World Sets Daily Record In New Coronavirus Cases",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/18/892677119/world-sets-daily-record-in-new-coronavirus-cases",
+    "source": "NPR",
+    "time": "53 mins ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Coronavirus: Ada County Idaho sets single-day case record",
+    "url": "https://www.idahostatesman.com/news/coronavirus/article244328207.html",
+    "source": "Idaho Statesman",
+    "time": "1 hour ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.idahostatesman.com"
+  },
+  {
+    "title": "85 infants under age 1 tested positive for coronavirus in one Texas county",
+    "url": "https://www.cnn.com/2020/07/18/health/texas-infants-coronavirus-trnd/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump administration pushing to block new money for testing, tracing and \nCDC in upcoming coronavirus relief bill",
+    "url": "https://www.washingtonpost.com/us-policy/2020/07/18/white-house-testing-budget-cdc-coronavirus/",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "New coronavirus cases, deaths released by DHEC",
+    "url": "https://www.wyff4.com/article/new-coronavirus-cases-deaths-released-by-dhec/33356715",
+    "source": "WYFF-TV",
+    "time": "3 hours ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wyff4.com"
+  },
+  {
+    "title": "'We really need help': Coronavirus overwhelms rural Oregon",
+    "url": "http://komonews.com/news/coronavirus/we-really-need-help-coronavirus-overwhelms-rural-oregon-07-18-2020",
+    "source": "KOMO",
+    "time": "6 hours ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "85 children under age 2 tested positive for coronavirus in 1 Texas county, \nas U.S. sets new record",
+    "url": "https://www.nbcnews.com/news/us-news/85-infants-have-tested-positive-coronavirus-1-texas-county-u-n1234293",
+    "source": "NBC News",
+    "time": "9 hours ago",
+    "date": "2020-07-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.nbcnews.com"
+  }
+]

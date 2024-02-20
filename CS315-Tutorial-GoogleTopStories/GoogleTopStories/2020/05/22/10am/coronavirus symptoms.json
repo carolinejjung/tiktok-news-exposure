@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC estimates that 35% of coronavirus patients don't have symptoms",
+    "url": "https://www.cnn.com/2020/05/22/health/cdc-coronavirus-estimates-symptoms-deaths/index.html",
+    "source": "CNN.com",
+    "time": "9 hours ago",
+    "date": "2020-05-22 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "How long can coronavirus infections last in your body?",
+    "url": "https://www.cbsnews.com/news/coronavirus-symptoms-8-positive-tests-50-days/",
+    "source": "CBS News",
+    "time": "1 day ago",
+    "date": "2020-05-22 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Treating Mild Coronavirus Cases Could Help Save Everyone",
+    "url": "https://www.nytimes.com/2020/05/22/opinion/coronavirus-treatment-mild-symptoms.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-05-22 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

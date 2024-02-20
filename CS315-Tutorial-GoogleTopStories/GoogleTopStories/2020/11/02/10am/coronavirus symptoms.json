@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Jack Nicklaus questions COVID death toll, took hydroxychloroquine to combat \nhis own virus symptoms",
+    "url": "https://www.foxnews.com/sports/jack-nicklaus-covid-death-toll-hydroxychloroquine-virus-symptoms",
+    "source": "Fox News",
+    "time": "1 day ago",
+    "date": "2020-11-02 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Long-term symptoms of COVID-19 'really concerning', says WHO chief",
+    "url": "https://news.un.org/en/story/2020/10/1076562",
+    "source": "UN News",
+    "time": "2 days ago",
+    "date": "2020-11-02 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "news.un.org"
+  },
+  {
+    "title": "A Rapid Virus Test Falters in People Without Symptoms, Study Finds",
+    "url": "https://www.nytimes.com/2020/11/02/health/coronavirus-testing-quidel-sofia.html",
+    "source": "The New York Times",
+    "time": "3 mins ago",
+    "date": "2020-11-02 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 Test Results Take Longer as Infections Rise Sharply",
+    "url": "https://www.wsj.com/articles/wait-times-grow-for-covid-19-test-results-as-infections-rise-sharply-11594287001",
+    "source": "The Wall Street Journal",
+    "time": "5 mins ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "NIH launches clinical trials network to test COVID-19 vaccines and other \nprevention tools",
+    "url": "https://www.nih.gov/news-events/news-releases/nih-launches-clinical-trials-network-test-covid-19-vaccines-other-prevention-tools",
+    "source": "NIH",
+    "time": "23 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nih.gov"
+  },
+  {
+    "title": "Gov. Roy Cooper holding COVID-19 update Thursday at 2 p.m.",
+    "url": "https://abc11.com/nc-coronavirus-updates-how-long-does-last-cases/6308523/",
+    "source": "ABC11 Raleigh-Durham",
+    "time": "3 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "abc11.com"
+  }
+]

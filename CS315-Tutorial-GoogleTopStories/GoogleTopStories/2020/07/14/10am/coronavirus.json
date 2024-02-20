@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/07/14/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "3 hours ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: California backtracks on reopening as rise in coronavirus \ncases spreads beyond Sun Belt",
+    "url": "https://www.washingtonpost.com/nation/2020/07/14/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "22 mins ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Pandemic Hits Big US Banks; JPMorgan Chase CEO Sees 'Much Uncertainty' : \nCoronavirus Live Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/14/890742543/we-still-face-much-uncertainty-pandemic-hammers-big-banks",
+    "source": "NPR",
+    "time": "52 mins ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "43 new coronavirus cases have been linked to one large house party in \nMichigan",
+    "url": "https://www.cnn.com/2020/07/14/us/michigan-party-coronavirus-cases/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Stocks slip as coronavirus, lockdowns hammer earnings",
+    "url": "https://www.foxbusiness.com/markets/us-stocks-july-14-2020",
+    "source": "Fox Business",
+    "time": "1 hour ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Qantas is set to cancel nearly all its international flights until March \n2021 as pandemic batters air travel",
+    "url": "https://www.cnbc.com/2020/07/14/coronavirus-qantas-to-cut-nearly-all-international-flights-till-march-2021.html",
+    "source": "CNBC.com",
+    "time": "1 hour ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Coronavirus cases soar by more than 1 million over 5 days",
+    "url": "https://www.cnn.com/2020/07/14/world/million-coronavirus-cases-five-days-intl/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Here's Why Inovio Is The Front-Runner In Developing a Coronavirus Vaccine",
+    "url": "https://www.fool.com/investing/2020/07/14/heres-why-inovio-is-the-front-runner-in-developing.aspx",
+    "source": "The Motley Fool",
+    "time": "2 hours ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.fool.com"
+  },
+  {
+    "title": "Coronavirus updates: Doctor compares Miami to Wuhan as epicenter of \nCOVID-19 pandemic",
+    "url": "https://abcnews.go.com/US/coronavirus-updates-miami-now-epicenter-covid-19-pandemic/story?id=71768743",
+    "source": "ABC News",
+    "time": "3 hours ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Coronavirus: California reimposes sweeping restrictions amid virus spike",
+    "url": "https://www.bbc.com/news/world-us-canada-53399080",
+    "source": "BBC",
+    "time": "8 hours ago",
+    "date": "2020-07-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bbc.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/15/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "18 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: California prepares for onslaught of covid-19 \ndeaths as second vaccine nears approval",
+    "url": "https://www.washingtonpost.com/nation/2020/12/15/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "44 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Tom Cruise yells at 'Mission: Impossible' crew members for breaking \nCOVID-19 guidelines",
+    "url": "https://www.foxnews.com/entertainment/tom-cruise-yells-at-mission-impossible-crew-members-for-breaking-covid-19-guidelines",
+    "source": "Fox News",
+    "time": "19 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "COVID-19 Vaccine Arrives at Yale New Haven Hospital",
+    "url": "https://www.nbcconnecticut.com/news/local/covid-19-vaccine-arrives-at-yale-new-haven-hospital/2384819/",
+    "source": "NBC Connecticut",
+    "time": "8 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Snowstorm may impact long-anticipated COVID-19 vaccine delivery",
+    "url": "https://www.wwlp.com/news/top-stories/snowstorm-may-impact-long-anticipated-covid-19-vaccine-delivery/",
+    "source": "WWLP.com",
+    "time": "36 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "Lawmakers in 11th-hour negotiations on COVID-19 relief",
+    "url": "https://abcnews.go.com/Politics/lawmakers-11th-hour-negotiations-covid-19-relief/story?id=74741978",
+    "source": "ABC News",
+    "time": "3 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "California activates 'mass fatality' program over rising Covid-19 \ninfections, buys more body bags",
+    "url": "https://www.cnn.com/2020/12/15/us/california-mass-fatality-program-activated/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Long-term Covid-19 effects: The many strange symptoms, explained",
+    "url": "https://www.vox.com/22166236/long-term-side-effects-covid-19-symptoms-heart-fatigue",
+    "source": "Vox",
+    "time": "5 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.vox.com"
+  },
+  {
+    "title": "COVID-19 vaccine trials report cases of brief facial paralysis. That's not \nas scary as it sounds.",
+    "url": "https://www.usatoday.com/story/news/health/2020/12/15/pfizer-moderna-covid-vaccine-trials-and-bells-palsy-what-it/3904994001/",
+    "source": "USA TODAY",
+    "time": "6 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Biden, Pence Prepare To Get COVID-19 Vaccine : Biden Transition Updates",
+    "url": "https://www.npr.org/sections/biden-transition-updates/2020/12/15/946791939/biden-pence-make-preparations-to-get-covid-19-vaccine",
+    "source": "NPR",
+    "time": "6 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

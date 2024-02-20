@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News Updates: Brazil, Trump, Britain",
+    "url": "https://www.nytimes.com/2020/05/24/world/coronavirus-news-update.html",
+    "source": "The New York Times",
+    "time": "17 mins ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus pandemic updates from around the globe",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-24-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: Chile's president says healthcare system 'very close to the \nlimit'",
+    "url": "https://www.bbc.com/news/world-latin-america-52793940",
+    "source": "BBC.com",
+    "time": "27 mins ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "How start-ups can find opportunities during the coronavirus crisis",
+    "url": "https://www.cnbc.com/2020/05/25/startup-outlook-sequoia-india-lightspeed.html",
+    "source": "CNBC.com",
+    "time": "30 mins ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "White House bars entry of non-US citizens traveling from Brazil, citing \ncoronavirus concerns",
+    "url": "https://www.foxnews.com/politics/white-house-bars-entry-of-non-us-citizens-traveling-from-brazil-citing-coronavirus-concerns",
+    "source": "Fox News",
+    "time": "35 mins ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Trump administration vows in new report to distribute 100 million swabs to \nstates by year\u2019s end",
+    "url": "https://www.washingtonpost.com/health/trump-administration-vows-in-new-report-to-distribute-100-million-swabs-to-states-by-years-end/2020/05/24/9c02d240-9d06-11ea-ac72-3841fcc9b35f_story.html",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Second stylist at same Missouri hair salon tests positive, nearly 140 \nexposed to coronavirus",
+    "url": "https://www.nbcnews.com/news/us-news/second-stylist-same-missouri-hair-salon-tests-positive-nearly-140-n1214036",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Gov. Cuomo says NY coronavirus hospitalizations, death toll have increased",
+    "url": "https://nypost.com/2020/05/24/cuomo-says-ny-coronavirus-hospitalizations-death-toll-have-increased/",
+    "source": "New York Post",
+    "time": "7 hours ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus stimulus check: Qualifications, prepaid debit card, payment \nstatus, more",
+    "url": "https://www.cnet.com/personal-finance/coronavirus-stimulus-check-qualifications-prepaid-debit-card-payment-status-more/",
+    "source": "CNET.com",
+    "time": "9 hours ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnet.com"
+  },
+  {
+    "title": "Desperate rats are brazenly searching for food during the coronavirus \npandemic, CDC warns",
+    "url": "https://www.usatoday.com/story/news/health/2020/05/24/coronavirus-cdc-warns-rats-aggressively-searching-food/5252522002/",
+    "source": "USA Today",
+    "time": "9 hours ago",
+    "date": "2020-05-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

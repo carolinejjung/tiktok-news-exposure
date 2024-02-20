@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/11/30/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "17 mins ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Moderna to apply today for FDA authorization for its Covid-19 vaccine",
+    "url": "https://www.cnn.com/2020/11/30/health/moderna-vaccine-fda-eua-application/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Up to 30% of Americans may be infected with coronavirus by year-end, Dr. \nScott Gottlieb says",
+    "url": "https://www.cnbc.com/2020/11/30/dr-scott-gottlieb-30percent-of-us-may-get-covid-19-by-year-end.html",
+    "source": "CNBC",
+    "time": "39 mins ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "New Orleans nurses return favor to Kansas City nurses who helped them \nduring COVID-19 surge",
+    "url": "https://www.cbsnews.com/news/covid-19-nurses-new-orleans-kansas-city/",
+    "source": "CBS News",
+    "time": "27 mins ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "WATCH LIVE: City of Springfield weekly COVID-19 update",
+    "url": "https://www.wwlp.com/news/local-news/hampden-county/watch-live-city-of-springfield-weekly-covid-19-update/",
+    "source": "WWLP.com",
+    "time": "27 mins ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "What changes after covid-19? I\u2019m betting on everything.",
+    "url": "https://www.washingtonpost.com/opinions/2020/11/29/what-changes-after-covid-19-im-betting-everything/",
+    "source": "Washington Post",
+    "time": "15 hours ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "'Absolutely remarkable': No one who got Moderna's vaccine in trial \ndeveloped severe COVID-19",
+    "url": "https://www.sciencemag.org/news/2020/11/absolutely-remarkable-no-one-who-got-modernas-vaccine-trial-developed-severe-covid-19",
+    "source": "Science Magazine",
+    "time": "3 hours ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.sciencemag.org"
+  },
+  {
+    "title": "COVID-19 impact from Thanksgiving travel and gatherings could be \n'precursor' for upcoming holidays",
+    "url": "https://www.bostonglobe.com/2020/11/29/metro/covid-19-impact-thanksgiving-travel-gatherings-could-be-precursor-upcoming-holidays/",
+    "source": "The Boston Globe",
+    "time": "19 hours ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "England's COVID-19 infections down 30% during national lockdown - survey",
+    "url": "https://www.reuters.com/article/health-coronavirus-britain-study/englands-covid-19-infections-down-30-during-national-lockdown-survey-idUSL1N2IF0CP",
+    "source": "Reuters",
+    "time": "15 hours ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "This antidepressant may keep COVID-19 patients out of hospital",
+    "url": "https://www.startribune.com/this-antidepressant-may-keep-covid-19-patients-out-of-hospital/573230301/",
+    "source": "Minneapolis Star Tribune",
+    "time": "14 hours ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.startribune.com"
+  }
+]

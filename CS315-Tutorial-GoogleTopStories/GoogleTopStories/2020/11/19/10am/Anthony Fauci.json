@@ -1,0 +1,32 @@
+[
+  {
+    "title": "F.D.A. Authorizes the First At-Home Coronavirus Test",
+    "url": "https://www.nytimes.com/live/2020/11/17/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "15 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'Compromised position': Dr. Anthony Fauci on why he thinks he hasn't heard \nfrom Joe Biden's team",
+    "url": "https://www.usatoday.com/story/news/politics/2020/11/18/anthony-fauci-why-he-thinks-he-hasnt-heard-joe-bidens-team/6340666002/",
+    "source": "USA TODAY",
+    "time": "18 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Take It From an Expert: Fauci\u2019s Hierarchy of Safety During COVID",
+    "url": "https://khn.org/news/qa-interview-dr-anthony-fauci-advice-on-hierarchy-of-safety-during-covid-pandemic/",
+    "source": "Kaiser Health News",
+    "time": "2 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "khn.org"
+  }
+]

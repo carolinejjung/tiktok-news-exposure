@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Sewage testing shows a country flush with coronavirus cases",
+    "url": "https://www.cnn.com/2020/10/28/health/covid-sewage-testing-spike/index.html",
+    "source": "CNN",
+    "time": "2 days ago",
+    "date": "2020-10-31 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Mayor Asks Everyone in Boston to Get a COVID Test Amid Steady Rise in Cases",
+    "url": "https://www.nbcboston.com/news/coronavirus/boston-mayor-walsh-to-provide-coronavirus-update-6/2220310/",
+    "source": "NBC10 Boston",
+    "time": "1 day ago",
+    "date": "2020-10-31 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nbcboston.com"
+  },
+  {
+    "title": "Broncos, Vikings have positive coronavirus tests; NFL planning to play all \ngames this weekend",
+    "url": "https://www.washingtonpost.com/sports/2020/10/30/broncos-vikings-players-covid/",
+    "source": "Washington Post",
+    "time": "16 hours ago",
+    "date": "2020-10-31 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

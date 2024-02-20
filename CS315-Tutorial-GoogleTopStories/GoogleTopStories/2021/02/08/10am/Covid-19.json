@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/02/08/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "27 mins ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-02-08-21/index.html",
+    "source": "CNN",
+    "time": "51 mins ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Health officials concerned after maskless Super Bowl celebrations; Florida \nreaches 200 variant cases: Latest COVID-19 updates",
+    "url": "https://www.usatoday.com/story/news/health/2021/02/08/covid-news-astrazeneca-vaccine-south-africa-variant-chicago-schools-coronavirus/4429498001/",
+    "source": "USA TODAY",
+    "time": "48 mins ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Seniors are having trouble getting Covid-19 vaccines. These cousins set up \na system to help",
+    "url": "https://www.cnn.com/2021/02/08/us/covid-vaccine-senior-appointments-cousins-trnd/index.html",
+    "source": "CNN",
+    "time": "49 mins ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Multiple cases of COVID-19 variant identified in Calhoun County",
+    "url": "https://wwmt.com/news/local/multiple-cases-of-covid-19-variant-identified-in-calhoun-county",
+    "source": "WWMT-TV",
+    "time": "14 mins ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "wwmt.com"
+  },
+  {
+    "title": "After Parents And Grandparents Get The COVID-19 Vaccine, Is It Safe To Go \nVisit? : Shots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2021/02/08/964633908/my-mother-got-vaccinated-is-it-now-safe-to-go-visit",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "State remains at risk for COVID-19, despite downturn in cases",
+    "url": "https://www.bostonglobe.com/2021/02/08/metro/state-remains-risk-covid-19-despite-downturn-cases/",
+    "source": "The Boston Globe",
+    "time": "14 hours ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Super Bowl sparks concerns that it could be a COVID-19 super spreader - \nBusiness Insider",
+    "url": "https://www.businessinsider.com/super-bowl-sparks-concerns-could-be-covid-19-super-spreader-2021-2",
+    "source": "Business Insider",
+    "time": "9 hours ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "4th grade girl dies 3 days after positive COVID-19 test",
+    "url": "https://www.today.com/health/4th-grade-girl-dies-3-days-after-positive-covid-19-t208298",
+    "source": "Today.com",
+    "time": "16 hours ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.today.com"
+  },
+  {
+    "title": "Millinocket's library is leading the Katahdin region's response to COVID-19",
+    "url": "https://bangordailynews.com/2021/02/08/news/penobscot/millinockets-library-is-leading-the-katahdin-regions-response-to-covid-19/",
+    "source": "Bangor Daily News",
+    "time": "9 hours ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "bangordailynews.com"
+  }
+]

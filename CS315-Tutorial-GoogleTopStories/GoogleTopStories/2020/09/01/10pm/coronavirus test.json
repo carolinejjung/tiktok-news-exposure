@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/01/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "4 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Florida Cuts Ties With Large Coronavirus Testing Lab, Citing 75000 Delayed \nResults",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/01/908439419/florida-cuts-ties-with-large-coronavirus-testing-lab-citing-75-000-delayed-resul",
+    "source": "NPR",
+    "time": "4 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Cole County: 6 nursing home deaths, 57 residents and 39 staff test positive \nfor COVID-19",
+    "url": "http://krcgtv.com/news/local/cole-county-6-deaths-at-nursing-home-57-residents-test-positive-for-covid-19",
+    "source": "krcgtv.com",
+    "time": "15 mins ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "krcgtv.com"
+  }
+]

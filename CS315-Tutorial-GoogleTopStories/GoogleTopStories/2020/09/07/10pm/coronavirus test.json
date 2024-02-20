@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Your Coronavirus Test Is Positive. Maybe It Shouldn't Be.",
+    "url": "https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "1 week ago",
+    "date": "2020-09-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Furman University releases results of Friday's mandatory student COVID-19 \ntesting",
+    "url": "https://www.wyff4.com/article/furman-university-releases-results-of-fridays-mandatory-student-coronavirus-testing/33943377",
+    "source": "WYFF Greenville",
+    "time": "8 hours ago",
+    "date": "2020-09-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.wyff4.com"
+  },
+  {
+    "title": "5 additional cases of coronavirus in Pahrump, health officials announce \nmore testing",
+    "url": "http://news3lv.com/news/local/5-additional-cases-of-coronavirus-in-pahrump-health-officials-announce-more-testing",
+    "source": "News3LV",
+    "time": "14 mins ago",
+    "date": "2020-09-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "news3lv.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Texas reports massive surge in COVID-19 cases in single day",
+    "url": "https://www.houstonchronicle.com/news/houston-texas/texas/article/Massive-jump-in-Texas-COVID-19-cases-15275484.php",
+    "source": "Houston Chronicle",
+    "time": "1 day ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.houstonchronicle.com"
+  },
+  {
+    "title": "A person who was Covid-19 positive attended a church service and exposed \n180 people, officials say",
+    "url": "https://www.cnn.com/2020/05/17/us/covid-19-mothers-day-church-exposure/index.html",
+    "source": "CNN.com",
+    "time": "11 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Moderna Says Initial Covid-19 Vaccine Results Are Positive",
+    "url": "https://www.wsj.com/articles/moderna-says-initial-covid-19-vaccine-results-are-positive-11589805115",
+    "source": "The Wall Street Journal",
+    "time": "20 mins ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Moderna Coronavirus Vaccine Shows Positive Results In Early Human Tests. \nWhat Comes Next.",
+    "url": "https://www.barrons.com/articles/moderna-coronavirus-vaccine-shows-postive-results-in-early-human-tests-what-comes-next-51589801723",
+    "source": "Barron's",
+    "time": "58 mins ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.barrons.com"
+  },
+  {
+    "title": "COVID-19 has shown U.S., U.K. are vulnerable to biological terrorism, \nexperts say",
+    "url": "https://www.nbcnews.com/politics/national-security/experts-covid-19-has-shown-u-s-u-k-are-n1207776",
+    "source": "NBC News",
+    "time": "1 hour ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "USC only holding online classes after Thanksgiving because of COVID-19 \nconcerns",
+    "url": "https://www.thestate.com/news/local/education/article242807331.html",
+    "source": "The State",
+    "time": "2 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.thestate.com"
+  },
+  {
+    "title": "Critics say Trump, Congress fumbling economic response to COVID-19 | TheHill",
+    "url": "https://thehill.com/homenews/house/498224-critics-say-trump-congress-fumbling-economic-response-to-covid-19",
+    "source": "TheHill",
+    "time": "4 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Latest on COVID-19 in MN: New 'stay safe' order takes effect",
+    "url": "https://www.mprnews.org/story/2020/05/18/latest-on-covid19-in-mn",
+    "source": "MPR News",
+    "time": "4 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.mprnews.org"
+  },
+  {
+    "title": "China has been trying to avoid fallout from coronavirus. Now 100 countries \nare pushing for an investigation",
+    "url": "https://www.cnn.com/2020/05/18/asia/china-world-health-assembly-investigation-intl-hnk/index.html",
+    "source": "CNN.com",
+    "time": "6 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "State House: COVID-19 update in Massachusetts",
+    "url": "https://www.wwlp.com/news/state-politics/state-house-covid-19-update-in-massachusetts-2/",
+    "source": "WWLP",
+    "time": "14 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wwlp.com"
+  }
+]

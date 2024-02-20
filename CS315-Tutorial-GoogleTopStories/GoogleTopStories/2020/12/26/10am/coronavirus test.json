@@ -1,0 +1,32 @@
+[
+  {
+    "title": "US requires negative coronavirus test from UK travelers",
+    "url": "https://www.theverge.com/2020/12/25/22199682/covid-test-uk-travelers-us-cdc-virus-mutation",
+    "source": "The Verge",
+    "time": "1 day ago",
+    "date": "2020-12-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.theverge.com"
+  },
+  {
+    "title": "U.S. to require negative coronavirus test from travelers from the U.K.",
+    "url": "https://www.axios.com/us-negative-coronavirus-test-travelers-uk-bc294bc1-42fb-4fdc-a807-5d380af113da.html",
+    "source": "Axios",
+    "time": "23 hours ago",
+    "date": "2020-12-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "The CDC\u2019s failed race against covid-19: A threat underestimated and a test \novercomplicated",
+    "url": "https://www.washingtonpost.com/investigations/cdc-covid/2020/12/25/c2b418ae-4206-11eb-8db8-395dedaaa036_story.html",
+    "source": "Washington Post",
+    "time": "2 hours ago",
+    "date": "2020-12-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

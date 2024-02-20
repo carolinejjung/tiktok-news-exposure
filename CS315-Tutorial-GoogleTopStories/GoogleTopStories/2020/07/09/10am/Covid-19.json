@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Sweden Has Become the World\u2019s Cautionary Tale",
+    "url": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Tulsa sees Covid-19 surge in the wake of Trump's June rally",
+    "url": "https://www.cnn.com/2020/07/08/us/tulsa-covid-trump-rally-contact-tracers-trnd/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus updates: CDC won't revise guidelines for opening schools; \ndeaths surge in California, Texas; Trump again blames testing",
+    "url": "https://www.usatoday.com/story/news/health/2020/07/09/covid-19-houston-gop-convention-atlanta-masks-california-deaths/5400342002/",
+    "source": "USATODAY.com",
+    "time": "56 mins ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Why Is the COVID-19 Death Rate Down?",
+    "url": "https://www.theatlantic.com/ideas/archive/2020/07/why-covid-death-rate-down/613945/",
+    "source": "The Atlantic",
+    "time": "1 hour ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.theatlantic.com"
+  },
+  {
+    "title": "More people could die from COVID-19-related hunger than the disease itself, \nOxfam warns",
+    "url": "https://www.foxnews.com/science/more-people-could-die-covid-19-related-hunger-than-disease-itself",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "States that raced to reopen let businesses write their own rules, documents \nshow",
+    "url": "https://www.washingtonpost.com/health/states-that-raced-to-reopen-let-businesses-write-their-own-rules-documents-show/2020/07/09/732064aa-bb06-11ea-bdaf-a129f921026f_story.html",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Moderna signs on for another COVID-19 vaccine manufacturing deal",
+    "url": "https://www.marketwatch.com/story/moderna-signs-on-for-another-covid-19-vaccine-manufacturing-deal-2020-07-09",
+    "source": "MarketWatch",
+    "time": "1 hour ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Biden Looks to Curb Covid-19 Economic Damage With \u2018Buy American\u2019 Plan",
+    "url": "https://www.wsj.com/articles/biden-looks-to-curb-covid-19-economic-damage-with-buy-american-plan-11594287005",
+    "source": "The Wall Street Journal",
+    "time": "4 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Disaster Recovery Workers Confront COVID-19",
+    "url": "https://www.npr.org/2020/07/09/888962560/we-were-treated-worse-than-animals-disaster-recovery-workers-confront-covid-19",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "COVID-19 outbreaks reported at restaurants, childcare centers and a camp in \nColorado",
+    "url": "https://www.9news.com/article/news/health/coronavirus/covid-19-outbreaks-reported-at-restaurants-camps-childcare-centers-in-colorado/73-23ff1e8e-1cea-432d-9c77-a11b562e7191",
+    "source": "9News",
+    "time": "9 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.9news.com"
+  }
+]

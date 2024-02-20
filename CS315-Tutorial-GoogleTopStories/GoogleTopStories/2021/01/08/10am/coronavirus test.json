@@ -1,0 +1,32 @@
+[
+  {
+    "title": "One 18-Hour Flight, Four Coronavirus Infections",
+    "url": "https://www.nytimes.com/2021/01/07/health/coronavirus-airline-passengers-outbreak.html",
+    "source": "The New York Times",
+    "time": "16 hours ago",
+    "date": "2021-01-08 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "HHS working to replace potentially faulty Covid tests used by Congress",
+    "url": "https://www.politico.com/news/2021/01/07/giroir-hhs-congress-coronavirus-tests-456054",
+    "source": "Politico",
+    "time": "18 hours ago",
+    "date": "2021-01-08 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Live Updates: Latest News on Coronavirus and Higher Education - 3 hours ago",
+    "url": "https://www.insidehighered.com/news/2021/01/08/live-updates-latest-news-coronavirus-and-higher-education",
+    "source": "Inside Higher Ed",
+    "time": "7 mins ago",
+    "date": "2021-01-08 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.insidehighered.com"
+  }
+]

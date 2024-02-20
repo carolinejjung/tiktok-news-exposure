@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Albany International Airport announces new coronavirus testing for \nemployees and passengers",
+    "url": "https://www.news10.com/news/important-announcement-at-albany-international-airport/",
+    "source": "NEWS10 ABC",
+    "time": "2 days ago",
+    "date": "2020-12-08 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.news10.com"
+  },
+  {
+    "title": "UConn engineering professor developing low-cost, rapid coronavirus test",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-uconn-researcher-rapid-test-20201207-36oics2ht5fulnizqbrxsf4rk4-story.html",
+    "source": "Hartford Courant",
+    "time": "20 hours ago",
+    "date": "2020-12-08 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.courant.com"
+  },
+  {
+    "title": "Utah's alarmingly high coronavirus positive rate goes up again",
+    "url": "https://sltrib.com/news/2020/12/07/record-high-percentage/",
+    "source": "Salt Lake Tribune",
+    "time": "15 hours ago",
+    "date": "2020-12-08 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "sltrib.com"
+  }
+]

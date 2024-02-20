@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News",
+    "url": "https://www.nytimes.com/2020/06/12/world/coronavirus-us-usa-updates.html",
+    "source": "The New York Times",
+    "time": "33 mins ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: As coronavirus cases spike, Fauci warns Trump rally attendees \nthat large gatherings are \u2018risky\u2019",
+    "url": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "24 mins ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Brazil reports most coronavirus deaths outside of U.S.",
+    "url": "https://www.axios.com/coronavirus-brazil-most-cases-5fff3abf-f4ca-42b4-ad21-fa155385dc5f.html",
+    "source": "Axios",
+    "time": "17 mins ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "WHO: No 'live' coronavirus found in breast milk, recommends breastfeeding, \nreport says",
+    "url": "https://www.foxnews.com/health/who-no-live-coronavirus-breast-milk",
+    "source": "Fox News",
+    "time": "32 mins ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "A person got the coronavirus at Utah's police protests, health officials say",
+    "url": "https://www.sltrib.com/news/2020/06/12/person-got-coronavirus/",
+    "source": "Salt Lake Tribune",
+    "time": "43 mins ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.sltrib.com"
+  },
+  {
+    "title": "Mutation could make coronavirus more infectious, study suggests",
+    "url": "https://www.cnn.com/2020/06/12/health/coronavirus-mutations-scripps-gene/index.html",
+    "source": "CNN.com",
+    "time": "45 mins ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Player and MLB pitching coach tested positive for coronavirus",
+    "url": "https://nypost.com/2020/06/12/player-and-mlb-pitching-coach-tested-positive-for-coronavirus/",
+    "source": "New York Post",
+    "time": "1 hour ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus updates: Alameda County sets date for outdoor dining; state can \nmove deeper into Stage 3",
+    "url": "https://www.sfgate.com/bayarea/article/Coronavirus-updates-what-s-opening-in-Bay-Area-15335919.php",
+    "source": "SFGate",
+    "time": "2 hours ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.sfgate.com"
+  },
+  {
+    "title": "Seattle coronavirus survivor gets a $1.1 million, 181-page hospital bill",
+    "url": "https://www.seattletimes.com/seattle-news/inspiring-story-of-seattle-mans-coronavirus-survival-comes-with-a-1-1-million-dollar-hospital-bill/",
+    "source": "The Seattle Times",
+    "time": "2 hours ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "Massachusetts is out of the coronavirus surge. But now officials have a \ndifferent health care concern.",
+    "url": "https://www.boston.com/news/coronavirus/2020/06/12/massachusetts-surge-hospitals-elective-care",
+    "source": "Boston.com",
+    "time": "2 hours ago",
+    "date": "2020-06-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.boston.com"
+  }
+]

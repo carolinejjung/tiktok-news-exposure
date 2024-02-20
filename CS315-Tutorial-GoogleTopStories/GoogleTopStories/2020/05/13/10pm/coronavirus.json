@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live: World News Coverage",
+    "url": "https://www.nytimes.com/2020/05/13/world/coronavirus-world-news-updates.html",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Wisconsin Supreme Court strikes down governor\u2019s coronavirus \nstay-at-home order",
+    "url": "https://www.washingtonpost.com/nation/2020/05/13/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "8 mins ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus: Once-unified Bay Area fractures on loosening lockdowns",
+    "url": "https://www.mercurynews.com/coronavirus-once-unified-bay-area-fractures-on-loosening-lockdowns",
+    "source": "The Mercury News",
+    "time": "39 mins ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.mercurynews.com"
+  },
+  {
+    "title": "'Superbugs' are a hidden danger in the fight against coronavirus, says \nformer CDC director",
+    "url": "https://www.cnbc.com/2020/05/14/superbugs-are-hidden-danger-in-coronavirus-fight-ex-cdc-director.html",
+    "source": "CNBC.com",
+    "time": "47 mins ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "L.A. Coronavirus Update: Mayor Eric Garcetti Says, \u201cI Don\u2019t Want To Turn \nLos Angeles Into Some Sort Of Police State\u201d",
+    "url": "https://deadline.com/2020/05/l-a-coronavirus-update-mayor-eric-garcetti-says-i-dont-want-to-turn-los-angeles-into-some-sort-of-police-state-1202934246/",
+    "source": "Deadline",
+    "time": "1 hour ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "deadline.com"
+  },
+  {
+    "title": "Trump says Fauci's warnings about reopening amid coronavirus crisis are not \n'acceptable'",
+    "url": "https://www.cnbc.com/2020/05/13/coronavirus-trump-says-faucis-warnings-about-reopening-are-not-acceptable.html",
+    "source": "CNBC.com",
+    "time": "4 hours ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "N.J. to reopen nonessential stores for curbside pickup, allow construction \nas coronavirus outbreak slows",
+    "url": "https://www.nj.com/coronavirus/2020/05/nj-to-reopen-nonessential-stores-for-curbside-pickup-allowing-construction-to-resume.html",
+    "source": "NJ.com",
+    "time": "5 hours ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "Massachusetts Releases The Latest Town-By-Town Coronavirus Numbers",
+    "url": "https://boston.cbslocal.com/2020/05/13/coronavirus-cases-massachusetts-town-city-numbers/",
+    "source": "CBS Boston - CBS Local",
+    "time": "5 hours ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "boston.cbslocal.com"
+  },
+  {
+    "title": "Guess which governor's coronavirus response is the least popular",
+    "url": "https://www.cnn.com/2020/05/13/politics/brian-kemp-coronavirus-georgia-poll/index.html",
+    "source": "CNN.com",
+    "time": "6 hours ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Will we get another IRS stimulus check? What we know about a proposed \nsecond round",
+    "url": "https://www.cnet.com/personal-finance/will-we-get-another-irs-stimulus-check-what-we-know-about-a-proposed-second-round/",
+    "source": "Cnet",
+    "time": "8 hours ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnet.com"
+  }
+]

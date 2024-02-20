@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Updates: The Latest Globally",
+    "url": "https://www.nytimes.com/live/2020/10/19/world/covid-coronavirus",
+    "source": "The New York Times",
+    "time": "50 mins ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "A Woman In Her Thirties Died Of COVID-19 On A Plane",
+    "url": "https://www.buzzfeednews.com/article/tasneemnashrulla/texas-woman-died-of-covid-19-on-a-plane",
+    "source": "BuzzFeed News",
+    "time": "7 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.buzzfeednews.com"
+  },
+  {
+    "title": "COVID outbreak infects every resident of Kansas nursing home",
+    "url": "https://www.1011now.com/2020/10/20/kansas-nursing-home-sees-covid-19-infect-all-62-residents-2/",
+    "source": "1011now",
+    "time": "38 mins ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.1011now.com"
+  },
+  {
+    "title": "Coliseum announce future plans for events with adjustments for COVID-19",
+    "url": "https://www.wane.com/news/local-news/coliseum-announce-future-plans-for-events-with-adjustments-for-covid-19/",
+    "source": "WANE",
+    "time": "37 mins ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wane.com"
+  },
+  {
+    "title": "Coronavirus: Texas woman in her 30s died of COVID-19 while on domestic \nflight",
+    "url": "https://www.whio.com/news/trending/coronavirus-texas-woman-her-30s-died-covid-19-while-domestic-flight/FMJ24H67EZHGVOC3RYVQHY5OIM/",
+    "source": "WHIO Radio",
+    "time": "31 mins ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.whio.com"
+  },
+  {
+    "title": "Gov. Cuomo Says He Will Redraw Lines In Some NYC COVID-19 Hot Zones",
+    "url": "https://newyork.cbslocal.com/2020/10/19/gov-cuomo-says-he-will-redraw-lines-in-some-nyc-covid-19-hot-zones/",
+    "source": "CBS New York",
+    "time": "2 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "newyork.cbslocal.com"
+  },
+  {
+    "title": "Trump on Twitter piles on Anthony Fauci over first pitch, COVID-19 response",
+    "url": "https://nypost.com/2020/10/19/trump-piles-on-fauci-over-first-pitch-and-covid-19-response/",
+    "source": "New York Post",
+    "time": "6 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Conn. to Adjust Travel Advisory Metrics, States on List Will Decrease: \nGovernor",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/gov-lamont-to-provide-update-on-covid-19-cases-monday-afternoon/2347731/",
+    "source": "NBC Connecticut",
+    "time": "5 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "What A Summer Of COVID-19 Taught Scientists About Indoor vs. Outdoor \nTransmission",
+    "url": "https://fivethirtyeight.com/features/what-a-summer-of-covid-19-taught-scientists-about-indoor-vs-outdoor-transmission/",
+    "source": "FiveThirtyEight",
+    "time": "10 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "fivethirtyeight.com"
+  },
+  {
+    "title": "Trump says he will take coronavirus test before next debate with Joe Biden",
+    "url": "https://www.cnbc.com/2020/10/19/coronavirus-trump-will-take-covid-19-test-before-joe-biden-debate.html",
+    "source": "CNBC",
+    "time": "7 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

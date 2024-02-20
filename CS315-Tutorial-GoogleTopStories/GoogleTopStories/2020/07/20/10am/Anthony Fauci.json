@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Trump calls Fauci 'a little bit of an alarmist' as coronavirus cases rise",
+    "url": "https://www.cnn.com/2020/07/19/politics/trump-fauci-alarmist-coronavirus/index.html",
+    "source": "CNN.com",
+    "time": "20 hours ago",
+    "date": "2020-07-20 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Anthony Fauci Versus Donald Trump",
+    "url": "https://www.nytimes.com/2020/07/18/opinion/sunday/fauci-trump-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-07-20 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Maryland GOP governor: Fauci has 'never let me' down | TheHill",
+    "url": "https://thehill.com/homenews/state-watch/508060-maryland-gop-governor-fauci-has-never-let-me-down",
+    "source": "TheHill",
+    "time": "2 hours ago",
+    "date": "2020-07-20 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "thehill.com"
+  }
+]

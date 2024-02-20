@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Live Covid-19 Updates",
+    "url": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html",
+    "source": "The New York Times",
+    "time": "55 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid-19 Data Will Once Again Be Collected by CDC, in Policy Reversal",
+    "url": "https://www.wsj.com/articles/troubled-covid-19-data-system-returning-to-cdc-11597945770",
+    "source": "Wall Street Journal",
+    "time": "8 hours ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Mad Bets: How will COVID-19 impact NFL betting?",
+    "url": "https://sports.yahoo.com/mad-bets-covid-19-impact-020145558.html",
+    "source": "Yahoo Sports",
+    "time": "14 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "sports.yahoo.com"
+  },
+  {
+    "title": "Pablo Sandoval reveals family members have been dealing with COVID-19",
+    "url": "https://sports.yahoo.com/pablo-sandoval-reveals-family-members-014148466.html",
+    "source": "Yahoo Sports",
+    "time": "34 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "sports.yahoo.com"
+  },
+  {
+    "title": "Eastern Michigan University to require students living on campus get tested \nfor COVID-19 before arriving",
+    "url": "https://www.clickondetroit.com/news/local/2020/08/21/eastern-michigan-university-to-require-students-living-on-campus-get-tested-for-covid-19-before-arriving/",
+    "source": "WDIV ClickOnDetroit",
+    "time": "38 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.clickondetroit.com"
+  }
+]

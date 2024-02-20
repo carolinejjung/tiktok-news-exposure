@@ -1,0 +1,32 @@
+[
+  {
+    "title": "15 West Point Cadets Test Positive for Coronavirus",
+    "url": "https://www.nytimes.com/2020/06/02/us/politics/west-point-graduation-virus-trump.html",
+    "source": "The New York Times",
+    "time": "2 hours ago",
+    "date": "2020-06-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "A Dog Has Tested Positive For The Coronavirus For The First Time In The US",
+    "url": "https://www.buzzfeednews.com/article/danvergano/coronavirus-dog-us-first",
+    "source": "BuzzFeed News",
+    "time": "4 hours ago",
+    "date": "2020-06-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.buzzfeednews.com"
+  },
+  {
+    "title": "Primary elections test impact of protests, coronavirus on voting",
+    "url": "https://www.axios.com/june-primaries-coronavirus-protests-8d237e76-0f8a-444e-ab76-b00eb6ed11a8.html",
+    "source": "Axios",
+    "time": "34 mins ago",
+    "date": "2020-06-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.axios.com"
+  }
+]

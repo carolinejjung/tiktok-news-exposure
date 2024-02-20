@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News Updates",
+    "url": "https://www.nytimes.com/2020/07/20/world/coronavirus-cases.html",
+    "source": "The New York Times",
+    "time": "23 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Trump embraces face masks as U.S. breaks coronavirus case \nrecords",
+    "url": "https://www.washingtonpost.com/nation/2020/07/20/covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "25 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus crisis leaves many child-care providers in peril",
+    "url": "https://www.foxnews.com/us/coronavirus-crisis-child-care-providers-jobs",
+    "source": "Fox News",
+    "time": "20 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Some Oregonians waiting 2 weeks to learn coronavirus test results, \nhindering efforts to slow the virus",
+    "url": "https://www.oregonlive.com/coronavirus/2020/07/some-oregonians-are-waiting-2-weeks-to-learn-of-their-coronavirus-test-results-hindering-efforts-to-slow-the-virus.html",
+    "source": "OregonLive.com",
+    "time": "22 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "GOP signals Trump's payroll-tax cut in Republican coronavirus bill \u2014 for \nnow | TheHill",
+    "url": "https://thehill.com/homenews/senate/508240-gop-signals-trumps-payroll-tax-cut-in-republican-coronavirus-bill-for-now",
+    "source": "TheHill",
+    "time": "1 hour ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Daily coronavirus updates: Connecticut will impose fines on all travelers \nfrom \u2018hot spot\u2019 states with surging",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-20200720-gjzdjtgngjgwdksxwec4ghlngu-story.html",
+    "source": "Hartford Courant",
+    "time": "3 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.courant.com"
+  },
+  {
+    "title": "Hecklers, gaffes dog DeSantis as coronavirus rages in Florida",
+    "url": "https://www.politico.com/states/florida/story/2020/07/20/hecklers-gaffes-dog-desantis-as-coronavirus-rages-in-florida-1302399",
+    "source": "Politico",
+    "time": "4 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Coronavirus Reaches Remote Massachusetts Island",
+    "url": "https://www.nbcboston.com/news/coronavirus/coronavirus-reaches-remote-massachusetts-island/2162456/",
+    "source": "NBC Boston",
+    "time": "5 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nbcboston.com"
+  },
+  {
+    "title": "Blacks, Latinos and the poor less likely to get $1,200 coronavirus stimulus \nchecks, new report says",
+    "url": "https://www.usatoday.com/story/news/politics/2020/07/20/coronavirus-blacks-latinos-poor-less-likely-get-1-200-checks/5471086002/",
+    "source": "USATODAY.com",
+    "time": "5 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "California Coronavirus Update: Governor Gavin Newsom Relaxes Some Workplace \nGuidelines, Announces New Testing Method",
+    "url": "https://deadline.com/2020/07/california-coronavirus-update-governor-gavin-newsom-relaxes-some-workplace-guidelines-announces-new-testing-method-1202989968/",
+    "source": "Deadline",
+    "time": "6 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "deadline.com"
+  }
+]

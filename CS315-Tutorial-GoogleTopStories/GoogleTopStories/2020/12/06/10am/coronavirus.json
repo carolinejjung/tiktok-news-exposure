@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Jul 20, 2020",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-12-06-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "11 mins ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/06/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "40 mins ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus cases finally start falling in Ohio, but will trend last?",
+    "url": "https://www.mansfieldnewsjournal.com/story/news/2020/12/06/gda-coronavirus-state-2020-12-06-oh-pman/115107452/",
+    "source": "Mansfield News Journal",
+    "time": "20 mins ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.mansfieldnewsjournal.com"
+  },
+  {
+    "title": "Maine CDC reports 221 new coronavirus cases, no new deaths",
+    "url": "https://www.pressherald.com/2020/12/06/maine-cdc-reports-221-new-coronavirus-cases-no-new-deaths/",
+    "source": "pressherald.com",
+    "time": "35 mins ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.pressherald.com"
+  },
+  {
+    "title": "'SNL' addresses Staten Island coronavirus protest, mall Santas during \npandemic",
+    "url": "https://www.foxnews.com/entertainment/snl-addresses-staten-island-coronavirus-protest-mall-santas-during-pandemic",
+    "source": "Fox News",
+    "time": "7 hours ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Boston coronavirus positive test rate crosses city\u2019s \u2018threshold for concern\u2019",
+    "url": "https://www.bostonherald.com/2020/12/05/boston-positive-test-rate-crosses-citys-threshold-for-concern/",
+    "source": "Boston Herald",
+    "time": "16 hours ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "Trump\u2019s Operation Warp Speed promised a flood of covid vaccines. Instead, \nstates are expecting a trickle.",
+    "url": "https://www.washingtonpost.com/business/2020/12/05/operation-warp-speed-coronavirus-vaccine-shortfall/",
+    "source": "Washington Post",
+    "time": "13 hours ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "If Exposed To Covid-19 Coronavirus, How Long Before You Have Symptoms",
+    "url": "https://www.forbes.com/sites/brucelee/2020/12/05/if-exposed-to-covid-19-coronavirus-how-long-before-you-have-symptoms/",
+    "source": "Forbes",
+    "time": "21 hours ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.forbes.com"
+  },
+  {
+    "title": "Woman with coronavirus eats super-spicy meal after losing sense of taste, \ndocuments body's 'weirdest' reaction",
+    "url": "https://www.foxnews.com/food-drink/woman-coronavirus-super-spicy-losing-taste-weirdest-reaction",
+    "source": "Fox News",
+    "time": "5 hours ago",
+    "date": "2020-12-06 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

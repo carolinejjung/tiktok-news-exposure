@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Live News: World Updates",
+    "url": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "14 mins ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Baseball commissioner warns he might end season if coronavirus isn't \nmanaged better, ESPN reports",
+    "url": "https://www.cnn.com/2020/07/31/us/mlb-coronavirus-cardinals-brewers/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Rapid coronavirus testing for Congress a hot topic again after Rep. Gohmert \ncatches COVID-19",
+    "url": "https://www.nbcnews.com/politics/congress/rapid-coronavirus-testing-congress-hot-topic-again-after-rep-gohmert-n1235553",
+    "source": "NBC News",
+    "time": "11 mins ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  }
+]

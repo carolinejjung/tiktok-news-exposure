@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus update: Infections are trending upward in the Midwest",
+    "url": "https://www.washingtonpost.com/nation/2020/08/22/coronavirus-covid-updates/",
+    "source": "Washington Post",
+    "time": "12 hours ago",
+    "date": "2020-08-23 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Do-it-yourself coronavirus testing sparks kudos, and caution",
+    "url": "https://www.bostonglobe.com/2020/08/22/metro/do-it-yourself-coronavirus-testing-sparks-kudos-caution/",
+    "source": "The Boston Globe",
+    "time": "23 hours ago",
+    "date": "2020-08-23 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "The staggering stats on how the coronavirus has impacted the mental health \nof Americans",
+    "url": "https://www.sltrib.com/news/2020/08/23/staggering-stats-how",
+    "source": "Salt Lake Tribune",
+    "time": "7 mins ago",
+    "date": "2020-08-23 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.sltrib.com"
+  }
+]

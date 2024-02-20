@@ -1,0 +1,32 @@
+[
+  {
+    "title": "A New Low in COVID-19 Data Standards",
+    "url": "https://www.theatlantic.com/health/archive/2020/05/covid-19-tests-combine-virginia/611620/",
+    "source": "The Atlantic",
+    "time": "1 hour ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.theatlantic.com"
+  },
+  {
+    "title": "What Indiana's Coronavirus Testing Shows About Reopening",
+    "url": "https://www.nytimes.com/2020/05/13/opinion/indiana-reopening-coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "6 hours ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: Democrats push $3 trillion relief package, Trump \ncalls is 'DOA'",
+    "url": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-13-coronavirus-news-n1205916/ncrd1206671",
+    "source": "NBC News",
+    "time": "47 mins ago",
+    "date": "2020-05-13 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  }
+]

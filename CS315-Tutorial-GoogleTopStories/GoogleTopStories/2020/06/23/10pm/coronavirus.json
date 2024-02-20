@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "6 mins ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Seven states report highest coronavirus hospitalizations \nsince pandemic began",
+    "url": "https://www.washingtonpost.com/nation/2020/06/23/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "23 mins ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Baseball To Reopen Next Month For Coronavirus-Shortened 2020 Season : \nCoronavirus Live Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/23/882641122/baseball-is-coming-back-for-a-pandemic-shortened-2020-season",
+    "source": "NPR",
+    "time": "8 mins ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Texas wedding planner charged with coronavirus fraud after seeking over $3M \nin loans, feds say",
+    "url": "https://www.foxnews.com/us/texas-wedding-planner-charged-coronavirus-fraud-loans",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Live Stock Market Updates During the Coronavirus Pandemic",
+    "url": "https://www.nytimes.com/2020/06/23/business/stock-market-today-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Voting briefly extended in Louisville, Kentucky, after traffic delays cap \nmostly smooth Election Day",
+    "url": "https://www.cnn.com/2020/06/23/politics/kentucky-new-york-primary-voting/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus Races Across Brazil and Latin America, a Warning to Poor Nations",
+    "url": "https://www.wsj.com/articles/coronavirus-races-across-latin-america-a-warning-to-poor-nations-11592950314",
+    "source": "The Wall Street Journal",
+    "time": "3 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "States might not need to do an 'absolute shutdown' if they run into \ncoronavirus trouble, Dr. Fauci says",
+    "url": "https://www.cnbc.com/2020/06/23/coronavirus-states-might-not-need-an-absolute-shutdown-again-dr-fauci-says.html",
+    "source": "CNBC.com",
+    "time": "4 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Charlie Baker announces results of coronavirus testing for people who \nparticipated in protests",
+    "url": "https://www.boston.com/news/coronavirus/2020/06/23/massachusetts-coronavirus-tests-protests",
+    "source": "Boston.com",
+    "time": "8 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.boston.com"
+  },
+  {
+    "title": "Coronavirus cases surging in Florida and Texas as states barrel ahead with \nreopening plans",
+    "url": "https://www.cbsnews.com/news/coronavirus-florida-texas-cases-surge-reopening/",
+    "source": "CBS News",
+    "time": "9 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cbsnews.com"
+  }
+]

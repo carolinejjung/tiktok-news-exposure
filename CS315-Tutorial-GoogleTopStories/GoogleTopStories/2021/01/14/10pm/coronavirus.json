@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Global News: Live Tracker",
+    "url": "https://www.nytimes.com/live/2021/01/14/world/covid19-coronavirus",
+    "source": "The New York Times",
+    "time": "14 mins ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-14-21/index.html",
+    "source": "CNN.com",
+    "time": "44 mins ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "House Democrats blame maskless Republicans for coronavirus outbreak \u2013 but \nis there evidence to support it?",
+    "url": "https://www.foxnews.com/politics/house-dems-blame-maskless-republicans-coronavirus-outbreak",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Why you\u2019d want a good night\u2019s sleep before and after getting COVID-19 \nvaccine",
+    "url": "https://wtop.com/coronavirus/2021/01/why-you-might-want-a-good-nights-sleep-before-and-after-getting-a-covid-19-shot/",
+    "source": "WTOP",
+    "time": "43 mins ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "wtop.com"
+  },
+  {
+    "title": "Judi Dench Says She's Received the First Dose of the Coronavirus Vaccine",
+    "url": "https://people.com/health/judi-dench-says-shes-received-the-coronavirus-vaccine/",
+    "source": "PEOPLE.com",
+    "time": "59 mins ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "people.com"
+  },
+  {
+    "title": "Biden unveils $1.9T plan to stem COVID-19 and steady economy",
+    "url": "https://apnews.com/article/joe-biden-coronavirus-action-plan-3d8d5841bb9098a81ad9452fb2619024",
+    "source": "Associated Press",
+    "time": "12 hours ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "31 Western Mass. communities at high-risk for spreading COVID-19",
+    "url": "https://www.westernmassnews.com/coronavirus/31-western-mass-communities-at-high-risk-for-spreading-covid-19/article_b6d83b3c-513d-11eb-9e3f-eb1bc39e84f0.html",
+    "source": "WESTERNMASSNEWS.com",
+    "time": "3 hours ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.westernmassnews.com"
+  },
+  {
+    "title": "Massachusetts Coronavirus Vaccine Tracker",
+    "url": "https://www.bostonglobe.com/2021/01/14/metro/massachusetts-covid-19-vaccine-tracker/",
+    "source": "The Boston Globe",
+    "time": "3 hours ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Covid Testing: Minnesota Is the Best State for Checking for Coronavirus",
+    "url": "https://www.bloomberg.com/news/features/2021-01-14/covid-testing-minnesota-is-the-best-state-for-checking-for-coronavirus",
+    "source": "Bloomberg",
+    "time": "14 hours ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bloomberg.com"
+  },
+  {
+    "title": "What\u2019s in Biden\u2019s $1.9 trillion emergency coronavirus plan",
+    "url": "https://www.washingtonpost.com/business/2021/01/14/biden-coronavirus-stimulus-plan/",
+    "source": "Washington Post",
+    "time": "5 hours ago",
+    "date": "2021-01-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.washingtonpost.com"
+  }
+]

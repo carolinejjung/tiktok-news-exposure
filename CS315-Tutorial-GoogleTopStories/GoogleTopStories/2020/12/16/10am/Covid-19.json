@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/16/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "As the US prepares to green light a second Covid-19 vaccine, officials \nissue warning for the holidays",
+    "url": "https://www.cnn.com/2020/12/16/health/us-coronavirus-wednesday/index.html",
+    "source": "CNN",
+    "time": "6 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Doctors seeing high rate of RI hospital readmission among COVID-19 patients",
+    "url": "https://www.wpri.com/target-12/doctors-seeing-high-rate-of-ri-hospital-readmission-among-covid-19-patients/",
+    "source": "WPRI.com",
+    "time": "1 hour ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "Covid live updates: Southwest trims January flights as demand cools; \nCongress races to nail down relief bill",
+    "url": "https://www.cnbc.com/2020/12/16/coronavirus-live-updates.html",
+    "source": "CNBC",
+    "time": "39 mins ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Fact check: More study needed on link between vitamin D deficiency, \nCOVID-19 mortality",
+    "url": "https://www.usatoday.com/story/news/factcheck/2020/12/16/fact-check-more-study-needed-vitamin-d-deficiency-covid-19/3858758001/",
+    "source": "USA TODAY",
+    "time": "5 mins ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Kansas mayor resigns amid threats after supporting COVID-19 mask mandate",
+    "url": "https://nypost.com/2020/12/16/kansas-mayor-resigns-amid-threats-for-covid-19-mask-mandate-support/",
+    "source": "New York Post",
+    "time": "9 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "COVID-19 vaccine trial volunteers note occasional harsh side effects",
+    "url": "https://www.foxbusiness.com/healthcare/covid-19-vaccine-trial-volunteers-note-occasional-harsh-side-effects",
+    "source": "Fox Business",
+    "time": "4 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Tom Cruise Erupts at \u2018Mission: Impossible\u2019 Crew Over Covid-19 Breach",
+    "url": "https://www.nytimes.com/2020/12/16/movies/tom-cruise-covid.html",
+    "source": "The New York Times",
+    "time": "8 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Initial limited supply of COVID-19 vaccine available for health care \npersonnel",
+    "url": "https://www.blogs.va.gov/VAntage/82499/initial-limited-supply-covid-19-vaccine-available-health-care-personnel/",
+    "source": "VAntage Point Blog",
+    "time": "18 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.blogs.va.gov"
+  },
+  {
+    "title": "Long-term Covid-19 effects: The many strange symptoms, explained",
+    "url": "https://www.vox.com/22166236/long-term-side-effects-covid-19-symptoms-heart-fatigue",
+    "source": "Vox",
+    "time": "17 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.vox.com"
+  }
+]

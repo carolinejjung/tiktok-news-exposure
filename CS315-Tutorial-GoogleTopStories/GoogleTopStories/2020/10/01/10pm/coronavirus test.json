@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Close Trump adviser Hope Hicks tests positive for coronavirus, sources say",
+    "url": "https://www.cnn.com/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-10-01 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Top Trump aide Hope Hicks tests positive for coronavirus after traveling \nwith president to debate",
+    "url": "https://www.cnbc.com/2020/10/02/hope-hicks-coronavirus.html",
+    "source": "CNBC",
+    "time": "1 hour ago",
+    "date": "2020-10-01 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Trump says he and first lady are awaiting coronavirus test results after \ntop aide confirmed positive for COVID-19",
+    "url": "https://www.bostonglobe.com/2020/10/01/nation/trump-says-he-first-lady-are-awaiting-coronavirus-test-results-after-top-aide-confirmed-positive-covid-19/",
+    "source": "The Boston Globe",
+    "time": "12 mins ago",
+    "date": "2020-10-01 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.bostonglobe.com"
+  }
+]

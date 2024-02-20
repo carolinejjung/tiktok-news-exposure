@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Dr. Fauci Gives a Coronavirus Update for the DC Area",
+    "url": "https://www.nbcwashington.com/news/health/dr-fauci-gives-a-coronavirus-update-for-the-dc-area/2326350/",
+    "source": "NBC4 Washington",
+    "time": "1 hour ago",
+    "date": "2020-06-08 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.nbcwashington.com"
+  },
+  {
+    "title": "Dr. Anthony Fauci weighs in on the state of the coronavirus pandemic, hope \nfor a vaccine",
+    "url": "https://www.wivb.com/news/dr-anthony-fauci-weighs-in-on-the-state-of-the-coronavirus-pandemic-hope-for-a-vaccine/",
+    "source": "WIVB.com",
+    "time": "1 hour ago",
+    "date": "2020-06-08 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.wivb.com"
+  },
+  {
+    "title": "FOX 5 goes one-on-one with Dr. Anthony Fauci",
+    "url": "https://www.fox5dc.com/news/fox-5-goes-one-on-one-with-dr-anthony-fauci",
+    "source": "Fox 5 DC",
+    "time": "3 hours ago",
+    "date": "2020-06-08 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.fox5dc.com"
+  }
+]

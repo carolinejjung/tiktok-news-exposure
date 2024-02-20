@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Live Updates: World Approaches One Million Deaths",
+    "url": "https://www.nytimes.com/2020/09/27/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2020-09-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Twenty-one states are reporting increased Covid-19 cases as experts warn of \na fall surge",
+    "url": "https://www.cnn.com/2020/09/27/health/us-coronavirus-sunday/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-09-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Australian firm says its nasal spray reduced coronavirus growth in animal \nstudy",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-australia-nasalspr/australian-firm-says-its-nasal-spray-reduced-coronavirus-growth-in-animal-study-idUSKBN26J04T",
+    "source": "Reuters",
+    "time": "24 mins ago",
+    "date": "2020-09-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.reuters.com"
+  }
+]

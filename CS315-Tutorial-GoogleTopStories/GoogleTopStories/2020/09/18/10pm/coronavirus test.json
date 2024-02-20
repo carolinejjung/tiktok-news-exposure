@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC reverses controversial coronavirus guidance that said people without \nsymptoms may not need a test",
+    "url": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html",
+    "source": "CNBC",
+    "time": "8 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-18-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "30 mins ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus Today: An Emmys fit for a pandemic",
+    "url": "https://www.latimes.com/science/newsletter/2020-09-18/emmys-awards-lucha-libre-travel-coronavirus-today",
+    "source": "Los Angeles Times",
+    "time": "16 mins ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.latimes.com"
+  }
+]

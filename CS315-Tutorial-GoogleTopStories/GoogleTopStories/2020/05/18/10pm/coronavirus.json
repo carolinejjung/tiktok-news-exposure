@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus News and Live Updates",
+    "url": "https://www.nytimes.com/2020/05/18/us/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "11 mins ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Trump says he is taking hydroxychloroquine to prevent \ncovid-19, dismisses safety concerns",
+    "url": "https://www.washingtonpost.com/nation/2020/05/18/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "8 mins ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Texas church cancels masses following death of priest possibly from \ncoronavirus",
+    "url": "https://www.yahoo.com/gma/texas-church-cancels-masses-following-death-priest-possibly-013554228--abc-news-topstories.html",
+    "source": "Yahoo",
+    "time": "25 mins ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.yahoo.com"
+  },
+  {
+    "title": "Germany, France Propose $543 Billion EU Coronavirus Recovery Fund",
+    "url": "https://www.npr.org/2020/05/18/858413920/germany-france-propose-543-billion-eu-coronavirus-recovery-fund",
+    "source": "NPR",
+    "time": "39 mins ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Oregon governor\u2019s coronavirus restrictions on religious gatherings, other \nemergency orders \u2018null and void,\u2019",
+    "url": "https://www.oregonlive.com/coronavirus/2020/05/judge-finds-oregon-governors-coronavirus-restrictions-on-religious-gatherings-null-and-void-governor-to-seek-state-supreme-court-review.html",
+    "source": "OregonLive.com",
+    "time": "56 mins ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "Trump administration to extend border and travel restrictions related to \ncoronavirus",
+    "url": "https://www.cnn.com/2020/05/18/politics/extend-border-and-travel-restrictions-coronavirus/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "These are the NYC neighborhoods with highest coronavirus death rates",
+    "url": "https://nypost.com/2020/05/18/nyc-neighborhoods-with-highest-coronavirus-death-rates/",
+    "source": "New York Post",
+    "time": "4 hours ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "N.J. reveals multi-stage coronavirus reopening plan. We\u2019re in \u2018Stage 1,' \nMurphy says.",
+    "url": "https://www.nj.com/coronavirus/2020/05/nj-reveals-multi-stage-coronavirus-reopening-plan-were-in-stage-1-murphy-says.html",
+    "source": "NJ.com",
+    "time": "5 hours ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "Trump reveals he's taking hydroxychloroquine in effort to prevent \ncoronavirus symptoms",
+    "url": "https://www.foxnews.com/politics/trump-reveals-taking-hydroxychloroquine-coronavirus",
+    "source": "Fox News",
+    "time": "5 hours ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "California Coronavirus Update: Governor Gavin Newsom Relaxing Some \nRestrictions For Reopening; Sports, In-Store Retail Could Be Next",
+    "url": "https://deadline.com/2020/05/california-coronavirus-governor-gavin-newsom-relaxing-restrictions-reopening-1202937472/",
+    "source": "Deadline",
+    "time": "6 hours ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "deadline.com"
+  }
+]

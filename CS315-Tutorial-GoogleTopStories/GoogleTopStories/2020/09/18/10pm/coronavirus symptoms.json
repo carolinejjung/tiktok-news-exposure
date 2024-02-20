@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC reverses controversial coronavirus guidance that said people without \nsymptoms may not need a test",
+    "url": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html",
+    "source": "CNBC",
+    "time": "8 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "CDC reverses controversial coronavirus guidelines for testing people \nwithout symptoms",
+    "url": "https://www.washingtonpost.com/health/2020/09/18/cdc-reverses-controversial-coronavirus-guidelines-testing-people-without-symptoms/",
+    "source": "Washington Post",
+    "time": "2 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "CDC updates, again, guidelines on testing people without coronavirus \nsymptoms",
+    "url": "https://www.cnn.com/2020/09/18/health/covid-testing-guidance-update-cdc-bn/index.html",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

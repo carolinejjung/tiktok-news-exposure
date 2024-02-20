@@ -1,0 +1,32 @@
+[
+  {
+    "title": "New York coronavirus positive test rate rises to over 2%",
+    "url": "https://www.nydailynews.com/news/politics/us-elections-government/ny-covid-rate-rises-cuomo-20201107-vyadhpog3jdw3alqr6nzbohol4-story.html",
+    "source": "New York Daily News",
+    "time": "3 hours ago",
+    "date": "2020-11-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nydailynews.com"
+  },
+  {
+    "title": "At least 5 people in Trump's orbit, including his chief of staff, have \ntested positive for Covid-19",
+    "url": "https://www.cnn.com/2020/11/06/politics/mark-meadows-coronavirus-positive-test/index.html",
+    "source": "CNN",
+    "time": "11 hours ago",
+    "date": "2020-11-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19: Coronavirus cases in Cincinnati region jump 14% in a week, total \npasses 50,000",
+    "url": "https://www.cincinnati.com/story/news/2020/11/08/coronavirus-percent-cincinnati-region-cases-up-five-weeks/6176383002/",
+    "source": "Cincinnati.com",
+    "time": "11 mins ago",
+    "date": "2020-11-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cincinnati.com"
+  }
+]

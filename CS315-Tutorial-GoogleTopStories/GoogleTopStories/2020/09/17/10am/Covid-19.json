@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "50 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "26 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Gov. Sununu to Provide an Update on COVID-19 in NH",
+    "url": "https://www.nbcboston.com/news/local/gov-sununu-to-provide-an-update-on-covid-19-in-nh/2196410/",
+    "source": "NBC10 Boston",
+    "time": "30 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.nbcboston.com"
+  },
+  {
+    "title": "Four more COVID-19-related deaths reported in W.Va.; death total at 294",
+    "url": "https://wchstv.com/news/local/four-more-covid-19-related-deaths-reported-in-wva-death-total-at-294",
+    "source": "WCHS-TV8",
+    "time": "10 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "wchstv.com"
+  },
+  {
+    "title": "Farmingdale and Port Jefferson add to COVID-19 school closings",
+    "url": "https://www.newsday.com/news/health/coronavirus/virus-updates-long-island-new-york-covid19-1.49417997",
+    "source": "Newsday",
+    "time": "9 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.newsday.com"
+  },
+  {
+    "title": "American allegedly responsible for COVID-19 outbreak in Germany identified",
+    "url": "https://nypost.com/2020/09/17/american-allegedly-responsible-for-covid-19-outbreak-in-germany-ided/",
+    "source": "New York Post",
+    "time": "2 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus live updates: India records world's highest increase in new \nCOVID-19 cases",
+    "url": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540",
+    "source": "ABC News",
+    "time": "21 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Moderna CEO: Company expects to know in November whether COVID-19 vaccine \nworks",
+    "url": "https://www.bostonglobe.com/2020/09/17/business/moderna-ceo-we-expect-know-november-whether-our-covid-19-vaccine-works/",
+    "source": "BetaBoston",
+    "time": "3 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "White House Staff Member Tests Positive For COVID-19 Less Than 24 Hours \nAfter President Donald Trump Visited Philadelphia",
+    "url": "https://philadelphia.cbslocal.com/2020/09/17/white-house-staff-member-test-positive-for-covid-19-less-than-24-hours-after-president-donald-trump-visited-philadelphia/",
+    "source": "CBS Philly",
+    "time": "2 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "philadelphia.cbslocal.com"
+  },
+  {
+    "title": "America\u2019s Offices Sit Half-Empty Six Months Into the Covid-19 Pandemic",
+    "url": "https://www.wsj.com/articles/americas-offices-sit-half-empty-six-months-into-the-covid-19-pandemic-11600344000",
+    "source": "Wall Street Journal",
+    "time": "2 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Person who partied at Lake of the Ozarks tested positive for coronavirus",
+    "url": "https://nypost.com/2020/05/29/lake-of-the-ozarks-partier-tested-positive-for-coronavirus/",
+    "source": "New York Post",
+    "time": "1 hour ago",
+    "date": "2020-05-29 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Testing Is Key to Beating Coronavirus, Right? Japan Has Other Ideas",
+    "url": "https://www.nytimes.com/2020/05/29/world/asia/japan-coronavirus.html",
+    "source": "The New York Times",
+    "time": "9 hours ago",
+    "date": "2020-05-29 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Anyone in NH can now get tested for COVID-19, DHHS commissioner says",
+    "url": "https://www.wmur.com/article/new-hampshire-coronavirus-update-may-29-2020/32711430",
+    "source": "WMUR.com",
+    "time": "12 mins ago",
+    "date": "2020-05-29 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wmur.com"
+  }
+]

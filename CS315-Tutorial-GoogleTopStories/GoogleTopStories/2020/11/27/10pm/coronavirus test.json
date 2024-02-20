@@ -1,0 +1,32 @@
+[
+  {
+    "title": "As thousands of athletes get coronavirus tests, nurses wonder: What about \nus?",
+    "url": "https://www.washingtonpost.com/sports/2020/11/27/nurses-athletes-sports-coronavirus-tests/",
+    "source": "Washington Post",
+    "time": "14 hours ago",
+    "date": "2020-11-27 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "The Unexpected Message Revealed by Long Lines for Coronavirus Testing",
+    "url": "https://www.nytimes.com/2020/11/27/nyregion/covid-tests-long-lines.html",
+    "source": "The New York Times",
+    "time": "17 hours ago",
+    "date": "2020-11-27 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Mobile labs target \"testing deserts\" where COVID-19 can spread undetected",
+    "url": "https://www.cbsnews.com/news/mobile-labs-target-testing-deserts-where-covid-19-can-spread-undetected/",
+    "source": "CBS News",
+    "time": "3 hours ago",
+    "date": "2020-11-27 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cbsnews.com"
+  }
+]

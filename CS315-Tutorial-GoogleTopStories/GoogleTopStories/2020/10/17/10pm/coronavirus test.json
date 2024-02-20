@@ -1,0 +1,32 @@
+[
+  {
+    "title": "White House Opposes Expanded Coronavirus Testing, Complicating Stimulus \nTalks",
+    "url": "https://www.nytimes.com/2020/10/16/business/white-house-coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "CDC denounces 'unethical and illegal' mandatory coronavirus testing in \nschools",
+    "url": "https://www.politico.com/news/2020/10/15/cdc-mandatory-school-testing-429667",
+    "source": "Politico",
+    "time": "2 days ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "NFL hopes to play all of Sunday\u2019s games despite raft of coronavirus-related \nissues",
+    "url": "https://www.washingtonpost.com/sports/2020/10/17/patriots-jaguars-nfl-coronavirus/",
+    "source": "Washington Post",
+    "time": "4 hours ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

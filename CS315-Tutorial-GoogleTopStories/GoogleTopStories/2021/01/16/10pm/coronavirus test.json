@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC to require all air travelers to US to show negative coronavirus test",
+    "url": "https://www.cnn.com/2021/01/12/health/cdc-international-travel-covid-19-test/index.html",
+    "source": "CNN",
+    "time": "4 days ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "1 in 3 in L.A. have been infected by coronavirus, estimates show",
+    "url": "https://www.latimes.com/california/story/2021-01-14/one-in-three-la-county-residents-infected-coronavirus",
+    "source": "Los Angeles Times",
+    "time": "2 days ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.latimes.com"
+  },
+  {
+    "title": "Slow to start, coronavirus testing in Orange County is booming",
+    "url": "https://www.ocregister.com/2021/01/16/slow-to-start-coronavirus-testing-in-orange-county-is-booming",
+    "source": "OCRegister",
+    "time": "9 hours ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.ocregister.com"
+  }
+]

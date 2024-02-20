@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fauci says U.S. vaccinations to increase in spring as Biden administration \nnears doses goal",
+    "url": "https://www.washingtonpost.com/health/2021/02/07/fauci-vaccination-increase/",
+    "source": "Washington Post",
+    "time": "15 hours ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Fauci looking ahead to more vaccines in March, April",
+    "url": "https://www.politico.com/news/2021/02/07/fauci-vaccines-march-april-466776",
+    "source": "Politico",
+    "time": "21 hours ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "February 7 coronavirus news",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-02-07-21/h_8eff1ba8e848c4cd7016d6c97e613eda",
+    "source": "CNN",
+    "time": "13 hours ago",
+    "date": "2021-02-08 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

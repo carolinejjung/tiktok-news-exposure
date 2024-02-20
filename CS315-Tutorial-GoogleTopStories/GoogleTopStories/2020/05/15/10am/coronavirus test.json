@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/05/15/us/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "48 mins ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "FDA Cautions About Accuracy Of Widely Used Abbott Coronavirus Test",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/05/14/856531970/fda-cautions-about-accuracy-of-widely-used-abbott-coronavirus-test",
+    "source": "NPR",
+    "time": "13 hours ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Wuhan Plan to Test All 11 Million Residents for Coronavirus Raises Doubts",
+    "url": "https://www.wsj.com/articles/coronavirus-latest-news-05-15-2020-11589536941",
+    "source": "The Wall Street Journal",
+    "time": "1 hour ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wsj.com"
+  }
+]

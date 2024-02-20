@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/11/19/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "48 mins ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'This will get worse.' A top US official says hospitalizations and deaths \nwill keep climbing as Covid-19 cases explode nationwide",
+    "url": "https://www.cnn.com/2020/11/19/health/us-coronavirus-thursday/index.html",
+    "source": "CNN",
+    "time": "43 mins ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "A gym trainer exposed 50 athletes to Covid-19, but no one else got sick \nbecause of a ventilation redesign",
+    "url": "https://www.cnn.com/2020/11/19/us/gym-ventilation-covid-trnd/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Italy's Doctors Were Praised for Their COVID-19 Response in the Spring. Now \nThey Are Burning Out",
+    "url": "https://time.com/5913842/italy-covid-19-doctors-second-wave/",
+    "source": "TIME",
+    "time": "30 mins ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "time.com"
+  },
+  {
+    "title": "USAA donates $3.5 million to San Antonio organizations for COVID-19 relief",
+    "url": "https://www.ksat.com/news/local/2020/11/19/usaa-donates-35-million-to-san-antonio-organizations-for-covid-19-relief/",
+    "source": "KSAT San Antonio",
+    "time": "39 mins ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.ksat.com"
+  },
+  {
+    "title": "Oxford-AstraZeneca Covid vaccine shows robust immune response among older \nadults",
+    "url": "https://www.cnbc.com/2020/11/19/oxford-covid-vaccine-prompts-immune-response-among-all-adults-study.html",
+    "source": "CNBC",
+    "time": "8 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "COVID-19 Conspiracy Theories Still Rampant In Some US Hotspots",
+    "url": "https://www.npr.org/2020/11/19/936248527/covid-19-denial-still-rampant-in-some-virus-hotspots",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Local police will be enforcing state\u2019s COVID-19 guidelines this Thanksgiving",
+    "url": "https://www.wwlp.com/news/local-news/hampden-county/local-police-will-be-enforcing-states-covid-19-guidelines-this-thanksgiving/",
+    "source": "WWLP.com",
+    "time": "11 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "Covid-19 vaccines could be available by the end of December. Here's what \nneeds to happen first.",
+    "url": "https://www.nbcnews.com/health/health-news/covid-vaccines-could-be-available-end-december-here-s-what-n1248135",
+    "source": "NBC News",
+    "time": "17 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "RIDOH says data backs up claims on how COVID-19 is spreading in Rhode Island",
+    "url": "https://turnto10.com/news/local/ridoh-says-data-backs-up-claims-on-how-covid-19-is-spreading-in-rhode-island",
+    "source": "WJAR",
+    "time": "16 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "turnto10.com"
+  }
+]

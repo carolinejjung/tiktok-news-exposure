@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Live Covid-19 Tracker: Maps, Cases and Deaths Updates",
+    "url": "https://www.nytimes.com/2020/09/13/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "9 hours ago",
+    "date": "2020-09-13 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Saint Joseph's will 'study in place' after positive coronavirus tests",
+    "url": "https://www.pressherald.com/2020/09/13/saint-josephs-will-study-in-place-after-positive-coronavirus-tests/",
+    "source": "Press Herald",
+    "time": "11 hours ago",
+    "date": "2020-09-13 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.pressherald.com"
+  },
+  {
+    "title": "Tampa Bay Company Develops Coronavirus Saliva Test",
+    "url": "https://www.baynews9.com/fl/tampa/news/2020/09/14/tampa-bay-company-develops-coronavirus-saliva-test",
+    "source": "Bay News 9",
+    "time": "59 mins ago",
+    "date": "2020-09-13 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.baynews9.com"
+  }
+]

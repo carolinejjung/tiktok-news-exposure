@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Albany International Airport announces new coronavirus testing for \nemployees and passengers",
+    "url": "https://www.news10.com/news/important-announcement-at-albany-international-airport/",
+    "source": "NEWS10 ABC",
+    "time": "12 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.news10.com"
+  },
+  {
+    "title": "A New Frontier in At-Home Coronavirus Testing",
+    "url": "https://www.nytimes.com/2020/12/03/us/coronavirus-saliva-testing-home.html",
+    "source": "The New York Times",
+    "time": "3 days ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Rudy Giuliani Tests Positive For Coronavirus, Trump Says",
+    "url": "https://www.npr.org/2020/12/06/943683988/rudy-giuliani-tests-positive-for-coronavirus-trump-says",
+    "source": "NPR",
+    "time": "6 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  }
+]

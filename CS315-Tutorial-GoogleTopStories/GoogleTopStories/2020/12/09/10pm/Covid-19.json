@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live News and Updates",
+    "url": "https://www.nytimes.com/live/2020/12/09/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "46 mins ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid live updates and vaccine news: More than 3,000 die on deadliest day \nin U.S.",
+    "url": "https://www.nbcnews.com/news/us-news/live-blog/2020-12-9-covid-live-updates-vaccine-news-n1250505",
+    "source": "NBC News",
+    "time": "21 mins ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "US sets new single-day record with over 3,000 COVID-19 deaths",
+    "url": "https://nypost.com/2020/12/09/us-sets-new-single-day-record-with-over-3000-covid-19-deaths/",
+    "source": "New York Post",
+    "time": "25 mins ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "China's Sinopharm vaccine has 86% efficacy against Covid-19, says UAE",
+    "url": "https://www.cnn.com/2020/12/09/asia/uae-china-vaccine-intl-hnk/index.html",
+    "source": "CNN",
+    "time": "42 mins ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19: Hanover Terrace outbreak sees first fatality as infection rate \ntops 90%",
+    "url": "https://www.vnews.com/D-H-epidemiologist-asks-people-to-be-patient-for-vaccine-37689375",
+    "source": "Valley News",
+    "time": "29 mins ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.vnews.com"
+  },
+  {
+    "title": "UK probes whether COVID-19 vaccine caused allergic reactions",
+    "url": "https://apnews.com/article/uk-allergic-reaction-pfizer-vaccine-64ddccd70c38a39f880da27941db3540",
+    "source": "Associated Press",
+    "time": "16 hours ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Read the state's presentation on an estimated COVID-19 vaccine distribution \ntimeline",
+    "url": "https://www.bostonglobe.com/2020/12/09/nation/read-states-presentation-an-estimated-covid-19-vaccine-distribution-timeline/",
+    "source": "The Boston Globe",
+    "time": "15 hours ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Indoor Dining Is Fastest-Growing Source of COVID-19 Spread in New York City",
+    "url": "https://ny.eater.com/2020/12/9/22165800/indoor-dining-nyc-coronavirus-spread-robert-mujica",
+    "source": "Eater NY",
+    "time": "8 hours ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "ny.eater.com"
+  },
+  {
+    "title": "Pennsylvania Governor Tom Wolf in quarantine after testing positive for \nCOVID-19",
+    "url": "https://6abc.com/tom-wolf-covid-announcement-pennsylvania-governor-19-coronavirus/8641069",
+    "source": "WPVI-TV",
+    "time": "5 hours ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "6abc.com"
+  },
+  {
+    "title": "Sills: Panthers' COVID-19 transmission linked to players gathering outside \nfacility",
+    "url": "https://www.nfl.com/news/sills-panthers-covid-19-transmission-linked-to-players-gathering-outside-facilit",
+    "source": "NFL.com",
+    "time": "5 hours ago",
+    "date": "2020-12-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nfl.com"
+  }
+]

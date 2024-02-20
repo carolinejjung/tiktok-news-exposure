@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
+    "url": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "14 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Trump\u2019s national security adviser tests positive for \ncoronavirus",
+    "url": "https://www.washingtonpost.com/nation/2020/07/27/coronavirus-covid-live-updates/",
+    "source": "Washington Post",
+    "time": "8 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Trump's national security adviser tests positive for Covid-19",
+    "url": "https://www.cnn.com/2020/07/27/politics/robert-obrien-tests-positive-covid/index.html",
+    "source": "CNN.com",
+    "time": "26 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

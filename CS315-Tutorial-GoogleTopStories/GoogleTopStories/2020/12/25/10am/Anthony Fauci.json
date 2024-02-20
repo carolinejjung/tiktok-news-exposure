@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19: How Much Herd Immunity is Enough?",
+    "url": "https://www.nytimes.com/2020/12/24/health/herd-immunity-covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-12-25 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Dr. Fauci is 80 today. Hear the Bidens sing 'Happy Birthday' to him",
+    "url": "https://www.cnn.com/videos/health/2020/12/24/dr-anthony-fauci-80th-birthday-orig.cnn",
+    "source": "CNN",
+    "time": "20 hours ago",
+    "date": "2020-12-25 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Christmas Eve is Dr. Fauci's 80th birthday. Here's how he's celebrating \nduring the pandemic.",
+    "url": "https://www.usatoday.com/story/news/nation/2020/12/24/covid-dr-anthony-fauci-celebrates-80th-birthday-christmas-eve/3937415001/",
+    "source": "USA TODAY",
+    "time": "1 hour ago",
+    "date": "2020-12-25 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  }
+]

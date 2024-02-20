@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC reverses controversial coronavirus guidance that said people without \nsymptoms may not need a test",
+    "url": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html",
+    "source": "CNBC",
+    "time": "20 hours ago",
+    "date": "2020-09-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: Latest News and Analysis",
+    "url": "https://www.nytimes.com/2020/09/19/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "42 mins ago",
+    "date": "2020-09-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Oregon\u2019s coronavirus testing guidance is now weaker than the Trump \nadministration\u2019s",
+    "url": "https://www.oregonlive.com/coronavirus/2020/09/oregons-coronavirus-testing-guidance-is-now-weaker-than-the-trump-administrations.html",
+    "source": "oregonlive.com",
+    "time": "24 mins ago",
+    "date": "2020-09-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.oregonlive.com"
+  }
+]

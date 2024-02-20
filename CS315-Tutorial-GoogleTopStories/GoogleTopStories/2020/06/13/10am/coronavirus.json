@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus World News and Live Updates",
+    "url": "https://www.nytimes.com/2020/06/13/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "15 mins ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Fauci says second wave is 'not inevitable' as coronavirus cases climb in \nsome states",
+    "url": "https://www.cnn.com/2020/06/13/health/us-coronavirus-saturday/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus live updates: Here\u2019s what to know in South Carolina on June 13",
+    "url": "https://www.thestate.com/news/coronavirus/article243507936.html",
+    "source": "The State",
+    "time": "57 mins ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.thestate.com"
+  },
+  {
+    "title": "A closed highway and a 'mad dash' to e-commerce: Here's how one New Jersey \nMain St. is preparing to reopen",
+    "url": "https://www.cnbc.com/2020/06/13/how-one-nj-main-street-reopens-as-coronavirus-rules-ease.html",
+    "source": "CNBC.com",
+    "time": "1 hour ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Coronavirus tips: How to minimize your risk of exposure to COVID-19, \naccording to the CDC",
+    "url": "https://www.masslive.com/coronavirus/2020/06/coronavirus-tips-how-to-minimize-your-risk-of-exposure-to-covid-19-according-to-the-cdc.html",
+    "source": "MassLive.com",
+    "time": "1 hour ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.masslive.com"
+  },
+  {
+    "title": "Billions or trillions: The great coronavirus trade-off",
+    "url": "https://finance.yahoo.com/news/billions-or-trillions-the-great-coronavirus-tradeoff-122132084.html",
+    "source": "Yahoo Finance",
+    "time": "1 hour ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Houston weighs another lockdown as coronavirus cases surge",
+    "url": "https://www.cbsnews.com/news/houston-lockdown-again-coronavirus-covid-19-texas/",
+    "source": "CBS News",
+    "time": "2 hours ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Seattle man, 70, beats coronavirus -- then gets $1.1M hospital bill, report \nsays",
+    "url": "https://www.foxnews.com/health/seattle-man-70-beats-coronavirus-then-gets-1-1m-hospital-bill-report-says",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "A Road Trip Across the Southwest in the Time of Coronavirus",
+    "url": "https://www.wsj.com/articles/a-road-trip-across-the-southwest-in-the-time-of-coronavirus-11592020850",
+    "source": "The Wall Street Journal",
+    "time": "10 hours ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Hundreds pack St. Marks Place to drink, party despite coronavirus",
+    "url": "https://nypost.com/2020/06/12/hundreds-pack-st-marks-place-to-drink-despite-coronavirus/",
+    "source": "New York Post",
+    "time": "11 hours ago",
+    "date": "2020-06-13 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "nypost.com"
+  }
+]

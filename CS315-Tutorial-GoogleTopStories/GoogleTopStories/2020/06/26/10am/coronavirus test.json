@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fauci says task force 'seriously considering' new testing strategy",
+    "url": "https://www.cnn.com/2020/06/26/politics/anthony-fauci-testing-coronavirus-task-force/index.html",
+    "source": "CNN.com",
+    "time": "31 mins ago",
+    "date": "2020-06-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump says push for less coronavirus testing was sarcasm",
+    "url": "https://www.politico.com/news/2020/06/25/trump-sarcastically-suggests-slowing-down-coronavirus-testing-340850",
+    "source": "Politico",
+    "time": "10 hours ago",
+    "date": "2020-06-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Connecticut has slowed the spread of coronavirus, but dramatic surges in \nFlorida, California and elsewhere pos",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-covid-19-transmission-connecticut-20200626-u4v3z54wmnhyfp3tfsy7jzp2jm-story.html",
+    "source": "Hartford Courant",
+    "time": "3 mins ago",
+    "date": "2020-06-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.courant.com"
+  }
+]

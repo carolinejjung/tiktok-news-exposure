@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Tests Are Supposed to Be Free. The Surprise Bills Come Anyway.",
+    "url": "https://www.nytimes.com/2020/09/09/upshot/coronavirus-surprise-test-fees.html",
+    "source": "The New York Times",
+    "time": "5 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The US needs 200 million tests a month to reel in Covid-19, report says. \nIt's now testing 30 million",
+    "url": "https://www.cnn.com/2020/09/09/health/us-coronavirus-wednesday/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19 sewage testing in South Hadley",
+    "url": "https://www.wwlp.com/news/health/coronavirus-local-impact/covid-19-sewage-testing-in-south-hadley/",
+    "source": "WWLP.com",
+    "time": "29 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wwlp.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/05/09/us/coronavirus-news-updates.html",
+    "source": "The New York Times",
+    "time": "19 mins ago",
+    "date": "2020-05-09 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Fauci, CDC and FDA heads taking precautions after exposure to \ncoronavirus case",
+    "url": "https://www.washingtonpost.com/nation/2020/05/09/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "10 mins ago",
+    "date": "2020-05-09 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "2 Texas correctional officers die from possible COVID-19 complications",
+    "url": "https://www.click2houston.com/news/local/2020/05/10/2-texas-correctional-officers-die-from-possible-covid-19-complications/",
+    "source": "Click2Houston",
+    "time": "42 mins ago",
+    "date": "2020-05-09 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.click2houston.com"
+  }
+]

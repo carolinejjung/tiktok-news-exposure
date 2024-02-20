@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Man who believed virus was hoax loses wife to Covid-19",
+    "url": "https://www.bbc.com/news/world-us-canada-53892856",
+    "source": "BBC News",
+    "time": "9 hours ago",
+    "date": "2020-08-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Covid-19: Live News and Updates",
+    "url": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "16 hours ago",
+    "date": "2020-08-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "German Concert Experiment Tests How Big Gatherings Spread COVID-19 : \nCoronavirus Live Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/24/905534790/german-experiment-tests-how-coronavirus-spreads-at-a-concert",
+    "source": "NPR",
+    "time": "4 hours ago",
+    "date": "2020-08-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "LifeCare Center in Kirkland, hard hit by COVID-19, allows patient visits to \nresume",
+    "url": "http://komonews.com/news/coronavirus/lifecare-center-in-kirkland-hard-hit-by-covid-19-allows-patient-visits-to-resume",
+    "source": "KOMO News",
+    "time": "1 hour ago",
+    "date": "2020-08-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Pocola Public Schools going virtual due to COVID-19",
+    "url": "https://www.4029tv.com/article/pocola-public-schools-going-virtual-due-to-covid-19/33780150",
+    "source": "4029tv",
+    "time": "22 mins ago",
+    "date": "2020-08-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.4029tv.com"
+  }
+]

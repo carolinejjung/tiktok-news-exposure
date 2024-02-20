@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+    "url": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "13 mins ago",
+    "date": "2020-07-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Your Coronavirus Antibodies Are Disappearing. Should You Care?",
+    "url": "https://www.nytimes.com/2020/07/26/health/coronvirus-antibody-tests.html",
+    "source": "The New York Times",
+    "time": "5 hours ago",
+    "date": "2020-07-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Top HHS official concedes turnaround time for testing is still too long",
+    "url": "https://www.axios.com/brett-giroir-coronavirus-testing-times-4d82432b-d284-45c2-a536-138c33d93e49.html",
+    "source": "Axios",
+    "time": "29 mins ago",
+    "date": "2020-07-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.axios.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "In NYC Schools, Only 18 Positive Coronavirus Tests Out of 10,676",
+    "url": "https://www.nytimes.com/2020/10/19/nyregion/schools-coronavirus.html",
+    "source": "The New York Times",
+    "time": "12 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus Testing Delays Still Prevent Effective Disease Control, Survey \nFinds : Shots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/10/19/923972496/covid-19-test-results-get-faster-but-still-too-slow-to-help-slow-disease-spread",
+    "source": "NPR",
+    "time": "16 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Lee's Summit lab offers at-home COVID-19 test kits",
+    "url": "https://www.kshb.com/news/coronavirus/lees-summit-lab-offers-at-home-covid-19-test-kits",
+    "source": "KSHB",
+    "time": "56 mins ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.kshb.com"
+  }
+]

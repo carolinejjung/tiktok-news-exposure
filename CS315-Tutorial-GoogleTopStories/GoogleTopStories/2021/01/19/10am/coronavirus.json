@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/coronavirus-latest",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Stocks surge as Yellen set to tell Congress to 'act big' on coronavirus \nstimulus",
+    "url": "https://www.foxbusiness.com/markets/us-stocks-jan-19-2021",
+    "source": "Fox Business",
+    "time": "1 hour ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Trump orders lifting coronavirus travel ban for UK, Europe, and Brazil.",
+    "url": "https://slate.com/news-and-politics/2021/01/trump-order-lifting-coronavirus-travel-ban-u-k-europe-brazil.html",
+    "source": "Slate Magazine",
+    "time": "1 hour ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "slate.com"
+  },
+  {
+    "title": "Coronavirus live news: China builds quarantine centre for 4,000 people; \nGermany extends lockdown",
+    "url": "https://www.theguardian.com/world/live/2021/jan/19/coronavirus-live-news-independent-pandemic-panel-critical-of-china-and-who-california-urges-pause-to-moderna-vaccine",
+    "source": "The Guardian",
+    "time": "35 mins ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Poll: Trump Approval, Handling Of Coronavirus As Biden Takes Office",
+    "url": "https://www.npr.org/2021/01/19/957869001/poll-most-americans-think-trump-will-be-remembered-as-a-subpar-president",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Covid live updates: U.S. death toll tops 400,000 nearly a year after first \nconfirmed case",
+    "url": "https://www.nbcnews.com/news/us-news/live-blog/2021-01-19-covid-live-updates-vaccine-news-n1254624",
+    "source": "NBC News",
+    "time": "19 mins ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "What we now know \u2014 and don't know \u2014 about the coronavirus variants",
+    "url": "https://www.statnews.com/2021/01/19/coronavirus-variants-transmissibility-disease-reinfection/",
+    "source": "STAT",
+    "time": "5 hours ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.statnews.com"
+  },
+  {
+    "title": "Thousands of Israelis tested positive for coronavirus after first vaccine \nshot",
+    "url": "https://www.haaretz.com/israel-news/thousands-of-israelis-tested-positive-for-coronavirus-after-first-vaccine-shot-1.9462478",
+    "source": "Haaretz",
+    "time": "4 hours ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.haaretz.com"
+  },
+  {
+    "title": "Most Americans say the coronavirus pandemic is out of control, Post-ABC \npoll finds",
+    "url": "https://www.washingtonpost.com/health/covid-poll-pandemic-out-of-control/2021/01/18/e4986a06-598f-11eb-8bcf-3877871c819d_story.html",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2021-01-19 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.washingtonpost.com"
+  }
+]

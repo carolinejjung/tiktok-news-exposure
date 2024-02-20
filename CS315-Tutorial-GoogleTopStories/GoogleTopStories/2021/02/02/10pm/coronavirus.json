@@ -1,0 +1,102 @@
+[
+  {
+    "title": "UK finds more coronavirus cases with 'concerning' mutations",
+    "url": "https://www.bbc.com/news/health-55900625",
+    "source": "BBC News",
+    "time": "9 hours ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Coronavirus Vaccines, Cases and Variants: Covid-19 Latest News",
+    "url": "https://www.nytimes.com/live/2021/02/02/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "35 mins ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-02-02-21/index.html",
+    "source": "CNN",
+    "time": "11 mins ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "NYC Mayoral Candidate Andrew Yang Tests Positive for Coronavirus",
+    "url": "https://people.com/health/andrew-yang-tests-positive-for-coronavirus/",
+    "source": "PEOPLE.com",
+    "time": "31 mins ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "people.com"
+  },
+  {
+    "title": "Coronavirus World Map: Tracking the Global Outbreak",
+    "url": "https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html",
+    "source": "New York Times Australia",
+    "time": "Feb 27, 2020",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "DC-area carjackings rise due to lifestyle changes precipitated by \ncoronavirus",
+    "url": "https://wtop.com/local/2021/02/dc-area-carjackings-rise-due-to-lifestyle-changes-precipitated-by-coronavirus/",
+    "source": "WTOP",
+    "time": "19 mins ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "wtop.com"
+  },
+  {
+    "title": "Live updates: U.S. to start distributing coronavirus vaccines directly to \npharmacies",
+    "url": "https://www.washingtonpost.com/nation/2021/02/02/covid-coronavirus-latest-updates/",
+    "source": "Washington Post",
+    "time": "28 mins ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus is in the air \u2014 there's too much focus on surfaces",
+    "url": "https://www.nature.com/articles/d41586-021-00277-8",
+    "source": "Nature.com",
+    "time": "12 hours ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nature.com"
+  },
+  {
+    "title": "The experts are sounding warnings about coronavirus variants. Here\u2019s what \nyou need to know.",
+    "url": "https://www.bostonglobe.com/2021/02/02/nation/experts-are-sounding-warnings-about-coronavirus-variants-heres-what-you-need-know/",
+    "source": "The Boston Globe",
+    "time": "10 hours ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, February 2: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-february-2-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "13 hours ago",
+    "date": "2021-02-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.seattletimes.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus updates: U.S. deaths top 1,000 for fourth consecutive day",
+    "url": "https://www.washingtonpost.com/nation/2020/07/25/coronavirus-covid-updates/",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Study identifies six different \"types\" of COVID-19",
+    "url": "https://www.cbsnews.com/news/covid-19-symptoms-study-six-different-types/",
+    "source": "CBS News",
+    "time": "18 hours ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "COVID-19 hospitalizations in New York drop to lowest since March 18",
+    "url": "https://www.wivb.com/news/covid-19-hospitalizations-in-new-york-drop-to-lowest-since-march-18/",
+    "source": "WIVB.com",
+    "time": "16 mins ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wivb.com"
+  },
+  {
+    "title": "Long-lasting COVID symptoms from lungs to limbs linger in coronavirus 'long \nhaulers'",
+    "url": "https://www.usatoday.com/in-depth/news/health/2020/07/25/covid-19-long-haulers-fight-months-lingering-symptoms/5420534002/",
+    "source": "USA Today",
+    "time": "2 hours ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Sweden COVID-19 policy condemned, but some say it's too early to judge - \nBusiness Insider",
+    "url": "https://www.businessinsider.com/sweden-covid-19-policy-experts-too-early-judge-2020-7",
+    "source": "Business Insider",
+    "time": "2 hours ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Parents cooperating with health officials after New Jersey teen party leads \nto Covid-19 cluster",
+    "url": "https://www.cnn.com/2020/07/24/us/coronavirus-cluster-nj-teen-party/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "New testing shortages hit California's vulnerable hardest amid record \nCovid-19 infections",
+    "url": "https://www.theguardian.com/us-news/2020/jul/25/california-coronavirus-testing-shortage-minority-low-income",
+    "source": "The Guardian",
+    "time": "4 hours ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Will Texas Shut Down Again Amid Surge in Covid-19 Cases?",
+    "url": "https://www.wsj.com/articles/will-texas-shut-down-again-amid-surge-in-covid-19-cases-11595669400",
+    "source": "The Wall Street Journal",
+    "time": "4 hours ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "The first Phase 3 coronavirus vaccine trial in the US is expected to begin \nnext week. Here's how the vaccine works",
+    "url": "https://www.cnn.com/2020/07/24/health/moderna-vaccine-barney-graham-gupta/index.html",
+    "source": "CNN.com",
+    "time": "12 hours ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus Hot Spots: Could The Mid-Atlantic And Northeast See A COVID-19 \nRebound?",
+    "url": "https://www.npr.org/sections/health-shots/2020/07/24/895144417/coronavirus-hot-spots-could-the-mid-atlantic-and-northeast-see-a-covid-19-reboun",
+    "source": "NPR",
+    "time": "15 hours ago",
+    "date": "2020-07-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

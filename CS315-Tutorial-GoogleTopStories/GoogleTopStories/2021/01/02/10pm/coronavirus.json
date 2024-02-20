@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'This is about total collapse of the health care system if we have another \nspike' of Covid-19",
+    "url": "https://www.cnn.com/2021/01/02/health/us-coronavirus-saturday/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Los Angeles Coronavirus Update: County Surpasses 800,000 Covid-19 Cases & \n10,600 Total Deaths",
+    "url": "https://deadline.com/2021/01/los-angeles-coronavirus-update-county-surpasses-800000-covid-19-cases-10600-total-deaths-1234664052/",
+    "source": "Deadline",
+    "time": "1 hour ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "deadline.com"
+  },
+  {
+    "title": "St.Bonaventure tests positive for coronavirus",
+    "url": "https://www.wivb.com/news/local-news/st-bonaventure-tests-positive-for-coronavirus/",
+    "source": "WIVB.com - News 4",
+    "time": "45 mins ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.wivb.com"
+  },
+  {
+    "title": "New strain of coronavirus found in 3 states, could spread to Michigan",
+    "url": "https://wwmt.com/news/local/new-strain-of-coronavirus-found-in-3-states-could-spread-to-michigan",
+    "source": "WWMT-TV",
+    "time": "1 hour ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "wwmt.com"
+  },
+  {
+    "title": "Larry King Is Hospitalized With Coronavirus",
+    "url": "https://www.nbcconnecticut.com/news/national-international/larry-king-is-hospitalized-with-coronavirus/2394994/",
+    "source": "NBC Connecticut",
+    "time": "1 hour ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Coronavirus pandemic could mean lasting changes for grocery stores",
+    "url": "https://www.wwlp.com/news/health/coronavirus-local-impact/pandemic-could-mean-lasting-changes-for-grocery-stores/",
+    "source": "WWLP.com",
+    "time": "6 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "Contagious Coronavirus Variant Has Spread To Dozens Of Countries : \nCoronavirus Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/02/952842631/new-covid-19-variant-spreads-to-dozens-of-countries",
+    "source": "NPR",
+    "time": "8 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "COVID NYC Update: 49 zip codes in NYC reach 10% COVID positivity rate",
+    "url": "https://abc7ny.com/nyc-covid-coronavirus-updates-update/9280635",
+    "source": "WABC-TV",
+    "time": "11 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Coronavirus vaccine appointment turns into surprise marriage proposal",
+    "url": "https://www.cnn.com/2021/01/02/health/vaccine-engagement-south-dakota/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnn.com"
+  }
+]

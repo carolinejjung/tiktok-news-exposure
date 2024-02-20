@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/16/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "55 mins ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Former Trump appointee encouraged herd immunity strategy for Covid-19, \ninternal emails reveal",
+    "url": "https://www.cnn.com/2020/12/16/politics/trump-administration-herd-immunity/index.html",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Dr. Ben Carson recounts his battle with COVID-19: 'Fevers and chills, \ncouldn't even keep water down'",
+    "url": "https://www.foxnews.com/politics/ben-carson-first-interview-coronavirus-recovery",
+    "source": "Fox News",
+    "time": "24 mins ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Some Vials Of COVID-19 Vaccine Contain Extra Doses, Expanding Supply",
+    "url": "https://www.npr.org/2020/12/16/947386411/some-vials-of-covid-19-vaccine-contain-extra-doses-expanding-supply",
+    "source": "NPR",
+    "time": "27 mins ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Final first-round shipment of COVID-19 vaccine arrive to New Mexico \nHospitals",
+    "url": "https://www.koat.com/article/final-first-round-shipment-of-covid-19-vaccine-arrive-to-new-mexico-hospitals/34994809",
+    "source": "KOAT Albuquerque",
+    "time": "27 mins ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.koat.com"
+  },
+  {
+    "title": "Rep. Joe Wilson tests positive for Covid-19",
+    "url": "https://www.cnn.com/2020/12/16/politics/joe-wilson-covid-19/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Stimulus checks part of looming COVID-19 relief deal as Congress finalizes \nnegotiations",
+    "url": "https://www.usatoday.com/story/news/politics/2020/12/16/covid-stimulus-checks-likely-part-looming-relief-deal-congress/3920832001/",
+    "source": "USA TODAY",
+    "time": "5 hours ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Texas couple of 30 years die of Covid-19 within minutes of one other while \nholding hands",
+    "url": "https://www.nbcnews.com/news/us-news/texas-couple-30-years-die-covid-19-within-minutes-one-n1251475",
+    "source": "NBC News",
+    "time": "1 hour ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Alaskan has allergic reaction after getting Pfizer's COVID-19 vaccine",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-pfizer-allergy/alaskan-has-allergic-reaction-after-getting-pfizers-covid-19-vaccine-idUSKBN28Q2LC",
+    "source": "Reuters",
+    "time": "9 hours ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "White House security director has part of leg amputated after falling \nseverely ill with COVID-19, fundraiser says",
+    "url": "https://abcnews.go.com/Politics/white-house-security-director-part-leg-amputated-falling/story?id=74757679",
+    "source": "ABC News",
+    "time": "6 hours ago",
+    "date": "2020-12-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "abcnews.go.com"
+  }
+]

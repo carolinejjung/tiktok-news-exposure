@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Trump Tests Positive for the Coronavirus",
+    "url": "https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html",
+    "source": "The New York Times",
+    "time": "27 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live Trump Covid-19 Positive Test: Latest Updates",
+    "url": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "16 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "President Trump, first lady test positive for coronavirus, set to \nquarantine at White House",
+    "url": "https://www.foxnews.com/politics/president-trump-confirms-he-first-lady-melania-trump-tested-positive-for-coronavirus",
+    "source": "Fox News",
+    "time": "44 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Trump experiencing 'mild symptoms' after coronavirus diagnosis",
+    "url": "https://www.cnbc.com/2020/10/02/trump-experiencing-mild-symptoms-after-coronavirus-diagnosis.html",
+    "source": "CNBC",
+    "time": "33 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "White House coronavirus adviser Scott Atlas reacts to Trump's coronavirus \ndiagnosis, says 'zero reason to p...",
+    "url": "https://www.foxnews.com/politics/white-house-coronavirus-adviser-dr-atlas-expects-trump-full-rapid-recovery-says-zero-reason-to-panic",
+    "source": "Fox News",
+    "time": "55 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Live updates: Trump says he and first lady have tested positive for the \ncoronavirus",
+    "url": "https://www.washingtonpost.com/nation/2020/10/02/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "14 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Donald Trump's positive coronavirus test puts him in the company of Boris \nJohnson and Jair Bolsonaro",
+    "url": "https://www.cnn.com/2020/10/02/world/leaders-coronavirus-trump-johnson-bolsonaro-intl/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "What A Positive Coronavirus Diagnosis Means For President Trump's Health",
+    "url": "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/02/919436097/what-a-positive-coronavirus-diagnosis-means-for-president-trumps-health",
+    "source": "NPR",
+    "time": "49 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "World leaders react after President Trump and first lady test positive for \ncoronavirus",
+    "url": "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673",
+    "source": "ABC News",
+    "time": "3 hours ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "House passes revised coronavirus relief bill, but it's unlikely to move in \nthe Senate",
+    "url": "https://www.cbsnews.com/news/covid-relief-bill-passes-house-senate-next/",
+    "source": "CBS News",
+    "time": "3 hours ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cbsnews.com"
+  }
+]

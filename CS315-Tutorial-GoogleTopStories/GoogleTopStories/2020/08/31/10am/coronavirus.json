@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "25 mins ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "New Trump pandemic adviser pushes controversial \u2018herd immunity\u2019 strategy, \nworrying public health officials",
+    "url": "https://www.washingtonpost.com/politics/trump-coronavirus-scott-atlas-herd-immunity/2020/08/30/925e68fe-e93b-11ea-970a-64c73a1c2392_story.html",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Hawaii mandates 'Safe Travels' coronavirus screening for travelers",
+    "url": "https://www.foxnews.com/travel/hawaii-mandates-safe-travels-screening-travelers",
+    "source": "Fox News",
+    "time": "49 mins ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Young workers at risk of financial exhaustion due to coronavirus pandemic",
+    "url": "https://www.cnbc.com/2020/08/31/young-workers-at-risk-of-financial-exhaustion-due-to-coronvirus-pandemic.html",
+    "source": "CNBC",
+    "time": "1 hour ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Steamship Authority worker tests positive for coronavirus",
+    "url": "http://turnto10.com/news/local/steamship-authority-worker-tests-positive-for-coronavirus",
+    "source": "Turn to 10",
+    "time": "29 mins ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "US coronavirus cases near 6 million as Birx says don't wait for vaccine to \n'do the right thing'",
+    "url": "https://www.cnn.com/2020/08/31/health/us-coronavirus-monday/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Twitter Removes Claim About CDC And Covid-19 Coronavirus Deaths That Trump \nRetweeted",
+    "url": "https://www.forbes.com/sites/brucelee/2020/08/31/twitter-removes-claim-about-cdc-and-covid-19-coronavirus-deaths-that-trump-retweeted/",
+    "source": "Forbes",
+    "time": "8 hours ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.forbes.com"
+  },
+  {
+    "title": "Bad blood between Pelosi, Meadows complicates coronavirus talks",
+    "url": "https://thehill.com/homenews/house/514211-bad-blood-between-pelosi-meadows-complicates-coronavirus-talks",
+    "source": "The Hill",
+    "time": "4 hours ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Maura Healey plays \u2018Trump\u2019 card in defense of Charlie Baker\u2019s coronavirus \nresponse",
+    "url": "https://www.bostonherald.com/2020/08/30/healey-plays-trump-card-in-defense-of-bakers-coronavirus-response/",
+    "source": "Boston Herald",
+    "time": "13 hours ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "Missouri reports record number of COVID-19 deaths in a single day Saturday",
+    "url": "https://www.kansascity.com/news/coronavirus/article245363550.html",
+    "source": "Kansas City Star",
+    "time": "21 hours ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.kansascity.com"
+  }
+]

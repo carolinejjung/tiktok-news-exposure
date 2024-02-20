@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News and Updates",
+    "url": "https://www.nytimes.com/2020/05/04/us/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "6 hours ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The reopening gamble: Set your timer for three weeks",
+    "url": "https://www.cnn.com/2020/05/04/world/meanwhile-in-america-may-4-intl/index.html",
+    "source": "CNN.com",
+    "time": "6 hours ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-05-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "16 mins ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus live updates: Senators return to Washington, Supreme Court \njustices are streamed live",
+    "url": "https://www.nbcnews.com/health/health-news/live-blog/2020-05-04-coronavirus-news-n1199156",
+    "source": "NBC News",
+    "time": "33 mins ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Eli Manning: For Tom Brady, Buccaneers, 'it's gonna be tough,' and \ncoronavirus partly to blame",
+    "url": "https://www.foxnews.com/sports/eli-manning-tom-brady-buccaneers-tough-coronavirus",
+    "source": "Fox News",
+    "time": "55 mins ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "These Oregon restaurants and bars have closed permanently during \ncoronavirus crisis",
+    "url": "https://www.oregonlive.com/coronavirus/2020/05/oregon-restaurants-and-bars-that-closed-permanent-during-coronavirus-crisis.html",
+    "source": "OregonLive.com",
+    "time": "1 hour ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "Coronavirus Causes Blood Clots Harming Organs From Brain to Toes",
+    "url": "https://www.bloomberg.com/news/articles/2020-05-04/coronavirus-causes-blood-clots-harming-organs-from-brain-to-toes",
+    "source": "Bloomberg",
+    "time": "3 hours ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.bloomberg.com"
+  },
+  {
+    "title": "Protestors demand 'End the shut down now' outside Massachusetts State House",
+    "url": "https://www.bostonherald.com/2020/05/04/protestors-demand-end-the-shut-down-now-outside-massachusetts-state-house/",
+    "source": "Boston Herald",
+    "time": "6 hours ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "Coronavirus in NYC: Cuomo Puts Restaurants in Phase 3 of New York\u2019s \nReopening Plan",
+    "url": "https://ny.eater.com/2020/5/4/21246820/nyc-restaurant-reopening-coronavirus-cuomo-phase-3",
+    "source": "Eater NY",
+    "time": "6 hours ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "ny.eater.com"
+  },
+  {
+    "title": "Why Scientists Think The Novel Coronavirus Developed Naturally \u2014 Not In A \nChinese Lab",
+    "url": "https://fivethirtyeight.com/features/why-scientists-think-the-novel-coronavirus-developed-naturally-not-in-a-chinese-lab/",
+    "source": "FiveThirtyEight",
+    "time": "7 hours ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "fivethirtyeight.com"
+  }
+]

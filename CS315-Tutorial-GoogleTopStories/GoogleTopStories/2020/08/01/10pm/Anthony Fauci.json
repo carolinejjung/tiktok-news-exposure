@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Donald Trump claims Anthony Fauci 'wrong' about cause of Covid-19 surge",
+    "url": "https://www.theguardian.com/us-news/2020/aug/01/trump-covid-19-fauci-cases-testing",
+    "source": "The Guardian",
+    "time": "5 hours ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Tucker Carlson calls Fauci a 'fraud' after tense hearing | TheHill",
+    "url": "https://thehill.com/homenews/media/510118-tucker-carlson-calls-fauci-a-fraud-after-tense-hearing",
+    "source": "TheHill",
+    "time": "9 hours ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "'Wrong!': Trump slams Fauci over testimony on Covid-19 surge",
+    "url": "https://www.politico.com/news/2020/08/01/wrong-trump-rebukes-fauci-in-tweet-390150",
+    "source": "Politico",
+    "time": "5 hours ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.politico.com"
+  }
+]

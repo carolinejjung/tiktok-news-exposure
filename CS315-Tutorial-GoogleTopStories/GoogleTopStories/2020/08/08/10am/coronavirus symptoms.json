@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Even Asymptomatic People Carry the Coronavirus in High Amounts",
+    "url": "https://www.nytimes.com/2020/08/06/health/coronavirus-asymptomatic-transmission.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-08-08 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid-19 patients not showing symptoms may carry just as much virus as \nthose who do, new study finds",
+    "url": "https://www.cnn.com/2020/08/07/health/covid-asymptomatic-transmission-study-wellness/index.html",
+    "source": "CNN.com",
+    "time": "22 hours ago",
+    "date": "2020-08-08 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Your COVID-19 symptoms could be valley fever. Here's what you need to know",
+    "url": "https://www.azcentral.com/story/news/local/arizona-health/2020/08/08/covid-19-has-similar-symptoms-valley-fever-disease-native-az/3290423001/",
+    "source": "The Arizona Republic",
+    "time": "1 hour ago",
+    "date": "2020-08-08 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.azcentral.com"
+  }
+]

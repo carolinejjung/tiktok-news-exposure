@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News",
+    "url": "https://www.nytimes.com/2020/05/21/us/coronavirus-news-tracker.html",
+    "source": "The New York Times",
+    "time": "11 hours ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-21-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "8 mins ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Live updates: Fauci says he hopes White House restores his coronavirus \nupdates to the public",
+    "url": "https://www.washingtonpost.com/nation/2020/05/21/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "19 mins ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Bay Area doctors seeing more suicides during coronavirus stay-at-home order",
+    "url": "https://www.foxnews.com/us/bay-area-doctors-seeing-more-suicides-coronavirus-stay-at-home-order",
+    "source": "Fox News",
+    "time": "28 mins ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Eighth Amazon warehouse worker dies of coronavirus | TheHill",
+    "url": "https://thehill.com/policy/technology/499095-eighth-amazon-warehouse-worker-dies-of-coronavirus",
+    "source": "TheHill",
+    "time": "47 mins ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "China decides not to set a GDP target for 2020 as coronavirus batters the \neconomy",
+    "url": "https://www.cnbc.com/2020/05/22/china-will-not-set-gdp-target-for-2020-as-coronavirus-batters-economy.html",
+    "source": "CNBC.com",
+    "time": "55 mins ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Earlier coronavirus lockdown 'could have saved 36,000 lives'",
+    "url": "https://www.bbc.com/news/amp/world-us-canada-52757150",
+    "source": "BBC",
+    "time": "2 hours ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Fox News Poll: Biden more trusted on coronavirus, Trump on economy",
+    "url": "https://www.foxnews.com/politics/fox-news-poll-biden-more-trusted-on-coronavirus-trump-on-economy",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus face masks: Some patients refuse to wear them",
+    "url": "https://www.vox.com/2020/5/21/21266413/coronavirus-face-masks-trump-cdc-n95",
+    "source": "Vox",
+    "time": "6 hours ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.vox.com"
+  },
+  {
+    "title": "R.I. reports 18 coronavirus deaths, 189 new cases; Raimondo lays out rules \nfor summer camp",
+    "url": "https://www.providencejournal.com/news/20200521/ri-reports-18-coronavirus-deaths-189-new-cases-raimondo-lays-out-rules-for-summer-camp",
+    "source": "Providence Journal",
+    "time": "9 hours ago",
+    "date": "2020-05-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.providencejournal.com"
+  }
+]

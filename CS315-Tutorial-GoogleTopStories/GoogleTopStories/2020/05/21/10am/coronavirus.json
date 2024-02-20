@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/05/21/us/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "36 mins ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus pandemic in the US: Live updates",
+    "url": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-21-20/index.html",
+    "source": "CNN.com",
+    "time": "25 mins ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Existing-home sales plummet 18% in April as the coronavirus pandemic \nstymies real-estate activity",
+    "url": "https://www.marketwatch.com/story/existing-home-sales-plummet-18-in-april-as-the-coronavirus-pandemic-stymies-real-estate-activity-2020-05-21",
+    "source": "MarketWatch",
+    "time": "10 mins ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Live updates: Global cases top 5 million as WHO reports worst day yet for \nnew infections",
+    "url": "https://www.washingtonpost.com/nation/2020/05/21/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "18 mins ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Beach Goers Will Face Restrictions: Live Updates",
+    "url": "https://www.nytimes.com/2020/05/21/nyregion/coronavirus-new-york-update.html",
+    "source": "The New York Times",
+    "time": "26 mins ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: CDC chief issues stark warning on possible second \nwave and more lockdowns as global cases top 5 million",
+    "url": "https://www.usatoday.com/story/news/health/2020/05/21/coronavirus-updates-unemployment-claims-cdc-guidelines-global-cases/5230099002/",
+    "source": "USATODAY.com",
+    "time": "56 mins ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Coronavirus Case Count Tops Five Million World-Wide",
+    "url": "https://www.wsj.com/articles/coronavirus-latest-news-05-21-2020-11590043161",
+    "source": "The Wall Street Journal",
+    "time": "59 mins ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "At least 4 states combined numbers from two tests, possibly providing a \nmisleading picture of coronavirus spread",
+    "url": "https://www.cnn.com/2020/05/21/health/us-coronavirus-thursday/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Former White House employee who served 11 presidents dies of coronavirus at \n91",
+    "url": "https://www.nbcnews.com/news/obituaries/former-white-house-employee-who-served-11-presidents-dies-coronavirus-n1211681",
+    "source": "NBC News",
+    "time": "2 hours ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Coronavirus live updates: Worldwide cases exceed 5 million",
+    "url": "https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php",
+    "source": "San Francisco Chronicle",
+    "time": "3 hours ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.sfchronicle.com"
+  }
+]

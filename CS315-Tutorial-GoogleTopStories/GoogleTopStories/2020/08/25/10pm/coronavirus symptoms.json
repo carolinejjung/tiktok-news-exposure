@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Some have no COVID symptoms: Could the common cold be a reason?",
+    "url": "https://abcnews.go.com/Health/covid-symptoms-common-cold-reason/story?id=72442666",
+    "source": "ABC News",
+    "time": "3 days ago",
+    "date": "2020-08-25 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Two Boise girls have battled COVID-19 symptoms for 5 months. \u2018What\u2019s the \nnext thing?\u2019",
+    "url": "https://www.idahostatesman.com/news/coronavirus/article245058505.html",
+    "source": "Idaho Statesman",
+    "time": "1 day ago",
+    "date": "2020-08-25 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.idahostatesman.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: C.D.C. Changes Testing Guidance to Exclude People \nWithout Symptoms, Worrying Experts",
+    "url": "https://www.nytimes.com/2020/08/25/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "8 mins ago",
+    "date": "2020-08-25 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

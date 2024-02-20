@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Live Covid-19 Updates",
+    "url": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html",
+    "source": "The New York Times",
+    "time": "55 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: CDC director says South turning the tide as college parties \nfuel coronavirus concerns",
+    "url": "https://www.washingtonpost.com/nation/2020/08/20/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "21 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Former Secretary of State James Baker tests positive for coronavirus",
+    "url": "https://www.cnn.com/2020/08/20/politics/james-baker-coronavirus-positive/index.html",
+    "source": "CNN",
+    "time": "35 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Sturgis motorcycle rally attendees test positive for coronavirus",
+    "url": "https://nypost.com/2020/08/20/sturgis-motorcycle-rally-attendees-test-positive-for-coronavirus/",
+    "source": "New York Post",
+    "time": "16 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Versiti Now Testing Coronavirus Antibodies for All Blood Donors - 9 & 10 \nNews",
+    "url": "https://www.9and10news.com/2020/08/20/versiti-now-testing-coronavirus-antibodies-for-all-blood-donors/",
+    "source": "9&10 News",
+    "time": "52 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.9and10news.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Rapid Testing Falters in People Without Symptoms: Study",
+    "url": "https://www.nytimes.com/2020/11/02/health/coronavirus-testing-quidel-sofia.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-11-03 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Is It a Cold, the Flu, Allergies, or COVID-19?",
+    "url": "https://www.webmd.com/lung/news/20201102/is-it-a-cold-the-flu-allergies-or-covid-19",
+    "source": "WebMD",
+    "time": "18 hours ago",
+    "date": "2020-11-03 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.webmd.com"
+  },
+  {
+    "title": "Colorado hiker with symptoms similar to COVID-19 diagnosed with rare disease",
+    "url": "https://fox8.com/news/colorado-hiker-with-symptoms-similar-to-covid-19-diagnosed-with-rare-disease/",
+    "source": "fox8.com",
+    "time": "3 hours ago",
+    "date": "2020-11-03 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "fox8.com"
+  }
+]

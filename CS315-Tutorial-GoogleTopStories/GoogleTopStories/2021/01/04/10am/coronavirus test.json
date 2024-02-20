@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Dodger Stadium coronavirus testing site to reopen Monday",
+    "url": "https://www.latimes.com/california/story/2021-01-03/dodger-stadium-coronavirus-testing-site-reopen-monday-complaints-neighbors",
+    "source": "Los Angeles Times",
+    "time": "18 hours ago",
+    "date": "2021-01-04 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.latimes.com"
+  },
+  {
+    "title": "UC San Diego installs coronavirus test kit vending machines",
+    "url": "https://ktla.com/news/uc-san-diego-installs-coronavirus-test-kit-vending-machines/",
+    "source": "KTLA",
+    "time": "8 hours ago",
+    "date": "2021-01-04 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "ktla.com"
+  },
+  {
+    "title": "Salem Public Schools offers free COVID testing for all students, staff \nprior to return to school in January",
+    "url": "https://www.masslive.com/coronavirus/2021/01/salem-public-schools-offers-free-covid-testing-for-all-students-staff-prior-to-return-to-school-in-january.html",
+    "source": "masslive.com",
+    "time": "1 hour ago",
+    "date": "2021-01-04 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.masslive.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pennsylvania COVID-19 Vaccines",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx",
+    "source": "Governor.Pa.gov",
+    "time": "1 week ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.health.pa.gov"
+  },
+  {
+    "title": "Covid-19 Live News and Updates",
+    "url": "https://www.nytimes.com/live/2021/01/26/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Biden administration orders 200 million more doses of Covid-19 vaccines",
+    "url": "https://www.nbcnews.com/politics/white-house/biden-administration-orders-additional-200-million-doses-covid-19-vaccine-n1255744",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "South Korea reports big jump in COVID-19 cases on outbreaks in Christian \nschools",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-southkorea/south-korea-reports-big-jump-in-covid-19-cases-on-outbreaks-in-christian-schools-idUSKBN29W0A5",
+    "source": "Reuters UK",
+    "time": "9 mins ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Idaho\u2019s daily COVID-19 case average is down nearly 70% from its December \npeak",
+    "url": "https://www.idahostatesman.com/news/coronavirus/article248772275.html",
+    "source": "Idaho Statesman",
+    "time": "12 mins ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.idahostatesman.com"
+  },
+  {
+    "title": "Thousands are dying from COVID-19. Deborah Birx wants to save her reputation",
+    "url": "https://www.bostonglobe.com/2021/01/26/opinion/thousands-are-dying-covid-19-deborah-birx-wants-save-her-reputation/",
+    "source": "The Boston Globe",
+    "time": "6 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Does wearing two masks help prevent COVID-19 transmission? Dr. Fauci has an \nanswer",
+    "url": "https://www.marketwatch.com/story/dr-fauci-double-masking-is-common-sense-to-prevent-covid-19-transmission-2021-01-26",
+    "source": "MarketWatch",
+    "time": "8 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Documents you need to receive a COVID-19 vaccine at Eastfield Mall",
+    "url": "https://www.wwlp.com/news/local-news/hampden-county/documents-you-need-to-receive-a-covid-19-vaccine-at-eastfield-mall/",
+    "source": "WWLP.com",
+    "time": "5 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "New Playbook for Covid-19 Protection Emerges After Year of Study, Missteps",
+    "url": "https://www.wsj.com/articles/new-playbook-for-covid-19-protection-emerges-after-year-of-study-missteps-11611680950",
+    "source": "The Wall Street Journal",
+    "time": "10 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Florida's Vaccine Rollout Rife With Snags And Inequities",
+    "url": "https://www.npr.org/2021/01/26/960884698/floridas-vaccine-rollout-rife-with-snags-and-inequities",
+    "source": "NPR",
+    "time": "4 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

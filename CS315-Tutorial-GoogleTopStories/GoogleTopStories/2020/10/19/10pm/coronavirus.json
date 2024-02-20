@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Updates: The Latest Globally",
+    "url": "https://www.nytimes.com/live/2020/10/19/world/covid-coronavirus",
+    "source": "The New York Times",
+    "time": "49 mins ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-19-20-intl/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "California plans to review coronavirus vaccine independently | TheHill",
+    "url": "https://thehill.com/homenews/state-watch/521798-california-plans-to-review-coronavirus-vaccine-independently",
+    "source": "The Hill",
+    "time": "32 mins ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Polish gym declares itself a church to avoid coronavirus restrictions",
+    "url": "https://nypost.com/2020/10/19/polish-gym-declares-itself-a-church-to-avoid-coronavirus-restrictions/",
+    "source": "New York Post",
+    "time": "42 mins ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Texas woman died of coronavirus 'on the jetway' on flight from Arizona",
+    "url": "https://www.nbcnews.com/news/us-news/texas-woman-died-coronavirus-jetway-flight-arizona-n1243957",
+    "source": "NBC News",
+    "time": "1 hour ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Trump rips Biden and Fauci for coronavirus 'bad calls' and again suggests \nthe pandemic nearly over",
+    "url": "https://news.yahoo.com/trump-rips-biden-and-fauci-232958064.html",
+    "source": "Yahoo News",
+    "time": "2 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "Daily coronavirus updates: Connecticut will change travel advisory rules so \nfewer states meet threshold for restrictions",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-1019-20201019-ff2xvbw77zgjhie6w6a7xojwfu-story.html",
+    "source": "Hartford Courant",
+    "time": "3 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.courant.com"
+  },
+  {
+    "title": "Miami strip club victorious in coronavirus curfew legal battle",
+    "url": "https://www.foxnews.com/us/miami-strip-club-coronavirus-curfew-lawsuit",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "McConnell's $500B skinny stimulus includes more unemployment, \ncoronavirus-liability protections",
+    "url": "https://www.foxbusiness.com/politics/mcconnell-skinny-stimulus-extended-unemployment-covid-liability-protections",
+    "source": "Fox Business",
+    "time": "5 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Pelosi and Mnuchin make progress in stimulus talks, plan to speak again \nTuesday",
+    "url": "https://www.cnbc.com/2020/10/19/coronavirus-stimulus-pelosi-and-mnuchin-discuss-relief-bill.html",
+    "source": "CNBC",
+    "time": "5 hours ago",
+    "date": "2020-10-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

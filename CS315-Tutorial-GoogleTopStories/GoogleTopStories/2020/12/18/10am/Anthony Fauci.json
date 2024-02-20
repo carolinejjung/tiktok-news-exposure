@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Vice President Mike Pence gets Covid vaccine, Fauci says 'I'm ready to go'",
+    "url": "https://www.cnbc.com/2020/12/18/dr-fauci-hopes-to-get-the-covid-vaccine-next-week-pence-was-immunized-friday.html",
+    "source": "CNBC",
+    "time": "1 hour ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Fauci insists there's no need to cancel Christmas during pandemic",
+    "url": "https://nypost.com/2020/12/17/fauci-says-canceling-christmas-during-pandemic-is-nonsense/",
+    "source": "New York Post",
+    "time": "12 hours ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Fauci urges Americans to 'step to the plate' and get vaccinated | TheHill",
+    "url": "https://thehill.com/homenews/administration/530804-fauci-urges-americans-to-step-to-the-plate-and-get-vaccinated",
+    "source": "The Hill",
+    "time": "1 hour ago",
+    "date": "2020-12-18 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "thehill.com"
+  }
+]

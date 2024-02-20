@@ -1,0 +1,32 @@
+[
+  {
+    "title": "\u2018Scary to Go to Work\u2019: White House Races to Contain Virus in Its Ranks",
+    "url": "https://www.nytimes.com/2020/05/10/us/politics/white-house-coronavirus-trump.html",
+    "source": "The New York Times",
+    "time": "9 hours ago",
+    "date": "2020-05-10 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Few positive coronavirus antibodies tests among MLB employees",
+    "url": "https://www.espn.com/mlb/story/_/id/29158392/few-positive-coronavirus-tests-mlb-employees",
+    "source": "ESPN.com",
+    "time": "5 hours ago",
+    "date": "2020-05-10 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Tennessee Sen. Lamar Alexander to self-quarantine for 14 days after staffer \ntests positive for coronavirus",
+    "url": "https://www.usatoday.com/story/news/politics/2020/05/10/coronavirus-lamar-alexander-tennessee-sentator-self-quarantine/3106750001/",
+    "source": "USATODAY.com",
+    "time": "1 hour ago",
+    "date": "2020-05-10 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  }
+]

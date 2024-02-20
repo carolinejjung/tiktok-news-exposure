@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Global News: Live Tracker",
+    "url": "https://www.nytimes.com/live/2020/10/09/world/covid-coronavirus",
+    "source": "The New York Times",
+    "time": "18 mins ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Chris Christie entering second week in hospital for COVID-19",
+    "url": "https://nypost.com/2020/10/09/chris-christie-entering-second-week-in-hospital-for-covid-19/",
+    "source": "New York Post",
+    "time": "3 hours ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "After 21 days, Umatilla County is back on the COVID-19 watchlist",
+    "url": "https://www.opb.org/article/2020/10/10/umatilla-county-coronavirus-watchlist/",
+    "source": "OPB News",
+    "time": "18 mins ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.opb.org"
+  },
+  {
+    "title": "Individual at Ottawa Shepherd Middle School tests positive for COVID-19",
+    "url": "https://www.mywebtimes.com/2020/10/10/individual-at-ottawa-shepherd-middle-school-tests-positive-for-covid-19/adak444/",
+    "source": "MyWebTimes.com",
+    "time": "21 mins ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.mywebtimes.com"
+  },
+  {
+    "title": "COVID-19 has claimed far more lives than vehicle crashes in Knox County \nthis year",
+    "url": "https://www.knoxnews.com/story/news/2020/10/10/knox-county-covid-19-deaths-far-outpace-average-traffic-fatalities/5922044002/",
+    "source": "Knoxville News Sentinel",
+    "time": "14 mins ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.knoxnews.com"
+  },
+  {
+    "title": "Trump says he's 'medication free,' details COVID-19 recovery in first \non-camera interview since diagnosis",
+    "url": "https://www.foxnews.com/politics/trump-medication-free-covid-19-recovery-tucker-carlson",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "South Carolina US Senate debate changes format after Lindsey Graham refuses \nto take Covid-19 test",
+    "url": "https://www.cnn.com/2020/10/09/politics/south-carolina-debate-lindsey-graham-jamie-harrison/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump fuels and frustrates COVID-19 relief talks | TheHill",
+    "url": "https://thehill.com/homenews/house/520440-trump-fuels-and-frustrates-covid-19-relief-talks",
+    "source": "The Hill",
+    "time": "4 hours ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Covid-19: Father shares antibodies after daughter's death",
+    "url": "https://www.bbc.com/news/uk-england-tyne-54481365",
+    "source": "BBC News",
+    "time": "2 hours ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Coronavirus claims lives of six members of one family, infects 16 others",
+    "url": "https://www.nbcnews.com/news/us-news/coronavirus-claims-lives-six-members-one-family-infects-14-others-n1242738",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-10-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcnews.com"
+  }
+]

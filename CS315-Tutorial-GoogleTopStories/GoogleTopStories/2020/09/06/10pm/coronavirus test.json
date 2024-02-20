@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 Live Updates: New York Goes a Month With a Positivity Rate of \nUnder 1 Percent",
+    "url": "https://www.nytimes.com/2020/09/06/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "8 mins ago",
+    "date": "2020-09-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Utah coronavirus patients experience long-term effects from COVID-19",
+    "url": "https://www.sltrib.com/news/2020/09/06/utah-coronavirus-patients/",
+    "source": "Salt Lake Tribune",
+    "time": "12 hours ago",
+    "date": "2020-09-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.sltrib.com"
+  },
+  {
+    "title": "Onondaga County reports 14 new coronavirus cases; positive test rate \nremains under 1 percent",
+    "url": "https://www.syracuse.com/coronavirus/2020/09/onondaga-county-reports-14-new-coronavirus-cases-positive-test-rate-remains-under-1-percent.html",
+    "source": "syracuse.com",
+    "time": "1 hour ago",
+    "date": "2020-09-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.syracuse.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Testing Starts At Boston Logan Airport",
+    "url": "https://www.wbur.org/bostonomix/2020/10/28/covid-testing-boston-logan-airport",
+    "source": "WBUR",
+    "time": "4 hours ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.wbur.org"
+  },
+  {
+    "title": "SUNY will test all students for COVID-19 before they go home for \nThanksgiving",
+    "url": "https://nypost.com/2020/10/27/suny-students-must-test-negative-for-covid-19-to-go-home-for-thanksgiving/",
+    "source": "New York Post",
+    "time": "1 day ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Sewage testing shows a country flush with coronavirus cases",
+    "url": "https://www.cnn.com/2020/10/28/health/covid-sewage-testing-spike/index.html",
+    "source": "CNN",
+    "time": "29 mins ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

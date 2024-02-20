@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Live U.S. updates: Coronavirus deaths in U.S. will rise to 3,000 daily by \nJune 1, draft government report projects",
+    "url": "https://www.washingtonpost.com/nation/2020/05/04/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "16 mins ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus live updates: 2.1% of people infected in SF Mission District \nstudy; over half had no symptoms",
+    "url": "https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php",
+    "source": "San Francisco Chronicle",
+    "time": "2 hours ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.sfchronicle.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-05-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "4 mins ago",
+    "date": "2020-05-04 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

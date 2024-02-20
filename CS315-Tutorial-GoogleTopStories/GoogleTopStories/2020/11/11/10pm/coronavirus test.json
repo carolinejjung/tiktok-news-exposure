@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Travel and Coronavirus Testing: Your Questions Answered",
+    "url": "https://www.nytimes.com/article/virus-covid-travel-questions.html",
+    "source": "The New York Times",
+    "time": "6 hours ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "This $1 made-in-Africa Covid-19 test kit could revolutionize testing on the \ncontinent",
+    "url": "https://www.cnn.com/2020/11/10/africa/senegal-coronavirus-rapid-testing-spc-intl/index.html",
+    "source": "CNN",
+    "time": "22 hours ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Lines, Lines, and More Lines: Connecticut Residents Wait for COVID-19 Tests",
+    "url": "https://www.nbcconnecticut.com/news/local/lines-lines-and-more-lines-connecticut-residents-wait-for-covid-19-tests/2358559/",
+    "source": "NBC Connecticut",
+    "time": "1 hour ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcconnecticut.com"
+  }
+]

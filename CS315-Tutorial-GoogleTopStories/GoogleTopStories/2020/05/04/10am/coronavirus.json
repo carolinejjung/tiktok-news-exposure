@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest News and Updates",
+    "url": "https://www.nytimes.com/2020/05/03/us/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus Live Updates: Trump Accuses China of a Cover-Up",
+    "url": "https://www.nytimes.com/2020/05/04/us/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "13 mins ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Piers Morgan steps back from TV after developing coronavirus symptom",
+    "url": "http://www.nbcnews.com/news/world/piers-morgan-steps-back-tv-after-developing-coronavirus-symptom-n1199346",
+    "source": "NBC News",
+    "time": "2 mins ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-04-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "2 mins ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: J.Crew files for Chapter 11 bankruptcy",
+    "url": "https://www.nydailynews.com/news/national/ny-coronavirus-j-crew-files-for-bankruptcy-20200504-x23epqwd6ndinkhvukbevtv5te-story.html",
+    "source": "NY Daily News",
+    "time": "9 mins ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nydailynews.com"
+  },
+  {
+    "title": "Dogs are now being trained to smell coronavirus in US patients",
+    "url": "https://www.foxnews.com/science/dogs-trained-smell-coronavirus-in-us-patients",
+    "source": "Fox News",
+    "time": "53 mins ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Experts caution 'covid slide' looming for children out of school",
+    "url": "https://www.cnn.com/2020/05/04/us/coronavirus-education-online-school-slide-wellness/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "WHO envoy warns coronavirus vaccine may never be developed",
+    "url": "https://nypost.com/2020/05/04/who-envoy-warns-coronavirus-vaccine-may-never-be-developed/",
+    "source": "New York Post",
+    "time": "1 hour ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus updates: COVID-19 was present in Europe in December, doctor \nclaims",
+    "url": "https://abcnews.go.com/Health/coronavirus-updates-italy-cautiously-emerges-worlds-longest-lockdown/story?id=70484662",
+    "source": "ABC News",
+    "time": "1 hour ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "This Restaurant's \"Exhausting\" List Of Coronavirus Procedures Shows How \nHard It Is To Reopen",
+    "url": "https://www.buzzfeednews.com/article/tasneemnashrulla/coronavirus-tennessee-restaurants-reopen-guidelines",
+    "source": "BuzzFeed News",
+    "time": "2 hours ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.buzzfeednews.com"
+  }
+]

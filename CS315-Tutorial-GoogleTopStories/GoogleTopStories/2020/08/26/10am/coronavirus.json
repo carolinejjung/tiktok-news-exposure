@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "36 mins ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Updated CDC guidelines now say people exposed to coronavirus may not need \nto be tested",
+    "url": "https://www.cnn.com/2020/08/26/health/cdc-guidelines-coronavirus-testing/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Dr. Scott Gottlieb: 'This is really a 2020 event' provided U.S. stays \nvigilant on coronavirus",
+    "url": "https://www.cnbc.com/2020/08/26/scott-gottlieb-warns-of-coronavirus-spike-hopes-covid-is-2020-event.html",
+    "source": "CNBC",
+    "time": "37 mins ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Lufthansa requiring negative coronavirus test to fly without a mask",
+    "url": "https://www.foxnews.com/travel/lufthansa-negative-coronavirus-test-fly-mask",
+    "source": "Fox News",
+    "time": "46 mins ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "March on Washington 2020: What to expect, how to stay safe amid the \ncoronavirus pandemic",
+    "url": "https://www.usatoday.com/story/news/nation/2020/08/26/march-washington-2020-how-attend-coronavirus-precautions/5599349002/",
+    "source": "USA TODAY",
+    "time": "10 mins ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.usatoday.com"
+  }
+]

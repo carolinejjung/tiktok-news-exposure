@@ -1,0 +1,32 @@
+[
+  {
+    "title": "White House Opposes Expanded Coronavirus Testing, Complicating Stimulus \nTalks",
+    "url": "https://www.nytimes.com/2020/10/16/business/white-house-coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "16 hours ago",
+    "date": "2020-10-17 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "CDC denounces 'unethical and illegal' mandatory coronavirus testing in \nschools",
+    "url": "https://www.politico.com/news/2020/10/15/cdc-mandatory-school-testing-429667",
+    "source": "Politico",
+    "time": "1 day ago",
+    "date": "2020-10-17 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "UK to carry out a million COVID tests a day by Christmas, scientists predict",
+    "url": "https://sports.yahoo.com/uk-coronavirus-testing-christmas-test-and-trace-123512738.html",
+    "source": "Yahoo Sports",
+    "time": "1 hour ago",
+    "date": "2020-10-17 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "sports.yahoo.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/03/world/covid19-coronavirus",
+    "source": "The New York Times",
+    "time": "35 mins ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'Growing body of evidence' shows COVID-19 leaked from Chinese lab: US \nofficial",
+    "url": "https://nypost.com/2021/01/02/growing-body-of-evidence-shows-covid-19-leaked-from-chinese-lab-us-official/",
+    "source": "New York Post",
+    "time": "13 hours ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Fauci pushes back on Trump on COVID-19 'exaggerated' remarks: 'The deaths \nare real deaths' | TheHill",
+    "url": "https://thehill.com/homenews/sunday-talk-shows/532403-fauci-pushes-back-on-trump-calling-coronavirus-numbers-far",
+    "source": "The Hill",
+    "time": "37 mins ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "New, more diverse Congress to be sworn in as COVID rages, Trump \nadministration nears end",
+    "url": "https://www.usatoday.com/story/news/politics/2021/01/03/congress-house-senate-members-sworn-covid-19-rages/6410063002/",
+    "source": "USA TODAY",
+    "time": "1 hour ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "North Carolina builds field hospital for COVID-19 patients",
+    "url": "https://www.wwlp.com/news/north-carolina-builds-field-hospital-for-covid-19-patients/",
+    "source": "WWLP.com",
+    "time": "6 mins ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "Coronavirus live updates: US reports nearly 300,000 new cases in all-time \nhigh",
+    "url": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=74930140",
+    "source": "ABC News",
+    "time": "3 hours ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Dozens of COVID-19 cases linked to Christmas Eve gatherings at Woburn church",
+    "url": "https://www.bostonglobe.com/2021/01/02/metro/dozens-covid-19-cases-linked-christmas-eve-gatherings-woburn-church/",
+    "source": "The Boston Globe",
+    "time": "19 hours ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Larry King has been hospitalized with Covid-19",
+    "url": "https://www.cnn.com/2021/01/02/media/larry-king-covid-19/index.html",
+    "source": "CNN",
+    "time": "15 hours ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Hospitals on high alert for new, more contagious COVID-19 strain",
+    "url": "https://www.cbsnews.com/news/new-covid-strain-contagious-hospitals-high-alert/",
+    "source": "CBS News",
+    "time": "2 hours ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-03-21/index.html",
+    "source": "CNN.com",
+    "time": "11 mins ago",
+    "date": "2021-01-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.cnn.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/06/09/world/coronavirus-us-usa.html",
+    "source": "The New York Times",
+    "time": "8 hours ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Hospitalizations in at least nine states are on the rise; \nU.S. nears 2 million cases",
+    "url": "https://www.washingtonpost.com/nation/2020/06/09/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "9 mins ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Brazil restores coronavirus data after controversy, court ruling",
+    "url": "https://www.aljazeera.com/news/2020/06/brazil-restores-coronavirus-data-controversy-court-ruling-200610004935354.html",
+    "source": "Al Jazeera",
+    "time": "26 mins ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Coronavirus hospitalizations rise sharply in several states following \nMemorial Day",
+    "url": "https://www.washingtonpost.com/health/2020/06/09/coronavirus-hospitalizations-rising/",
+    "source": "Washington Post",
+    "time": "34 mins ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Navy study finds 1 in 5 sailors tested for coronavirus antibodies on \ncarrier were asymptomatic",
+    "url": "https://abcnews.go.com/Politics/navy-study-finds-sailors-tested-coronavirus-antibodies-carrier/story?id=71162182",
+    "source": "ABC News",
+    "time": "42 mins ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "N.J. coronavirus stay-at-home order lifted by Murphy as state reopening \nmoves forward",
+    "url": "https://www.nj.com/coronavirus/2020/06/nj-coronavirus-stay-at-home-order-lifted-by-murphy-as-state-reopening-moves-forward.html",
+    "source": "NJ.com",
+    "time": "3 hours ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "WHO clarifies comments on asymptomatic spread of coronavirus: 'There's much \nunknown'",
+    "url": "https://www.cnn.com/2020/06/09/health/who-coronavirus-asymptomatic-spread-bn/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "23andMe study suggests blood type affects coronavirus susceptibility",
+    "url": "https://nypost.com/2020/06/09/blood-type-may-affect-coronavirus-susceptibility-23andme-study/",
+    "source": "New York Post",
+    "time": "6 hours ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Dr. Anthony Fauci says coronavirus turned 'out to be my worst nightmare' \nand it 'isn't over'",
+    "url": "https://www.cnbc.com/2020/06/09/dr-anthony-fauci-says-coronavirus-turned-out-to-be-my-worst-nightmare-and-it-isnt-over.html",
+    "source": "CNBC.com",
+    "time": "7 hours ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "One blood type may provide some coronavirus protection, study suggests",
+    "url": "https://www.foxnews.com/health/blood-type-coronavirus-protection-study",
+    "source": "Fox News",
+    "time": "7 hours ago",
+    "date": "2020-06-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

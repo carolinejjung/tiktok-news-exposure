@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Massachusetts coronavirus deaths rise 9, cases up 235, positive test rate \nstays at 0.8%",
+    "url": "https://www.bostonherald.com/2020/09/14/massachusetts-coronavirus-deaths-rise-9-cases-up-235-positive-test-rate-stays-at-0-8/",
+    "source": "Boston Herald",
+    "time": "6 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "At Least 25 Indian Lawmakers Test Positive For Coronavirus As Parliament \nReopens",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/14/912691532/at-least-25-indian-lawmakers-test-positive-for-coronavirus-as-parliament-reopens",
+    "source": "NPR",
+    "time": "9 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Coronavirus testing plummets in Oregon amid historic wildfires",
+    "url": "https://www.oregonlive.com/coronavirus/2020/09/coronavirus-testing-plummets-in-oregon-amid-historic-wildfires.html",
+    "source": "oregonlive.com",
+    "time": "17 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.oregonlive.com"
+  }
+]

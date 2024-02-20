@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus live updates: Quest reportedly warns it won't be able to meet \ntesting demand in the fall",
+    "url": "https://www.cnbc.com/2020/07/21/coronavirus-live-updates.html",
+    "source": "CNBC.com",
+    "time": "2 hours ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "The surge in US cases has left labs overwhelmed and Covid-19 tests delayed",
+    "url": "https://www.cnn.com/2020/07/21/health/us-coronavirus-tuesday/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: Test plea to drinkers in three Carlisle pubs",
+    "url": "https://www.bbc.com/news/uk-england-cumbria-53489400?intlink_from_url=https://www.bbc.com/news/coronavirus&link_location=live-reporting-story",
+    "source": "BBC.com",
+    "time": "17 mins ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.bbc.com"
+  }
+]

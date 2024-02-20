@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Some Doctors Pull Back on Using Ventilators to Treat Covid-19",
+    "url": "https://www.wsj.com/articles/some-doctors-pull-back-on-using-ventilators-to-treat-covid-19-11589103001",
+    "source": "The Wall Street Journal",
+    "time": "4 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Study shows Covid-19 patients who took heartburn drug were less likely to \ndie, but researchers caution more research is needed",
+    "url": "https://www.cnn.com/2020/05/09/health/famotidine-covid-19-correlation-study/index.html",
+    "source": "CNN.com",
+    "time": "15 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Virginia May 10 COVID-19 update: 876 confirmed cases with 12 new deaths",
+    "url": "https://www.wavy.com/news/health/coronavirus/virginia-may-10-covid-19-update-876-confirmed-cases-with-12-new-deaths/",
+    "source": "WAVY.com",
+    "time": "1 hour ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wavy.com"
+  },
+  {
+    "title": "The Four Men Responsible For America\u2019s COVID-19 Test Disaster",
+    "url": "https://www.rollingstone.com/politics/politics-features/covid-19-test-trump-admin-failed-disaster-995930/",
+    "source": "Rolling Stone",
+    "time": "2 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.rollingstone.com"
+  },
+  {
+    "title": "Obama: Trump\u2019s administration has been a disaster during Covid-19 pandemic",
+    "url": "https://en.as.com/en/2020/05/10/other_sports/1589073210_729617.html",
+    "source": "AS English - Diario AS",
+    "time": "13 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "en.as.com"
+  },
+  {
+    "title": "Health officials encourage more Minnesotans to seek testing for COVID-19",
+    "url": "https://www.startribune.com/health-officials-encourage-more-minnesotans-to-seek-testing-for-covid-19/570343811/",
+    "source": "Star Tribune",
+    "time": "13 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "Fauci becomes third member of White House coronavirus task force to enter \nquarantine",
+    "url": "https://www.nbcnews.com/news/us-news/cdc-director-self-quarantine-after-exposure-white-house-aide-covid-n1203851",
+    "source": "NBC News",
+    "time": "13 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Mysterious Coronavirus Illness Claims 3 Children in New York",
+    "url": "https://www.nytimes.com/2020/05/09/health/mysterious-coronavirus-illness-claims-3-children-in-new-york.html",
+    "source": "The New York Times",
+    "time": "14 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "For Most States, At Least A Third Of COVID-19 Deaths Are In Long-Term Care \nFacilities",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/05/09/853182496/for-most-states-at-least-a-third-of-covid-19-deaths-are-in-long-term-care-facili",
+    "source": "NPR",
+    "time": "15 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "138 new COVID-19 deaths reported in Massachusetts; 1,410 new cases confirmed",
+    "url": "https://www.wcvb.com/article/massachusetts-covid-19-cornonavirus-numbers-daily-update-may-9-2020/32424715",
+    "source": "WCVB Boston",
+    "time": "15 hours ago",
+    "date": "2020-05-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wcvb.com"
+  }
+]

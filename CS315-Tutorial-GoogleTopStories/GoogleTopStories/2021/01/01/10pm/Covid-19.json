@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: 32 More Countries Have Found the More Contagious Virus \nVariant First Seen in Britain",
+    "url": "https://www.nytimes.com/live/2021/01/01/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: On first day of 2021, US records its 20 millionth \ncase; Turkey confirms 15 new cases of new strain",
+    "url": "https://www.usatoday.com/story/news/nation/2021/01/01/covid-news-times-square-2020-quiet-vaccine-damaged-wisconsin/4106926001/",
+    "source": "USA TODAY",
+    "time": "3 hours ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Virginia state Sen. Chafin dies from COVID-19 complications",
+    "url": "https://wtop.com/virginia/2021/01/virginia-state-sen-chafin-dies-from-covid-19-complications/",
+    "source": "WTOP",
+    "time": "31 mins ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "wtop.com"
+  },
+  {
+    "title": "Virginia State Sen. Ben Chafin Dies After Contracting COVID-19",
+    "url": "https://www.nbcwashington.com/news/coronavirus/virginia-sen-ben-chafin-dies-after-contracting-covid-19/2526772/",
+    "source": "NBC4 Washington",
+    "time": "1 min ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.nbcwashington.com"
+  },
+  {
+    "title": "Virginia state senator dies from COVID-19 complications",
+    "url": "https://www.nbc12.com/2021/01/01/virginia-state-senator-dies-covid-complications/",
+    "source": "WWBT NBC12 News",
+    "time": "1 hour ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.nbc12.com"
+  },
+  {
+    "title": "Saints running back Alvin Kamara tests positive for COVID-19",
+    "url": "https://www.nfl.com/news/saints-running-back-alvin-kamara-placed-on-reserve-covid-19-list",
+    "source": "NFL.com",
+    "time": "5 hours ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.nfl.com"
+  },
+  {
+    "title": "\u2018Long-Hauler\u2019: When Covid-19\u2019s Symptoms Last and Last",
+    "url": "https://www.wsj.com/articles/long-hauler-when-covid-19s-symptoms-last-and-last-11609524809",
+    "source": "The Wall Street Journal",
+    "time": "9 hours ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Romney blasts 'inexcusable' COVID-19 vaccine distribution plan for US",
+    "url": "https://kutv.com/news/local/romney-blasts-inexcusable-covid-19-vaccine-distribution-plan-for-us",
+    "source": "KUTV 2News",
+    "time": "11 hours ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "kutv.com"
+  },
+  {
+    "title": "Chattanooga COVID-19 vaccine administrators gave doses to close contacts \nhours after qualified citizens were turned away",
+    "url": "https://www.wbir.com/article/news/health/coronavirus/chattanooga-vaccine-given-away-close-contacts/51-ba73a766-f18f-46f6-bbeb-cad1c4bcb286",
+    "source": "WBIR.com",
+    "time": "11 hours ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.wbir.com"
+  },
+  {
+    "title": "Once a model, California now struggles to tame COVID-19",
+    "url": "https://apnews.com/article/travel-pandemics-los-angeles-thanksgiving-coronavirus-pandemic-d21fdd1e5395812e6155258c70896eba",
+    "source": "Associated Press",
+    "time": "1 day ago",
+    "date": "2021-01-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "apnews.com"
+  }
+]

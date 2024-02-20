@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/17/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "49 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-17-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "25 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Live updates: WHO calls for \u2018consistent messaging\u2019 by top officials after \nTrump contradicts CDC chief",
+    "url": "https://www.washingtonpost.com/nation/2020/09/17/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "12 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Trump says he offered to help Big Ten with coronavirus testing after \nfootball season canceled",
+    "url": "http://www.cbsnews.com/news/trump-big-ten-coronavirus-testing-football-season/",
+    "source": "CBS News",
+    "time": "15 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Coronavirus live updates: India records world's highest increase in new \nCOVID-19 cases",
+    "url": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73065540",
+    "source": "ABC News",
+    "time": "20 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Watch live: Mayor Walsh speaking about coronavirus",
+    "url": "https://www.bostonglobe.com/2020/09/17/metro/watch-live-mayor-walsh-speaking-about-coronavirus/",
+    "source": "The Boston Globe",
+    "time": "31 mins ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "A positive test sends college freshman to the Covid dorm",
+    "url": "https://www.cnn.com/2020/09/17/us/college-campus-coronavirus-shutdowns-wellness/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus updates: More states see record week in cases, deaths; NCAA \nbasketball sets Nov. 25 start date; CDC's Redfield touts masks again",
+    "url": "https://www.usatoday.com/story/news/health/2020/09/17/covid-19-donald-trump-robert-redfield-cdc-masks-hawaii/3476455001/",
+    "source": "USA TODAY",
+    "time": "2 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Barr calls coronavirus lockdowns the \u2018greatest intrusion on civil \nliberties\u2019 since slavery",
+    "url": "https://www.politico.com/news/2020/09/17/william-barr-coronavirus-lockdowns-slavery-416776",
+    "source": "Politico",
+    "time": "2 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Hawaii to allow travelers to skip quarantine with coronavirus test",
+    "url": "https://www.foxbusiness.com/lifestyle/hawaii-travelers-skip-quarantine-coronavirus-test",
+    "source": "Fox Business",
+    "time": "3 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxbusiness.com"
+  }
+]

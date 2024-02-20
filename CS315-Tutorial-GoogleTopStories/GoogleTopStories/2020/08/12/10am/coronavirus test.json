@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-12-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "17 mins ago",
+    "date": "2020-08-12 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus updates: Over 1,000 students under quarantine in Georgia school \ndistrict",
+    "url": "https://abcnews.go.com/Health/coronavirus-updates-us-records-1000-deaths-covid-19/story?id=72322071",
+    "source": "ABC News",
+    "time": "1 hour ago",
+    "date": "2020-08-12 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Blood test could determine severe COVID-19 cases, risk of death: study",
+    "url": "https://nypost.com/2020/08/12/blood-test-may-determine-severe-covid-19-cases-risk-of-death-study/",
+    "source": "New York Post",
+    "time": "19 mins ago",
+    "date": "2020-08-12 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "nypost.com"
+  }
+]

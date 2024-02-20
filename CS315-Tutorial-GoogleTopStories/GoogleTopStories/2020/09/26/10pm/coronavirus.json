@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live Updates: Latest News and Analysis",
+    "url": "https://www.nytimes.com/2020/09/26/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Experts are warning of a coming surge of Covid-19 cases in US",
+    "url": "https://www.cnn.com/2020/09/26/health/us-coronavirus-saturday/index.html",
+    "source": "CNN",
+    "time": "6 hours ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "US election 2020: Fact-checking Trump on coronavirus",
+    "url": "https://www.bbc.com/news/election-us-2020-54248080",
+    "source": "BBC News",
+    "time": "2 hours ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Minnesota coronavirus survey stopped due to harassment toward workers - \nBusiness Insider",
+    "url": "https://www.businessinsider.com/minnesota-coronavirus-survey-stopped-due-to-harassment-toward-workers-2020-9",
+    "source": "Business Insider",
+    "time": "1 hour ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Coronavirus could overwhelm France, top doctor warns",
+    "url": "https://www.france24.com/en/20200927-coronavirus-could-overwhelm-france-top-doctor-warns",
+    "source": "FRANCE 24",
+    "time": "1 hour ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.france24.com"
+  },
+  {
+    "title": "Falcons' A.J. Terrell tests positive for coronavirus, will miss game",
+    "url": "https://nypost.com/2020/09/26/falcons-a-j-terrell-tests-positive-for-coronavirus-will-miss-game/",
+    "source": "New York Post",
+    "time": "7 hours ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "New York state logs over 1,000 new coronavirus cases for 1st time since June",
+    "url": "https://www.nbcnews.com/news/us-news/new-york-state-logs-over-1-000-new-coronavirus-cases-n1241193",
+    "source": "NBC News",
+    "time": "6 hours ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Tiny airborne particles may pose a big coronavirus problem",
+    "url": "https://apnews.com/article/virus-outbreak-43fe5ca3fba1d4ebc05949a11643e03b",
+    "source": "Associated Press",
+    "time": "1 day ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Fewer than 10% of Americans show signs of past coronavirus infection, study \nfinds",
+    "url": "https://www.cnbc.com/2020/09/26/less-than-10percent-of-us-show-signs-of-past-coronavirus-infection-study-finds.html",
+    "source": "CNBC",
+    "time": "7 hours ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Pro-Trump crowd in Illinois opposes Trump-bashing 'Coronavirus Death \nScoreboard'",
+    "url": "https://www.foxnews.com/us/pro-trump-crowd-in-illinois-opposes-trump-bashing-coronavirus-death-scoreboard",
+    "source": "Fox News",
+    "time": "20 hours ago",
+    "date": "2020-09-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

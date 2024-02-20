@@ -1,0 +1,32 @@
+[
+  {
+    "title": "New test detects coronavirus in just 5 minutes",
+    "url": "https://www.sciencemag.org/news/2020/10/new-test-detects-coronavirus-just-5-minutes",
+    "source": "Science Magazine",
+    "time": "18 hours ago",
+    "date": "2020-10-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.sciencemag.org"
+  },
+  {
+    "title": "White House again refuses to disclose Trump's last negative coronavirus test",
+    "url": "https://www.axios.com/trump-negative-coronavirus-test-76733d29-25df-4c29-aace-3caf57b9f00a.html",
+    "source": "Axios",
+    "time": "18 hours ago",
+    "date": "2020-10-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "When to get tested for COVID-19 if you've been exposed - Business Insider",
+    "url": "https://www.businessinsider.com/when-to-get-tested-for-covid-quarantine-2020-10",
+    "source": "Business Insider",
+    "time": "29 mins ago",
+    "date": "2020-10-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.businessinsider.com"
+  }
+]

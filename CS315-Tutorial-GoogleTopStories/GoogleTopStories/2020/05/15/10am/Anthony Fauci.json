@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Trump Pointedly Criticizes Fauci for His Testimony to Congress",
+    "url": "https://www.nytimes.com/2020/05/13/us/politics/fauci-trump-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Fox News hosts target Dr. Anthony Fauci",
+    "url": "https://www.cnn.com/videos/media/2020/05/13/fox-news-fauci-trump-coronavirus-tsr-vpx-new.cnn",
+    "source": "CNN.com",
+    "time": "1 day ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Who's right on schools, Fauci or Trump?",
+    "url": "https://www.cnn.com/2020/05/15/opinions/fauci-vs-trump-who-to-trust-bergen/index.html",
+    "source": "CNN.com",
+    "time": "55 mins ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "White House press secretary on President Trump's clash with Dr. Fauci",
+    "url": "https://www.cbsnews.com/video/white-house-press-secretary-on-president-trumps-clash-with-dr-fauci/",
+    "source": "CBS News",
+    "time": "13 hours ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 4,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Trump takes aim at Fauci, as GOP views of the expert quickly sour",
+    "url": "https://www.washingtonpost.com/politics/2020/05/13/republicans-are-increasingly-turning-against-fauci/",
+    "source": "Washington Post",
+    "time": "1 day ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 5,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Trump criticizes Fauci's Senate testimony: 'Not an acceptable answer'",
+    "url": "https://www.nbcnews.com/politics/white-house/trump-criticizes-fauci-s-senate-testimony-not-acceptable-answer-n1206481",
+    "source": "NBC News",
+    "time": "1 day ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 6,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Trump says Fauci's warnings about reopening amid coronavirus crisis are not \n'acceptable'",
+    "url": "https://www.cnbc.com/2020/05/13/coronavirus-trump-says-faucis-warnings-about-reopening-are-not-acceptable.html",
+    "source": "CNBC.com",
+    "time": "1 day ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 7,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "The Limits of Anthony Fauci\u2019s Expertise",
+    "url": "https://www.wsj.com/articles/the-limits-of-anthony-faucis-expertise-11589392347",
+    "source": "The Wall Street Journal",
+    "time": "1 day ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 8,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Dr. Anthony Fauci responds to rebuke by Rand Paul: \u2018I give advice according \nto the best scientific evidence\u2019",
+    "url": "https://www.marketwatch.com/story/dr-anthony-fauci-responds-to-rebuke-by-rand-paul-i-give-advice-according-to-the-best-scientific-evidence-2020-05-12",
+    "source": "MarketWatch",
+    "time": "2 days ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 9,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Fauci says vaccine 'likely,' but not in time for school: 5 takeaways from \nthe Senate coronavirus hearing",
+    "url": "https://www.usatoday.com/story/news/politics/2020/05/12/coronavirus-fauci-vaccine-timing-during-senate-hearing/3117915001/",
+    "source": "USA Today",
+    "time": "2 days ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

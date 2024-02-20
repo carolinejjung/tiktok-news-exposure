@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live News Updates: Global Cases and Deaths",
+    "url": "https://www.nytimes.com/live/2020/11/19/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "30 mins ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "This young ER doctor had to tell Covid-19 patients when it was time to say \ngoodbye to their families. Then the virus knocked him down",
+    "url": "https://www.cnn.com/2020/11/19/health/er-doctor-david-burkard-coronavirus/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Top Pentagon official Anthony Tata tests positive for Covid-19",
+    "url": "https://www.cnn.com/2020/11/19/politics/anthony-tata-covid-19/index.html",
+    "source": "CNN",
+    "time": "20 mins ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "California placed on overnight curfew amid soaring COVID-19 cases",
+    "url": "https://nypost.com/2020/11/19/california-placed-on-overnight-curfew-amid-soaring-covid-19-cases/",
+    "source": "New York Post",
+    "time": "43 mins ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Acting SecDef, service secretaries exposed to COVID-19 after top civilian \ntests positive",
+    "url": "https://www.defensenews.com/pentagon/2020/11/19/acting-secdef-service-secretaries-exposed-to-covid-19-after-top-civilian-tests-positive/",
+    "source": "DefenseNews.com",
+    "time": "39 mins ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.defensenews.com"
+  },
+  {
+    "title": "COVID-19 vaccines are almost ready to be distributed. Who gets them after \nhealth care workers? Here's a list.",
+    "url": "https://www.usatoday.com/story/news/health/2020/11/19/covid-19-vaccines-who-gets-coronavirus-immunization-first/3778098001/",
+    "source": "USA TODAY",
+    "time": "6 hours ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Gov. Herbert issues Thanksgiving recommendations as Utah sees 3968 COVID-19 \ncases, record 18 deaths",
+    "url": "https://www.ksl.com/article/50052137/gov-herbert-issues-thanksgiving-recommendations-as-utah-sees-3968-covid-19-cases-record-18-deaths",
+    "source": "KSL.com",
+    "time": "3 hours ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.ksl.com"
+  },
+  {
+    "title": "Schumer says McConnell agrees to discuss Covid relief, as aides negotiate \ngovernment funding",
+    "url": "https://www.cnbc.com/2020/11/19/coronavirus-stimulus-update-mcconnell-agrees-to-resume-talks-schumer-says.html",
+    "source": "CNBC",
+    "time": "7 hours ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "COVID-19: Long Island Sees 800-Plus New Cases; Latest Breakdown By Town",
+    "url": "https://dailyvoice.com/new-york/nassau/news/covid-19-long-island-sees-800-plus-new-cases-latest-breakdown-by-town/798258/",
+    "source": "Daily Voice",
+    "time": "3 hours ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Eagles place five players on reserve/COVID-19 list",
+    "url": "https://www.nfl.com/news/eagles-place-trio-of-wrs-on-reserve-covid-19-list-amid-positive-test",
+    "source": "NFL.com",
+    "time": "8 hours ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nfl.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Cases, Deaths and Vaccine Updates",
+    "url": "https://www.nytimes.com/live/2021/01/08/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "41 mins ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Pfizer's Covid-19 vaccine appears to work against mutation in new \ncoronavirus strains, study finds",
+    "url": "https://www.cnn.com/2021/01/08/health/pfizer-vaccine-variant-strain-mutation/index.html",
+    "source": "CNN",
+    "time": "7 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "All regions to remain in Phase 1 under Inslee's new COVID-19 recovery plan",
+    "url": "https://komonews.com/news/coronavirus/all-regions-to-start-in-phase-1-under-inslees-new-covid-19-recovery-plan",
+    "source": "KOMO News",
+    "time": "1 hour ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Trinity Health of New England to Launch COVID-19 Webinars",
+    "url": "https://www.nbcconnecticut.com/news/local/trinity-health-of-new-england-to-launch-covid-19-webinars/2400200/",
+    "source": "NBC Connecticut",
+    "time": "23 mins ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Metro service cuts, layoffs spared by COVID-19 relief funds",
+    "url": "https://wtop.com/dc-transit/2021/01/metro-service-cuts-layoffs-spared-by-covid-19-relief-funding/",
+    "source": "WTOP",
+    "time": "57 mins ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "wtop.com"
+  },
+  {
+    "title": "Providence closes a hospital unit after major COVID-19 outbreak infects 49",
+    "url": "https://www.oregonlive.com/coronavirus/2021/01/providence-closes-a-hospital-unit-after-major-covid-19-outbreak-infects-49.html",
+    "source": "oregonlive.com",
+    "time": "2 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "How much more contagious are the Covid-19 variants? The dangers of a more \ntransmissible disease, explained.",
+    "url": "https://www.vox.com/science-and-health/22215121/new-variants-contagiousness-covid-coronavirus",
+    "source": "Vox",
+    "time": "10 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.vox.com"
+  },
+  {
+    "title": "Mass. schools offered access to COVID-19 pool testing",
+    "url": "https://whdh.com/news/mass-schools-offered-access-to-covid-19-pool-testing/",
+    "source": "Boston News, Weather, Sports | WHDH 7News",
+    "time": "5 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "whdh.com"
+  },
+  {
+    "title": "King County to open mass COVID-19 vaccination sites",
+    "url": "https://www.seattletimes.com/seattle-news/health/king-county-to-open-mass-covid-19-vaccination-sites/",
+    "source": "Seattle Times",
+    "time": "7 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "City of San Antonio to convert Alamodome into mass, no-cost COVID-19 \nvaccination site",
+    "url": "https://www.ksat.com/news/local/2021/01/08/city-of-san-antonio-to-convert-alamodome-into-mass-no-cost-covid-19-vaccination-site/",
+    "source": "KSAT San Antonio",
+    "time": "5 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.ksat.com"
+  }
+]

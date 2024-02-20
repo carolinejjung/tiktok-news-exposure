@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Why Pooled Testing for the Coronavirus Isn't Working",
+    "url": "https://www.nytimes.com/2020/08/18/health/coronavirus-pool-te.html",
+    "source": "The New York Times",
+    "time": "7 hours ago",
+    "date": "2020-08-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Faster test results and 'robust' immune response may offer hope of curbing \nthe pandemic, experts say",
+    "url": "https://www.cnn.com/2020/08/18/health/us-coronavirus-tuesday/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-08-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Fort Worth Expands Saliva Tests for Coronavirus",
+    "url": "https://www.nbcdfw.com/news/coronavirus/fort-worth-expands-saliva-tests-for-coronavirus/2428376/",
+    "source": "NBC 5 Dallas-Fort Worth",
+    "time": "11 mins ago",
+    "date": "2020-08-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcdfw.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live Updates",
+    "url": "https://www.nytimes.com/2020/08/27/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "22 mins ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: CDC attempts to clarify testing guidelines; \nHawaii tourist arrivals plummet by 98%; Maryland OKs school reopenings",
+    "url": "https://www.usatoday.com/story/news/health/2020/08/27/coronavirus-updates-california-cdc-testing-unemployment/5640833002/",
+    "source": "USA TODAY",
+    "time": "1 hour ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "The White House Is a COVID Petri Dish",
+    "url": "https://www.theatlantic.com/politics/archive/2020/08/white-house-coronavirus-measures/615841/",
+    "source": "The Atlantic",
+    "time": "24 mins ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.theatlantic.com"
+  },
+  {
+    "title": "UFC's Dana White defends Trump's coronavirus response: He 'has faced all \nthese obstacles head on'",
+    "url": "https://thehill.com/homenews/campaign/514080-ufcs-dana-white-defends-trumps-coronavirus-response-he-has-faced-all-these",
+    "source": "The Hill",
+    "time": "30 mins ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Scientists target coronavirus immunity puzzle",
+    "url": "https://www.bbc.com/news/health-53937216",
+    "source": "BBC News",
+    "time": "1 hour ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Democrats and White House are at a 'tragic impasse' on coronavirus stimulus \nafter Pelosi-Meadows call",
+    "url": "https://www.cnbc.com/2020/08/27/coronavirus-stimulus-update-pelosi-meadows-phone-call-makes-no-progress.html",
+    "source": "CNBC",
+    "time": "6 hours ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "CDC director walks back testing guidance, but does not alter \nrecommendations on website",
+    "url": "https://www.nbcnews.com/health/health-news/cdc-director-walks-back-testing-guidance-does-not-alter-recommendations-n1238428",
+    "source": "NBC News",
+    "time": "7 hours ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'",
+    "url": "https://www.cnn.com/2020/08/27/politics/kamala-harris-speech/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Insect repellent ingredient may kill coronavirus, study shows",
+    "url": "https://www.foxnews.com/health/insect-repellent-ingredient-kill-coronavirus-study",
+    "source": "Fox News",
+    "time": "9 hours ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus Updates: NY's State Teachers Union Calls For Policy Requiring \nMandatory Masks In Classroom",
+    "url": "http://gothamist.com/news/coronavirus-updates-cdc-director-walks-back-testing-guidance-after-uproar",
+    "source": "Gothamist",
+    "time": "8 hours ago",
+    "date": "2020-08-27 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "gothamist.com"
+  }
+]

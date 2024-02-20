@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-15-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-09-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus live updates: Bay Area case counts plummet from summer highs",
+    "url": "https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15237940.php",
+    "source": "San Francisco Chronicle",
+    "time": "7 hours ago",
+    "date": "2020-09-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.sfchronicle.com"
+  },
+  {
+    "title": "315 York County Prison inmates have tested positive for COVID-19 since \nstart of pandemic",
+    "url": "https://www.pennlive.com/coronavirus/2020/09/315-york-county-prison-inmates-positive-for-covid-19-since-start-of-pandemic.html",
+    "source": "pennlive.com",
+    "time": "41 mins ago",
+    "date": "2020-09-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.pennlive.com"
+  }
+]

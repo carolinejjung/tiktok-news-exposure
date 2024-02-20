@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fauci warns of 'stunning number of deaths' from coronavirus",
+    "url": "https://news.yahoo.com/fauci-warns-of-stunning-number-of-deaths-from-coronavirus-212445433.html",
+    "source": "Yahoo News",
+    "time": "17 hours ago",
+    "date": "2020-11-24 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "Anthony Fauci calls on New York to accept FDA approval of vaccine",
+    "url": "https://nypost.com/2020/11/23/fauci-calls-on-new-york-to-accept-fda-approval-of-vaccine/",
+    "source": "New York Post",
+    "time": "19 hours ago",
+    "date": "2020-11-24 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Dr. Fauci on Cuomo\u2019s decision to review vaccines for New Yorkers after FDA \napproval: \u2018Trust the process\u2019",
+    "url": "https://www.marketwatch.com/story/dr-fauci-on-cuomos-decision-to-review-vaccines-for-new-yorkers-trust-the-process-because-it-is-a-sound-process-2020-11-24",
+    "source": "MarketWatch",
+    "time": "3 hours ago",
+    "date": "2020-11-24 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.marketwatch.com"
+  }
+]

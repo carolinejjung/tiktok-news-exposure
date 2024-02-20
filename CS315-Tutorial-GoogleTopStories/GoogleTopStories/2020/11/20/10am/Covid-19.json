@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/11/20/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "7 mins ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Europe averted a Covid-19 collapse -- here's what the US could learn",
+    "url": "https://www.cnn.com/2020/11/20/europe/coronavirus-lockdowns-us-europe-intl/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Cleveland Browns place DE Myles Garrett on COVID-19/reserve list",
+    "url": "https://www.espn.com/nfl/story/_/id/30353461/cleveland-browns-place-de-myles-garrett-covid-19-reserve-list",
+    "source": "ESPN",
+    "time": "28 mins ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Florida Republican senator says he has Covid-19",
+    "url": "https://www.cnn.com/2020/11/20/politics/rick-scott-florida-covid-19/index.html",
+    "source": "CNN",
+    "time": "26 mins ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus live updates: Pfizer seeking emergency use authorization for \nits vaccine candidate; CDC says Thanksgiving travel a no-no",
+    "url": "https://www.usatoday.com/story/news/health/2020/11/20/covid-news-pfizer-fda-emergency-use-authorization-california-mexico/6348787002/",
+    "source": "USA TODAY",
+    "time": "35 mins ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Hawaii imposes new COVID-19 travel restrictions",
+    "url": "https://www.foxbusiness.com/lifestyle/hawaii-imposes-new-covid-19-travel-restrictions",
+    "source": "Fox Business",
+    "time": "7 hours ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "As her partner struggles with covid-19, a quarantined Rachel Maddow pleads: \n\u2018Don\u2019t get this thing\u2019",
+    "url": "https://www.washingtonpost.com/nation/2020/11/20/rachel-maddow-coronavirus-quarantine/",
+    "source": "Washington Post",
+    "time": "7 hours ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Vermont And South Dakota \u2014 GOP Governors But Different COVID-19 Results",
+    "url": "https://www.npr.org/2020/11/20/936800456/two-rural-states-with-gop-governors-and-very-different-covid-19-results",
+    "source": "NPR",
+    "time": "1 hour ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Covid live updates: CDC warns against Thanksgiving travel as Covid-19 cases \nspike",
+    "url": "https://www.nbcnews.com/news/us-news/live-blog/2020-11-20-covid-live-updates-n1248338",
+    "source": "NBC News",
+    "time": "59 mins ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Philadelphia COVID-19 today: Philly restaurants, gyms brace for new \nrestrictions starting 5 p.m. tonight",
+    "url": "https://6abc.com/philadelphia-covid-restrictions-new-update/8114879/",
+    "source": "WPVI-TV",
+    "time": "5 hours ago",
+    "date": "2020-11-20 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "6abc.com"
+  }
+]

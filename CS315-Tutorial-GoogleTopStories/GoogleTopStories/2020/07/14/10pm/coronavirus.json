@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/07/14/world/coronavirus-update.html",
+    "source": "The New York Times",
+    "time": "12 hours ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Mitch McConnell warns Kentucky about coronavirus surge as Trump downplays \npandemic",
+    "url": "https://www.cnn.com/2020/07/14/politics/mitch-mcconnell-kentucky-covid-response/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "HHS confirms coronavirus hospital data will now be sent to DC instead of CDC",
+    "url": "https://www.cnn.com/2020/07/14/politics/trump-administration-coronavirus-hospital-data-cdc/index.html",
+    "source": "CNN.com",
+    "time": "21 mins ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus vaccine trial: First tested in US yielded antibodies in \npatients, researchers say",
+    "url": "https://www.foxnews.com/health/coronavirus-vaccine-trial-first-tested-in-us-yielded-antibodies-in-patients-researchers-say",
+    "source": "Fox News",
+    "time": "33 mins ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Floods and the coronavirus create more uncertainty for China as food prices \nclimb",
+    "url": "https://www.cnbc.com/2020/07/15/floods-coronavirus-create-more-uncertainty-for-china-as-food-prices-climb.html",
+    "source": "CNBC.com",
+    "time": "37 mins ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "22 states and two territories have set a daily coronavirus record since \nJuly 1",
+    "url": "https://www.nbcnews.com/news/us-news/july-2020-united-states-coronavirus-records-n1233828",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Los Angeles Reports Highest-Ever Number Of New Coronavirus Cases And \nHospitalizations",
+    "url": "https://deadline.com/2020/07/los-angeles-county-coronavirus-record-highest-number-new-cases-hsopitalizationsever-1202985694/",
+    "source": "Deadline",
+    "time": "3 hours ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "deadline.com"
+  },
+  {
+    "title": "Moderna stock surges 17% on coronavirus vaccine trial news",
+    "url": "https://www.marketwatch.com/story/moderna-stock-surges-17-on-coronavirus-vaccine-trial-news-2020-07-14",
+    "source": "MarketWatch",
+    "time": "3 hours ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Coronavirus Travel Advisory: Passengers Arriving At NYC Airports Must Fill \nOut Health Form Or Face Up To $2,000 Fine",
+    "url": "https://newyork.cbslocal.com/2020/07/14/coronavirus-travel-advisory-new-york-airports-health-form/",
+    "source": "CBS New York",
+    "time": "4 hours ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "newyork.cbslocal.com"
+  },
+  {
+    "title": "Coronavirus updates: Almost half of all states are spiking at a faster rate \nthan in the spring, USA TODAY study finds",
+    "url": "https://www.usatoday.com/story/news/health/2020/07/14/covid-19-oregon-limits-group-gatherings-hawaii-extends-quarantine/5430518002/",
+    "source": "USA Today",
+    "time": "4 hours ago",
+    "date": "2020-07-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

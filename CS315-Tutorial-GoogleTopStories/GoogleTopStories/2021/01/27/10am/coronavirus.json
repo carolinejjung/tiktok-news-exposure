@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus update: Latest Covid-19 vaccine and world news",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-27-21/h_ba509b343f0d4f085ad8177f1f10b5ba",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus Live Updates: U.S. Hospitalizations Continue to Fall",
+    "url": "https://www.wsj.com/livecoverage/covid-2021-01-27",
+    "source": "The Wall Street Journal",
+    "time": "38 mins ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, January 27: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-january-27-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "55 mins ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "Coronavirus: Germany loses sight of its refugees",
+    "url": "https://www.dw.com/en/coronavirus-germany-loses-sight-of-its-refugees/a-56337347",
+    "source": "Deutsche Welle",
+    "time": "26 mins ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.dw.com"
+  },
+  {
+    "title": "Philadelphia let \u2018college kids\u2019 distribute vaccines. The result was a \n\u2018disaster,\u2019 volunteers say.",
+    "url": "https://www.washingtonpost.com/nation/2021/01/27/philly-fighting-covid-vaccine/",
+    "source": "Washington Post",
+    "time": "5 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Fox News pushing conspiracy that Fauci created coronavirus - Business \nInsider",
+    "url": "https://www.businessinsider.com/fox-news-pushing-conspiracy-that-fauci-created-coronavirus-2021-1",
+    "source": "Business Insider",
+    "time": "11 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Tensions rise as AstraZeneca, EU hold vaccine delivery talks",
+    "url": "https://apnews.com/article/europe-europe-coronavirus-pandemic-coronavirus-vaccine-ba107e05dec2653f91555ff88033ade9",
+    "source": "Associated Press",
+    "time": "4 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Rutgers professor who helped create coronavirus saliva test dies",
+    "url": "https://www.nj.com/coronavirus/2021/01/rutgers-professor-who-helped-create-coronavirus-saliva-test-dies.html",
+    "source": "nj.com",
+    "time": "9 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "CDC Makes The Case For Schools Reopening : Coronavirus Updates",
+    "url": "https://www.npr.org/2021/01/26/960885936/cdc-makes-case-for-school-reopening",
+    "source": "NPR",
+    "time": "16 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "51 mins ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "59 mins ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus Survey Halted After Workers Faced Racial Slurs, Officials Say",
+    "url": "https://www.nytimes.com/2020/09/25/us/minnesota-coronavirus-racial-slurs.html",
+    "source": "The New York Times",
+    "time": "44 mins ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Dr. Fauci says he will back FDA's decision on coronavirus vaccine",
+    "url": "https://www.fox5atlanta.com/news/dr-fauci-says-he-will-back-fdas-decision-on-coronavirus-vaccine",
+    "source": "FOX 5 Atlanta",
+    "time": "1 hour ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.fox5atlanta.com"
+  },
+  {
+    "title": "Coronavirus Today: What does Florida think?",
+    "url": "https://www.latimes.com/science/newsletter/2020-09-25/coronavirus-today-friday-sept-25-trump-florida-pandemic-response-coronavirus-today",
+    "source": "Los Angeles Times",
+    "time": "1 hour ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.latimes.com"
+  },
+  {
+    "title": "Mnuchin, Pelosi agree to revive coronavirus relief talks as Dems draft \n$2.4T proposal",
+    "url": "https://www.foxbusiness.com/money/mnuchin-pelosi-agree-revive-coronavirus-relief-talks",
+    "source": "Fox Business",
+    "time": "8 hours ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Trump Is Escalating His Coronavirus Lies",
+    "url": "https://slate.com/news-and-politics/2020/09/trump-escalating-coronavirus-lies.html",
+    "source": "Slate Magazine",
+    "time": "3 hours ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "slate.com"
+  },
+  {
+    "title": "Live updates: WHO warns 2 million deaths \u2018not impossible\u2019 as global \nfatalities approach 1 million",
+    "url": "https://www.washingtonpost.com/nation/2020/09/25/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "32 mins ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Yandy won't market 'sexy' coronavirus costumes this Halloween",
+    "url": "https://www.foxnews.com/lifestyle/yandy-sexy-coronavirus-halloween-costume",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus Rules: Florida Lifts All COVID-19 Limits On Businesses : \nCoronavirus Live Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/25/916969969/floridas-governor-lifts-all-covid-19-restrictions-on-businesses-statewide",
+    "source": "NPR",
+    "time": "7 hours ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

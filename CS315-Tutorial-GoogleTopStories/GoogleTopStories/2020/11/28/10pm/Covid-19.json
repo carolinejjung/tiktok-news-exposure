@@ -1,0 +1,102 @@
+[
+  {
+    "title": "US is 'rounding the corner into a calamity,' expert says, with Covid-19 \ndeaths projected to double soon",
+    "url": "https://www.cnn.com/2020/11/28/health/us-coronavirus-saturday/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: U.S. Passes 4 Million Cases for November Alone",
+    "url": "https://www.nytimes.com/live/2020/11/28/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "An Oregon mink farm has reported a Covid-19 outbreak",
+    "url": "https://www.cnn.com/2020/11/28/us/oregon-mink-farm-covid-19-outbreak-coronavirus-trnd/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Colorado Governor Jared Polis announces he has tested positive for COVID-19",
+    "url": "https://www.cbsnews.com/news/colorado-governor-jared-polis-tests-positive-covid-19/",
+    "source": "CBS News",
+    "time": "30 mins ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Colorado Gov. Jared Polis tests positive for COVID-19",
+    "url": "https://www.coloradoan.com/story/news/2020/11/28/colorado-gov-jared-polis-tests-positive-covid-19/6454611002/",
+    "source": "The Coloradoan",
+    "time": "21 mins ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.coloradoan.com"
+  },
+  {
+    "title": "Baltimore Ravens add six more to reserve/COVID-19 list; total up to 18 this \nweek",
+    "url": "https://www.espn.com/nfl/story/_/id/30408556/baltimore-ravens-add-six-more-reserve-covid-19-list-total-18",
+    "source": "ESPN",
+    "time": "4 hours ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "NYC bar in COVID-19 hotspot refuses to shut down after state yanks liquor \nlicense",
+    "url": "https://www.foxnews.com/us/nyc-bar-covid-19-hotspot-refuses-shut-down-liquor-license",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Santa Clara County to release new COVID-19 restrictions on heels of San \nFrancisco",
+    "url": "https://www.mercurynews.com/2020/11/28/santa-clara-county-to-release-new-covid-19-restrictions-on-heels-of-san-francisco",
+    "source": "The Mercury News",
+    "time": "6 hours ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.mercurynews.com"
+  },
+  {
+    "title": "COVID NYC Update: Illegal Midtown club with nearly 400 people inside shut \ndown",
+    "url": "https://abc7ny.com/midtown-club-shut-down-illegal-manhattan-coronavirus-update-nyc-numbers/8334137/",
+    "source": "WABC-TV",
+    "time": "8 hours ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Coronavirus update San Antonio, Nov. 28: Leaders report 1,661 new COVID-19 \ncases, 1 new virus-related death",
+    "url": "https://www.ksat.com/news/local/2020/11/29/coronavirus-update-san-antonio-nov-28-leaders-report-1661-new-covid-19-cases-6-new-virus-related-deaths/",
+    "source": "KSAT San Antonio",
+    "time": "1 hour ago",
+    "date": "2020-11-28 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.ksat.com"
+  }
+]

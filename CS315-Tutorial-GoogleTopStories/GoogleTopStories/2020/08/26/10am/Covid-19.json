@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "36 mins ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Updated CDC guidelines now say people exposed to coronavirus may not need \nto be tested",
+    "url": "https://www.cnn.com/2020/08/26/health/cdc-guidelines-coronavirus-testing/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "6 feet may not always be enough distance to protect from COVID-19, new \nreport suggests",
+    "url": "https://www.nbcnews.com/health/health-news/6-feet-may-not-always-be-enough-distance-protect-covid-n1238083",
+    "source": "NBC News",
+    "time": "1 hour ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "These side hustles have social distancing built right in",
+    "url": "https://www.cnbc.com/2020/08/26/many-side-hustles-are-still-viable-even-though-covid-19-has-ended-some.html",
+    "source": "CNBC",
+    "time": "1 hour ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Live updates: CDC says not all close contacts need to get tested after \ncoronavirus exposure, alarming experts",
+    "url": "https://www.washingtonpost.com/nation/2020/08/26/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.washingtonpost.com"
+  }
+]

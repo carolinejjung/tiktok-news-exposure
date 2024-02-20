@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/06/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "New Covid-19 stay-at-home orders set to take effect Sunday night for \nmillions of Californians",
+    "url": "https://www.cnn.com/2020/12/06/us/california-covid-19-stay-home-orders/index.html",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Colorado governor's husband taken to the hospital over worsening COVID-19 \nsymptoms",
+    "url": "https://www.foxnews.com/politics/colorado-governors-husband-taken-to-the-hospital-over-worsening-covid-symptoms",
+    "source": "Fox News",
+    "time": "30 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "MSU and Michigan handled COVID-19 differently. The results were similar.",
+    "url": "https://www.lansingstatejournal.com/story/news/2020/12/07/msu-vs-michigan-how-rival-schools-handled-covid-19/6396603002/",
+    "source": "Lansing State Journal",
+    "time": "15 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.lansingstatejournal.com"
+  },
+  {
+    "title": "COVID-19: Where to get tested today in Greater Cincinnati",
+    "url": "https://www.cincinnati.com/story/news/2020/12/06/covid-19-testing-sites-where-get-tested-greater-cincinnati/3825193001/",
+    "source": "Cincinnati.com",
+    "time": "10 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cincinnati.com"
+  },
+  {
+    "title": "Rudy Giuliani tests positive for coronavirus, Trump says",
+    "url": "https://www.cnn.com/2020/12/06/politics/rudy-giuliani-coronavirus-positive/index.html",
+    "source": "CNN",
+    "time": "19 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "With no new COVID-19 restrictions from the state, public health experts and \nsome Boston-area mayors urge more action",
+    "url": "https://www.bostonglobe.com/2020/12/06/business/with-no-new-covid-19-restrictions-state-top-health-expert-some-boston-area-mayors-urge-more-action/",
+    "source": "BetaBoston",
+    "time": "15 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Staten Island Bar Owner Arrested Again For Violating COVID-19 Order Hit \nDeputy With Car, NYC Sheriff Says",
+    "url": "https://newyork.cbslocal.com/2020/12/06/staten-island-bar-owner-arrested-again/",
+    "source": "CBS New York",
+    "time": "20 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "newyork.cbslocal.com"
+  },
+  {
+    "title": "FDNY COVID-19 vaccine skepticism fueled by 'education issue': union head",
+    "url": "https://nypost.com/2020/12/06/fdny-covid-19-vaccine-skepticism-fueled-by-education-issue-union/",
+    "source": "New York Post",
+    "time": "4 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "COVID-19 relief proposal won't offer $1,200 checks, but provides extra $300 \nin federal unemployment benefits",
+    "url": "https://www.usatoday.com/story/money/economy/2020/12/06/unemployment-benefits-coronavirus-covid-19-bill-no-stimulus-checks/3852130001/",
+    "source": "USA TODAY",
+    "time": "4 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "When I Got My Coronavirus Symptoms",
+    "url": "https://slate.com/human-interest/2020/05/coronavirus-testing-experience-in-america.html",
+    "source": "Slate",
+    "time": "18 hours ago",
+    "date": "2020-05-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "slate.com"
+  },
+  {
+    "title": "Doctors update warning signs of severe COVID",
+    "url": "https://www.webmd.com/lung/news/20200508/doctors-update-warning-signs-of-severe-covid",
+    "source": "WebMD",
+    "time": "23 hours ago",
+    "date": "2020-05-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.webmd.com"
+  },
+  {
+    "title": "Coronavirus In Minnesota: 14-Year-Old Tests Positive For COVID-19 After \nShowing Zero Symptoms",
+    "url": "https://minnesota.cbslocal.com/2020/05/08/coronavirus-in-minnesota-14-year-old-tests-positive-for-covid-19-after-showing-zero-symptoms/",
+    "source": "WCCO",
+    "time": "10 hours ago",
+    "date": "2020-05-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "minnesota.cbslocal.com"
+  }
+]

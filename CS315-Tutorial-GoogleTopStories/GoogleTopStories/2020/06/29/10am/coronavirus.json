@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-29-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "10 mins ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Live Coronavirus Updates: Global Death Toll Surpasses Half a Million",
+    "url": "https://www.nytimes.com/2020/06/29/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Father dies, 28 family members catch coronavirus",
+    "url": "https://www.nydailynews.com/coronavirus/ny-coronavirus-garay-father-dies-covid-28-family-infected-20200629-ntpbgqmj7fdkjefsyzffmur2aq-story.html",
+    "source": "NY Daily News",
+    "time": "45 mins ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nydailynews.com"
+  },
+  {
+    "title": "Amazon gives front-line workers a $500 coronavirus bonus",
+    "url": "https://www.cnbc.com/2020/06/29/amazon-gives-front-line-workers-a-500-coronavirus-bonus.html",
+    "source": "CNBC.com",
+    "time": "57 mins ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Student Behavior Key To Reopening Colleges During Coronavirus Crisis",
+    "url": "https://www.npr.org/2020/06/29/873798541/the-wild-card-for-an-in-person-fall-college-student-behavior",
+    "source": "NPR",
+    "time": "1 hour ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "The coronavirus is mutating - The Washington Post",
+    "url": "https://www.washingtonpost.com/science/2020/06/29/coronavirus-mutation-science/",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "U.S. Coronavirus Cases Surge Amid Strains on Hospitals",
+    "url": "https://www.wsj.com/articles/coronavirus-latest-news-06-29-2020-11593420521",
+    "source": "The Wall Street Journal",
+    "time": "1 hour ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Coronavirus death toll surpasses 500,000 worldwide",
+    "url": "https://www.cbsnews.com/news/coronavirus-death-toll-500000-worldwide-pandemic/",
+    "source": "CBS News",
+    "time": "2 hours ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Dr. Fauci warns coronavirus vaccine may not lead to herd immunity in US",
+    "url": "https://nypost.com/2020/06/29/dr-fauci-warns-that-coronavirus-vaccine-may-not-lead-to-herd-immunity/",
+    "source": "New York Post",
+    "time": "3 hours ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus Updates: Restart of NYC indoor dining may be delayed",
+    "url": "https://abc7ny.com/coronavirus-live-updates-covid-quarantine-nyc-layoffs-reopen-new-york/6280250/",
+    "source": "ABC7 New York",
+    "time": "3 hours ago",
+    "date": "2020-06-29 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "abc7ny.com"
+  }
+]

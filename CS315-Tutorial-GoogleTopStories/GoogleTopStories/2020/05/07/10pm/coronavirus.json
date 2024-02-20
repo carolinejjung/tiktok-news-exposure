@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/05/07/us/coronavirus-updates-cases-deaths.html",
+    "source": "The New York Times",
+    "time": "30 mins ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: White House ramps up internal coronavirus measures after \nTrump valet tests positive",
+    "url": "https://www.washingtonpost.com/nation/2020/05/07/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "9 mins ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "First Death Of Detainee In An ICE Detention Center From COVID-19",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/05/07/852475822/first-death-of-detainee-in-an-ice-detention-center-from-covid-19",
+    "source": "NPR",
+    "time": "13 mins ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Coronavirus In MN: Honeywell Plant In Minneapolis Temporarily Closes After \nWorkers Test Positive",
+    "url": "https://minnesota.cbslocal.com/2020/05/07/coronavirus-in-mn-honeywell-plant-in-minneapolis-temporarily-closes-after-workers-test-positive/",
+    "source": "WCCO",
+    "time": "35 mins ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "minnesota.cbslocal.com"
+  },
+  {
+    "title": "Coronavirus live updates: Trump staff to be tested daily; TSA to require \nfacial protection; WH reportedly shelved CDC reopening plans;",
+    "url": "https://www.usatoday.com/story/news/health/2020/05/07/coronavirus-live-updates-unemployment-claims-california-donald-trump/5177378002/",
+    "source": "USA Today",
+    "time": "48 mins ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Uber admits that ride-hailing is worth less because of coronavirus, but \ninvestors still think Uber is worth more",
+    "url": "https://www.marketwatch.com/story/uber-admits-that-ride-hailing-is-worth-less-because-of-coronavirus-but-investors-still-think-uber-is-worth-more-2020-05-07",
+    "source": "MarketWatch",
+    "time": "1 hour ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Pa. extends coronavirus stay-at-home order until June 4; 24 counties will \nstill move into yellow reopening st",
+    "url": "https://www.pennlive.com/news/2020/05/pa-extends-coronavirus-stay-at-home-order-until-june-4-24-counties-will-still-move-into-yellow-reopening-stage-friday.html",
+    "source": "PennLive.com",
+    "time": "1 hour ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.pennlive.com"
+  },
+  {
+    "title": "Tlaib argues for $2G monthly coronavirus payments in next stimulus bill: \n\u2018None of this one-time stuff\u2019",
+    "url": "https://www.foxnews.com/politics/tlaib-monthly-coronavirus-payments-in-next-stimulus-bill",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "One of Trump's personal valets has tested positive for coronavirus",
+    "url": "https://www.cnn.com/2020/05/07/politics/trump-valet-tests-positive-covid-19/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "NYC nurse steals credit card from dying coronavirus patient: cops",
+    "url": "https://www.nydailynews.com/coronavirus/ny-coronavirus-nurse-steals-credit-card-dying-coronavirus-patient-20200507-2p3ihwwe7nfv5hddioyrlioau4-story.html",
+    "source": "NY Daily News",
+    "time": "4 hours ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.nydailynews.com"
+  }
+]

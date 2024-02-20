@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Live Global Coronavirus News: Antibody Puzzle Complicates Immunity Question",
+    "url": "https://www.nytimes.com/2020/07/26/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "18 mins ago",
+    "date": "2020-07-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Giroir says coronavirus testing turnaround times still too long in US",
+    "url": "https://www.cnn.com/2020/07/26/politics/brett-giroir-testing-times-coronavirus-cnntv/index.html",
+    "source": "CNN.com",
+    "time": "11 hours ago",
+    "date": "2020-07-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "24 lifeguards test positive for coronavirus on Long Beach Island",
+    "url": "https://www.nydailynews.com/coronavirus/ny-24-lifeguards-test-positive-for-coronavirus-on-long-beach-island-20200727-hawfbnchxnb33kmi3reym3xuri-story.html",
+    "source": "NY Daily News",
+    "time": "16 mins ago",
+    "date": "2020-07-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nydailynews.com"
+  }
+]

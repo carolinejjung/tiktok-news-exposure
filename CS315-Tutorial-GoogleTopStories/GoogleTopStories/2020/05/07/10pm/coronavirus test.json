@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Live updates: White House ramps up internal coronavirus measures after \nTrump valet tests positive",
+    "url": "https://www.washingtonpost.com/nation/2020/05/07/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "10 mins ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "One of Trump's personal valets has tested positive for coronavirus",
+    "url": "https://www.cnn.com/2020/05/07/politics/trump-valet-tests-positive-covid-19/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Global Tracker: U.K., India, Russia",
+    "url": "https://www.nytimes.com/2020/05/07/world/coronavirus-news.html",
+    "source": "The New York Times",
+    "time": "14 mins ago",
+    "date": "2020-05-07 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

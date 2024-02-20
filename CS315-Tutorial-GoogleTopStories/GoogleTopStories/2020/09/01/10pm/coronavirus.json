@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/01/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "4 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "U.S. Won\u2019t Join Global Coronavirus Vaccine Effort Because It\u2019s Led By The \nWHO",
+    "url": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/",
+    "source": "Forbes",
+    "time": "5 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.forbes.com"
+  },
+  {
+    "title": "Colorado speedway holds 'Stop the COVID Chaos' event after flouting \ncoronavirus orders",
+    "url": "https://www.nbcnews.com/news/us-news/colorado-speedway-holds-stop-covid-chaos-event-after-flouting-coronavirus-n1239039",
+    "source": "NBCNews.com",
+    "time": "20 mins ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Pelosi: Democrats, GOP 'continue to have serious differences' on \ncoronavirus relief | TheHill",
+    "url": "https://thehill.com/homenews/house/514724-pelosi-after-call-with-mnuchin-democrats-gop-continue-to-have-serious",
+    "source": "The Hill",
+    "time": "16 mins ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Ohio Gov. DeWine talks about coronavirus, criticism on FOX 8 News",
+    "url": "https://fox8.com/news/coronavirus/ohio-gov-dewine-talks-about-coronavirus-criticism-on-fox-8-news/",
+    "source": "fox8.com",
+    "time": "44 mins ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "fox8.com"
+  },
+  {
+    "title": "Majority of Americans think the federal government is making coronavirus \npandemic worse",
+    "url": "https://www.foxnews.com/us/majority-americans-government-coronavirus-pandemic-worse",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "CDC to implement federal eviction ban due to coronavirus",
+    "url": "https://nypost.com/2020/09/01/cdc-to-implement-federal-eviction-ban-due-to-coronavirus/",
+    "source": "New York Post",
+    "time": "3 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus Is Surging In the U.S. Midwest. Here's What's Going on Across \nthe Region",
+    "url": "https://news.yahoo.com/coronavirus-surging-u-midwest-heres-192106924.html",
+    "source": "Yahoo News",
+    "time": "7 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "California Coronavirus Update: Governor Gavin Newsom\u2019s Little-Noticed \nReopening Requirement Could Trip L.A. Up",
+    "url": "https://deadline.com/2020/09/california-coronavirus-governor-gavin-newsoms-new-reopening-requirement-1234568059/",
+    "source": "Deadline",
+    "time": "3 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "deadline.com"
+  },
+  {
+    "title": "FEMA Limits PPE Costs It Will Cover, Sending State Officials Scrambling : \nCoronavirus Live Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/01/908413181/fema-says-it-will-stop-paying-for-cloth-face-masks-for-schools",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

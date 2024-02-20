@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Now at the Boarding Gate: Coronavirus Tests",
+    "url": "https://www.nytimes.com/2020/09/30/travel/coronavirus-airlines-test.html",
+    "source": "The New York Times",
+    "time": "19 mins ago",
+    "date": "2020-09-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "15-minute coronavirus test gets the green light in Europe",
+    "url": "https://www.cnbc.com/2020/09/30/15-minute-coronavirus-test-gets-the-green-light-for-a-european-rollout.html",
+    "source": "CNBC",
+    "time": "15 hours ago",
+    "date": "2020-09-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Delayed coronavirus testing halts television productions in Canada: Report",
+    "url": "https://www.foxbusiness.com/media/delayed-coronavirus-testing-halts-riverdale-batwoman-productions-canada",
+    "source": "Fox Business",
+    "time": "1 hour ago",
+    "date": "2020-09-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.foxbusiness.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "38 mins ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: CDC reverses statement on airborne transmission of \ncoronavirus, says draft accidentally published",
+    "url": "https://www.washingtonpost.com/nation/2020/09/21/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "21 mins ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Oregon businesses threaten class action lawsuit over coronavirus \nrestrictions",
+    "url": "https://www.oregonlive.com/coronavirus/2020/09/oregon-businesses-threaten-class-action-lawsuit-over-coronavirus-restrictions.html",
+    "source": "oregonlive.com",
+    "time": "1 hour ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "Rebooted Roland Garros struggles to escape shadow of coronavirus",
+    "url": "https://sports.yahoo.com/rebooted-roland-garros-struggles-escape-013845009.html",
+    "source": "Yahoo Sports",
+    "time": "43 mins ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "sports.yahoo.com"
+  },
+  {
+    "title": "To: Flu season 2020. From: Humans. Subject: We're better prepared for you",
+    "url": "https://www.cincinnati.com/story/news/2020/09/22/coronavirus-flu-season-vaccine-pandemic-masks-social-distancing/5825153002/",
+    "source": "Cincinnati.com",
+    "time": "20 mins ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.cincinnati.com"
+  },
+  {
+    "title": "Signs of an 'October vaccine surprise' alarm scientists",
+    "url": "https://www.nbcnews.com/health/health-news/signs-october-vaccine-surprise-alarm-scientists-n1240617",
+    "source": "NBC News",
+    "time": "6 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "CDC backtracks on warning that coronavirus is airborne",
+    "url": "https://www.politico.com/news/2020/09/21/cdc-coronavirus-spread-airborne-419363",
+    "source": "Politico",
+    "time": "5 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Resident Doctor Dies of Coronavirus at 28 After Treating COVID-19 Positive \nPatients in the ER",
+    "url": "https://people.com/health/resident-doctor-28-dies-of-coronavirus/",
+    "source": "PEOPLE.com",
+    "time": "3 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "people.com"
+  },
+  {
+    "title": "Coronavirus update: CDC changes \u2014 then deletes \u2014 new guidance on airborne \ntransmission",
+    "url": "https://finance.yahoo.com/news/coronavirus-update-cdc-changes-then-deletes-new-guidance-on-airborne-transmission-164441858.html",
+    "source": "Yahoo Finance",
+    "time": "9 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Temperature Isn\u2019t a Good Litmus Test for Coronavirus, Doctors Say",
+    "url": "https://www.wsj.com/articles/temperature-isnt-a-good-litmus-test-for-coronavirus-doctors-say-11600713159",
+    "source": "Wall Street Journal",
+    "time": "7 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

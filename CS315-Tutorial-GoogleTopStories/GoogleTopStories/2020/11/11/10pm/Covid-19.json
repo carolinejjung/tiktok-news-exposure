@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Updates",
+    "url": "https://www.nytimes.com/live/2020/11/11/world/covid-19-coronavirus-live-updates",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Biden COVID-19 adviser suggests potential lockdown lasting over a month",
+    "url": "https://www.foxbusiness.com/economy/biden-covid-19-adviser-lockdown",
+    "source": "Fox Business",
+    "time": "2 hours ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Antifa planning Portland meetup in defiance of COVID-19 rules, online posts \nreportedly reveal",
+    "url": "https://www.foxnews.com/us/antifa-portland-meetup-covid",
+    "source": "Fox News",
+    "time": "41 mins ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Springfield reports 115 new COVID-19 cases in one day, highest since April",
+    "url": "https://www.wwlp.com/news/local-news/hampden-county/springfield-reports-115-new-covid-19-cases-in-one-day-highest-since-april/",
+    "source": "WWLP.com",
+    "time": "36 mins ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "95 counties in Iowa are in the 'red zone' for COVID-19, White House asks \nfor additional measures to stop virus",
+    "url": "https://www.kcrg.com/2020/11/12/95-counties-in-iowa-are-in-the-red-zone-for-covid-19-white-house-asks-for-additional-measures-to-stop-virus/",
+    "source": "KCRG",
+    "time": "45 mins ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.kcrg.com"
+  },
+  {
+    "title": "COVID-19: Alert Issued For Exposure At Two Long Island Restaurants",
+    "url": "https://dailyvoice.com/new-york/nassau/news/covid-19-alert-issued-for-exposure-at-two-long-island-restaurants/797713/",
+    "source": "Daily Voice",
+    "time": "10 hours ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "The CDC chief lost his way during COVID-19. Now his agency is in the \nbalance.",
+    "url": "https://www.tauntongazette.com/story/news/2020/11/11/covid-19-cdc-director-buckled-politics-tarnishing-agency/6248957002/",
+    "source": "Taunton Daily Gazette",
+    "time": "11 hours ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.tauntongazette.com"
+  },
+  {
+    "title": "Covid-19 scare unfolds aboard first Caribbean cruise since the pandemic \nbegan",
+    "url": "https://www.cnn.com/travel/article/caribbean-cruise-seadream-1-covid/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19 data: Where in Utah are positive test rates the highest?",
+    "url": "https://www.ksl.com/article/50046855/covid-19-data-where-in-utah-are-positive-test-rates-the-highest",
+    "source": "KSL.com",
+    "time": "8 hours ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.ksl.com"
+  },
+  {
+    "title": "Holyoke bar manager speaks out against COVID-19 citations",
+    "url": "https://www.westernmassnews.com/news/holyoke-bar-manager-speaks-out-against-covid-19-citations/article_1bc09e76-2467-11eb-b485-a3fda3a7b0c7.html",
+    "source": "WESTERNMASSNEWS.com",
+    "time": "4 hours ago",
+    "date": "2020-11-11 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.westernmassnews.com"
+  }
+]

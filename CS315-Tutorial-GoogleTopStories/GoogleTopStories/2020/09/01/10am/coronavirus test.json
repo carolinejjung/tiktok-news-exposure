@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "15 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Hong Kong starts mass coronavirus testing as critics urge boycott",
+    "url": "https://www.nbcnews.com/news/world/hong-kong-starts-mass-coronavirus-testing-critics-urge-boycott-n1238949",
+    "source": "NBC News",
+    "time": "2 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "NYC teachers union moves toward strike amid call for coronavirus testing \nrequirement",
+    "url": "https://thehill.com/homenews/state-watch/514566-nyc-teachers-union-moves-toward-strike-amid-call-for-coronavirus-testing",
+    "source": "The Hill",
+    "time": "28 mins ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "thehill.com"
+  }
+]

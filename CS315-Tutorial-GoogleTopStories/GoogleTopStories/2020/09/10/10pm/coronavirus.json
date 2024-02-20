@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Tracker",
+    "url": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "20 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-10-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "11 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Watch the entire CNN coronavirus town hall",
+    "url": "https://www.cnn.com/2020/09/10/app-news-section/full-coronavirus-town-hall-september-10/index.html",
+    "source": "CNN",
+    "time": "7 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump campaign stop in mid-Michigan touts auto industry comeback, says \ncountry has turned coronavirus corner",
+    "url": "https://www.fox2detroit.com/news/trump-campaign-stop-in-mid-michigan-touts-auto-industry-comeback-says-country-has-turned-coronavirus-corner",
+    "source": "FOX 2 Detroit",
+    "time": "52 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.fox2detroit.com"
+  },
+  {
+    "title": "Several Coronavirus Cases at Oak Park and River Forest High School Linked \nto Large Gathering",
+    "url": "https://www.nbcchicago.com/news/local/several-coronavirus-cases-at-oak-park-and-river-forest-high-school-linked-to-large-gathering/2337268/",
+    "source": "NBC Chicago",
+    "time": "21 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nbcchicago.com"
+  },
+  {
+    "title": "CDC report: dining out increases risk of contracting coronavirus more than \nother activities | TheHill",
+    "url": "https://thehill.com/policy/healthcare/515923-cdc-report-dining-out-increases-risk-of-contracting-coronavirus-more-than",
+    "source": "The Hill",
+    "time": "5 hours ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Concerns rise over coronavirus cluster in Boston College athletics after \noutbreak on swim and dive team",
+    "url": "https://www.bostonglobe.com/2020/09/10/sports/concerns-rise-amid-virus-cluster-bc-athletics/",
+    "source": "The Boston Globe",
+    "time": "1 hour ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Coronavirus in NY: 150 Big Businesses Warn De Blasio of \u2018Widespread \nAnxiety\u2019 Over City's Future",
+    "url": "https://www.nytimes.com/2020/09/10/nyregion/de-blasio-economy-coronavirus.html",
+    "source": "The New York Times",
+    "time": "2 hours ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Trump says everyone knew the coronavirus was airborne in February: It's 'no \nbig thing'",
+    "url": "https://www.cnbc.com/2020/09/10/trump-says-everyone-knew-the-coronavirus-was-airborne-in-february-its-no-big-thing.html",
+    "source": "CNBC",
+    "time": "4 hours ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Coronavirus Models Were Always About More Than Flattening The Curve",
+    "url": "https://fivethirtyeight.com/features/coronavirus-models-were-always-about-more-than-flattening-the-curve/",
+    "source": "FiveThirtyEight",
+    "time": "11 hours ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "fivethirtyeight.com"
+  }
+]

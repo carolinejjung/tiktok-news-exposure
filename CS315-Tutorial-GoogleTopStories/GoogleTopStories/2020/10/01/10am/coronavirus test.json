@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Now at the Boarding Gate: Coronavirus Tests",
+    "url": "https://www.nytimes.com/2020/09/30/travel/coronavirus-airlines-test.html",
+    "source": "The New York Times",
+    "time": "15 hours ago",
+    "date": "2020-10-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "How The New Rapid Tests Could Drive A Coronavirus Testing Paradigm Shift : \nShots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/10/01/915793729/can-the-u-s-use-its-growing-supply-of-rapid-tests-to-stop-the-virus",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-10-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Two minutes to positive? Sheba trialing new antigen coronavirus test",
+    "url": "https://www.jpost.com/health-science/two-minutes-to-positive-sheba-trialing-new-antigen-coronavirus-test-644128",
+    "source": "The Jerusalem Post",
+    "time": "1 hour ago",
+    "date": "2020-10-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.jpost.com"
+  }
+]

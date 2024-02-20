@@ -1,0 +1,32 @@
+[
+  {
+    "title": "No, a Negative Coronavirus Test Does Not Mean You Can Safely Socialize",
+    "url": "https://www.nytimes.com/2020/11/21/upshot/coronavirus-test-thanksgiving-plans.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-11-22 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus \u2018testing deserts\u2019 are plaguing parts of Massachusetts",
+    "url": "https://www.bostonherald.com/2020/11/21/coronavirus-testing-deserts-are-plaguing-parts-of-massachusetts/",
+    "source": "Boston Herald",
+    "time": "1 day ago",
+    "date": "2020-11-22 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "Onondaga County to offer coronavirus tests in two Syracuse ZIP codes this \nweek",
+    "url": "https://www.syracuse.com/coronavirus/2020/11/onondaga-county-to-offer-coronavirus-tests-in-two-syracuse-zip-codes-this-week.html",
+    "source": "syracuse.com",
+    "time": "2 hours ago",
+    "date": "2020-11-22 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.syracuse.com"
+  }
+]

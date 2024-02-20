@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC reverses controversial coronavirus guidance that said people without \nsymptoms may not need a test",
+    "url": "https://www.cnbc.com/2020/09/18/cdc-reverses-coronavirus-guidance-that-said-people-without-symptoms-may-not-need-a-test.html",
+    "source": "CNBC",
+    "time": "2 days ago",
+    "date": "2020-09-20 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Is it covid-19 or the flu? What doctors say about the symptoms.",
+    "url": "https://www.washingtonpost.com/health/2020/09/18/covid-vs-flu-symptoms/",
+    "source": "Washington Post",
+    "time": "2 days ago",
+    "date": "2020-09-20 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "CDC reverses coronavirus guidance saying people without symptoms may not \nneed a test",
+    "url": "https://www.wave3.com/2020/09/20/cdc-reverses-coronavirus-guidance-saying-people-without-symptoms-may-not-need-test/",
+    "source": "WAVE 3",
+    "time": "4 hours ago",
+    "date": "2020-09-20 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.wave3.com"
+  }
+]

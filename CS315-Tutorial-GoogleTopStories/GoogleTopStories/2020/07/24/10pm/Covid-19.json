@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-24-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "14 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Sheriff Javier Salazar breaks down how COVID-19 is being handled at Bexar \nCounty Jail",
+    "url": "https://news4sanantonio.com/news/coronavirus/sheriff-javier-salazar-breaks-down-how-covid-19-is-being-handled-at-bexar-county-jail",
+    "source": "WOAI",
+    "time": "12 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "news4sanantonio.com"
+  },
+  {
+    "title": "Professor can't shake Covid-19 symptoms months after diagnosis",
+    "url": "https://www.cnn.com/videos/health/2020/07/25/paul-garner-covid19-cdc-prolonged-illness-cant-shake-symptoms-ac360-vpx.cnn",
+    "source": "CNN.com",
+    "time": "49 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Illinois COVID-19 positivity rate rises but hospitalizations remain flat, \nChicago hospitals say",
+    "url": "https://abc7chicago.com/health/as-illinois-covid-positivity-rate-rises-hospitalizations-remain-flat/6333729/",
+    "source": "ABC7 Chicago",
+    "time": "52 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "abc7chicago.com"
+  },
+  {
+    "title": "Coronavirus Hot Spots: Could The Mid-Atlantic And Northeast See A COVID-19 \nRebound?",
+    "url": "https://www.npr.org/sections/health-shots/2020/07/24/895144417/coronavirus-hot-spots-could-the-mid-atlantic-and-northeast-see-a-covid-19-reboun",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "They\u2019ll Never \u201cGet Over It\u201d",
+    "url": "https://slate.com/human-interest/2020/07/contagion-guilt-school-reopening-covid.html",
+    "source": "Slate",
+    "time": "4 hours ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "slate.com"
+  },
+  {
+    "title": "CDC changes COVID-19 guidance on how long patients need to be isolated",
+    "url": "https://www.nbcnews.com/health/health-news/cdc-changes-covid-19-guidance-how-long-patients-need-be-n1234883",
+    "source": "NBC News",
+    "time": "4 hours ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Why do so many COVID patients lose their sense of smell? Scientists now \nknow.",
+    "url": "https://www.usatoday.com/story/news/health/2020/07/24/scientists-now-know-why-covid-19-patients-lose-their-sense-smell/5504964002/",
+    "source": "USATODAY.com",
+    "time": "5 hours ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Study identifies six different \"types\" of COVID-19",
+    "url": "https://www.cbsnews.com/news/covid-19-symptoms-study-six-different-types/",
+    "source": "CBS News",
+    "time": "6 hours ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.cbsnews.com"
+  }
+]

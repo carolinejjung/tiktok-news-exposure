@@ -1,0 +1,102 @@
+[
+  {
+    "title": "University of Michigan to Drop Out as Presidential Debate Host",
+    "url": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "17 hours ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Study suggests 80% of Covid-19 cases in the US went undetected in March",
+    "url": "https://www.cnn.com/2020/06/23/health/undetected-coronavirus-cases-march-study/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Tennis Star Novak Djokovic Tests Positive for Covid-19",
+    "url": "https://www.wsj.com/articles/tennis-star-novak-djokovic-tests-positive-for-covid-19-11592921012",
+    "source": "The Wall Street Journal",
+    "time": "12 mins ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Citing COVID-19, Developer of Jersey City's Dream Tower Says Proposal is \n'No Longer Feasible'",
+    "url": "https://jerseydigs.com/citing-covid-19-developer-dream-tower-jersey-city-not-feasible/",
+    "source": "Jersey Digs",
+    "time": "16 mins ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "jerseydigs.com"
+  },
+  {
+    "title": "Trump explains rally comment on slowing down COVID-19 testing in Fox News \ninterview",
+    "url": "https://www.foxnews.com/media/president-trump-on-rally-comments-slowing-down-covid-19-testing",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Novak Djokovic and wife Jelena test positive for COVID-19",
+    "url": "https://sports.yahoo.com/novak-djokovic-and-wife-jelena-test-positive-for-covid-19-123209432.html",
+    "source": "Yahoo! Sports",
+    "time": "1 hour ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "sports.yahoo.com"
+  },
+  {
+    "title": "COVID-19: Here's Rundown Of Cases As Long Island Nears Phase 3 Of \nFour-Phase Reopening",
+    "url": "https://dailyvoice.com/new-york/nassau/news/covid-19-heres-rundown-of-cases-as-long-island-nears-phase-3-of-four-phase-reopening/789719/",
+    "source": "Daily Voice",
+    "time": "3 hours ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "The Second COVID-19 Stimulus Check Could Be 25.5% Higher for the Average \nAmerican",
+    "url": "https://www.fool.com/investing/2020/06/23/the-second-covid-19-stimulus-check-could-be-255-hi.aspx",
+    "source": "The Motley Fool",
+    "time": "3 hours ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.fool.com"
+  },
+  {
+    "title": "The shift to thrift: COVID-19 propels an already surging secondhand \nclothing market",
+    "url": "https://www.marketwatch.com/story/covid-19-propels-an-already-surging-secondhand-clothing-market-2020-06-23",
+    "source": "MarketWatch",
+    "time": "3 hours ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "First Thing: Covid-19 cases are surging in more than half of US states",
+    "url": "https://www.theguardian.com/us-news/2020/jun/23/first-thing-covid-19-cases-surging-us-states-infections",
+    "source": "The Guardian",
+    "time": "4 hours ago",
+    "date": "2020-06-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.theguardian.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "FDA approves Gilead's remdesivir as coronavirus treatment",
+    "url": "https://www.cnbc.com/2020/10/22/fda-approves-gileads-remdesivir-as-coronavirus-treatment.html",
+    "source": "CNBC",
+    "time": "6 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: Houston Teachers Protest Coronavirus Policies",
+    "url": "https://www.nytimes.com/live/2020/10/22/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-22-20-intl/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump says 'good chance' coronavirus vaccine ready in weeks, as Biden \npredicts 'dark winter'",
+    "url": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-ready-biden-dark-winter",
+    "source": "Fox News",
+    "time": "29 mins ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Trump, Biden clash over coronavirus response, mounting death toll | TheHill",
+    "url": "https://thehill.com/homenews/administration/522379-trump-biden-clash-over-coronavirus-response-mounting-death-toll",
+    "source": "The Hill",
+    "time": "13 mins ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "6,500 new restaurants opened in September, despite coronavirus pandemic \ndifficulties: report",
+    "url": "https://www.foxbusiness.com/lifestyle/6500-new-restaurants-opened-september",
+    "source": "Fox Business",
+    "time": "48 mins ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Revamped Coronavirus Risk Map: Mass. Up to 77 Communities in the Red",
+    "url": "https://www.nbcboston.com/news/coronavirus/revamped-coronavirus-risk-map-mass-up-to-77-communities-in-the-red/2216477/",
+    "source": "NBC10 Boston",
+    "time": "1 hour ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcboston.com"
+  },
+  {
+    "title": "19 cities and towns now under 'Red Alert' as coronavirus cases, \nhospitalizations rise",
+    "url": "https://www.wfsb.com/news/19-cities-and-towns-now-under-red-alert-as-coronavirus-cases-hospitalizations-rise/article_3def6898-14a3-11eb-8eb4-7f5f345c6396.html",
+    "source": "WFSB",
+    "time": "5 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wfsb.com"
+  },
+  {
+    "title": "Stop wiping down groceries and focus on bigger risks, say experts on \ncoronavirus transmission",
+    "url": "https://www.washingtonpost.com/lifestyle/wellness/surface-wipes-contamination-covid/2020/10/22/41c77e28-13c3-11eb-bc10-40b25382f1be_story.html",
+    "source": "Washington Post",
+    "time": "12 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "CDC study: Coronavirus thrives where poverty reigns",
+    "url": "https://news.yahoo.com/cdc-study-coronavirus-thrives-where-poverty-reigns-170025285.html",
+    "source": "Yahoo News",
+    "time": "9 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "news.yahoo.com"
+  }
+]

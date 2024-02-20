@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/03/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Dwayne Johnson says he and his family are on the mend from coronavirus",
+    "url": "https://www.cnn.com/2020/09/02/entertainment/the-rock-dwayne-johnson-coronavirus/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Report: Nursing home nurse accused of working despite COVID-19 exposure may \nface criminal probe",
+    "url": "https://www.boston.com/news/coronavirus/2020/09/03/connecticut-nurse-coronavirus-nursing-home-investigation",
+    "source": "Boston.com",
+    "time": "1 hour ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.boston.com"
+  },
+  {
+    "title": "Parents locked up kids for months to protect them from COVID-19",
+    "url": "https://nypost.com/2020/09/03/paranoid-parents-locked-up-kids-to-protect-them-from-covid-19/",
+    "source": "New York Post",
+    "time": "34 mins ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Public health experts fear politics will taint COVID-19 vaccine approval",
+    "url": "https://www.bostonglobe.com/2020/09/02/metro/public-health-experts-fear-politics-will-taint-vaccine-approval/",
+    "source": "The Boston Globe",
+    "time": "10 hours ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "The Midwest surge in coronavirus cases, explained",
+    "url": "https://www.vox.com/2020/9/2/21418812/covid-19-coronavirus-us-cases-midwest-surge",
+    "source": "Vox",
+    "time": "18 hours ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.vox.com"
+  },
+  {
+    "title": "Coronavirus live updates: Canada's top doctor says wear a mask during sex; \ncyberattacks hit virtual class; more colleges alter reopening",
+    "url": "https://www.usatoday.com/story/news/health/2020/09/03/covid-19-news-dwayne-johnson-cdc-vaccine-united-airlines-sturgis/5700013002/",
+    "source": "USA TODAY",
+    "time": "53 mins ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Fear and dread haunt COVID-19 'long-haulers'",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-long-fear-feature/fear-and-dread-haunt-covid-19-long-haulers-idUSKBN25U0ET",
+    "source": "Reuters",
+    "time": "10 hours ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Minnesota first to report COVID-19 death linked to Sturgis Motorcycle Rally",
+    "url": "https://www.foxnews.com/us/minnesota-covid-death-sturgis-motorcycle",
+    "source": "Fox News",
+    "time": "15 hours ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Hahn, HHS in \u2018tit for tat\u2019 feud over Covid-19 messaging",
+    "url": "https://www.politico.com/news/2020/09/02/stephen-hahn-fda-hhs-coronavirus-feud-408136",
+    "source": "Politico",
+    "time": "12 hours ago",
+    "date": "2020-09-03 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.politico.com"
+  }
+]

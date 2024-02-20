@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-30-21/index.html",
+    "source": "CNN",
+    "time": "12 mins ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "CDC Order Will Require Masks On Planes, Trains And Other Public \nTransportation : Coronavirus Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/30/962390180/cdc-issues-sweeping-new-mask-mandate-for-u-s-travelers-extends-eviction-moratori",
+    "source": "NPR",
+    "time": "29 mins ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "CT Surpasses 250,000 Total Coronavirus Cases",
+    "url": "https://patch.com/connecticut/across-ct/ct-surpasses-250-000-total-coronavirus-cases",
+    "source": "Patch.com",
+    "time": "1 hour ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "patch.com"
+  },
+  {
+    "title": "Coronavirus variants threaten vaccines and pandemic outlook",
+    "url": "https://www.businessinsider.com/coronavirus-variants-threaten-vaccines-and-pandemic-outlook-2021-1",
+    "source": "Business Insider",
+    "time": "1 hour ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Coronavirus stimulus payment may arrive as a debit card, IRS says",
+    "url": "https://www.foxbusiness.com/economy/coronavirus-stimulus-payment-may-arrive-as-a-debit-card-irs-says",
+    "source": "Fox Business",
+    "time": "4 hours ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "CDC says travelers must wear masks on all forms of public transportation",
+    "url": "https://www.cnn.com/2021/01/30/health/us-coronavirus-saturday/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Why America is \u2018flying blind\u2019 to the coronavirus mutations racing across \nthe globe",
+    "url": "https://www.washingtonpost.com/health/2021/01/29/genetic-sequencing-mutations-coronavirus/",
+    "source": "Washington Post",
+    "time": "18 hours ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Stephen Lynch tests positive for coronavirus after receiving second vaccine \ndose",
+    "url": "https://www.bostonherald.com/2021/01/29/stephen-lynch-tests-positive-for-coronavirus/",
+    "source": "Boston Herald",
+    "time": "13 hours ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "New clinical trials raise fears the coronavirus is learning how to resist \nvaccines",
+    "url": "https://news.yahoo.com/clinical-trials-raise-fears-coronavirus-040855671.html",
+    "source": "Yahoo News",
+    "time": "10 hours ago",
+    "date": "2021-01-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "news.yahoo.com"
+  }
+]

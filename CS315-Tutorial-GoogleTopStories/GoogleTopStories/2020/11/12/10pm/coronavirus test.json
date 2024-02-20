@@ -1,0 +1,32 @@
+[
+  {
+    "title": "These Researchers Tested Positive. But the Virus Wasn\u2019t the Cause.",
+    "url": "https://www.nytimes.com/2020/11/12/health/coronavirus-testing-lab-contamination.html",
+    "source": "The New York Times",
+    "time": "12 hours ago",
+    "date": "2020-11-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Labs sound alarm on coronavirus testing capacity, supplies",
+    "url": "https://www.politico.com/news/2020/11/12/coronavirus-testing-capacity-labs-concerned-436399",
+    "source": "Politico",
+    "time": "3 hours ago",
+    "date": "2020-11-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Here's where you can get rapid COVID-19 testing in Greater Lansing",
+    "url": "https://www.lansingstatejournal.com/story/news/local/2020/11/13/greater-lansing-covid-testing-near-me-mi-coronavirus-same-day-results/6247704002/",
+    "source": "Lansing State Journal",
+    "time": "15 mins ago",
+    "date": "2020-11-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.lansingstatejournal.com"
+  }
+]

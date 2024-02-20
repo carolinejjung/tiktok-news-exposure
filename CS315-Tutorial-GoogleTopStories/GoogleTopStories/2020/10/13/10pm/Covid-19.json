@@ -1,0 +1,102 @@
+[
+  {
+    "title": "'Hunker down': The fall Covid-19 surge is here",
+    "url": "https://www.cnn.com/2020/10/13/health/us-coronavirus-tuesday/index.html",
+    "source": "CNN",
+    "time": "51 mins ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Dutch woman dies after catching Covid-19 twice, the first reported \nreinfection death",
+    "url": "https://www.cnn.com/2020/10/13/europe/covid-19-dutch-woman-reinfection-death-intl/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Eli Lilly pauses COVID-19 antibody trial, stock slides",
+    "url": "https://www.foxbusiness.com/healthcare/eli-lilly-pauses-covid-19-trials-stock-slides",
+    "source": "Fox Business",
+    "time": "7 hours ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Covid-19: New three-tier restrictions come into force in England",
+    "url": "https://www.bbc.com/news/uk-54533924",
+    "source": "BBC News",
+    "time": "1 hour ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "1 Dead, 50+ Infected With COVID-19 at Avon Assisted Living Facilities",
+    "url": "https://www.nbcconnecticut.com/news/local/1-dead-50-infected-with-covid-19-at-neighboring-avon-assisted-living-facilities/2345668/",
+    "source": "NBC Connecticut",
+    "time": "45 mins ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "COVID-19 quarantines sideline students from school, sports: 'This is a huge \nproblem'",
+    "url": "https://www.cincinnati.com/story/news/2020/10/13/covid-19-quarantine-students-schools-sports-academics-ohio-kentucky/3572300001/",
+    "source": "Cincinnati.com",
+    "time": "29 mins ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cincinnati.com"
+  },
+  {
+    "title": "Gov. Herbert announces state's new response to COVID-19 based on 3 metrics",
+    "url": "http://kutv.com/news/local/live-gov-herbert-announces-next-steps-for-coronavirus-recovery-amid-surge",
+    "source": "KUTV 2News",
+    "time": "8 hours ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "kutv.com"
+  },
+  {
+    "title": "First lady unseen as Trump restarts campaign after COVID-19",
+    "url": "https://apnews.com/article/virus-outbreak-donald-trump-health-melania-trump-a9ca689c5e82d127e30e3b9f6ca22457",
+    "source": "Associated Press",
+    "time": "3 hours ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Coronavirus updates: Eli Lilly antibody trial paused; COVID-19 surges in 41 \nstates; Dutch woman dies from reinfection",
+    "url": "https://www.usatoday.com/story/news/health/2020/10/13/covid-news-johnson-johnson-vaccine-trial-donald-trump-texas/5974060002/",
+    "source": "USA TODAY",
+    "time": "5 hours ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Rockland COVID-19 cases dip; county rips Ramapo, Spring Valley for 'red \nzone' response",
+    "url": "https://www.lohud.com/story/news/local/rockland/2020/10/13/coronavirus-cases-dip-rockland-red-zone-ramapo-spring-valley-criticized/5973479002/",
+    "source": "The Journal News / Lohud.com",
+    "time": "5 hours ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.lohud.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Long lines and delayed results again plague coronavirus tests as \nThanksgiving approaches",
+    "url": "https://www.washingtonpost.com/health/2020/11/18/coronavirus-thanksgiving-test/",
+    "source": "Washington Post",
+    "time": "7 hours ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "FDA Approves 1st At-Home Coronavirus Test",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/11/17/936055284/fda-approves-first-at-home-coronavirus-test",
+    "source": "NPR",
+    "time": "23 hours ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "California Coronavirus Updates: FDA Approves First At-Home COVID-19 Test",
+    "url": "https://www.capradio.org/articles/2020/11/18/california-coronavirus-updates-november-2020/",
+    "source": "Capital Public Radio News",
+    "time": "24 mins ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.capradio.org"
+  }
+]

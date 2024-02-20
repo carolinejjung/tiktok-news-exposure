@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Global Updates",
+    "url": "https://www.nytimes.com/live/2020/10/30/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "8 mins ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Household spread of Covid-19 is common and quick, a new CDC study finds",
+    "url": "https://www.cnn.com/2020/10/30/health/household-spread-covid-19-wellness/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Connecticut, New Jersey added to Massachusetts COVID-19 travel order",
+    "url": "https://www.wwlp.com/news/massachusetts/connecticut-new-jersey-added-to-massachusetts-covid-19-travel-order/",
+    "source": "WWLP.com",
+    "time": "30 mins ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "Thurston County COVID-19 cases on the rise, outbreaks reported in 6 nursing \nhomes",
+    "url": "https://komonews.com/news/coronavirus/thurston-county-covid-19-cases-on-the-rise",
+    "source": "KOMO News",
+    "time": "12 mins ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Health officials stress limiting small gatherings to help slow COVID-19 \nspread",
+    "url": "https://komonews.com/news/coronavirus/health-officials-stress-limiting-small-gatherings-to-help-slow-covid-19-spread",
+    "source": "KOMO News",
+    "time": "21 mins ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Utah sent every phone in the state an emergency alert warning about rapidly \nrising Covid-19 cases and overwhelmed hospitals",
+    "url": "https://www.cnn.com/2020/10/30/us/utah-emergency-alert-covid-19-trnd/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19 household transmission is way higher than we thought",
+    "url": "https://www.livescience.com/covid-19-household-spread.html",
+    "source": "Livescience.com",
+    "time": "5 hours ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.livescience.com"
+  },
+  {
+    "title": "Covid-19 antibodies diminish over time, but experts say there's no reason \nto be alarmed",
+    "url": "https://www.nbcnews.com/health/health-news/covid-19-antibodies-diminish-over-time-experts-say-there-s-n1245524",
+    "source": "NBC News",
+    "time": "6 hours ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "As Utah breaks another daily COVID-19 record, officials send an alert to \ncellphones statewide",
+    "url": "https://www.sltrib.com/news/2020/10/30/daily-record-new-cases/",
+    "source": "Salt Lake Tribune",
+    "time": "6 hours ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.sltrib.com"
+  },
+  {
+    "title": "Broncos, Vikings players test positive for COVID-19; Sunday games remain \nunchanged",
+    "url": "https://www.nfl.com/news/broncos-vikings-have-player-test-positive-for-covid-19-sunday-games-remain-uncha",
+    "source": "NFL.com",
+    "time": "10 hours ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nfl.com"
+  }
+]

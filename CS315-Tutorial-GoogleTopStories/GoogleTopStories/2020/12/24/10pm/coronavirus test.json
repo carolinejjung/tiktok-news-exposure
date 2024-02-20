@@ -1,0 +1,32 @@
+[
+  {
+    "title": "How Confident Can You Be in a Coronavirus Test?",
+    "url": "https://www.nytimes.com/2020/12/23/upshot/coronavirus-tests-positives-negatives.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-12-24 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "US Needs More Coronavirus Tests To Stop The Winter Surge : Shots - Health \nNews",
+    "url": "https://www.npr.org/sections/health-shots/2020/12/22/948085513/vaccines-are-coming-but-the-u-s-still-needs-more-testing-to-stop-the-surge",
+    "source": "NPR",
+    "time": "2 days ago",
+    "date": "2020-12-24 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "WTOP\u2019s Mike Murillo puts COVID-19 at-home testing kit to the test",
+    "url": "https://wtop.com/coronavirus/2020/12/at-home-covid-19-test-put-to-the-test-by-wtops-mike-murillo/",
+    "source": "WTOP",
+    "time": "1 hour ago",
+    "date": "2020-12-24 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "wtop.com"
+  }
+]

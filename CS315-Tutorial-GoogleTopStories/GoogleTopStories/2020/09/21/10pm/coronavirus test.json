@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "32 mins ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: Cases on the rise in 3 states",
+    "url": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73141490",
+    "source": "ABC News",
+    "time": "3 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "New Hampshire Coronavirus Update: 3,620 Test Results; 7 Positives",
+    "url": "https://patch.com/new-hampshire/concord-nh/new-hampshire-coronavirus-update-3-620-test-results-7-positives",
+    "source": "Patch.com",
+    "time": "1 hour ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "patch.com"
+  }
+]

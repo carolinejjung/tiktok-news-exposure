@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Tracker",
+    "url": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "22 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Federal government details plans to distribute free Covid-19 vaccines",
+    "url": "https://www.cnn.com/2020/09/16/health/coronavirus-vaccine-distribution-plan/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "President Trump contradicts CDC on COVID-19 vaccine release date",
+    "url": "https://www.clickorlando.com/news/local/2020/09/17/president-trump-contradicts-cdc-on-covid-19-vaccine-release-date/",
+    "source": "WKMG News 6 & ClickOrlando",
+    "time": "32 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.clickorlando.com"
+  },
+  {
+    "title": "Santa Clara County Demands More COVID-19 Testing",
+    "url": "https://www.nbcbayarea.com/news/local/south-bay/santa-clara-county-demands-more-covid-19-testing/2364768/",
+    "source": "NBC Bay Area",
+    "time": "25 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.nbcbayarea.com"
+  },
+  {
+    "title": "Gov. Newsom has COVID-19 Farmworker Relief Package sitting on his desk",
+    "url": "https://www.ksbw.com/article/gov-newsom-has-covid-19-farmworker-relief-package-sitting-on-his-desk/34046988",
+    "source": "KSBW The Central Coast",
+    "time": "35 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.ksbw.com"
+  },
+  {
+    "title": "White House Staff Member Tests Positive For COVID-19 Less Than 24 Hours \nAfter President Donald Trump Visited Philadelphia",
+    "url": "https://philadelphia.cbslocal.com/2020/09/16/white-house-staff-member-test-positive-for-covid-19-less-than-24-hours-after-president-donald-trump-visited-philadelphia/",
+    "source": "CBS Philly",
+    "time": "3 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "philadelphia.cbslocal.com"
+  },
+  {
+    "title": "Trump blames 'blue states' for increasing nation's coronavirus death rates, \nignores high rates in red states",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2020/09/16/trump-blames-blue-states-covid-19-death-rates/5819120002/",
+    "source": "USA TODAY",
+    "time": "4 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Trump disputes CDC head's vaccine timeline and mask claims",
+    "url": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html",
+    "source": "CNN",
+    "time": "47 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Utah reports 747 cases of COVID-19 \u2014 the most in a day since July \u2014 and a \nrecord 48 new cases in schools",
+    "url": "https://www.sltrib.com/news/2020/09/16/another-cases-covid/",
+    "source": "Salt Lake Tribune",
+    "time": "6 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.sltrib.com"
+  },
+  {
+    "title": "COVID-19 Continues to Impact Connecticut Schools",
+    "url": "https://www.nbcconnecticut.com/news/local/back-to-school/some-schools-in-conn-impacted-closed-today-due-to-covid-19/2333176/",
+    "source": "NBC Connecticut",
+    "time": "13 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcconnecticut.com"
+  }
+]

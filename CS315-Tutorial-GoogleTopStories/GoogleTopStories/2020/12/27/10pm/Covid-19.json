@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Donald Trump signs Covid-19 relief and spending bill",
+    "url": "https://www.theguardian.com/us-news/2020/dec/28/donald-trump-signs-covid-19-relief-and-spending-bill",
+    "source": "The Guardian",
+    "time": "1 hour ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Trump Signs Coronavirus Relief And Spending Bills",
+    "url": "https://www.npr.org/2020/12/27/950133658/trump-signs-covid-19-relief-package-after-threatening-to-derail-it",
+    "source": "NPR",
+    "time": "39 mins ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Which Memphis-area COVID-19 testing labs are fastest? State data tell the \ntale",
+    "url": "https://www.commercialappeal.com/story/news/2020/12/28/tennessee-data-show-which-covid-19-testing-labs-fastest/3859275001/",
+    "source": "The Commercial Appeal",
+    "time": "11 mins ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.commercialappeal.com"
+  },
+  {
+    "title": "Fauci shares Biden's concern that 'darkest days' may be ahead in Covid-19 \nfight",
+    "url": "https://www.cnn.com/2020/12/27/politics/anthony-fauci-biden-coronavirus-cnntv/index.html",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump signs COVID relief bill, averting government shutdown",
+    "url": "https://www.axios.com/trump-to-sign-covid-19-relief-bill-averting-shutdown-892096f7-2a16-440a-9065-e88498ff6277.html",
+    "source": "Axios",
+    "time": "1 hour ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "Trump Signs Covid-19 Aid Bill Averting Government Shutdown",
+    "url": "https://www.wsj.com/articles/trump-signs-covid-19-aid-bill-averting-government-shutdown-11609117841",
+    "source": "The Wall Street Journal",
+    "time": "42 mins ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Doctor uses allergy autoinjector to stem his own reaction to Moderna \nCovid-19 vaccine",
+    "url": "https://www.nbcnews.com/news/us-news/doctor-uses-allergy-autoinjector-stem-his-own-reaction-moderna-covid-n1252393",
+    "source": "NBC News",
+    "time": "8 hours ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Here's who won't get a second stimulus check from the COVID-19 relief bill",
+    "url": "https://www.wbir.com/article/news/health/coronavirus/who-will-who-wont-get-a-second-stimulus-check-from-covid-19-relief-bill-600-dollars-trump/507-441c731f-e96e-4e2d-99a3-c17bea0d4dad",
+    "source": "WBIR.com",
+    "time": "1 day ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.wbir.com"
+  },
+  {
+    "title": "Stimulus Checks: President Donald Trump signs COVID 19 relief bill, which \nalso funds the government and avoids looming shutdown",
+    "url": "https://6abc.com/unemployment-benefits-expire-government-shutdown-covid-relief-600-checks/9109496",
+    "source": "WPVI-TV",
+    "time": "3 hours ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "6abc.com"
+  },
+  {
+    "title": "RI inmates receive COVID-19 vaccine",
+    "url": "https://turnto10.com/news/local/ri-inmates-receive-covid-19-vaccine",
+    "source": "WJAR",
+    "time": "5 hours ago",
+    "date": "2020-12-27 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "turnto10.com"
+  }
+]

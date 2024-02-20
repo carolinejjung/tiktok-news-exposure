@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The Latest on Covid-19 Globally: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/11/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "13 mins ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-11-21/index.html",
+    "source": "CNN.com",
+    "time": "50 mins ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Video: Gorillas Test Positive for Coronavirus at San Diego Zoo",
+    "url": "https://www.nytimes.com/video/us/100000007546067/san-diego-gorillas-coronavirus.html",
+    "source": "The New York Times",
+    "time": "45 mins ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "NY Gov. Cuomo's tone shifts after months of coronavirus lockdowns",
+    "url": "https://www.foxnews.com/politics/cuomo-coronavirus-lockdown-reopen-economy",
+    "source": "Fox News",
+    "time": "5 hours ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Congresswoman tests positive for coronavirus after sheltering with some \nmaskless lawmakers during siege of Capitol",
+    "url": "https://www.washingtonpost.com/politics/mob-attack-capitol-coronavirus-congresswoman/2021/01/11/edae7c5e-5438-11eb-a08b-f1381ef3d207_story.html",
+    "source": "Washington Post",
+    "time": "4 hours ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "2 Gorillas In California Contract The Coronavirus",
+    "url": "https://www.npr.org/2021/01/11/955782284/two-gorillas-in-california-contract-the-coronavirus",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "CT Coronavirus Vaccine Rollout: Phase 1b Date Announced",
+    "url": "https://patch.com/connecticut/across-ct/ct-coronavirus-vaccine-rollout-phase-1b-date-announced",
+    "source": "Patch.com",
+    "time": "5 hours ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "patch.com"
+  },
+  {
+    "title": "Mass. reports 4239 new confirmed coronavirus cases, 54 new deaths",
+    "url": "https://www.bostonglobe.com/2021/01/11/nation/mass-reports-4239-new-confirmed-coronavirus-cases-54-new-deaths/",
+    "source": "The Boston Globe",
+    "time": "3 hours ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Ireland had one of the lowest coronavirus rates in Europe. It\u2019s now highest \nin the world.",
+    "url": "https://www.washingtonpost.com/world/europe/ireland-covid-curve/2021/01/11/aeb08592-51cc-11eb-a1f5-fdaf28cfca90_story.html",
+    "source": "Washington Post",
+    "time": "9 hours ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "California coronavirus deaths hit 30,000 after 10,000 fatalities in a month",
+    "url": "https://www.theguardian.com/us-news/2021/jan/11/california-coronavirus-deaths-30000-los-angeles",
+    "source": "The Guardian",
+    "time": "8 hours ago",
+    "date": "2021-01-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.theguardian.com"
+  }
+]

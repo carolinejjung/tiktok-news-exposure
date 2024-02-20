@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 Antibody Tests Show What Parts of N.Y.C. Were Hit Hardest",
+    "url": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html",
+    "source": "The New York Times",
+    "time": "17 hours ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Faster test results and 'robust' immune response may offer hope of curbing \nthe pandemic, experts say",
+    "url": "https://www.cnn.com/2020/08/18/health/us-coronavirus-tuesday/index.html",
+    "source": "CNN",
+    "time": "1 day ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump admin limits FDA review of some coronavirus tests",
+    "url": "https://www.politico.com/news/2020/08/19/trump-fda-review-coronavirus-tests-398924",
+    "source": "Politico",
+    "time": "15 mins ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.politico.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Live updates: Coronavirus infections hit record highs in 14 states and \nPuerto Rico",
+    "url": "https://www.washingtonpost.com/nation/2020/06/09/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "25 mins ago",
+    "date": "2020-06-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Texas coronavirus cases are up, which the state attributes in part to hot \nspots",
+    "url": "https://www.texastribune.org/2020/06/08/texas-coronavirus-cases-prisons-meatpacking-plants/",
+    "source": "The Texas Tribune",
+    "time": "15 hours ago",
+    "date": "2020-06-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.texastribune.org"
+  },
+  {
+    "title": "Fewer than 10% of those tested in Virginia have COVID-19, according to \nstate data released Tuesday",
+    "url": "https://www.dailypress.com/news/health/vp-nw-coronavirus-case-numbers-june-9-20200609-wu57jrqktzcq5je23ifcfavoje-story.html",
+    "source": "Daily Press",
+    "time": "12 mins ago",
+    "date": "2020-06-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.dailypress.com"
+  }
+]

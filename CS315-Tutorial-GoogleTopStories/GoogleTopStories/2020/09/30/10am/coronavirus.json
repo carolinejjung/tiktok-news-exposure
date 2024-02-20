@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-30-20-intl/index.html",
+    "source": "CNN",
+    "time": "9 mins ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Mnuchin says he is 'hopeful' White House and Democrats can strike a \ncoronavirus stimulus deal",
+    "url": "https://www.cnbc.com/2020/09/30/coronavirus-stimulus-mnuchin-is-hopeful-about-aid-deal-with-pelosi.html",
+    "source": "CNBC",
+    "time": "58 mins ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "How Notre Dame let coronavirus 'spread like wildfire'",
+    "url": "https://nypost.com/2020/09/30/how-notre-dame-let-coronavirus-spread-like-wildfire/",
+    "source": "New York Post",
+    "time": "2 hours ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Remdesivir may not cure coronavirus, but it\u2019s on track to make billions for \nGilead",
+    "url": "https://www.washingtonpost.com/business/2020/09/30/remdesivir-drug-coronavirus-gilead/",
+    "source": "Washington Post",
+    "time": "2 hours ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Massachusetts coronavirus transmission rate rises to \u2018worrisome\u2019 level, \nsecond highest in U.S.",
+    "url": "https://www.bostonherald.com/2020/09/29/massachusetts-coronavirus-transmission-rate-rises-to-worrisome-level-second-highest-in-u-s/",
+    "source": "Boston Herald",
+    "time": "13 hours ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "Tennessee Titans' COVID-19 outbreak - What we know about the positive \ncoronavirus tests; will NFL games be postponed?",
+    "url": "https://www.espn.com/nfl/story/_/id/30002250/tennessee-titans-covid-19-outbreak-know-positive-coronavirus-tests-nfl-games-postponed",
+    "source": "ESPN",
+    "time": "18 hours ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Jim Parsons Reveals He and Husband Todd Spiewak Had Coronavirus: 'We Lost \nOur Sense of Smell and Taste'",
+    "url": "https://people.com/tv/jim-parsons-husband-todd-spiewak-coronavirus/",
+    "source": "PEOPLE.com",
+    "time": "16 hours ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "people.com"
+  },
+  {
+    "title": "The coronavirus' alarming impact on the body",
+    "url": "https://www.axios.com/coronavirus-organ-damage-975f146b-563c-482e-a812-82980652e288.html",
+    "source": "Axios",
+    "time": "5 hours ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "Trump, Biden blast each other on economy, coronavirus in fiery first debate",
+    "url": "https://www.marketwatch.com/story/trump-biden-blast-each-other-on-economy-coronavirus-in-fiery-first-debate-2020-09-29",
+    "source": "MarketWatch",
+    "time": "10 hours ago",
+    "date": "2020-09-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.marketwatch.com"
+  }
+]

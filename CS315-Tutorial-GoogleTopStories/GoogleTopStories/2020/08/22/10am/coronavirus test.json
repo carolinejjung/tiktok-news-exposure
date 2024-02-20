@@ -1,0 +1,32 @@
+[
+  {
+    "title": "In the Hamptons, some hosts are paying for party guests to take rapid \ncoronavirus tests at the door",
+    "url": "https://www.cnn.com/2020/08/22/us/hamptons-parties-coronavirus-tests-trnd/index.html",
+    "source": "CNN",
+    "time": "58 mins ago",
+    "date": "2020-08-22 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "C.D.C. Suggests Some Child-Care Centers Can Reopen Safely",
+    "url": "https://www.nytimes.com/2020/08/21/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "19 hours ago",
+    "date": "2020-08-22 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "China approves human testing for coronavirus vaccine grown in insect cells",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-vaccine-china/china-approves-human-testing-for-coronavirus-vaccine-grown-in-insect-cells-idUSKBN25I0G6",
+    "source": "Reuters",
+    "time": "1 hour ago",
+    "date": "2020-08-22 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.reuters.com"
+  }
+]

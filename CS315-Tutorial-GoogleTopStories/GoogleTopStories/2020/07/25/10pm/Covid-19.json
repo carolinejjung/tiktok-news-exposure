@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus Updates: World News",
+    "url": "https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "11 mins ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "COVID-19 Cases Continue To Surge In States Across The U.S.",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/25/895437773/covid-19-cases-continue-to-surge-in-states-across-the-u-s",
+    "source": "NPR",
+    "time": "1 hour ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Sinclair Pulls Segment Sharing Anti-Fauci COVID-19 Conspiracy Theory",
+    "url": "https://nymag.com/intelligencer/2020/07/sinclair-pulls-segment-airing-anti-fauci-covid-19-conspiracy.html",
+    "source": "New York Magazine",
+    "time": "52 mins ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "nymag.com"
+  },
+  {
+    "title": "DEM closes beach snack bar after employee tests positive for COVID-19",
+    "url": "http://turnto10.com/news/local/dem-closes-beach-snack-bar-after-employee-tests-positive-for-covid-19",
+    "source": "WJAR",
+    "time": "1 hour ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "Bexar County reports more than 700 new cases as total COVID-19 numbers \nclimbs past 35,000",
+    "url": "http://news4sanantonio.com/news/local/bexar-county-reports-more-than-700-new-cases-as-total-covid-19-numbers-climbs-past-35000",
+    "source": "WOAI",
+    "time": "1 hour ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "news4sanantonio.com"
+  },
+  {
+    "title": "563 new Idaho COVID-19 cases Saturday, 2 new deaths - Local News 8",
+    "url": "https://localnews8.com/health/coronavirus/2020/07/25/563-new-idaho-covid-19-cases-saturday-2-new-deaths/",
+    "source": "KIFI",
+    "time": "2 hours ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "localnews8.com"
+  },
+  {
+    "title": "COVID-19 confirmed in all Minnesota counties as statewide mask mandate \nstarts",
+    "url": "https://www.startribune.com/statewide-mask-mandate-begins-just-as-covid-19-confirmed-in-all-minn-counties/571908142/",
+    "source": "Star Tribune",
+    "time": "2 hours ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "Flight Attendant Dies of COVID-19 After Attending Training Course, 16 \nColleagues Test Positive",
+    "url": "https://people.com/travel/hawaiian-airlines-flight-attendant-dies-coronavirus-after-training-course/",
+    "source": "People.com",
+    "time": "2 hours ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "people.com"
+  },
+  {
+    "title": "As temperatures and COVID-19 cases rise, is Mass. dropping its guard toward \ncoronavirus?",
+    "url": "https://www.bostonglobe.com/2020/07/25/metro/heat-humidity-make-return-visit-greater-boston/",
+    "source": "The Boston Globe",
+    "time": "3 hours ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Dr. Birx: COVID-19 may be starting to slow down in certain states",
+    "url": "https://nypost.com/2020/07/25/dr-birx-covid-19-may-be-starting-to-slow-down-in-certain-states/",
+    "source": "New York Post",
+    "time": "3 hours ago",
+    "date": "2020-07-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "nypost.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Yes, coronavirus testing works. But not in the way you might expect.",
+    "url": "https://www.washingtonpost.com/opinions/2020/12/01/yes-coronavirus-testing-works-not-way-you-might-expect/",
+    "source": "Washington Post",
+    "time": "1 day ago",
+    "date": "2020-12-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "'No-swab' coronavirus test from OptiGene highly sensitive, UK says",
+    "url": "https://www.reuters.com/article/instant-article/idUSKBN28B3AA",
+    "source": "Reuters UK",
+    "time": "2 days ago",
+    "date": "2020-12-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Davis begins testing student-athletes as Utah COVID-19 deaths top 900",
+    "url": "https://www.deseret.com/utah/2020/12/2/22040586/coronavirus-utah-seeks-to-enroll-covid-19-patients-in-study-to-prevent-long-term-complications",
+    "source": "Deseret News",
+    "time": "2 hours ago",
+    "date": "2020-12-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.deseret.com"
+  }
+]

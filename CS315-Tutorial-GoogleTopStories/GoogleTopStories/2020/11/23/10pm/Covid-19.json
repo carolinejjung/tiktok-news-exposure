@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/11/23/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Doctors say CDC should warn people the side effects from Covid vaccine \nshots won't be 'a walk in the park'",
+    "url": "https://www.cnbc.com/2020/11/23/covid-vaccine-cdc-should-warn-people-the-side-effects-from-shots-wont-be-walk-in-the-park-.html",
+    "source": "CNBC",
+    "time": "5 hours ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Gophers won't practice Tuesday after presumptive COVID-19 positive tests",
+    "url": "https://www.kare11.com/article/sports/gophers-wont-practice-tuesday-after-presumptive-covid-19-positive-tests/89-2dc58477-4a56-433d-87e9-aa3e1af606ea",
+    "source": "KARE11.com",
+    "time": "24 mins ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.kare11.com"
+  },
+  {
+    "title": "Washington state reports over 6200 new COVID-19 cases in last three days",
+    "url": "https://komonews.com/news/coronavirus/washington-state-reports-over-6200-new-covid-19-cases-in-last-three-days",
+    "source": "KOMO News",
+    "time": "2 mins ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Large budget shortfall expected for City of Girard due to COVID-19",
+    "url": "https://www.wkbn.com/news/local-news/large-budget-shortfall-expected-for-city-of-girard-due-to-covid-19/",
+    "source": "WKBN.com",
+    "time": "23 mins ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wkbn.com"
+  },
+  {
+    "title": "Family makes PSA about large family gatherings after 15 members contracted \nCovid-19",
+    "url": "https://www.cnn.com/2020/11/23/us/large-family-gathering-covid-trnd/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19: Four Long Island Yellow Cluster Zones Added",
+    "url": "https://dailyvoice.com/new-york/nassau/news/covid-19-four-long-island-yellow-cluster-zones-added/798438/",
+    "source": "Daily Voice",
+    "time": "9 hours ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Teenagers are latest participants in COVID-19 vaccine trials; safety \nconcerns arise",
+    "url": "https://www.foxbusiness.com/lifestyle/children-are-latest-participants-in-covid-19-vaccine-trials-some-parents-express-concern",
+    "source": "Fox Business",
+    "time": "3 hours ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Gov. Herbert issues updated health order as Utah sees 2244 new COVID-19 \ncases, 4 deaths Monday",
+    "url": "https://www.ksl.com/article/50054368/gov-herbert-issues-updated-health-order-as-utah-sees-2244-new-covid-19-cases-4-deaths-monday",
+    "source": "KSL.com",
+    "time": "7 hours ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.ksl.com"
+  },
+  {
+    "title": "COVID-19 Latest: Maryland State Police Crack Down On Enforcement Of \nCOVID-19 Restrictions, Compliance Checks Ahead Of Thanksgiving",
+    "url": "https://baltimore.cbslocal.com/2020/11/23/covid-latest-maryland-state-police-restriction-enforcement-thanksgiving-latest/",
+    "source": "CBS Baltimore",
+    "time": "4 hours ago",
+    "date": "2020-11-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "baltimore.cbslocal.com"
+  }
+]

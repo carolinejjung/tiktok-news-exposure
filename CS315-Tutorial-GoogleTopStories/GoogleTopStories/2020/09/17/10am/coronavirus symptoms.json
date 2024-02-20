@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid symptoms: Is it a cold, flu or coronavirus?",
+    "url": "https://www.bbc.com/news/health-54145299",
+    "source": "BBC News",
+    "time": "15 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "The lasting misery of coronavirus long-haulers",
+    "url": "https://www.nature.com/articles/d41586-020-02598-6",
+    "source": "Nature.com",
+    "time": "3 days ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.nature.com"
+  },
+  {
+    "title": "Document reveals vaccine participant's serious symptoms",
+    "url": "https://www.cnn.com/videos/health/2020/09/17/covid-19-vaccine-trial-astrazeneca-participant-symptoms-cohen-dnt-ebof-vpx.cnn",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-09-17 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 Live Updates",
+    "url": "https://www.nytimes.com/2020/09/19/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "16 mins ago",
+    "date": "2020-09-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Canada unveils COVID-19 'gargle, spit' test, first of its kind",
+    "url": "https://www.foxnews.com/world/canada-covid-gargle-spit-test",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-09-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Old Saybrook Restaurant Closed After Staffer Tests Positive for COVID-19",
+    "url": "https://www.nbcconnecticut.com/news/local/old-saybrook-restaurant-closed-after-staffer-tests-positive-for-covid-19/2334919/",
+    "source": "NBC Connecticut",
+    "time": "1 hour ago",
+    "date": "2020-09-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcconnecticut.com"
+  }
+]

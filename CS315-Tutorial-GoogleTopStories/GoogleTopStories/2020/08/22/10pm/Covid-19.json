@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Updates: Global Death Toll Surpasses 800,000",
+    "url": "https://www.nytimes.com/2020/08/22/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "21 mins ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-22-20-intl/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "After 2 student-athletes contract COVID-19, another N.J. school district \ngoes remote-only",
+    "url": "https://www.nj.com/education/2020/08/after-2-student-athletes-contract-covid-19-another-nj-school-district-goes-remote-only.html",
+    "source": "nj.com",
+    "time": "1 hour ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "17 more students test positive for COVID-19 at Georgia Tech Greek house",
+    "url": "https://www.wsbtv.com/news/local/17-more-members-ga-tech-greek-housing-residents-test-positive-covid-19/6DKFJXWMGZBSZDRK2KGOSEK76E/",
+    "source": "WSB Atlanta",
+    "time": "1 hour ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wsbtv.com"
+  },
+  {
+    "title": "Several school districts in Summit County report COVID-19 cases related to \nsports, extracurriculars",
+    "url": "https://fox8.com/news/coronavirus/several-school-districts-in-summit-county-report-covid-19-cases-related-to-sports-extracurriculars/",
+    "source": "fox8.com",
+    "time": "17 mins ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "fox8.com"
+  },
+  {
+    "title": "One person dead after wedding reception in Maine linked to COVID-19 outbreak",
+    "url": "https://www.cbsnews.com/news/covid-19-outbreak-maine-one-dead-wedding-reception/",
+    "source": "CBS News",
+    "time": "7 hours ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "COVID-19 in the quad: Colleges crack down on student parties as virus \nspreads across campuses",
+    "url": "https://abcnews.go.com/US/covid-19-quad-colleges-crack-student-parties-virus/story?id=72499108",
+    "source": "ABC News",
+    "time": "9 hours ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "COVID-19: CDC Issues New Guidance On Reopening Schools",
+    "url": "https://dailyvoice.com/new-york/ramapo/schools/covid-19-cdc-issues-new-guidance-on-reopening-schools/792958/",
+    "source": "Ramapo Daily Voice",
+    "time": "6 hours ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "How our brains numb us to covid-19\u2019s risks \u2014 and what we can do about it",
+    "url": "https://www.washingtonpost.com/health/covid-risks-stop-seeming-so-scary/2020/08/21/09c286c4-cc49-11ea-bc6a-6841b28d9093_story.html",
+    "source": "Washington Post",
+    "time": "13 hours ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, August 22: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-august-22-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "11 hours ago",
+    "date": "2020-08-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.seattletimes.com"
+  }
+]

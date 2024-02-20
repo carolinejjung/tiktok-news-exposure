@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Even Asymptomatic People Carry the Coronavirus in High Amounts",
+    "url": "https://www.nytimes.com/2020/08/06/health/coronavirus-asymptomatic-transmission.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid-19 patients not showing symptoms may carry just as much virus as \nthose who do, new study finds",
+    "url": "https://www.cnn.com/2020/08/07/health/covid-asymptomatic-transmission-study-wellness/index.html",
+    "source": "CNN.com",
+    "time": "10 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Some Coronavirus Patients Are Getting Rashes, And It May Signal Underlying \nIssues",
+    "url": "https://www.sciencealert.com/some-coronavirus-patients-are-getting-rashes-and-that-s-not-something-to-take-lightly",
+    "source": "ScienceAlert",
+    "time": "1 hour ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.sciencealert.com"
+  }
+]

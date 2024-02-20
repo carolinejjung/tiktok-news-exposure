@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Hong Kong biotech firm says its 30-minute coronavirus tests are \n'comparable' to the 'gold standard'",
+    "url": "https://www.cnbc.com/2020/11/02/hong-kong-firm-says-its-rapid-covid-tests-are-comparable-to-pcr-tests.html",
+    "source": "CNBC",
+    "time": "12 hours ago",
+    "date": "2020-11-02 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Colorado's coronavirus test positivity rate, a crucial metric, may be off",
+    "url": "https://coloradosun.com/2020/11/02/colorados-coronavirus-test-positivity-rate/",
+    "source": "The Colorado Sun",
+    "time": "12 hours ago",
+    "date": "2020-11-02 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "coloradosun.com"
+  },
+  {
+    "title": "A Rapid Virus Test Falters in People Without Symptoms, Study Finds",
+    "url": "https://www.nytimes.com/2020/11/02/health/coronavirus-testing-quidel-sofia.html",
+    "source": "The New York Times",
+    "time": "3 mins ago",
+    "date": "2020-11-02 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Global Updates of the Covid-19 Pandemic",
+    "url": "https://www.nytimes.com/live/2020/10/23/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "17 mins ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: U.S. hits all-time high in daily new coronavirus cases",
+    "url": "https://www.washingtonpost.com/nation/2020/10/23/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "39 mins ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Concerns rise as coronavirus, flu season overlap",
+    "url": "https://www.foxnews.com/health/concerns-flu-season-during-second-coronavirus-wave",
+    "source": "Fox News",
+    "time": "42 mins ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Local family-owned costume shop struggling amid coronavirus pandemic",
+    "url": "https://fox8.com/news/local-family-owned-costume-shop-struggling-amid-coronavirus-pandemic/",
+    "source": "fox8.com",
+    "time": "33 mins ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "fox8.com"
+  },
+  {
+    "title": "\"We're Learning To Die With Coronavirus... Dark Winter Ahead\": Joe Biden",
+    "url": "https://www.ndtv.com/world-news/joe-biden-says-americans-are-learning-to-die-with-coronavirus-2314945",
+    "source": "NDTV",
+    "time": "26 mins ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.ndtv.com"
+  },
+  {
+    "title": "Costco sells coronavirus saliva test kits online \u2014 here's how much they cost",
+    "url": "https://www.foxbusiness.com/lifestyle/costco-sells-coronavirus-saliva-test-kits-online",
+    "source": "Fox Business",
+    "time": "1 hour ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Health Officials Warn of Possible COVID Exposure at 5 NH Restaurants",
+    "url": "https://www.nbcboston.com/news/local/health-officials-warn-of-possible-covid-exposure-at-5-nh-restaurants/2217135/",
+    "source": "NBC10 Boston",
+    "time": "2 hours ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcboston.com"
+  },
+  {
+    "title": "Fauci: Trump has not attended a White House coronavirus task force meeting \nin 'several months'",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/fauci-trump-hasnt-attended-covid-task-force-meeting-months/6009403002/",
+    "source": "USA TODAY",
+    "time": "4 hours ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-23-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Across New England, rinks are getting shut down by coronavirus clusters",
+    "url": "https://www.bostonglobe.com/2020/10/23/metro/across-new-england-rinks-are-getting-shutdown-coronarvirus-clusters/",
+    "source": "The Boston Globe",
+    "time": "2 hours ago",
+    "date": "2020-10-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bostonglobe.com"
+  }
+]

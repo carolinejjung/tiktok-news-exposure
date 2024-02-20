@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of \n'disturbing' data",
+    "url": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html",
+    "source": "CNBC",
+    "time": "1 day ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "39 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "A week before Trump's order protecting meat plants, industry sent draft \nlanguage to feds",
+    "url": "https://www.usatoday.com/story/news/2020/09/14/covid-19-meat-plants-sought-feds-protection-local-health-depts/5797051002/",
+    "source": "USA TODAY",
+    "time": "23 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Health officials see encouragement in COVID-19 trends but say battle isn't \nover yet",
+    "url": "http://komonews.com/news/coronavirus/health-officials-see-encouragement-in-covid-19-trends-but-say-battle-isnt-over-yet",
+    "source": "KOMO News",
+    "time": "9 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "23andMe research finds possible link between blood type and Covid-19",
+    "url": "https://www.statnews.com/2020/09/14/23andme-study-covid-19-genetic-link/",
+    "source": "STAT",
+    "time": "23 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.statnews.com"
+  },
+  {
+    "title": "Chinese virologist posts report claiming COVID-19 was made in Wuhan lab",
+    "url": "https://nypost.com/2020/09/14/chinese-virologist-posts-report-claiming-covid-19-was-made-in-wuhan-lab/",
+    "source": "New York Post",
+    "time": "3 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Multiple Schools Across Conn. Closed, Impacted Today Due to COVID-19 Cases",
+    "url": "https://www.nbcconnecticut.com/news/local/back-to-school/multiple-schools-across-conn-close-due-to-covid-19-cases/2332067/",
+    "source": "NBC Connecticut",
+    "time": "13 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Third Downtown Hartford Restaurant Closing For Good Due To COVID-19",
+    "url": "https://dailyvoice.com/connecticut/hartford/business/third-downtown-hartford-restaurant-closing-for-good-due-to-covid-19/794184/",
+    "source": "Daily Voice",
+    "time": "9 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "'It's A Bit Surreal': Oregon's Air Quality Suffers As Fires Complicate \nCOVID-19 Fight",
+    "url": "https://www.npr.org/2020/09/14/912701172/its-a-bit-surreal-oregon-fights-smoke-from-record-wildfires-during-a-pandemic",
+    "source": "NPR",
+    "time": "7 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

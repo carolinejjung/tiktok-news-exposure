@@ -1,0 +1,32 @@
+[
+  {
+    "title": "This is how wearables could catch early coronavirus symptoms",
+    "url": "https://abcnews.go.com/Health/wearables-catch-early-coronavirus-symptoms/story?id=71520411",
+    "source": "ABC News",
+    "time": "5 hours ago",
+    "date": "2020-07-03 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "The main way people without COVID-19 symptoms spread the virus",
+    "url": "https://www.sfgate.com/science/article/Masks-stop-COVID-19-speech-droplet-transmission-15376858.php",
+    "source": "SFGate",
+    "time": "2 days ago",
+    "date": "2020-07-03 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.sfgate.com"
+  },
+  {
+    "title": "Broadway actor says he still has symptoms three months after testing \npositive for Covid-19",
+    "url": "https://www.cnn.com/2020/07/03/us/broadway-actor-adam-perry-survives-covid-19-lingering-symptoms/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-07-03 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

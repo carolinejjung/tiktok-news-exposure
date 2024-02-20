@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Your Coronavirus Test Is Positive. Maybe It Shouldn\u2019t Be.",
+    "url": "https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "5 hours ago",
+    "date": "2020-08-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Are these fast, cheap coronavirus tests the game-changer everyone is \nwaiting for?",
+    "url": "https://www.cnn.com/2020/08/28/health/antigen-test-coronavirus/index.html",
+    "source": "CNN",
+    "time": "13 hours ago",
+    "date": "2020-08-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "California launches plan to reopen in slower phases after surge in \ncoronavirus cases",
+    "url": "https://thehill.com/homenews/state-watch/514253-california-launches-plan-to-reopen-in-slower-phases-after-surge-in",
+    "source": "The Hill",
+    "time": "9 mins ago",
+    "date": "2020-08-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "thehill.com"
+  }
+]

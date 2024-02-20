@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fauci on What Working for Trump Was Really Like",
+    "url": "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Dr. Fauci: Double-masking makes 'common sense' and is likely more effective",
+    "url": "https://www.cnbc.com/2021/01/25/dr-fauci-double-mask-during-covid-makes-common-sense-more-effective.html",
+    "source": "CNBC",
+    "time": "11 hours ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "One mask or two? Why some Tennessee doctors, Fauci recommend double masking",
+    "url": "https://www.commercialappeal.com/story/news/local/coronavirus/2021/01/26/fauci-tennessee-doctors-double-masking-coronavirus-fight/6700387002/",
+    "source": "The Commercial Appeal",
+    "time": "14 mins ago",
+    "date": "2021-01-25 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.commercialappeal.com"
+  }
+]

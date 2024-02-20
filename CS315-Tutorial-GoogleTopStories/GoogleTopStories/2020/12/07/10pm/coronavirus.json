@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/07/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Christmas could lead to more coronavirus spread than \nThanksgiving, Fauci says",
+    "url": "https://www.washingtonpost.com/nation/2020/12/07/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "13 mins ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Florida authorities raid home of ex-official who said she was ousted over \ncoronavirus data",
+    "url": "https://www.nbcnews.com/news/us-news/florida-authorities-raid-home-ex-official-who-said-she-was-n1250313",
+    "source": "NBC News",
+    "time": "39 mins ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Maryland women\u2019s basketball has second consecutive game canceled",
+    "url": "https://www.washingtonpost.com/sports/2020/12/07/maryland-womens-basketball-has-second-consecutive-game-canceled/",
+    "source": "Washington Post",
+    "time": "6 mins ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Florida state police raid home of Rebekah Jones, data scientist who \nchallenged DeSantis on coronavirus statistics",
+    "url": "https://news.yahoo.com/florida-state-police-raid-home-of-rebekah-jones-data-scientist-who-challenged-de-santis-on-coronavirus-statistics-010351103.html",
+    "source": "Yahoo News",
+    "time": "2 hours ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "This surge is different because \"it's really about health care capacity,\" \nSurgeon General says",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-12-07-20-intl/h_0792022078f813e0e6a43ecd327c69d3",
+    "source": "CNN",
+    "time": "37 mins ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Restaurant owner: Coronavirus lockdowns in California will bring death, \npoverty",
+    "url": "https://www.foxbusiness.com/money/los-angeles-bar-owners-emotional-plea-to-out-of-touch-local-officials-amid-new-coronavirus-lockdowns",
+    "source": "Fox Business",
+    "time": "6 hours ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Coronavirus live updates: After Trump officials turned down Pfizer offer, \nUS may not get more vaccines doses until June",
+    "url": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=74578775",
+    "source": "ABC News",
+    "time": "1 hour ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Experts expect Biden team to push for second round of coronavirus stimulus \nchecks",
+    "url": "https://finance.yahoo.com/news/experts-expect-biden-team-to-push-for-second-round-of-coronavirus-stimulus-checks-190328052.html",
+    "source": "Yahoo Finance",
+    "time": "8 hours ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Trump to sign coronavirus vaccine executive order prioritizing Americans \nover foreign nations",
+    "url": "https://www.foxnews.com/politics/trump-executive-order-coronavirus-vaccine-america-first",
+    "source": "Fox News",
+    "time": "8 hours ago",
+    "date": "2020-12-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

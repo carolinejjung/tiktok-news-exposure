@@ -1,0 +1,32 @@
+[
+  {
+    "title": "When Symptoms of Covid-19 Don\u2019t Go Away",
+    "url": "https://www.nytimes.com/2020/10/12/well/live/coronavirus-symptoms-covid-19-persistent.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "First Confirmed US Cases of COVID Reinfections",
+    "url": "https://www.webmd.com/lung/news/20201012/first-confirmed-us-case-of-covid-reinfections",
+    "source": "WebMD",
+    "time": "1 day ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.webmd.com"
+  },
+  {
+    "title": "Reports: 2 people reinfected with COVID-19 had more severe symptoms the \nsecond time",
+    "url": "https://www.clickondetroit.com/health/good-health/2020/10/13/reports-2-people-reinfected-with-covid-19-had-more-severe-symptoms-the-second-time/",
+    "source": "WDIV ClickOnDetroit",
+    "time": "3 hours ago",
+    "date": "2020-10-13 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.clickondetroit.com"
+  }
+]

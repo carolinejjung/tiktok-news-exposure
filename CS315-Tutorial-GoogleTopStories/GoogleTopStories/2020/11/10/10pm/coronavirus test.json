@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Travel and Coronavirus Testing: Your Questions Answered",
+    "url": "https://www.nytimes.com/2020/11/10/travel/virus-covid-travel-questions.html",
+    "source": "The New York Times",
+    "time": "12 hours ago",
+    "date": "2020-11-10 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "New Type of Test May Better Discern Immunity to the Coronavirus",
+    "url": "https://www.nytimes.com/2020/11/10/health/t-cell-test-coronavirus-immunity.html",
+    "source": "The New York Times",
+    "time": "5 hours ago",
+    "date": "2020-11-10 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "This $1 made-in-Africa Covid-19 test kit could revolutionize testing on the \ncontinent",
+    "url": "https://www.cnn.com/2020/11/10/africa/senegal-coronavirus-rapid-testing-spc-intl/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-11-10 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

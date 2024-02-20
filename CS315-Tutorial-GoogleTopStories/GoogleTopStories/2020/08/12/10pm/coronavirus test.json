@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Accuracy of U.S. coronavirus data thrown into question as decline in \ntesting skews drop in new cases",
+    "url": "https://www.cnbc.com/2020/08/12/accuracy-of-us-coronavirus-data-thrown-into-question-as-decline-in-testing-skews-drop-in-new-cases.html",
+    "source": "CNBC",
+    "time": "6 hours ago",
+    "date": "2020-08-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "COVID-19 death rates reveal the states that failed the test: New York and \nNew Jersey",
+    "url": "https://nypost.com/2020/08/12/covid-19-death-rates-reveal-ny-and-nj-are-states-that-failed-the-test/",
+    "source": "New York Post",
+    "time": "4 hours ago",
+    "date": "2020-08-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "229 New COVID Cases, 18 More Deaths in Mass. as Positive Test Rate Hits New \nLow",
+    "url": "https://www.nbcboston.com/news/coronavirus/229-new-covid-cases-18-more-deaths-in-mass-as-positive-test-rate-hits-new-low/2176407/",
+    "source": "NBC10 Boston",
+    "time": "4 mins ago",
+    "date": "2020-08-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcboston.com"
+  }
+]

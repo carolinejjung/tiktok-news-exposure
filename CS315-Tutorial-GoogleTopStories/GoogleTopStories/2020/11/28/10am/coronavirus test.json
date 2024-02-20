@@ -1,0 +1,32 @@
+[
+  {
+    "title": "As thousands of athletes get coronavirus tests, nurses wonder: What about \nus?",
+    "url": "https://www.washingtonpost.com/sports/2020/11/27/nurses-athletes-sports-coronavirus-tests/",
+    "source": "Washington Post",
+    "time": "1 day ago",
+    "date": "2020-11-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "The Unexpected Message Revealed by Long Lines for Coronavirus Testing",
+    "url": "https://www.nytimes.com/2020/11/27/nyregion/covid-tests-long-lines.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-11-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "MCAS testing to continue, but some changes possible",
+    "url": "https://www.wwlp.com/news/massachusetts/mcas-testing-to-continue-but-some-changes-possible/",
+    "source": "WWLP.com",
+    "time": "1 hour ago",
+    "date": "2020-11-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wwlp.com"
+  }
+]

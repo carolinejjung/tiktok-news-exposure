@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates: Fauci to Testify",
+    "url": "https://www.nytimes.com/2020/06/30/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "10 hours ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Reopening grinds to a halt as coronavirus hospitalizations \nsurge in Sun Belt states",
+    "url": "https://www.washingtonpost.com/nation/2020/06/30/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "37 mins ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus updates: New 'pandemic potential' found in China; Arizona \ndelays opening of schools; kids sports march on",
+    "url": "https://www.usatoday.com/story/news/health/2020/06/30/coronavirus-updates-face-masks-fauci-reopening/3279340001/",
+    "source": "USA Today",
+    "time": "35 mins ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "European Union bars travelers from U.S. citing coronavirus concerns",
+    "url": "https://www.nbcnews.com/news/world/european-union-bars-travelers-u-s-citing-coronavirus-concerns-n1232333",
+    "source": "NBC News",
+    "time": "38 mins ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "NASCAR cancels 2020 Nashville Champions Week because of coronavirus",
+    "url": "https://www.foxnews.com/auto/nascar-cancels-nashville-champions-week-coronavirus",
+    "source": "Fox News",
+    "time": "49 mins ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Home prices heated up in April, despite brief sales drop from coronavirus, \nS&P Case-Shiller says",
+    "url": "https://www.cnbc.com/2020/06/30/coronavirus-update-home-prices-continued-to-heat-up-in-april-sp-case-shiller-says.html",
+    "source": "CNBC.com",
+    "time": "1 hour ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Many states hit pause on reopening but experts say the spread of \ncoronavirus is now hard to control",
+    "url": "https://www.cnn.com/2020/06/30/health/us-coronavirus-tuesday/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "The US has 4% of the world's population but 25% of its coronavirus cases",
+    "url": "https://www.cnn.com/2020/06/30/health/us-coronavirus-toll-in-numbers-june-trnd/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Regional Coronavirus Surges Force Changes in Plans Elsewhere in the U.S.",
+    "url": "https://www.wsj.com/articles/coronavirus-latest-news-06-30-2020-11593505070",
+    "source": "The Wall Street Journal",
+    "time": "3 hours ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Coronavirus mutation may have made virus more contagious: report",
+    "url": "https://www.foxnews.com/health/scientists-analyzing-coronavirus-mutation-might-spread-virus-faster",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2020-06-30 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

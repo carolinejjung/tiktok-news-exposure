@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Britain first country to grant emergency approval to Pfizer \nvaccine; U.S. hospitalizations near 100,000",
+    "url": "https://www.washingtonpost.com/nation/2020/12/02/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "9 mins ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "ESPN\u2019s Kirk Herbstreit apologizes for implying Michigan could use \ncoronavirus to dodge rival Ohio State",
+    "url": "https://www.foxnews.com/media/kirk-herbstreit-apologizes-michigan-coronavirus-ohio-state",
+    "source": "Fox News",
+    "time": "16 mins ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "New York City bar owner who defied coronavirus restrictions arrested",
+    "url": "https://www.bostonglobe.com/2020/12/02/nation/new-york-city-bar-owner-who-defied-coronavirus-restrictions-arrested/",
+    "source": "The Boston Globe",
+    "time": "7 mins ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Coronavirus live updates: Pfizer gets the OK from the U.K. for its vaccine.",
+    "url": "https://www.houstonchronicle.com/news/houston-texas/houston/article/coronavirus-live-updates-news-houston-area-15769033.php",
+    "source": "Houston Chronicle",
+    "time": "30 mins ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.houstonchronicle.com"
+  },
+  {
+    "title": "White House coronavirus task force warns states: 'We are in a very \ndangerous place'",
+    "url": "https://www.cnn.com/2020/12/02/politics/white-house-coronavirus-task-force-states-report/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "The Ripple Effect Of 1 Rural Colorado Doctor Catching The Coronavirus",
+    "url": "https://www.npr.org/2020/12/01/940697524/the-ripple-effect-of-1-rural-colorado-doctor-catching-the-coronavirus",
+    "source": "NPR",
+    "time": "17 hours ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Maine CDC reports four new coronavirus-related deaths, 232 new cases",
+    "url": "https://www.wmtw.com/article/maine-cdc-reports-four-new-coronavirus-related-deaths-232-new-cases/34846640",
+    "source": "WMTW Portland",
+    "time": "32 mins ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wmtw.com"
+  },
+  {
+    "title": "NYC bar owner handcuffed, taken away for allegedly defying coronavirus \nrules: report",
+    "url": "https://www.foxnews.com/us/nyc-bar-owner-handcuffed-taken-away-for-allegedly-defying-coronavirus-rules-report",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Dr. Fauci And Gov. Jared Polis Say Coloradans Are Nearing The Coronavirus \nFinish Line",
+    "url": "https://www.cpr.org/2020/12/01/dr-fauci-and-gov-jared-polis-say-coloradans-are-nearing-the-coronavirus-finish-line/",
+    "source": "Colorado Public Radio",
+    "time": "16 hours ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cpr.org"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "California Coronavirus Updates: Nevada COVID-19 Cases Near 76000",
+    "url": "http://www.capradio.org/articles/2020/09/21/california-coronavirus-updates/",
+    "source": "Capital Public Radio News",
+    "time": "1 day ago",
+    "date": "2020-09-22 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.capradio.org"
+  },
+  {
+    "title": "Europe Finds Mass Testing Is No Solution for the Coronavirus",
+    "url": "https://www.bloomberg.com/news/articles/2020-09-22/europe-finds-mass-testing-is-no-panacea-for-the-coronavirus",
+    "source": "Bloomberg",
+    "time": "6 hours ago",
+    "date": "2020-09-22 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.bloomberg.com"
+  },
+  {
+    "title": "This airline is offering \"Covid-tested\" flights",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-22-20-intl/h_9dc7f2bf7dad4bc8b25bbde75a4d19c0",
+    "source": "CNN.com",
+    "time": "5 mins ago",
+    "date": "2020-09-22 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus: Five things a Covid-19 symptom-tracking app tells us",
+    "url": "https://www.bbc.com/news/health-52770313?intlink_from_url=&link_location=live-reporting-story",
+    "source": "BBC.com",
+    "time": "2 days ago",
+    "date": "2020-05-23 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "CDC estimates that 35% of coronavirus patients don't have symptoms",
+    "url": "https://www.cnn.com/2020/05/22/health/cdc-coronavirus-estimates-symptoms-deaths/index.html",
+    "source": "CNN.com",
+    "time": "22 hours ago",
+    "date": "2020-05-23 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Missouri hairstylist with COVID-19 symptoms exposed up to 84 clients, 7 \ncoworkers: Officials",
+    "url": "https://6abc.com/health/hairstylist-with-covid-19-exposed-more-than-80-clients-officials/6206408/",
+    "source": "WPVI Philadelphia",
+    "time": "21 mins ago",
+    "date": "2020-05-23 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "6abc.com"
+  }
+]

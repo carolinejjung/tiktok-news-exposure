@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/05/15/us/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "45 mins ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: House passes $3 trillion coronavirus relief bill as deaths in \nU.S. pass 86,000",
+    "url": "https://www.washingtonpost.com/nation/2020/05/15/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "15 mins ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "House Democrats pass doomed $3T coronavirus relief bill",
+    "url": "https://nypost.com/2020/05/15/house-democrats-pass-doomed-3t-coronavirus-relief-bill/",
+    "source": "New York Post",
+    "time": "26 mins ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "House Democrats push new $3T coronavirus stimulus bill that includes 2nd \nround of checks, 'hazard pay'",
+    "url": "https://abc7ny.com/politics/democrats-push-new-$3t-coronavirus-relief-bill-through-house/6184986/",
+    "source": "ABC7 New York",
+    "time": "27 mins ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "House passes $3T coronavirus relief -- the most expensive bill in history",
+    "url": "https://www.foxnews.com/politics/house-passes-3t-coronavirus-relief-the-most-expensive-bill-in-history",
+    "source": "Fox News",
+    "time": "47 mins ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "House Approves $3 Trillion Proposal For New Coronavirus Aid",
+    "url": "https://www.npr.org/2020/05/15/856095507/house-passes-3-trillion-coronavirus-relief-bill-that-has-dim-future",
+    "source": "NPR",
+    "time": "47 mins ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Burr's alleged conflicts extend beyond his coronavirus-related stock trades",
+    "url": "https://www.politico.com/news/2020/05/15/burrs-alleged-conflicts-extend-beyond-his-coronavirus-related-stock-trades-261523",
+    "source": "Politico",
+    "time": "1 hour ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "J.C. Penney, Pinched by Coronavirus, Files for Bankruptcy",
+    "url": "https://www.wsj.com/articles/j-c-penney-pinched-by-coronavirus-files-for-bankruptcy-11589582224",
+    "source": "The Wall Street Journal",
+    "time": "1 hour ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Car crash death rates skyrocket in several states during coronavirus \nshutdown",
+    "url": "https://www.foxnews.com/us/car-crash-deaths-skyrocket-coronavirus-shutdown",
+    "source": "Fox News",
+    "time": "3 hours ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Some lawmakers want Massachusetts shutdown orders extended until June. \nHere\u2019s how Charlie Baker responded.",
+    "url": "https://www.boston.com/news/coronavirus/2020/05/15/charlie-baker-reopening-plan-criticism",
+    "source": "Boston.com",
+    "time": "3 hours ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.boston.com"
+  }
+]

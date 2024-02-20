@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Thousands of North Carolina residents incorrectly told they had coronavirus",
+    "url": "https://www.foxnews.com/health/thousands-north-carolina-residents-incorrectly-told-coronavirus-positive",
+    "source": "Fox News",
+    "time": "11 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Texas COVID-19 positivity rate higher than previously reported",
+    "url": "https://www.texastribune.org/2020/09/16/texas-coronavirus-positivity-rate-data-method/",
+    "source": "Texas Tribune",
+    "time": "8 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.texastribune.org"
+  },
+  {
+    "title": "Member of Gomes Elementary School tests positive for coronavirus",
+    "url": "https://turnto10.com/news/local/member-of-gomes-elementary-school-tests-positive-for-coronavirus",
+    "source": "WJAR",
+    "time": "29 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "turnto10.com"
+  }
+]

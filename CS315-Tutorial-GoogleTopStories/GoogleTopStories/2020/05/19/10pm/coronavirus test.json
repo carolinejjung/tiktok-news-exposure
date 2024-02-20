@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Live World Updates: India, Canada and Italy",
+    "url": "https://www.nytimes.com/2020/05/19/world/coronavirus-global-world.html",
+    "source": "The New York Times",
+    "time": "53 mins ago",
+    "date": "2020-05-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Some have tested positive for COVID-19 after recovering. What does that \nmean?",
+    "url": "https://www.nbcnews.com/health/health-news/some-have-tested-positive-covid-19-after-recovering-what-does-n1210361",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-05-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "South Side H-E-B employee tests positive for COVID-19",
+    "url": "https://www.ksat.com/news/local/2020/05/20/south-side-h-e-b-employee-tests-positive-for-covid-19/",
+    "source": "KSAT.com",
+    "time": "1 hour ago",
+    "date": "2020-05-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.ksat.com"
+  }
+]

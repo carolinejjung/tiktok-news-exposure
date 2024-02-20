@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/09/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "45 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "23 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "2020 NFL Preview: In which ways will COVID-19 affect the season?",
+    "url": "https://sports.yahoo.com/2020-nfl-preview-in-which-ways-will-covid-19-affect-the-season-130001352.html",
+    "source": "Yahoo Sports",
+    "time": "1 hour ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "sports.yahoo.com"
+  },
+  {
+    "title": "Slack\u2019s earnings detail how COVID-19 is both a help and a hindrance to \ncloud growth",
+    "url": "https://techcrunch.com/2020/09/09/slacks-earnings-detail-how-covid-19-is-both-a-help-and-a-hindrance-to-cloud-growth/",
+    "source": "TechCrunch",
+    "time": "24 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "techcrunch.com"
+  },
+  {
+    "title": "COVID-19 sewage testing in South Hadley",
+    "url": "https://www.wwlp.com/news/health/coronavirus-local-impact/covid-19-sewage-testing-in-south-hadley/",
+    "source": "WWLP.com",
+    "time": "29 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "AstraZeneca Covid-19 vaccine study is put on hold",
+    "url": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/",
+    "source": "STAT",
+    "time": "15 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.statnews.com"
+  },
+  {
+    "title": "Live updates: After Trump promised an October vaccine, a major human trial \nstops for an \u2018unexplained illness\u2019",
+    "url": "https://www.washingtonpost.com/nation/2020/09/09/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "46 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Museum of Fine Arts to reopen in phases with COVID-19 precautions and an \naim for inclusiveness",
+    "url": "https://www.bostonglobe.com/2020/09/09/arts/museum-fine-arts-shares-plan-reopening-we-chose-slow-down-bit/",
+    "source": "The Boston Globe",
+    "time": "7 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "COVID-19 at college: Shaming and blaming students can make it worse, \nexperts say",
+    "url": "https://www.nbcnews.com/health/health-news/covid-19-college-shaming-blaming-students-can-make-it-worse-n1239582",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "COVID-19's Serious Financial Impact Hits Almost Half Of US Households : \nShots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/09/09/909669760/npr-poll-financial-pain-from-coronavirus-pandemic-much-much-worse-than-expected",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

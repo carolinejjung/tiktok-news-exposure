@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/06/07/world/coronavirus-updates-us-usa.html",
+    "source": "The New York Times",
+    "time": "54 mins ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "More universities report coronavirus cases in athletics programs",
+    "url": "https://www.cnn.com/2020/06/07/us/universities-athletic-programs-coronavirus/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "New Zealand says its free of coronavirus: Live updates",
+    "url": "https://www.aljazeera.com/news/2020/06/jakarta-opens-indonesia-battles-coronavirus-live-updates-200607235344888.html",
+    "source": "Al Jazeera",
+    "time": "18 mins ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Doctors Without Borders aids U.S. health care workers treating the \ncoronavirus, including in N.Y and Fla.",
+    "url": "https://www.axios.com/doctors-without-borders-new-york-florida-covid-19-f3d5a3f1-bddf-4f09-bc29-7343f2664f51.html",
+    "source": "Axios",
+    "time": "38 mins ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "Coronavirus Cases In New Hampshire Rise By 26, 3 More Deaths Reported",
+    "url": "https://boston.cbslocal.com/2020/06/07/coronavirus-cases-new-hampshire-rise-26-3-deaths-sunday-june-7/",
+    "source": "CBS Boston - CBS Local",
+    "time": "46 mins ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "boston.cbslocal.com"
+  },
+  {
+    "title": "No New Hospitalizations as Coronavirus Cases in Conn. Near 44,000",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/no-new-hospitalizations-as-coronavirus-cases-in-conn-near-44000/2284181/",
+    "source": "NBC Connecticut",
+    "time": "1 hour ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Former FDA commissioner sees 'a lot of risk' of 2nd coronavirus wave",
+    "url": "https://news.yahoo.com/scott-gottlieb-skullduggery-coronavirus-kavita-patel-protests-235827231.html",
+    "source": "Yahoo News",
+    "time": "2 hours ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "NYPD Chief of Transportation William Morris succumbs to coronavirus",
+    "url": "https://nypost.com/2020/06/07/nypd-chief-of-transportation-william-morris-succumbs-to-coronavirus/",
+    "source": "New York Post",
+    "time": "2 hours ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "A dozen Pa. coronavirus cases traced to Jersey Shore \u2018house gatherings,\u2019 \nofficial says",
+    "url": "https://www.nj.com/coronavirus/2020/06/a-dozen-pa-coronavirus-cases-traced-to-jersey-shore-house-gatherings-official-says.html",
+    "source": "NJ.com",
+    "time": "3 hours ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "Coronavirus in Oregon: 146 new cases reported in highest single-day tally \nto date; 1 new death",
+    "url": "https://www.oregonlive.com/coronavirus/2020/06/coronavirus-in-oregon-146-new-cases-reported-in-highest-single-day-tally-to-date-1-new-death.html",
+    "source": "The Oregonian/OregonLive",
+    "time": "4 hours ago",
+    "date": "2020-06-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.oregonlive.com"
+  }
+]

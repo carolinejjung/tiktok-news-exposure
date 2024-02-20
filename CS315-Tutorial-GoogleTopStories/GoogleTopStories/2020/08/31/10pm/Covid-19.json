@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "3 hours ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus cases are on the rise again across more than half of the U.S.",
+    "url": "https://www.cnbc.com/2020/08/31/coronavirus-cases-are-on-the-rise-again-across-more-than-half-of-the-us.html",
+    "source": "CNBC",
+    "time": "7 hours ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Kanawha County records highest daily COVID-19 death toll since pandemic \nbegan",
+    "url": "http://wchstv.com/news/local/kanawha-county-records-highest-daily-covid-19-death-toll-since-pandemic-began",
+    "source": "WCHS-TV8",
+    "time": "1 hour ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "wchstv.com"
+  },
+  {
+    "title": "Social media posts raise questions about COVID-19 death toll, drawing \nrebuke from some",
+    "url": "http://komonews.com/news/coronavirus/social-media-posts-raise-questions-about-covid-19-death-tolls-drawing-rebuke-from-some",
+    "source": "KOMO News",
+    "time": "55 mins ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Walker Co. Commission asked to reconsider excluding first responders from \nCOVID-19 policy",
+    "url": "http://abc3340.com/news/local/walker-co-commission-asked-to-reconsider-excluding-first-responders-from-covid-19-policyi",
+    "source": "Alabama's News Leader",
+    "time": "49 mins ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "abc3340.com"
+  },
+  {
+    "title": "White House privately warned states of Covid-19 \u2018red zone\u2019 threat, records \nshow",
+    "url": "https://www.politico.com/news/2020/08/31/white-house-warned-red-zones-406211",
+    "source": "Politico",
+    "time": "6 hours ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Blackie\u2019s restaurant in Smithfield to close due to COVID-19",
+    "url": "https://www.wpri.com/news/local-news/northwest/blackies-restaurant-in-smithfield-to-close-due-to-covid-19/",
+    "source": "WPRI.com",
+    "time": "9 hours ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "Bourne Central Office Staff Identified As Having Close Contact With \nCOVID-19 Patient",
+    "url": "https://www.capenews.net/bourne/news/bourne-central-office-staff-identified-as-having-close-contact-with-covid-19-patient/article_60895694-1473-5e78-9058-d3df5e61343b.html",
+    "source": "CapeNews.net",
+    "time": "3 hours ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.capenews.net"
+  },
+  {
+    "title": "For some, COVID-19 symptoms linger for months",
+    "url": "https://www.bostonglobe.com/2020/08/31/nation/some-covid-19-symptoms-linger-months/",
+    "source": "The Boston Globe",
+    "time": "12 hours ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "CVS staff told to hide worker COVID-19 cases from patients - Business \nInsider",
+    "url": "https://www.businessinsider.com/cvs-told-staff-to-hide-worker-covid-19-cases-from-patients-2020-8",
+    "source": "Business Insider",
+    "time": "4 hours ago",
+    "date": "2020-08-31 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.businessinsider.com"
+  }
+]

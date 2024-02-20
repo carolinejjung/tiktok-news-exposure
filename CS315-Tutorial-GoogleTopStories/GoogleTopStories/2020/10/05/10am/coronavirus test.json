@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Britain opens investigation into coronavirus test and trace glitch",
+    "url": "https://www.reuters.com/article/uk-health-coronavirus-britain-tracing/britain-opens-investigation-into-coronavirus-test-and-trace-glitch-idUKKBN26Q1W9",
+    "source": "Reuters UK",
+    "time": "1 hour ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Trump At Walter Reed Hospital After Positive Coronavirus Test : Live \nUpdates: Trump Tests Positive For Coronavirus",
+    "url": "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/02/919697784/trump-makes-unannounced-visit-to-walter-reed-following-coronavirus-diagnosis",
+    "source": "NPR",
+    "time": "2 days ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Live updates: Coronavirus cases rising sharply in Midwest, Rocky Mountain \nstates",
+    "url": "https://www.washingtonpost.com/nation/2020/10/05/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "30 mins ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

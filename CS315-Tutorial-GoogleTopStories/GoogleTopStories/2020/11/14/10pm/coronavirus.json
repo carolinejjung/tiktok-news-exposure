@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Northam to impose 25-person cap on gatherings, 10 p.m. alcohol curfew in \nnew coronavirus restrictions",
+    "url": "https://www.foxnews.com/us/northam-25-person-cap-gatherings-alcohol-curfew-coronavirus-restrictions",
+    "source": "Fox News",
+    "time": "3 hours ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Elon Musk says he probably has coronavirus",
+    "url": "https://www.nydailynews.com/news/national/ny-elon-musk-probably-covid-20201115-rykpi2old5acpb4iyr245jwhwu-story.html",
+    "source": "New York Daily News",
+    "time": "1 hour ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nydailynews.com"
+  },
+  {
+    "title": "Why the Pfizer-BioNTech vaccine is no cure for all coronavirus ills",
+    "url": "https://www.scmp.com/week-asia/health-environment/article/3109797/why-pfizer-biontech-vaccine-no-cure-all-coronavirus",
+    "source": "South China Morning Post",
+    "time": "1 hour ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.scmp.com"
+  },
+  {
+    "title": "Bills' Josh Norman tests positive for coronavirus, 3 others placed on \nreserve/COVID-19 list",
+    "url": "https://www.foxnews.com/sports/bills-josh-norman-coronavirus-3-others-covid-19-list",
+    "source": "Fox News",
+    "time": "24 mins ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "COVID NYC Update: Manhattan, Brooklyn parties with hundreds of attendees \nbusted",
+    "url": "https://abc7ny.com/illegal-parties-club-nyc-sheriff-large-party-shut-down/7958643/",
+    "source": "WABC-TV",
+    "time": "7 hours ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Coronavirus updates: North Dakota is now requiring face masks; US daily \ncases exceed 180K; 24 deaths at Ky. veterans home",
+    "url": "https://www.usatoday.com/story/news/health/2020/11/14/covid-updates-north-dakota-mask-mandate-trump-vaccine/6288093002/",
+    "source": "USA TODAY",
+    "time": "5 hours ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, November 14: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-november-14-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "11 hours ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "US Continues To Set Records For Daily Coronavirus Infections : Coronavirus \nUpdates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/11/14/934973850/u-s-adds-184-000-coronavirus-cases-in-one-day-with-no-end-in-sight",
+    "source": "NPR",
+    "time": "7 hours ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "New stats reveal massive NYC exodus amid coronavirus, crime",
+    "url": "https://nypost.com/2020/11/14/new-stats-reveal-massive-nyc-exodus-amid-coronavirus-crime/",
+    "source": "New York Post",
+    "time": "6 hours ago",
+    "date": "2020-11-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "nypost.com"
+  }
+]

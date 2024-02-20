@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus updates: NY keeps infection rate below 1%; Labor Day weekend \nsets stage for pandemic's fall phase",
+    "url": "https://www.cnbc.com/2020/09/04/coronavirus-live-updates.html",
+    "source": "CNBC",
+    "time": "1 hour ago",
+    "date": "2020-09-04 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "CT Coronavirus Updates: Positive Test Rate Remains Low",
+    "url": "https://patch.com/connecticut/across-ct/ct-positive-test-rate-remains-low",
+    "source": "Patch.com",
+    "time": "15 hours ago",
+    "date": "2020-09-04 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "patch.com"
+  },
+  {
+    "title": "Tiffany Haddish Tells Dr. Anthony Fauci She Tested Positive For Coronavirus",
+    "url": "https://deadline.com/2020/09/tiffany-haddish-tells-dr-anthony-fauci-she-tested-positive-for-coronavirus-1234571395/",
+    "source": "Deadline",
+    "time": "38 mins ago",
+    "date": "2020-09-04 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "deadline.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Lufthansa CEO expects coronavirus testing for long-haul flights",
+    "url": "https://www.dw.com/en/lufthansa-ceo-expects-coronavirus-testing-for-long-haul-flights/a-56066443",
+    "source": "Deutsche Welle",
+    "time": "2 days ago",
+    "date": "2020-12-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.dw.com"
+  },
+  {
+    "title": "Experts recommend anyone get tested for COVID-19 after holiday travel",
+    "url": "https://abc13.com/when-to-get-covid-19-test-coronavirus-testing-holiday-covid-after-christmas-you-need/9143006",
+    "source": "KTRK-TV",
+    "time": "8 hours ago",
+    "date": "2020-12-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "abc13.com"
+  },
+  {
+    "title": "Premier League on alert after record number of positive coronavirus tests",
+    "url": "https://www.theguardian.com/football/2020/dec/29/premier-league-on-alert-after-record-number-of-positive-coronavirus-tests-football",
+    "source": "The Guardian",
+    "time": "5 mins ago",
+    "date": "2020-12-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.theguardian.com"
+  }
+]

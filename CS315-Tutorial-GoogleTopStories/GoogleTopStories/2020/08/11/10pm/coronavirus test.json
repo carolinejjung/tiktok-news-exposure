@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Live Updates: Worldwide Cases Reach 20 Million",
+    "url": "https://www.nytimes.com/2020/08/11/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "7 mins ago",
+    "date": "2020-08-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "North Carolina dog that died after 'acute' illness tests positive for \ncoronavirus",
+    "url": "https://www.nbcnews.com/news/us-news/north-carolina-dog-died-after-acute-illness-tests-positive-coronavirus-n1236477",
+    "source": "NBC News",
+    "time": "2 hours ago",
+    "date": "2020-08-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "People from across state, country have gotten COVID-19 tests in Lansing",
+    "url": "https://www.lansingstatejournal.com/story/news/2020/08/12/see-who-gets-tested-coronavirus-lansing/3345478001/",
+    "source": "Lansing State Journal",
+    "time": "9 mins ago",
+    "date": "2020-08-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.lansingstatejournal.com"
+  }
+]

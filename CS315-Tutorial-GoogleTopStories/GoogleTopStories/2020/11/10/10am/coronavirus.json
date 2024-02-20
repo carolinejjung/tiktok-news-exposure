@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pfizer\u2019s Early Data Shows Coronavirus Vaccine Is More Than 90% Effective",
+    "url": "https://www.nytimes.com/2020/11/09/health/covid-vaccine-pfizer.html",
+    "source": "The New York Times",
+    "time": "12 hours ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-11-10-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "20 mins ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Brazil suspends coronavirus vaccine trial after 'serious adverse' event",
+    "url": "https://www.foxnews.com/health/brazil-suspends-coronavirus-vaccine-trial-serious-adverse-event",
+    "source": "Fox News",
+    "time": "22 mins ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "HHS Secretary: Coronavirus 'general vaccination' programs by spring",
+    "url": "https://www.nbcnews.com/news/us-news/hhs-secretary-coronavirus-general-vaccination-programs-spring-n1247232",
+    "source": "NBC News",
+    "time": "1 hour ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "140 test positive for coronavirus in Massachusetts prison",
+    "url": "https://turnto10.com/news/local/140-test-positive-for-coronavirus-in-massachusetts-prison",
+    "source": "WJAR",
+    "time": "15 mins ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "Trump claims Democrats and the FDA delayed coronavirus vaccine news",
+    "url": "https://nypost.com/2020/11/10/trump-claims-democrats-and-the-fda-delayed-coronavirus-vaccine-news/",
+    "source": "New York Post",
+    "time": "10 hours ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Mayor warns of possible NYC coronavirus closures",
+    "url": "https://www.fox5ny.com/news/mayor-warns-of-possible-nyc-coronavirus-closures",
+    "source": "FOX 5 NY",
+    "time": "23 hours ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.fox5ny.com"
+  },
+  {
+    "title": "Newark enacts strict restrictions after coronavirus infection rate reaches \n19%",
+    "url": "https://abc7ny.com/new-jersey-coronavirus-restrictions-nj-covid-hoboken-crackdown/7825118/",
+    "source": "WABC-TV",
+    "time": "4 hours ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Brazil suspends trials of China's Sinovac coronavirus vaccine, citing \n'serious adverse event'",
+    "url": "https://www.cnn.com/2020/11/10/health/brazil-suspends-china-vaccine-trials-intl-hnk/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-11-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnn.com"
+  }
+]

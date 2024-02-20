@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Long Coronavirus Testing Lines Hit NYC Again",
+    "url": "https://www.nytimes.com/2020/11/13/nyregion/nyc-coronavirus-testing-lines.html",
+    "source": "The New York Times",
+    "time": "9 hours ago",
+    "date": "2020-11-14 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Elon Musk, who has cold symptoms, says his coronavirus tests are \ninconclusive: \u2018Something extremely bogus is going on\u2019",
+    "url": "https://www.washingtonpost.com/nation/2020/11/13/elon-musk-covid-test-bogus/",
+    "source": "Washington Post",
+    "time": "1 day ago",
+    "date": "2020-11-14 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "New Saliva-Based COVID Antibody Test Is Highly Accurate, Johns Hopkins \nStudy Says",
+    "url": "https://baltimore.cbslocal.com/2020/11/13/new-saliva-based-antibody-test-for-covid-is-highly-accurate-johns-hopkins-study-says/",
+    "source": "CBS Baltimore",
+    "time": "10 hours ago",
+    "date": "2020-11-14 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "baltimore.cbslocal.com"
+  }
+]

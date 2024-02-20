@@ -1,0 +1,32 @@
+[
+  {
+    "title": "So your kid has a Covid-19 symptom. What do you do now?",
+    "url": "https://www.cnn.com/2020/09/09/health/kids-with-covid-19-what-to-do-wellness/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: People without symptoms 'misusing testing'",
+    "url": "https://www.bbc.com/news/health-54088206",
+    "source": "BBC News",
+    "time": "2 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "When COVID-19 symptoms won't go away",
+    "url": "https://medicalxpress.com/news/2020-09-covid-symptoms-wont.html",
+    "source": "Medical Xpress",
+    "time": "35 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "medicalxpress.com"
+  }
+]

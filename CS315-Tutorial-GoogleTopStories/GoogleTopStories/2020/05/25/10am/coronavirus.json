@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Pandemic: Live World News Updates",
+    "url": "https://www.nytimes.com/2020/05/25/world/coronavirus-news-cases-deaths.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-25-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "6 mins ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Live updates: Memorial Day weekend crowds cause concern as U.S. death toll \nnears 100,000",
+    "url": "https://www.washingtonpost.com/nation/2020/05/25/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "14 mins ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Japan's Shinzo Abe Lifts Coronavirus State Of Emergency As Critics Swarm",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/05/25/861843337/japans-shinzo-abe-lifts-coronavirus-state-of-emergency-as-critics-swarm",
+    "source": "NPR",
+    "time": "36 mins ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Memorial Day Honor Flights Canceled Because Of Coronavirus Crisis",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/05/25/861819305/memorial-day-honor-flights-canceled-because-of-coronavirus-crisis",
+    "source": "NPR",
+    "time": "49 mins ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Trump threatens to move GOP convention over coronavirus restrictions in \nNorth Carolina",
+    "url": "https://www.cnbc.com/2020/05/25/coronavirus-trump-threatens-to-move-gop-convention-over-restrictions.html",
+    "source": "CNBC.com",
+    "time": "50 mins ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Several Atlanta Class of 2020 prep school graduates test positive for \ncoronavirus",
+    "url": "https://www.cnn.com/2020/05/25/us/atlanta-lovett-school-coronavirus-outbreak/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: Countries try 'travel bubbles' to save post-lockdown tourist \nseason",
+    "url": "https://www.nbcnews.com/news/world/coronavirus-countries-try-travel-bubbles-save-post-lockdown-tourist-season-n1212691",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "South Korean schools close after kindergartner tests positive for \ncoronavirus",
+    "url": "https://nypost.com/2020/05/25/south-korean-schools-shut-down-after-student-contracts-coronavirus/",
+    "source": "New York Post",
+    "time": "6 hours ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Kentucky Gov. Andy Beshear hanged in effigy as Second Amendment supporters \nprotest coronavirus restrictions",
+    "url": "https://www.usatoday.com/story/news/nation/2020/05/24/coronavirus-kentucky-andy-beshear-hanged-effigy-second-amendment/5254349002/",
+    "source": "USA Today",
+    "time": "12 hours ago",
+    "date": "2020-05-25 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CDC study suggests Covid-19 can be passed in brief interactions",
+    "url": "https://www.statnews.com/2020/10/21/cumulative-time-covid-19-spread/",
+    "source": "STAT",
+    "time": "1 day ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.statnews.com"
+  },
+  {
+    "title": "Task force warns several US regions show signs of 'deterioration' amid \nCovid-19 surges",
+    "url": "https://www.cnn.com/2020/10/23/health/us-coronavirus-friday/index.html",
+    "source": "CNN",
+    "time": "47 mins ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus updates: US exceeds 71K daily cases, first time since July; \nChicago curfew begins Friday; Pfizer adds teens to vaccine trial",
+    "url": "https://www.usatoday.com/story/news/health/2020/10/23/covid-news-chicago-curfew-louisiana-football-wyoming-cases/3735187001/",
+    "source": "USA TODAY",
+    "time": "2 hours ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Key Raiders Players Face Covid-19 Isolation Before Their Big Game",
+    "url": "https://www.wsj.com/articles/key-raiders-players-face-covid-19-isolation-before-their-big-game-11603461344",
+    "source": "Wall Street Journal",
+    "time": "20 mins ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Coronavirus live updates: Six U.S. states hit daily deaths record; Sen. \nCotton calls for more targeted stimulus",
+    "url": "https://www.cnbc.com/2020/10/23/coronavirus-live-updates.html",
+    "source": "CNBC",
+    "time": "24 mins ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "These new Michigan laws replaced Whitmer\u2019s overturned COVID-19 executive \norders",
+    "url": "https://www.mlive.com/public-interest/2020/10/these-new-michigan-laws-replaced-whitmers-overturned-covid-19-executive-orders.html",
+    "source": "mlive.com",
+    "time": "1 hour ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.mlive.com"
+  },
+  {
+    "title": "Richard Fowler: Trump\u2019s weak debate performance and mishandling of COVID-19 \nmay doom his reelection hopes",
+    "url": "https://www.foxnews.com/opinion/trump-biden-presidential-debate-richard-fowler",
+    "source": "Fox News",
+    "time": "5 hours ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "CT Announces 10 More COVID-19 Red Alert Towns, Removes 2",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/governor-lamont-to-hold-4-p-m-briefing-on-covid-19-pandemic/2349338/",
+    "source": "NBC Connecticut",
+    "time": "18 hours ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/10/23/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "2 hours ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "State closes indoor ice rinks for two weeks after COVID-19 spike connected \nto hockey",
+    "url": "https://www.bostonglobe.com/2020/10/22/nation/state-closes-indoor-ice-rinks-two-weeks-after-covid-19-spike-connected-hockey/",
+    "source": "The Boston Globe",
+    "time": "12 hours ago",
+    "date": "2020-10-23 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.bostonglobe.com"
+  }
+]

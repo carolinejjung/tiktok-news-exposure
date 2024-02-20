@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus updates: Latest news from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-01-20-intl/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "15 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Detroit park turned into photo memorial for more than 900 coronavirus \nvictims",
+    "url": "https://www.foxnews.com/us/detroit-park-memorial-coronavirus-victims",
+    "source": "Fox News",
+    "time": "30 mins ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Treasury Secretary Steven Mnuchin says new coronavirus relief bill \n'hopefully' coming next week",
+    "url": "https://news.yahoo.com/treasury-secretary-steven-mnuchin-says-124345984.html",
+    "source": "Yahoo News",
+    "time": "1 hour ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "NYC teachers union moves toward strike amid call for coronavirus testing \nrequirement",
+    "url": "https://thehill.com/homenews/state-watch/514566-nyc-teachers-union-moves-toward-strike-amid-call-for-coronavirus-testing",
+    "source": "The Hill",
+    "time": "24 mins ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Rent Prices Drop Across Boston Due To Coronavirus",
+    "url": "https://boston.cbslocal.com/2020/08/31/coronavirus-boston-apartments-real-estate/",
+    "source": "CBS Boston",
+    "time": "10 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "boston.cbslocal.com"
+  },
+  {
+    "title": "Daily coronavirus updates: Connecticut\u2019s COVID-19 numbers rose last week. \nHow worried should we be?",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-0831-20200831-iz2ltanwp5cytflzgtoru4gd7q-story.html",
+    "source": "Hartford Courant",
+    "time": "17 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.courant.com"
+  },
+  {
+    "title": "Coronavirus cases are on the rise again across more than half of the U.S.",
+    "url": "https://www.cnbc.com/2020/08/31/coronavirus-cases-are-on-the-rise-again-across-more-than-half-of-the-us.html",
+    "source": "CNBC",
+    "time": "19 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "9 Pa. counties listed as areas to watch for coronavirus; statewide, \npositive rate drops again",
+    "url": "https://www.pennlive.com/news/2020/08/9-pa-counties-listed-as-areas-to-watch-for-coronavirus-statewide-positive-rate-drops-again.html",
+    "source": "pennlive.com",
+    "time": "16 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.pennlive.com"
+  },
+  {
+    "title": "Twitter removes tweet shared by Trump with false coronavirus statistics",
+    "url": "https://www.cbsnews.com/news/twitter-removes-trump-tweet-false-coronavirus-statistics/",
+    "source": "CBS News",
+    "time": "23 hours ago",
+    "date": "2020-09-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cbsnews.com"
+  }
+]

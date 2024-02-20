@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Should Isolation Periods Be Shorter for People With Covid-19?",
+    "url": "https://www.nytimes.com/2020/11/29/health/should-covid-19-isolation-periods-be-shorter.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-12-01 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "China raises doubts about COVID-19 origin as Wuhan marks 1 year since \nsymptoms were detected",
+    "url": "https://www.cbsnews.com/news/china-covid-19-origin-wuhan/",
+    "source": "CBS News",
+    "time": "1 hour ago",
+    "date": "2020-12-01 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "One year after coronavirus symptoms were first detected, CBS News returns \nto Wuhan",
+    "url": "https://www.cbsnews.com/video/one-year-after-coronavirus-symptoms-were-first-detected-cbs-news-returns-to-wuhan/",
+    "source": "CBS News",
+    "time": "2 hours ago",
+    "date": "2020-12-01 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.cbsnews.com"
+  }
+]

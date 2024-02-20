@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/02/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'Growing body of evidence' shows COVID-19 leaked from Chinese lab: US \nofficial",
+    "url": "https://nypost.com/2021/01/02/growing-body-of-evidence-shows-covid-19-leaked-from-chinese-lab-us-official/",
+    "source": "New York Post",
+    "time": "1 hour ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "NYC teachers worry about school safety as COVID-19 cases spike",
+    "url": "https://nypost.com/2021/01/02/nyc-teachers-worry-about-school-safety-as-covid-19-cases-spike/",
+    "source": "New York Post",
+    "time": "43 mins ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "DCPS employees 65+, medical personnel to be vaccinated against COVID-19",
+    "url": "https://www.news4jax.com/news/local/2021/01/03/dcps-employees-65-or-older-all-medical-personnel-to-be-vaccinated-against-covid-19/",
+    "source": "WJXT News4JAX",
+    "time": "32 mins ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.news4jax.com"
+  },
+  {
+    "title": "Larry King has been hospitalized with Covid-19",
+    "url": "https://www.cnn.com/2021/01/02/media/larry-king-covid-19/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "New York becomes fourth state to record 1 million Covid-19 cases",
+    "url": "https://www.nbcnews.com/news/us-news/new-york-becomes-fourth-state-record-1-million-covid-19-n1252677",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Mexican doctor hospitalized after receiving COVID-19 vaccine",
+    "url": "https://news.yahoo.com/mexican-doctor-hospitalized-receiving-covid-161129180.html",
+    "source": "Yahoo News",
+    "time": "11 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "Larry King Hospitalized in L.A. with COVID-19: Reports",
+    "url": "https://people.com/tv/larry-king-hospitalized-with-coronavirus/",
+    "source": "PEOPLE.com",
+    "time": "4 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "people.com"
+  },
+  {
+    "title": "Contagious Coronavirus Variant Has Spread To Dozens Of Countries : \nCoronavirus Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/02/952842631/new-covid-19-variant-spreads-to-dozens-of-countries",
+    "source": "NPR",
+    "time": "8 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "95-year-old interrupts mask making by surviving COVID-19",
+    "url": "https://www.wyff4.com/article/95-year-old-interrupts-mask-making-by-surviving-covid-19/35110372",
+    "source": "WYFF Greenville",
+    "time": "10 hours ago",
+    "date": "2021-01-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wyff4.com"
+  }
+]

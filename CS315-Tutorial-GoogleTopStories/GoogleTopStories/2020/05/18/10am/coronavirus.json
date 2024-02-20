@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus World Updates",
+    "url": "https://www.nytimes.com/2020/05/18/world/coronavirus-news.html",
+    "source": "The New York Times",
+    "time": "2 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: China\u2019s Xi backs WHO investigation into pandemic\u2019s origins; \nU.S. cases near 1.5 million",
+    "url": "https://www.washingtonpost.com/nation/2020/05/18/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "10 mins ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Government-backed coronavirus vaccine shows promise in first human trials",
+    "url": "https://www.politico.com/news/2020/05/18/vaccine-coronavirus-trials-264946",
+    "source": "Politico",
+    "time": "32 mins ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Moderna Coronavirus Vaccine Shows Positive Results In Early Human Tests. \nWhat Comes Next.",
+    "url": "https://www.barrons.com/articles/moderna-coronavirus-vaccine-shows-postive-results-in-early-human-tests-what-comes-next-51589801723",
+    "source": "Barron's",
+    "time": "58 mins ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.barrons.com"
+  },
+  {
+    "title": "UK woman, 102, beats coronavirus: 'A miracle recovery'",
+    "url": "https://www.foxnews.com/health/uk-woman-102-beats-coronavirus-a-miracle-recovery",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Germans Protest Shutdown Even After Easing Of Coronavirus Restrictions",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/05/18/857756264/germans-protest-shutdown-even-after-easing-of-coronavirus-restrictions",
+    "source": "NPR",
+    "time": "1 hour ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Trump officials deflect blame for US death toll, escalate reopening push",
+    "url": "https://www.cnn.com/2020/05/18/politics/trump-us-death-toll-blame-reopen/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus in NC: Live updates for May 18, 2020",
+    "url": "https://www.wral.com/coronavirus/coronavirus-in-nc-live-updates-for-may-18-2020/19102823/",
+    "source": "WRAL-TV",
+    "time": "5 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wral.com"
+  },
+  {
+    "title": "Is day care safe during the coronavirus pandemic? It depends. Here are some \nguidelines.",
+    "url": "https://www.usatoday.com/story/news/education/2020/05/18/coronavirus-daycare-safe-childcare-reopening-guidelines-cdc/5205192002/",
+    "source": "USATODAY.com",
+    "time": "5 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Gov. Charlie Baker to announce coronavirus reopening plan for Massachusetts \ntoday",
+    "url": "https://www.masslive.com/coronavirus/2020/05/gov-charlie-baker-to-announce-coronavirus-reopening-plan-for-massachusetts-today.html",
+    "source": "MassLive.com",
+    "time": "5 hours ago",
+    "date": "2020-05-18 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.masslive.com"
+  }
+]

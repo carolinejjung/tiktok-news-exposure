@@ -1,0 +1,32 @@
+[
+  {
+    "title": "A California University Tries to Shield an Entire City From Coronavirus",
+    "url": "https://www.nytimes.com/2021/01/30/us/college-coronavirus-california.html",
+    "source": "The New York Times",
+    "time": "17 hours ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Two lawmakers test positive for coronavirus, one after receiving both doses \nof vaccine",
+    "url": "https://www.inquirer.com/news/nation-world/two-congressmembers-massachusetts-covid-19-after-vaccination-coronavirus-20210130.html",
+    "source": "The Philadelphia Inquirer",
+    "time": "4 hours ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.inquirer.com"
+  },
+  {
+    "title": "Covid-19 and Vaccine News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/30/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/03/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "14 mins ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "He works in a Covid-19 unit in a parking garage. Trump called it fake",
+    "url": "https://www.cnn.com/videos/politics/2020/12/03/nevada-dr-jacob-keeperman-coronavirus-parking-garage-unit-trump-ebof-sot-vpx.cnn",
+    "source": "CNN",
+    "time": "8 hours ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Fox News co-host Juan Williams tests positive for COVID-19 | TheHill",
+    "url": "https://thehill.com/homenews/media/528717-fox-news-co-host-juan-williams-tests-positive-for-covid-19",
+    "source": "The Hill",
+    "time": "38 mins ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Allegheny County judge extends COVID-19 changes into January",
+    "url": "https://www.wpxi.com/news/top-stories/allegheny-county-judge-extends-covid-19-changes-into-january/J7JNAFVARBDTBMXZ6RSFIQGHUQ/",
+    "source": "WPXI Pittsburgh",
+    "time": "25 mins ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wpxi.com"
+  },
+  {
+    "title": "Coronavirus live updates: Most of California days away from new \nstay-at-home order, governor says",
+    "url": "https://www.washingtonpost.com/nation/2020/12/03/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "5 mins ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "NJ Coronavirus Update: New Jersey Gov. Murphy discourages non-essential \nout-of-state travel",
+    "url": "https://abc7ny.com/nj-covid-travel-coronavirus-hackensack-city-hall-closing-bergen-county-testing/8441045",
+    "source": "WABC-TV",
+    "time": "1 day ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Pfizer Slashed Its Original Covid-19 Vaccine Rollout Target After \nSupply-Chain Obstacles",
+    "url": "https://www.wsj.com/articles/pfizer-slashed-its-covid-19-vaccine-rollout-target-after-facing-supply-chain-obstacles-11607027787",
+    "source": "The Wall Street Journal",
+    "time": "3 hours ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "CDC to encourage 'Vaccinated for COVID-19' buttons",
+    "url": "https://abcnews.go.com/Politics/cdc-encourage-vaccinated-covid-19-buttons/story?id=74528723",
+    "source": "ABC News",
+    "time": "2 hours ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Second wave of COVID-19 hits harder in RI's smaller communities",
+    "url": "https://www.wpri.com/target-12/second-wave-of-covid-19-hits-harder-in-ris-smaller-communities/",
+    "source": "WPRI.com",
+    "time": "4 hours ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "CHART: How Much COVID-19 Vaccine Has Each Country Claimed? : Goats and Soda",
+    "url": "https://www.npr.org/sections/goatsandsoda/2020/12/03/942303736/how-rich-countries-are-hoarding-the-worlds-vaccines-in-charts",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2020-12-03 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

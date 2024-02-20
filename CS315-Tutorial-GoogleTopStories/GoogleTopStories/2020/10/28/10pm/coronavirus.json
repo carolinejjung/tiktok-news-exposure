@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Updates",
+    "url": "https://www.nytimes.com/live/2020/10/28/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-28-20-intl/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Mask mandates lead to lower rates of coronavirus hospitalizations, \nVanderbilt researchers find",
+    "url": "https://www.foxnews.com/health/mask-mandates-lower-rates-coronavirus-hospitalizations",
+    "source": "Fox News",
+    "time": "39 mins ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus cases up in Attleboro schools, down slightly citywide",
+    "url": "https://www.thesunchronicle.com/news/coronavirus/coronavirus-cases-up-in-attleboro-schools-down-slightly-citywide/article_4e81b71f-9cf4-57a1-b011-11cef7842759.html",
+    "source": "The Sun Chronicle",
+    "time": "15 mins ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.thesunchronicle.com"
+  },
+  {
+    "title": "How nursing home coronavirus reports could give a better picture of where \ninfections happened",
+    "url": "https://www.theadvocate.com/baton_rouge/news/coronavirus/article_64b582d0-1955-11eb-900c-43a344427fdd.html",
+    "source": "The Advocate",
+    "time": "57 mins ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.theadvocate.com"
+  },
+  {
+    "title": "Second coronavirus stockpiling wave may be coming \u2014 and it goes beyond \ntoilet paper, cleaning supplies",
+    "url": "https://www.foxbusiness.com/lifestyle/coronavirus-fears-push-more-than-half-of-u-s-consumers-into-second-wave-of-stockpiling",
+    "source": "Fox Business",
+    "time": "10 hours ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "MLB - Dodgers' Justin Turner disregarded coronavirus protocols",
+    "url": "https://www.espn.com/mlb/story/_/id/30211683/mlb-justin-turner-disregarded-coronavirus-protocols",
+    "source": "ESPN",
+    "time": "6 hours ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Top Trump health official warns of 'draconian measures' if America doesn't \nmask up",
+    "url": "https://www.nbcnews.com/news/us-news/top-trump-health-official-warns-draconian-measures-if-america-doesn-n1245116",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Maine sees largest single-day jump in new coronavirus cases since pandemic \nbegan",
+    "url": "https://bangordailynews.com/2020/10/28/news/87-new-coronavirus-cases-have-been-reported-in-maine-0vzoa9n507wn/",
+    "source": "Bangor Daily News",
+    "time": "12 hours ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "bangordailynews.com"
+  },
+  {
+    "title": "Daily coronavirus updates: As Connecticut\u2019s COVID-19 numbers increase, \nLamont says it\u2019s not time to close schools, businesses; deaths now exceed \n4,600",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-1028-20201028-jvmnnb7gxbg6zankhoaxylevyq-story.html",
+    "source": "Hartford Courant",
+    "time": "5 hours ago",
+    "date": "2020-10-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.courant.com"
+  }
+]

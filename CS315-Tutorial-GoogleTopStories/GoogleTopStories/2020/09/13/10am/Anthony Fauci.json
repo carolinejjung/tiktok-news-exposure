@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fauci Warns Coronavirus Could Disrupt Life Well Into New Year",
+    "url": "https://www.nytimes.com/2020/09/11/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "2 days ago",
+    "date": "2020-09-13 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Fauci says he takes vitamin D and C supplements, which boost immunity - \nInsider",
+    "url": "https://www.insider.com/fauci-takes-recommends-vitamin-d-and-c-supplements-immunity-boost-2020-9",
+    "source": "INSIDER",
+    "time": "2 days ago",
+    "date": "2020-09-13 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.insider.com"
+  },
+  {
+    "title": "Fauci: Americans can go to theaters once a vaccine has existed for 'almost \na year'",
+    "url": "https://www.foxbusiness.com/lifestyle/fauci-jennifer-garner-theaters",
+    "source": "Fox Business",
+    "time": "20 hours ago",
+    "date": "2020-09-13 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.foxbusiness.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "American Airlines expands at-home coronavirus testing",
+    "url": "https://www.foxnews.com/lifestyle/american-airlines-expands-covid-19-testing",
+    "source": "Fox News",
+    "time": "1 day ago",
+    "date": "2020-11-05 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Albertsons to offer free at-home COVID-19 tests to Idahoans",
+    "url": "https://www.ktvb.com/article/news/health/coronavirus/albertsons-to-offer-free-at-home-coronavirus-tests-to-idahoans/277-b4f48e2b-cb83-4cc4-b329-902d41e8f16b",
+    "source": "KTVB.com",
+    "time": "2 days ago",
+    "date": "2020-11-05 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.ktvb.com"
+  },
+  {
+    "title": "6 UVM students test positive for COVID-19",
+    "url": "https://www.wcax.com/2020/11/05/six-uvm-students-test-positive-for-covid-19/",
+    "source": "WCAX",
+    "time": "2 hours ago",
+    "date": "2020-11-05 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wcax.com"
+  }
+]

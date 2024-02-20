@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Your Coronavirus Test Is Positive. Maybe It Shouldn\u2019t Be.",
+    "url": "https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "1 week ago",
+    "date": "2020-09-06 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: Latest News and Analysis",
+    "url": "https://www.nytimes.com/2020/09/06/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-09-06 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Netanyahu postpones lockdown meeting following pressure from haredis",
+    "url": "https://www.jpost.com/health-science/cabinet-to-set-covid-19-restrictions-on-red-zones-94-percent-test-positive-641218",
+    "source": "The Jerusalem Post",
+    "time": "22 mins ago",
+    "date": "2020-09-06 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.jpost.com"
+  }
+]

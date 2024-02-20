@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-02-07-21/index.html",
+    "source": "CNN",
+    "time": "15 mins ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Democrats can pass the coronavirus relief package: Transportation Secretary \nPete Buttigieg",
+    "url": "https://abcnews.go.com/Politics/democrats-pass-coronavirus-relief-package-transportation-secretary-pete/story?id=75735418",
+    "source": "ABC News",
+    "time": "57 mins ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "A new children's book about Wuhan's coronavirus whistleblower teaches \nbravery",
+    "url": "https://www.cnn.com/2021/02/07/media/doctor-li-book/index.html",
+    "source": "CNN",
+    "time": "25 mins ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Chuck Todd on coronavirus relief, state of GOP after Trump",
+    "url": "https://www.today.com/video/chuck-todd-on-coronavirus-relief-state-of-gop-after-trump-100655685580",
+    "source": "The Today Show",
+    "time": "1 hour ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.today.com"
+  },
+  {
+    "title": "Iowa governor lifts mask requirements, other coronavirus restrictions",
+    "url": "https://www.foxnews.com/politics/iowa-governor-lifts-masks-requirements-other-coronavirus-restrictions",
+    "source": "Fox News",
+    "time": "9 hours ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Covid reinfections may be more common than realized. Why isn't the US \ntracking them?",
+    "url": "https://www.nbcnews.com/health/health-news/covid-reinfections-may-be-more-common-realized-why-isn-t-n1256898",
+    "source": "NBC News",
+    "time": "4 hours ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Dear Dr. Li: Chinese Netizens Confess To The Late Coronavirus Whistleblower",
+    "url": "https://www.npr.org/sections/goatsandsoda/2021/02/07/964455362/dear-dr-li-chinese-netizens-confess-to-the-late-coronavirus-whistleblower",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "PSA: Don\u2019t post your coronavirus vaccination card selfie on social media",
+    "url": "https://www.theverge.com/2021/2/6/22270400/coronavirus-vaccine-card-selfie-social-media",
+    "source": "The Verge",
+    "time": "16 hours ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.theverge.com"
+  },
+  {
+    "title": "Planning a night out to watch the Super Bowl? Massachusetts coronavirus \nrules might lead to a quick exit",
+    "url": "https://www.bostonherald.com/2021/02/06/planning-a-night-out-to-watch-the-super-bowl-dont-get-too-comfortable/",
+    "source": "Boston Herald",
+    "time": "14 hours ago",
+    "date": "2021-02-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bostonherald.com"
+  }
+]

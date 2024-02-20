@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Study reports mutant coronavirus that may be more contagious",
+    "url": "https://www.latimes.com/california/story/2020-05-05/mutant-coronavirus-has-emerged-more-contagious-than-original",
+    "source": "Los Angeles Times",
+    "time": "1 day ago",
+    "date": "2020-05-06 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.latimes.com"
+  },
+  {
+    "title": "Herd Immunity, or Big 2nd Wave? Israel Antibody Testing Hopes to Find Out",
+    "url": "https://www.nytimes.com/2020/05/05/world/middleeast/coronavirus-israel-antibody-testing.html",
+    "source": "The New York Times",
+    "time": "19 hours ago",
+    "date": "2020-05-06 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Moscow's Unreliable Antibody Tests Threaten New Coronavirus Wave: Media",
+    "url": "https://www.themoscowtimes.com/2020/05/06/moscows-unreliable-antibody-tests-threaten-new-coronavirus-wave-media-a70198",
+    "source": "The Moscow Times",
+    "time": "1 hour ago",
+    "date": "2020-05-06 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.themoscowtimes.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/04/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "26 mins ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Would you be willing to get a Covid vaccine in exchange for a $1,500 \nstimulus check? How one bold proposal would work",
+    "url": "https://www.cnbc.com/2020/12/03/1500-stimulus-checks-for-covid-19-shots-how-one-plan-would-work.html",
+    "source": "CNBC",
+    "time": "19 hours ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "'We ran out of space.' Amid Covid-19 surge, an Illinois funeral home \ndirector says it's hard keeping up with demand",
+    "url": "https://www.cnn.com/2020/12/04/us/illinois-funeral-home-covid-november/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "News Updates: U.S. Keeps Setting New Covid-19 Case Records",
+    "url": "https://www.barrons.com/articles/news-updates-51607094399",
+    "source": "Barron's",
+    "time": "8 mins ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.barrons.com"
+  },
+  {
+    "title": "Here are the top 6 types of places linked to COVID-19 outbreaks in Michigan",
+    "url": "https://www.clickondetroit.com/health/2020/12/04/here-are-the-top-6-types-of-places-linked-to-covid-19-outbreaks-in-michigan/",
+    "source": "WDIV ClickOnDetroit",
+    "time": "1 hour ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.clickondetroit.com"
+  },
+  {
+    "title": "Can your employer require you to get a COVID-19 vaccine to go to work?",
+    "url": "https://www.foxbusiness.com/lifestyle/can-your-employer-require-you-to-get-a-covid-vaccine-to-go-to-work",
+    "source": "Fox Business",
+    "time": "18 hours ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Second wave of COVID-19 hits harder in RI's smaller communities",
+    "url": "https://www.wpri.com/target-12/second-wave-of-covid-19-hits-harder-in-ris-smaller-communities/",
+    "source": "WPRI.com",
+    "time": "16 hours ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "Baker says record-setting number of COVID-19 cases in state shows \nwidespread community transmission",
+    "url": "https://www.bostonglobe.com/2020/12/03/metro/baker-says-high-number-covid-19-cases-state-shows-widespread-community-transmission/",
+    "source": "The Boston Globe",
+    "time": "1 day ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "NJ Coronavirus Update: New Jersey Gov. Murphy discourages non-essential \nout-of-state travel",
+    "url": "https://abc7ny.com/nj-covid-travel-coronavirus-hackensack-city-hall-closing-bergen-county-testing/8441045",
+    "source": "WABC-TV",
+    "time": "1 day ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Pfizer Slashed Its Original Covid-19 Vaccine Rollout Target After \nSupply-Chain Obstacles",
+    "url": "https://www.wsj.com/articles/pfizer-slashed-its-covid-19-vaccine-rollout-target-after-facing-supply-chain-obstacles-11607027787",
+    "source": "The Wall Street Journal",
+    "time": "15 hours ago",
+    "date": "2020-12-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

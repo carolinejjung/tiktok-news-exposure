@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/09/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "44 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-09-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "22 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Sen. Ted Cruz doubts coronavirus stimulus will pass before November election",
+    "url": "https://www.nydailynews.com/news/politics/ny-coronavirus-stimulus-ted-cruz-20200909-kitgsa344jekdlmtcimee5stj4-story.html",
+    "source": "New York Daily News",
+    "time": "43 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nydailynews.com"
+  },
+  {
+    "title": "Virginia sees 882 new coronavirus cases, now reporting 129,289 statewide",
+    "url": "https://www.wsls.com/news/virginia/2020/09/09/virginia-sees-882-new-coronavirus-cases-now-reporting-129289-statewide/",
+    "source": "WSLS 10",
+    "time": "1 hour ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.wsls.com"
+  },
+  {
+    "title": "Coronavirus news: University imposes quarantine for all students",
+    "url": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=72895433",
+    "source": "ABC News",
+    "time": "38 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Coronavirus stimulus: What\u2019s in Senate Republicans\u2019 pared-down relief bill",
+    "url": "https://finance.yahoo.com/news/coronavirus-stimulus-whats-in-senate-republicans-pareddown-relief-bill-211317844.html",
+    "source": "Yahoo Finance",
+    "time": "17 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Live updates: After Trump promised an October vaccine, a major human trial \nstops for an \u2018unexplained illness\u2019",
+    "url": "https://www.washingtonpost.com/nation/2020/09/09/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "45 mins ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Trump accuses North Carolina of using coronavirus restrictions to hurt his \nre-election chances",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2020/09/08/trump-north-carolina-using-coronavirus-hurt-re-election-chances/5721169002/",
+    "source": "USA TODAY",
+    "time": "13 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "How coronavirus pandemic has led to real estate boom as wider economy \nstruggles",
+    "url": "https://www.foxbusiness.com/real-estate/coronavirus-real-estate-boom-as-economy-struggles",
+    "source": "Fox Business",
+    "time": "3 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "4 States Added To New York Coronavirus Quarantine List",
+    "url": "https://patch.com/new-york/new-york-city/4-states-added-new-york-coronavirus-quarantine-list",
+    "source": "Patch.com",
+    "time": "20 hours ago",
+    "date": "2020-09-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "patch.com"
+  }
+]

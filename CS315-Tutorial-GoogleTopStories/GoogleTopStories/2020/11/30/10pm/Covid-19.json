@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live News and Updates",
+    "url": "https://www.nytimes.com/live/2020/11/30/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "17 mins ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The Wuhan files",
+    "url": "https://www.cnn.com/2020/11/30/asia/wuhan-china-covid-intl/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "DeSantis vows no statewide restrictions despite rise in COVID-19 cases",
+    "url": "https://www.fox13news.com/news/desantis-vows-no-statewide-restrictions-despite-rise-in-covid-19-case-numbers",
+    "source": "FOX 13 Tampa Bay",
+    "time": "32 mins ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.fox13news.com"
+  },
+  {
+    "title": "Lucile H. Bluford Branch Library closed due to COVID-19",
+    "url": "https://www.kshb.com/news/coronavirus/lucile-h-bluford-branch-library-closed-due-to-covid-19",
+    "source": "KSHB",
+    "time": "18 mins ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.kshb.com"
+  },
+  {
+    "title": "Newsom says stay-at-home order likely if COVID-19 surge continues",
+    "url": "https://www.sfgate.com/bayarea/article/Newsom-COVID-tier-update-California-15763751.php",
+    "source": "SFGate",
+    "time": "4 hours ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.sfgate.com"
+  },
+  {
+    "title": "This couple relaxed their covid-19 stance and died from it. They wished \nothers would take it seriously.",
+    "url": "https://www.washingtonpost.com/nation/2020/11/30/same-minute-covid-deaths/",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Covid-19 Likely in U.S. in Mid-December 2019, CDC Scientists Report",
+    "url": "https://www.wsj.com/articles/covid-19-likely-in-u-s-in-mid-december-2019-cdc-scientists-report-11606782449",
+    "source": "The Wall Street Journal",
+    "time": "2 hours ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "PA allows nursing homes, hospitals and businesses to face COVID-19 claims",
+    "url": "https://www.foxbusiness.com/economy/pa-allows-nursing-homes-hospitals-and-businesses-to-face-covid-claims",
+    "source": "Fox Business",
+    "time": "3 hours ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Group of Doctors Urges Lamont to Shut State Down Again As COVID-19 \nHospitalizations Climb",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/group-of-doctors-urges-lamont-to-shut-state-down-again-as-covid-19-hospitalizations-climb/2372846/",
+    "source": "NBC Connecticut",
+    "time": "1 hour ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Covid-19 vaccines face a varied and powerful misinformation movement online",
+    "url": "https://www.nbcnews.com/tech/tech-news/covid-19-vaccines-face-varied-powerful-misinformation-movement-online-n1249378",
+    "source": "NBC News",
+    "time": "7 hours ago",
+    "date": "2020-11-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcnews.com"
+  }
+]

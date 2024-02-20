@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Your Coronavirus Test Is Positive. Maybe It Shouldn\u2019t Be.",
+    "url": "https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "18 hours ago",
+    "date": "2020-08-30 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The CDC\u2019s testing guidance will make the pandemic worse",
+    "url": "https://www.theverge.com/2020/8/29/21404000/cdc-coronavirus-testing-guidance-asymptomatic-testing-bad-advice",
+    "source": "The Verge",
+    "time": "21 hours ago",
+    "date": "2020-08-30 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.theverge.com"
+  },
+  {
+    "title": "Insider Q&A: Quidel CEO talks rapid testing for coronavirus",
+    "url": "https://abcnews.go.com/Health/wireStory/insider-qa-quidel-ceo-talks-rapid-testing-coronavirus-72712331",
+    "source": "ABC News",
+    "time": "18 mins ago",
+    "date": "2020-08-30 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "abcnews.go.com"
+  }
+]

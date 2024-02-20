@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/06/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "What coronavirus means for India's 'big fat weddings'",
+    "url": "https://www.cnn.com/style/article/indian-weddings-covid-intl-hnk-dst/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus live news: Giuliani tests positive for Covid; California braces \nfor lockdown",
+    "url": "https://www.theguardian.com/world/live/2020/dec/07/coronavirus-live-news-giuliani-tests-positive-for-covid-california-braces-for-lockdown",
+    "source": "The Guardian",
+    "time": "16 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Troy City School District reports two coronavirus cases",
+    "url": "https://www.news10.com/news/troy-city-school-district-reports-two-coronavirus-cases/",
+    "source": "NEWS10 ABC",
+    "time": "49 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.news10.com"
+  },
+  {
+    "title": "COVID-19: Cases in Cincinnati region jump 16% in a week, total passes 94,000",
+    "url": "https://www.cincinnati.com/story/news/2020/12/06/coronavirus-cincinnati-covid-19-cases-rising/3825402001/",
+    "source": "Cincinnati.com",
+    "time": "19 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.cincinnati.com"
+  },
+  {
+    "title": "Rudy Giuliani tests positive for coronavirus, Trump says",
+    "url": "https://www.cnn.com/2020/12/06/politics/rudy-giuliani-coronavirus-positive/index.html",
+    "source": "CNN",
+    "time": "19 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Giuliani, Trump\u2019s personal attorney, tests positive for coronavirus, \npresident says",
+    "url": "https://www.washingtonpost.com/politics/rudolph-w-giuliani-trumps-personal-lawyer-tests-positive-for-coronavirus-president-says/2020/12/06/b3557538-3801-11eb-9276-ae0ca72729be_story.html",
+    "source": "Washington Post",
+    "time": "34 mins ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "TOP 5: Massachusetts town-by-town coronavirus numbers",
+    "url": "https://www.wwlp.com/news/health/coronavirus-local-impact/top-5-massachusetts-town-by-town-coronavirus-numbers-4/",
+    "source": "WWLP.com",
+    "time": "9 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "Former cybersecurity chief says Russia, China, Iran and North Korea are \ntrying to steal coronavirus vaccine IP",
+    "url": "https://www.cnbc.com/2020/12/06/former-top-cybersecurity-chief-says-russia-china-iran-and-north-korea-are-trying-to-steal-coronoavir.html",
+    "source": "CNBC",
+    "time": "7 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Sweden's pandemic experiment ends amid spiking coronavirus cases",
+    "url": "https://www.foxnews.com/world/swedens-pandemic-experiment-ends-spiking-coronavirus-cases",
+    "source": "Fox News",
+    "time": "8 hours ago",
+    "date": "2020-12-06 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

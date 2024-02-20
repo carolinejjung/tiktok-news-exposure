@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/25/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "8 mins ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-25-21/index.html",
+    "source": "CNN",
+    "time": "49 mins ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Moderna says research shows COVID-19 vaccine is effective against UK, South \nAfrican variants",
+    "url": "https://www.wcvb.com/article/moderna-says-covid-19-research-shows-vaccine-is-effective-against-uk-south-african-variants/35307154",
+    "source": "WCVB Boston",
+    "time": "41 mins ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wcvb.com"
+  },
+  {
+    "title": "Moderna making booster shot to fight Covid-19 variants",
+    "url": "https://www.politico.com/news/2021/01/25/moderna-booster-shot-vaccine-covid-variant-462131",
+    "source": "Politico",
+    "time": "37 mins ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Covid-19 crisis creates 'new poor' throughout Italy",
+    "url": "https://www.cnn.com/videos/business/2021/01/25/covid-pandemic-italy-poverty-inequality-oxfam.cnnbusiness",
+    "source": "CNN",
+    "time": "42 mins ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Deborah Birx said Trump was being given \u2018parallel data\u2019 on covid-19",
+    "url": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/",
+    "source": "Washington Post",
+    "time": "4 hours ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Merck ends COVID-19 vaccine program, cites inferior immune responses",
+    "url": "https://www.foxbusiness.com/healthcare/merck-ends-covid-19-vaccine-program-cites-inferior-immune-responses",
+    "source": "Fox Business",
+    "time": "3 hours ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "California may have its own highly contagious homegrown COVID-19 strain",
+    "url": "https://nypost.com/2021/01/25/california-may-have-highly-contagious-homegrown-covid-19-strain/",
+    "source": "New York Post",
+    "time": "8 hours ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "In ambulances, an unseen, unwelcome passenger: COVID-19",
+    "url": "https://apnews.com/article/us-news-los-angeles-california-coronavirus-pandemic-550b05e60e7f01abd2ce24db5dbbf723",
+    "source": "Associated Press",
+    "time": "8 hours ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "US officials express concern over possible shortage of COVID-19 vaccine",
+    "url": "https://www.bostonglobe.com/2021/01/25/nation/concern-rises-lack-vaccine/",
+    "source": "The Boston Globe",
+    "time": "14 hours ago",
+    "date": "2021-01-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.bostonglobe.com"
+  }
+]

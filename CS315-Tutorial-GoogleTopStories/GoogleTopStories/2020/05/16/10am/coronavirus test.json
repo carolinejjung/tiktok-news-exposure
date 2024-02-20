@@ -1,0 +1,32 @@
+[
+  {
+    "title": "F.D.A. Halts Coronavirus Testing Program Backed by Bill Gates",
+    "url": "https://www.nytimes.com/2020/05/15/us/coronavirus-testing-seattle-bill-gates.html",
+    "source": "The New York Times",
+    "time": "18 hours ago",
+    "date": "2020-05-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "FDA halts Bill Gates coronavirus testing program | TheHill",
+    "url": "https://thehill.com/policy/healthcare/498104-fda-halts-bill-gates-coronavirus-testing-program",
+    "source": "TheHill",
+    "time": "11 hours ago",
+    "date": "2020-05-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Coronavirus Cases Slow in U.S., but the Big Picture Remains Tenuous",
+    "url": "https://www.nytimes.com/2020/05/16/us/coronavirus-united-states.html",
+    "source": "The New York Times",
+    "time": "36 mins ago",
+    "date": "2020-05-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

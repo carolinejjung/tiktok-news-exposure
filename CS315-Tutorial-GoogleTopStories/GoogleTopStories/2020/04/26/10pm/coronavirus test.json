@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Bill Gates explains how the United States can safely ease coronavirus \nrestrictions",
+    "url": "https://www.cnn.com/2020/04/26/business/bill-gates-coronavirus-reopening-gps/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "New York clinical trial testing heartburn medication as coronavirus \ntreatment",
+    "url": "https://nypost.com/2020/04/26/ny-clinical-trial-testing-heartburn-medication-as-coronavirus-treatment/",
+    "source": "New York Post",
+    "time": "1 hour ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-27-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "17 mins ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

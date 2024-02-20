@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus updates: Latest world news",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-11-05-20-intl/h_a2f7ab0f0d615365a89f4d8cc60fc896",
+    "source": "CNN",
+    "time": "34 mins ago",
+    "date": "2020-11-05 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus updates: U.S. shatters records with more than 114,000 new cases \nin a single day",
+    "url": "https://www.washingtonpost.com/nation/2020/11/05/covid-coronavirus-updates/",
+    "source": "Washington Post",
+    "time": "6 hours ago",
+    "date": "2020-11-05 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Two people test positive for COVID-19 at Amherst High School",
+    "url": "https://www.wivb.com/news/two-people-test-positive-for-covid-19-at-amherst-high-school/",
+    "source": "WIVB.com - News 4",
+    "time": "50 mins ago",
+    "date": "2020-11-05 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wivb.com"
+  }
+]

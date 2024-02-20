@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pennsylvania COVID-19 Vaccines",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx",
+    "source": "Governor.Pa.gov",
+    "time": "1 week ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.health.pa.gov"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-26-21/index.html",
+    "source": "CNN",
+    "time": "50 mins ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Covid-19 Live News and Updates",
+    "url": "https://www.nytimes.com/live/2021/01/26/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Rutgers professor who helped create coronavirus saliva test dies",
+    "url": "https://www.nj.com/coronavirus/2021/01/rutgers-professor-who-helped-create-coronavirus-saliva-test-dies.html",
+    "source": "nj.com",
+    "time": "1 hour ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "Coronavirus in Oregon: 796 new cases, 22 new deaths as Brown slightly eases \nbusiness restrictions",
+    "url": "https://www.oregonlive.com/coronavirus/2021/01/coronavirus-in-oregon-796-new-cases-22-new-deaths-as-brown-slightly-eases-business-restrictions.html",
+    "source": "oregonlive.com",
+    "time": "1 hour ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "Orange County\u2019s coronavirus case rate dives after new year highs",
+    "url": "https://www.ocregister.com/2021/01/26/orange-countys-coronavirus-case-rate-dives-after-new-year-highs",
+    "source": "OCRegister",
+    "time": "1 hour ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.ocregister.com"
+  },
+  {
+    "title": "Some European Countries Move To Require Medical-Grade Masks In Public",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/26/960893423/some-european-countries-move-to-require-medical-grade-masks-in-public",
+    "source": "NPR",
+    "time": "4 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Biden says masks 'best defense' against coronavirus even as vaccination \ncampaign ramps up",
+    "url": "https://www.foxnews.com/politics/biden-masks-best-defense-against-coronavirus-vaccination-campaign-ramps-up",
+    "source": "Fox News",
+    "time": "2 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "CDC finds scant spread of coronavirus in schools with precautions in place",
+    "url": "https://www.washingtonpost.com/education/cdc-school-virus-spread/2021/01/26/bf949222-5fe6-11eb-9061-07abcc1f9229_story.html",
+    "source": "Washington Post",
+    "time": "6 hours ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Covid updates: Global cases top 100 million as mutations add to spread",
+    "url": "https://www.cnbc.com/2021/01/26/covid-live-updates.html",
+    "source": "CNBC",
+    "time": "1 hour ago",
+    "date": "2021-01-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

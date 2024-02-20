@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-16-21/index.html",
+    "source": "CNN.com",
+    "time": "18 mins ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID live updates: Biden details vaccination plan; world reaches 2M death \ntally; new coronavirus strain could rip through US by March",
+    "url": "https://www.usatoday.com/story/news/nation/2021/01/16/covid-news-updates-joe-biden-coronavirus-plan-new-strain/4177874001/",
+    "source": "USA TODAY",
+    "time": "1 hour ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "A worrying coronavirus mutation is discovered in Washington state \u2014 but \nhasn\u2019t spread",
+    "url": "https://www.seattletimes.com/seattle-news/health/a-worrying-coronavirus-mutation-is-discovered-in-washington-state-but-hasnt-spread/",
+    "source": "Seattle Times",
+    "time": "1 hour ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "Expo organisers prepare to hold Dubai event delayed by coronavirus",
+    "url": "https://www.reuters.com/article/us-dubai-expo/expo-organisers-prepare-to-hold-dubai-event-delayed-by-coronavirus-idUSKBN29L0I4",
+    "source": "Reuters",
+    "time": "55 mins ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Ice cream from China contaminated with coronavirus: report",
+    "url": "https://www.foxnews.com/world/chinese-ice-cream-contaminated-covid-19",
+    "source": "Fox News",
+    "time": "2 hours ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Flying In The Pandemic: How To Cope With Folks Who Ignore Risk Reduction \nRules : Goats and Soda",
+    "url": "https://www.npr.org/sections/goatsandsoda/2021/01/15/957309597/coronavirus-faq-do-airplane-passengers-not-know-theres-a-pandemic-going-on",
+    "source": "NPR",
+    "time": "17 hours ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "30 more Mainers die as 438 new coronavirus cases are reported in the state",
+    "url": "https://bangordailynews.com/2021/01/16/news/30-more-mainers-die-as-438-new-coronavirus-cases-are-reported-in-the-state-0vzoa9n507wn/",
+    "source": "Bangor Daily News",
+    "time": "1 hour ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "bangordailynews.com"
+  },
+  {
+    "title": "Coronavirus: Arizona is leading the world in the rate of new cases",
+    "url": "https://finance.yahoo.com/news/coronavirus-arizona-is-leading-the-world-in-the-rate-of-new-cases-170222640.html",
+    "source": "Yahoo Finance",
+    "time": "22 hours ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Tipsters, tech-savvy kids, pharmacy hopping: How Americans are landing \ncoronavirus vaccines",
+    "url": "https://www.washingtonpost.com/health/2021/01/16/covid-vaccine-hunt/",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.washingtonpost.com"
+  }
+]
