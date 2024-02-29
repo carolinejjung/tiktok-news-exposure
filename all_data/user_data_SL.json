@@ -1,0 +1,450 @@
+{
+  "Activity": {
+    "Favorite Effects": {
+      "FavoriteEffectsList": null
+    },
+    "Favorite Hashtags": {
+      "FavoriteHashtagList": null
+    },
+    "Favorite Sounds": {
+      "FavoriteSoundList": null
+    },
+    "Favorite Videos": {
+      "FavoriteVideoList": null
+    },
+    "Follower List": {
+      "FansList": null
+    },
+    "Following List": {
+      "Following": [
+        {
+          "Date": "2024-02-01 18:48:25",
+          "UserName": "jordantsanford"
+        },
+        {
+          "Date": "2024-02-01 18:44:25",
+          "UserName": "annabelcrackers"
+        },
+        {
+          "Date": "2024-02-01 18:40:48",
+          "UserName": "supercarblondie"
+        }
+      ]
+    },
+    "Hashtag": {},
+    "Like List": {
+      "ItemFavoriteList": [
+        {
+          "Date": "2024-02-02 04:02:15",
+          "Link": "https://www.tiktokv.com/share/video/7328169986952924459/"
+        },
+        {
+          "Date": "2024-02-01 18:51:41",
+          "Link": "https://www.tiktokv.com/share/video/7324494253688671530/"
+        },
+        {
+          "Date": "2024-02-01 18:51:05",
+          "Link": "https://www.tiktokv.com/share/video/7305433965748423978/"
+        },
+        {
+          "Date": "2024-02-01 18:46:57",
+          "Link": "https://www.tiktokv.com/share/video/7320973135627586862/"
+        },
+        {
+          "Date": "2024-02-01 18:45:31",
+          "Link": "https://www.tiktokv.com/share/video/7303581444146793771/"
+        },
+        {
+          "Date": "2024-02-01 18:45:17",
+          "Link": "https://www.tiktokv.com/share/video/7299629086228401450/"
+        },
+        {
+          "Date": "2024-02-01 18:44:46",
+          "Link": "https://www.tiktokv.com/share/video/7313378032973172014/"
+        },
+        {
+          "Date": "2024-02-01 18:44:23",
+          "Link": "https://www.tiktokv.com/share/video/7311029287082020127/"
+        },
+        {
+          "Date": "2024-02-01 18:43:35",
+          "Link": "https://www.tiktokv.com/share/video/7312646349852265758/"
+        }
+      ]
+    },
+    "Login History": {
+      "LoginHistoryList": [
+        {
+          "Date": "2024-02-27 19:55:47 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:55:37 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:46:40 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:16:38 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:16:22 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:16:11 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:13:52 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:13:46 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:11:41 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-27 19:10:30 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-24 08:36:21 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-24 08:36:21 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-02 04:01:33 UTC",
+          "IP": "66.205.169.239",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:47:46 UTC",
+          "IP": "66.205.169.239",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:47:46 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:46:46 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:44:43 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:43:22 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:42:27 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:41:16 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:40:21 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:39:53 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:38:52 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:35:55 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:33:50 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:30:25 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:30:07 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        },
+        {
+          "Date": "2024-02-01 18:29:16 UTC",
+          "IP": "66.205.169.73",
+          "DeviceModel": "iPhone16,1",
+          "DeviceSystem": "iOS 17.2.1",
+          "NetworkType": "Wi-Fi",
+          "Carrier": "T-Mobile"
+        }
+      ]
+    },
+    "Purchase History": {},
+    "Search History": {
+      "SearchList": [
+        {
+          "Date": "2024-02-24 08:37:22",
+          "SearchTerm": "texas hold 'em"
+        },
+        {
+          "Date": "2024-02-24 08:37:22",
+          "SearchTerm": "texas independence"
+        }
+      ]
+    },
+    "Share History": {},
+    "Status": {
+      "Status List": [
+        {
+          "Resolution": "1179*2556",
+          "App Version": "33.4.0",
+          "IDFA": "F206D905-8D09-41CB-A550-9665337907D1",
+          "GAID": "",
+          "Android ID": "",
+          "IDFV": "7831399E-B64A-4B52-AF1C-21B852D74C84",
+          "Web ID": "N/A"
+        }
+      ]
+    },
+    "Video Browsing History": {}
+  },
+  "Ads and data": {
+    "Ad Interests": {
+      "AdInterestCategories": "应用,美妆与个人护理"
+    },
+    "Off TikTok Activity": {}
+  },
+  "App Settings": {
+    "Block": {
+      "BlockList": null
+    },
+    "Settings": {
+      "SettingsMap": {
+        "Allow DownLoad": "Enabled",
+        "Allow Others to Find Me": "Disabled",
+        "App Language": "中文(简体)",
+        "Content Preferences": {
+          "Keyword filters for videos in Following feed": null,
+          "Keyword filters for videos in For You feed": null,
+          "Video Languages Preferences": null
+        },
+        "Family Content Preferences": {
+          "mrwang462": {
+            "Type": "Unbound",
+            "ForYouMuteWords": null,
+            "FollowingMuteWords": null
+          }
+        },
+        "Filter Comments": "Enabled",
+        "Interests": "Dance|Sports|Food|Art|Science & Education|Auto|Oddly Satisfying|Music",
+        "Personalized Ads": "Enabled",
+        "Private Account": "Disabled",
+        "Push Notification": {
+          "Desktop notification": "Default",
+          "New Comments on My Video": "Default",
+          "New Fans": "Default",
+          "New Likes on My Video": "Default"
+        },
+        "Web Language": "N/A",
+        "Who Can Duet With Me": "Everyone",
+        "Who Can Post Comments": "Everyone",
+        "Who Can Send Me Message": "Default",
+        "Who Can Stitch with your videos": "Everyone",
+        "Who Can View Videos I Liked": "Myself"
+      }
+    }
+  },
+  "Comment": {
+    "Comments": {
+      "CommentsList": null
+    }
+  },
+  "Direct Messages": {
+    "Chat History": {
+      "ChatHistory": {}
+    }
+  },
+  "Income Plus Wallet Transactions": {
+    "Income Plus Wallet Transaction": {
+      "TransactionsList": null
+    }
+  },
+  "Poi Review": {
+    "POI Review": {
+      "ReviewsList": null
+    }
+  },
+  "Profile": {
+    "Auto Fill": {
+      "PhoneNumber": "N/A",
+      "Email": "N/A",
+      "FirstName": "N/A",
+      "LastName": "N/A",
+      "Address": "N/A",
+      "ZipCode": "N/A",
+      "Unit": "N/A",
+      "City": "N/A",
+      "State": "N/A",
+      "Country": "N/A"
+    },
+    "Profile Information": {
+      "ProfileMap": {
+        "PlatformInfo": [],
+        "bioDescription": "",
+        "birthDate": "10-Oct-2002",
+        "emailAddress": "None",
+        "likesReceived": "None",
+        "profilePhoto": "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_1080x1080.webp?lk3s=a5d48078&x-expires=1709352000&x-signature=yBBVSsz%2BzHEDMC5iqXbyuaC863w%3D",
+        "profileVideo": "None",
+        "telephoneNumber": "+15744137868",
+        "userName": "mrwang462"
+      }
+    }
+  },
+  "Tiktok Live": {
+    "Go Live History": {},
+    "Go Live Settings": {},
+    "Watch Live History": {},
+    "Watch Live Settings": {}
+  },
+  "Tiktok Shopping": {
+    "Communication History": {},
+    "Current Payment Information": {},
+    "Customer Support History": {},
+    "Order Dispute History": {},
+    "Order History": {
+      "OrderHistories": null
+    },
+    "Product Browsing History": {},
+    "Product Review History": {},
+    "Return and Refund History": {},
+    "Saved Address Information": {},
+    "Shopping Cart List": {},
+    "Vouchers": {}
+  },
+  "Video": {
+    "Videos": {}
+  }
+}
+
