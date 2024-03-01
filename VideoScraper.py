@@ -30,23 +30,28 @@ class VideoScraper():
         Open tiktok, access webpage
         """
         for i, video_url in enumerate(self.video_list):
+            print("Current video num:", i, " Current url:", video_url)
             self.chromebrowser.uc_open_with_reconnect(video_url,reconnect_time=5)
+            self.current_url = video_url
             if i == 0:
-                time.sleep(40) #log in time!
+                time.sleep(20) #log in time!
             else:
-                time.sleep(5) #no log in time
+                time.sleep(3) #no log in time
 
             try:
                 #stats_bar = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-79f36w-DivActionBarWrapper eqrezik8"]')
                 video_info = self.info_video()
+                print("PRINTING VIDEO NUM:", i)
                 print(video_info) #printout
             except StaleElementReferenceException:
                 print("Was not able to find sth.")
+        print("")
+        return
 
     def info_video(self):
         output_dic = {}
 
-        output_dic['id'] = [video_url.split('/')[-2] for video_url in self.video_list]
+        output_dic['id'] = self.current_url.split('/')[-2]
         video_stats_list = self.video_stats()
         output_dic['likes'] = video_stats_list[0]
         output_dic['comment_count'] = video_stats_list[1]
@@ -140,11 +145,13 @@ class VideoScraper():
             old_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
             new_comment_elements = None
             while new_comment_elements is None or new_comment_elements != old_comment_elements:
+                if new_comment_elements is not None:
+                    old_comment_elements = new_comment_elements
                 self.actions.move_to_element(old_comment_elements[-1]).perform()
                 self.chromebrowser.execute_script("window.scrollBy(0, 200);")
-                time.sleep(5)
+                time.sleep(1.5)
                 new_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
-                time.sleep(1)
+                time.sleep(0.5)
         except NoSuchElementException:
             print("Not able to get to the bottom.")
             return None
@@ -177,7 +184,7 @@ test_url_list = ['https://www.tiktokv.com/share/video/7131051793299033390/', 'ht
 #print(response.text)
 scraper = VideoScraper(test_url_list, 'output.json')
 scraper.fetch_all_video_tiktok()
-print(scraper.info_video)
+#print(scraper.info_video())
 
 #scraper.all_videos.append()
 
