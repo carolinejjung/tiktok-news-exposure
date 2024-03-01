@@ -16,7 +16,6 @@ import requests
 
 
 class VideoScraper():
-
     chromebrowser = Driver(uc=True)
     actions = ActionChains(chromebrowser)
 
@@ -24,6 +23,7 @@ class VideoScraper():
         self.video_list = video_list
         self.output_file = output_file
         self.current_video = {}
+        self.all_videos = []
 
     def fetch_all_video_tiktok(self):
         """
@@ -45,12 +45,94 @@ class VideoScraper():
 
     def info_video(self):
         output_dic = {}
-        like_text = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-n6wn07-StrongText edu4zum2"]')[0]
-        like_stats = like_text.text
-        print(like_stats)
-        output_dic['like'] = like_stats
-        return output_dic
 
+        output_dic['id'] = [video_url.split('/')[-2] for video_url in self.video_list]
+        video_stats_list = self.video_stats()
+        output_dic['likes'] = video_stats_list[0]
+        output_dic['comment_count'] = video_stats_list[1]
+        output_dic['saves'] = video_stats_list[2]
+        output_dic['shares'] = video_stats_list[3]
+        output_dic['hashtags'] = self.get_hashtag()
+        output_dic['music'] = self.get_music()
+        output_dic['author'] = self.get_author()
+        output_dic['description'] = self.get_description()
+        
+        #where the comments are
+        #comment_cont = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-13revos-DivCommentListContainer ekjxngi3"]')
+
+        return output_dic
+    
+    def video_stats(self):
+        try:
+            video_stats = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-n6wn07-StrongText edu4zum2"]')
+            likes = self.get_stats(video_stats[0].text)
+            comment_count = self.get_stats(video_stats[1].text)
+            saves = self.get_stats(video_stats[2].text)
+            shares = self.get_stats(video_stats[3].text)
+
+            return [likes, comment_count, saves, shares]
+        except NoSuchElementException:
+            print("Video stats elements not found.")
+            return []
+
+    def get_stats(self, num_as_string):
+        #id: xgwrapper-0-7315931231986666798
+        try:
+            # Extract numerical value using regex
+            match = re.search(r'(\d+\.\d+|\d+)([KM])?', num_as_string)
+            if match:
+                # Check if suffix (K or M) is present
+                if match.group(2) == 'K':
+                    converted = float(match.group(1)) * 1000  # Convert K to actual number
+                elif match.group(2) == 'M':
+                    converted = float(match.group(1)) * 1000000  # Convert M to actual number
+                else:
+                    converted = float(match.group(1))
+                return int(converted)
+            else:
+                return 0
+        except (NoSuchElementException, ValueError):
+            print(f"Unable to retrieve the number of target:{num_as_string}")
+            return -1
+        
+    def get_hashtag(self):
+        try:
+            hashtag_list = self.chromebrowser.find_elements(By.XPATH, './/*[@class="css-1p6dp51-StrongText ejg0rhn2"]')
+            if hashtag_list == None:
+                return []
+            else:
+                return [hashtag.text.strip('#') for hashtag in hashtag_list]
+        except NoSuchElementException:
+            print("Hashtag element not found.")
+            return []
+    
+    def get_music(self):
+        try:
+            music_info = self.chromebrowser.find_element(By.XPATH, ".//*[@class='css-pvx3oa-DivMusicText epjbyn3']")
+            music = music_info.text if music_info else None
+            if music:
+                return music
+            else:
+                return None
+        except (NoSuchElementException, ValueError):
+            print("Unable to retrieve the number of music")
+            return -1
+        
+    def get_author(self):
+        try:
+            author_element = self.chromebrowser.find_element(By.XPATH, ".//*[@class='css-1c7urt-SpanUniqueId evv7pft1']")
+            return author_element.text if author_element else None
+        except NoSuchElementException:
+            print("Author element not found.")
+            return None
+        
+    def get_description(self):
+        try:
+            description_element = self.chromebrowser.find_element(By.XPATH, ".//*[@class='css-j2a19r-SpanText efbd9f0']")
+            return description_element.text if description_element else None
+        except NoSuchElementException:
+            print("Description element not found.")
+            return None
 
 
 
@@ -69,6 +151,8 @@ test_url_list = ['https://www.tiktokv.com/share/video/7131051793299033390/', 'ht
 #print(response.text)
 scraper = VideoScraper(test_url_list, 'output.json')
 scraper.fetch_all_video_tiktok()
+
+scraper.all_videos.append()
 
 
     # def __init__(self, url):
