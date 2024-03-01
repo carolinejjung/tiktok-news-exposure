@@ -56,6 +56,8 @@ class VideoScraper():
         output_dic['music'] = self.get_music()
         output_dic['author'] = self.get_author()
         output_dic['description'] = self.get_description()
+        self.scroll_to_bottom()
+        output_dic['comments'] = self.get_comments()
         
         #where the comments are
         #comment_cont = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-13revos-DivCommentListContainer ekjxngi3"]')
@@ -76,7 +78,6 @@ class VideoScraper():
             return []
 
     def get_stats(self, num_as_string):
-        #id: xgwrapper-0-7315931231986666798
         try:
             # Extract numerical value using regex
             match = re.search(r'(\d+\.\d+|\d+)([KM])?', num_as_string)
@@ -134,6 +135,29 @@ class VideoScraper():
             print("Description element not found.")
             return None
 
+    def scroll_to_bottom(self):
+        try:
+            old_comment_elements = self.chromebrowser.find_element(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+            new_comment_elements = None
+            while new_comment_elements != None and new_comment_elements != old_comment_elements:
+                self.actions.move_to_element(old_comment_elements[-1]).perform()
+                new_comment_elements = self.chromebrowser.find_element(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+                time.sleep(1)
+        except NoSuchElementException:
+            print("Not able to get to the bottom.")
+            return None
+        
+    def get_comments(self):
+        all_comments = []
+        try:
+            comments = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-xm2h10-PCommentText e1g2efjf6']//span[@dir]")
+            for comment in comments:
+                comment_text = comment.text
+                all_comments.append(comment_text)
+            return all_comments
+        except NoSuchElementException:
+            print("Error scraping comments down.")
+            return None
 
 
 
@@ -152,7 +176,7 @@ test_url_list = ['https://www.tiktokv.com/share/video/7131051793299033390/', 'ht
 scraper = VideoScraper(test_url_list, 'output.json')
 scraper.fetch_all_video_tiktok()
 
-scraper.all_videos.append()
+#scraper.all_videos.append()
 
 
     # def __init__(self, url):
