@@ -137,11 +137,13 @@ class VideoScraper():
 
     def scroll_to_bottom(self):
         try:
-            old_comment_elements = self.chromebrowser.find_element(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+            old_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
             new_comment_elements = None
-            while new_comment_elements != None and new_comment_elements != old_comment_elements:
+            while new_comment_elements is None or new_comment_elements != old_comment_elements:
                 self.actions.move_to_element(old_comment_elements[-1]).perform()
-                new_comment_elements = self.chromebrowser.find_element(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+                self.chromebrowser.execute_script("window.scrollBy(0, 200);")
+                time.sleep(5)
+                new_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
                 time.sleep(1)
         except NoSuchElementException:
             print("Not able to get to the bottom.")
@@ -175,6 +177,7 @@ test_url_list = ['https://www.tiktokv.com/share/video/7131051793299033390/', 'ht
 #print(response.text)
 scraper = VideoScraper(test_url_list, 'output.json')
 scraper.fetch_all_video_tiktok()
+print(scraper.info_video)
 
 #scraper.all_videos.append()
 
