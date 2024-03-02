@@ -1,21 +1,4 @@
-# Using API Key to scrape NY Times
-import requests
-import os, csv
 
-myAPIkey = "AYO8hb828roPgiJEA88Nqr4KAG7T3mgW" # CHANGE ME!
-# Caroline: "AYO8hb828roPgiJEA88Nqr4KAG7T3mgW"
-
-year = 2024
-month = 2
-
-URL = f"https://api.nytimes.com/svc/archive/v1/{year}/{month}.json?api-key={myAPIkey}"
-
-#data = requests.get(URL)
-#articles = data.json()
-#print(articles["response"]["docs"][0])
-
-
-# -------------------------------------------------------------------------
 # goal: Generate files with the list of videos from TikTok data
 import json
 
