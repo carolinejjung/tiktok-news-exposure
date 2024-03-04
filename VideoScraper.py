@@ -33,6 +33,7 @@ class VideoScraper():
         time_stamp = datetime.now().strftime('%m-%d_%H-%M')
         output_file_name = f"output_file_{time_stamp}.json"
         with open(output_file_name, 'w') as f:
+            all_dics = []
             for i, video_url in enumerate(self.video_list):
                 print("Current video num:", i, " Current url:", video_url)
                 self.chromebrowser.uc_open_with_reconnect(video_url,reconnect_time=5)
@@ -40,17 +41,19 @@ class VideoScraper():
                 if i == 0:
                     time.sleep(20) #log in time!
                 else:
-                    time.sleep(3) #no log in time
+                    time.sleep(5) #no log in time
 
                 try:
                     #stats_bar = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-79f36w-DivActionBarWrapper eqrezik8"]')
                     video_info = self.info_video()
-                    print("PRINTING VIDEO NUM:", i)
-                    print(video_info) #printout
-                    json.dump(video_info, f)
+                    if video_info:
+                        print("PRINTING VIDEO NUM:", i)
+                        print(video_info) #printout
+                        all_dics.append(video_info)
 
                 except StaleElementReferenceException:
                     print("Was not able to find sth.")
+            json.dump(all_dics, f)
             print("")
         return
 
@@ -59,6 +62,8 @@ class VideoScraper():
 
         output_dic['id'] = self.current_url.split('/')[-2]
         video_stats_list = self.video_stats()
+        if not video_stats_list:
+            return False
         output_dic['likes'] = video_stats_list[0]
         output_dic['comment_count'] = video_stats_list[1]
         output_dic['saves'] = video_stats_list[2]
@@ -78,7 +83,10 @@ class VideoScraper():
     def video_stats(self):
         try:
             video_stats = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-n6wn07-StrongText edu4zum2"]')
-            likes = self.get_stats(video_stats[0].text)
+            try:
+                likes = self.get_stats(video_stats[0].text)
+            except:
+                return False
             comment_count = self.get_stats(video_stats[1].text)
             saves = self.get_stats(video_stats[2].text)
             shares = self.get_stats(video_stats[3].text)
@@ -108,6 +116,12 @@ class VideoScraper():
             return -1
         
     def get_hashtag(self):
+        try:
+            expand_button = self.chromebrowser.find_elements(By.XPATH, './/*[@class="css-1r94cis-ButtonExpand e1mzilcj2"]')
+            if expand_button:
+                expand_button[0].click()
+        except NoSuchElementException:
+            pass
         try:
             hashtag_list = self.chromebrowser.find_elements(By.XPATH, './/*[@class="css-1p6dp51-StrongText ejg0rhn2"]')
             if hashtag_list == None:
@@ -146,30 +160,18 @@ class VideoScraper():
             print("Description element not found.")
             return None
 
-    # def scroll_to_bottom(self):
-    #     try:
-    #         old_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
-    #         new_comment_elements = None
-    #         while new_comment_elements is None or new_comment_elements != old_comment_elements:
-    #             if new_comment_elements is not None:
-    #                 old_comment_elements = new_comment_elements
-    #             self.actions.move_to_element(old_comment_elements[-1]).perform()
-    #             self.chromebrowser.execute_script("window.scrollBy(0, 200);")
-    #             time.sleep(1.5)
-    #             new_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
-    #             time.sleep(0.5)
-    #     except NoSuchElementException:
-    #         print("Not able to get to the bottom.")
-    #         return None
-        
+
     def scroll_to_bottom(self):
         scroll_time = 5
         try:
             comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+            if comment_elements == []:
+                print("no comments found")
+                return 
             while scroll_time >= 0:
                 self.actions.move_to_element(comment_elements[-1]).perform()
                 self.chromebrowser.execute_script("window.scrollBy(0, 200);")
-                time.sleep(1.5)
+                time.sleep(2.5)
                 comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
                 scroll_time -= 1
         except NoSuchElementException:
@@ -190,35 +192,23 @@ class VideoScraper():
             return None
 
 
+def main():
+    with open('compiled_data.json', 'r') as f:
+        json_data = json.load(f)
+    url_list = [entry['link'] for entry in json_data]
 
-        # self.chromebrowser.uc_open_with_reconnect(self.url,reconnect_time=5)
-        # time.sleep(40)
-        # new_url = "https://www.tiktokv.com/share/video/6998935379097193734/"
-        # self.chromebrowser.uc_open_with_reconnect(new_url,reconnect_time=5)
-        # time.sleep(100)
+    scraper = VideoScraper(url_list, 'output.json')
+    scraper.fetch_all_video_tiktok()
 
+main()
 
 ###testing###
-test_url_list = ['https://www.tiktokv.com/share/video/7131051793299033390/', 'https://www.tiktokv.com/share/video/6995476685563104538/']
+# test_url_list = ['https://www.tiktokv.com/share/video/7131051793299033390/', 'https://www.tiktokv.com/share/video/6995476685563104538/']
 
 #response = requests.get(test_url)
 #print(response.text)
-scraper = VideoScraper(test_url_list, 'output.json')
-scraper.fetch_all_video_tiktok()
+# scraper = VideoScraper(test_url_list, 'output.json')
+# scraper.fetch_all_video_tiktok()
 #print(scraper.info_video())
 
 #scraper.all_videos.append()
-
-
-    # def __init__(self, url):
-    #     self.id = url.split('/')[-2]
-    #     self.url = url
-    #     self.likes = None
-    #     self.saves = None
-    #     self.shares = None
-    #     self.comments = []
-    #     self.comments_count = None
-    #     self.creator = None
-    #     self.sound = None
-    #     self.description = None
-    #     self.hashtags = []
