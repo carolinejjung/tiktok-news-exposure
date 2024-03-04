@@ -1,42 +1,34 @@
-
 # goal: Generate files with the list of videos from TikTok data
 import json
+import os
 
 def get_all_links():
-  files = os.listdir('all_data')
-  print(files)
-  print(len(files))
+  dir_path = '/users/carolinejung/cs315-private/project2-files' # hardcoded for security purposes
+  files = os.listdir(dir_path)
+
   all_links = []
-
-
   for file in files:
     print(file)
-    file_name = 'all_data/' + file
+    file_name = dir_path + "/" + file
     with open(file_name, 'r') as myFile:
       data = json.load(myFile)
     myFile.close()
 
-    print(data)
-    feed = data["Activity"]["Favorite Videos"]["FavoriteVideoList"] #change the last two [] to be ["Video Browsing History"]["VideoList"]
-    if feed == None:
+    feed_dict = data["Activity"]["Video Browsing History"]
+
+    if feed_dict == {}:
       print("this file has NO video list")
     else:
-    #print(feed)
+      feed = feed_dict["VideoList"]
       for i in range(len(feed)):
-        link = feed[i]["Link"] #links of video --> need to scrape this later
-        all_links.append(link)
+        link = feed[i]["Link"]
+        all_links.append({"link": link})
   
   return all_links
 
-links = get_all_links()
-print('links: ', links)
+data = get_all_links()
 
-
-  
-
-#print(get_links("all_data/user_data_CJ.json"))
-
-
-
-# scrape info (video data, comments) & stores them in json files
+# write video links to separate json file
+with open("compiled_data.json", "w") as file_to_write:
+    json.dump(data, file_to_write)
 
