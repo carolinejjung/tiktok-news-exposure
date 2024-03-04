@@ -13,6 +13,7 @@ import csv
 from datetime import datetime
 import os.path
 import requests
+import json
 
 
 class VideoScraper():
@@ -29,23 +30,28 @@ class VideoScraper():
         """
         Open tiktok, access webpage
         """
-        for i, video_url in enumerate(self.video_list):
-            print("Current video num:", i, " Current url:", video_url)
-            self.chromebrowser.uc_open_with_reconnect(video_url,reconnect_time=5)
-            self.current_url = video_url
-            if i == 0:
-                time.sleep(20) #log in time!
-            else:
-                time.sleep(3) #no log in time
+        time_stamp = datetime.now().strftime('%m-%d_%H-%M')
+        output_file_name = f"output_file_{time_stamp}.json"
+        with open(output_file_name, 'w') as f:
+            for i, video_url in enumerate(self.video_list):
+                print("Current video num:", i, " Current url:", video_url)
+                self.chromebrowser.uc_open_with_reconnect(video_url,reconnect_time=5)
+                self.current_url = video_url
+                if i == 0:
+                    time.sleep(20) #log in time!
+                else:
+                    time.sleep(3) #no log in time
 
-            try:
-                #stats_bar = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-79f36w-DivActionBarWrapper eqrezik8"]')
-                video_info = self.info_video()
-                print("PRINTING VIDEO NUM:", i)
-                print(video_info) #printout
-            except StaleElementReferenceException:
-                print("Was not able to find sth.")
-        print("")
+                try:
+                    #stats_bar = self.chromebrowser.find_elements(By.XPATH, '//*[@class="css-79f36w-DivActionBarWrapper eqrezik8"]')
+                    video_info = self.info_video()
+                    print("PRINTING VIDEO NUM:", i)
+                    print(video_info) #printout
+                    json.dump(video_info, f)
+
+                except StaleElementReferenceException:
+                    print("Was not able to find sth.")
+            print("")
         return
 
     def info_video(self):
@@ -140,22 +146,37 @@ class VideoScraper():
             print("Description element not found.")
             return None
 
+    # def scroll_to_bottom(self):
+    #     try:
+    #         old_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+    #         new_comment_elements = None
+    #         while new_comment_elements is None or new_comment_elements != old_comment_elements:
+    #             if new_comment_elements is not None:
+    #                 old_comment_elements = new_comment_elements
+    #             self.actions.move_to_element(old_comment_elements[-1]).perform()
+    #             self.chromebrowser.execute_script("window.scrollBy(0, 200);")
+    #             time.sleep(1.5)
+    #             new_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+    #             time.sleep(0.5)
+    #     except NoSuchElementException:
+    #         print("Not able to get to the bottom.")
+    #         return None
+        
     def scroll_to_bottom(self):
+        scroll_time = 5
         try:
-            old_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
-            new_comment_elements = None
-            while new_comment_elements is None or new_comment_elements != old_comment_elements:
-                if new_comment_elements is not None:
-                    old_comment_elements = new_comment_elements
-                self.actions.move_to_element(old_comment_elements[-1]).perform()
+            comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+            while scroll_time >= 0:
+                self.actions.move_to_element(comment_elements[-1]).perform()
                 self.chromebrowser.execute_script("window.scrollBy(0, 200);")
                 time.sleep(1.5)
-                new_comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
-                time.sleep(0.5)
+                comment_elements = self.chromebrowser.find_elements(By.XPATH, ".//*[@class='css-1i7ohvi-DivCommentItemContainer eo72wou0']")
+                scroll_time -= 1
         except NoSuchElementException:
-            print("Not able to get to the bottom.")
+            print("Not able to scroll for 5 times.")
             return None
-        
+                
+
     def get_comments(self):
         all_comments = []
         try:
