@@ -64,14 +64,14 @@ class VideoScraper():
         video_stats_list = self.video_stats()
         if not video_stats_list:
             return False
-        output_dic['likes'] = video_stats_list[0]
-        output_dic['comment_count'] = video_stats_list[1]
-        output_dic['saves'] = video_stats_list[2]
-        output_dic['shares'] = video_stats_list[3]
-        output_dic['hashtags'] = self.get_hashtag()
-        output_dic['music'] = self.get_music()
-        output_dic['author'] = self.get_author()
-        output_dic['description'] = self.get_description()
+        # output_dic['likes'] = video_stats_list[0]
+        # output_dic['comment_count'] = video_stats_list[1]
+        # output_dic['saves'] = video_stats_list[2]
+        # output_dic['shares'] = video_stats_list[3]
+        # output_dic['hashtags'] = self.get_hashtag()
+        # output_dic['music'] = self.get_music()
+        # output_dic['author'] = self.get_author()
+        # output_dic['description'] = self.get_description()
         self.scroll_to_bottom()
         output_dic['comments'] = self.get_comments()
         
