@@ -21,14 +21,13 @@ def get_all_links():
     else:
       feed = feed_dict["VideoList"]
       for i in range(len(feed)):
-        link = feed[i]["Link"]
-        all_links.append({"link": link})
+        all_links.append(feed[i])
   
   return all_links
 
 data = get_all_links()
 
 # write video links to separate json file
-with open("compiled_data.json", "w") as file_to_write:
+with open("1-compile-raw-data/compiled_data.json", "w") as file_to_write:
     json.dump(data, file_to_write)
 
