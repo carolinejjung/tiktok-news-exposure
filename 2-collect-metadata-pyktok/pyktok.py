@@ -177,17 +177,17 @@ def get_tiktok_json(video_url,browser_name=None):
     global cookies
     if browser_name is not None:
         cookies = getattr(browser_cookie3,browser_name)(domain_name='www.tiktok.com')
-    tt = requests.get(video_url,
-                      headers=headers,
-                      cookies=cookies,
-                      timeout=20)
-    # retain any new cookies that got set in this request
-    cookies = tt.cookies
-    soup = BeautifulSoup(tt.text, "html.parser")
-    tt_script = soup.find('script', attrs={'id':"SIGI_STATE"})
     try:
+        tt = requests.get(video_url,
+                        headers=headers,
+                        cookies=cookies,
+                        timeout=20)
+        # retain any new cookies that got set in this request
+        cookies = tt.cookies
+        soup = BeautifulSoup(tt.text, "html.parser")
+        tt_script = soup.find('script', attrs={'id':"SIGI_STATE"})
         tt_json = json.loads(tt_script.string)
-    except AttributeError:
+    except:
         return
     return tt_json
 
@@ -198,18 +198,18 @@ def alt_get_tiktok_json(video_url,browser_name=None):
     global cookies
     if browser_name is not None:
         cookies = getattr(browser_cookie3,browser_name)(domain_name='www.tiktok.com')
-    tt = requests.get(video_url,
-                      headers=headers,
-                      cookies=cookies,
-                      timeout=20)
-    # retain any new cookies that got set in this request
-    cookies = tt.cookies
-    soup = BeautifulSoup(tt.text, "html.parser")
-    tt_script = soup.find('script', attrs={'id':"__UNIVERSAL_DATA_FOR_REHYDRATION__"})
     try:
+        tt = requests.get(video_url,
+                        headers=headers,
+                        cookies=cookies,
+                        timeout=20)
+        # retain any new cookies that got set in this request
+        cookies = tt.cookies
+        soup = BeautifulSoup(tt.text, "html.parser")
+        tt_script = soup.find('script', attrs={'id':"__UNIVERSAL_DATA_FOR_REHYDRATION__"})
         tt_json = json.loads(tt_script.string)
-    except AttributeError:
-        print("The function encountered a downstream error and did not deliver any data, which happens periodically for various reasons. Please try again later.")
+    except:
+        print("empty link, check failed_to_find.csv. Moving on..")
         return
     return tt_json
 
@@ -242,7 +242,11 @@ def save_tiktok(video_url,
                     headers['referer'] = 'https://www.tiktok.com/'
                     # include cookies with the video request
                     if tt_video_url:
-                        tt_video = requests.get(tt_video_url, allow_redirects=True, headers=headers, cookies=cookies)
+                        try:
+                            tt_video = requests.get(tt_video_url, allow_redirects=True, headers=headers, cookies=cookies)
+                        except:
+                            print("timed out, moving on to next vid..")
+                            locate_el = False
                     if tt_video:
                         with open(video_fn, 'wb') as fn:
                             fn.write(tt_video.content)
@@ -254,7 +258,11 @@ def save_tiktok(video_url,
                 headers['referer'] = 'https://www.tiktok.com/'
                 # include cookies with the video request
                 if tt_video_url:
-                    tt_video = requests.get(tt_video_url, allow_redirects=True, headers=headers, cookies=cookies)
+                    try:
+                        tt_video = requests.get(tt_video_url, allow_redirects=True, headers=headers, cookies=cookies)
+                    except:
+                            print("timed out, moving on to next vid..")
+                            locate_el = False
                 if tt_video:
                     with open(video_fn, 'wb') as fn:
                         fn.write(tt_video.content)
@@ -294,7 +302,11 @@ def save_tiktok(video_url,
         headers['referer'] = 'https://www.tiktok.com/'
         # include cookies with the video request
         if tt_video_url:
-            tt_video = requests.get(tt_video_url, allow_redirects=True, headers=headers, cookies=cookies)
+            try:
+                tt_video = requests.get(tt_video_url, allow_redirects=True, headers=headers, cookies=cookies)
+            except:
+                print("timed out, moving on to next vid..")
+                locate_el = False
         if save_video == True and tt_video:
             with open(video_fn, 'wb') as fn:
                 fn.write(tt_video.content)
