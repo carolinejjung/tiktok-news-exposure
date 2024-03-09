@@ -209,7 +209,7 @@ def alt_get_tiktok_json(video_url,browser_name=None):
         tt_script = soup.find('script', attrs={'id':"__UNIVERSAL_DATA_FOR_REHYDRATION__"})
         tt_json = json.loads(tt_script.string)
     except:
-        print("empty link, check failed_to_find.csv. Moving on..")
+        print("empty link, check failed.csv. Moving on..")
         return
     return tt_json
 
@@ -333,7 +333,7 @@ def save_tiktok(video_url,
                 pass
     
     if not locate_el:
-        with open("failed_to_locate.csv", 'a') as fn:
+        with open("2-collect-metadata-pyktok/final-metadata/failed/failed.csv", 'a') as fn:
                 csvwriter = writer(fn)
                 csvwriter.writerow([video_url])
                 fn.close()
@@ -379,7 +379,7 @@ def save_tiktok_multi_urls(video_urls,
     else:
         tt_urls = video_urls
 
-    with open("failed_to_locate.csv", 'w') as fn:
+    with open("2-collect-metadata-pyktok/final-metadata/failed/failed.csv", 'w') as fn:
                 csvwriter = writer(fn)
                 csvwriter.writerow(["video_url"])
                 fn.close()
