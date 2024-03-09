@@ -8,7 +8,7 @@ By: Caroline Jung, Sophie Hwang, Maya Lu-Heda, Sandy Liu, Josie, Ryan
 ### Step 1: create virtual environment
 1. cd into the folder: `cd 2-collect-metadata-pyktok`
 2. create new environment within this folder: `python -m venv .project2`
-3. activate environment: `source .project2/bin/activate`
+3. activate environment: `source .project2/bin/activate`; for Windows: `.project2/Scripts/activate`
 4. install packages in pyktok: `pip install -r requirements.txt`
 5. cd out of the folder back into main directory: `cd ..` \
     At this point, your terminal should look like this:
