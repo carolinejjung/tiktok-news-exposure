@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/31/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "17 mins ago",
+    "date": "2021-01-31 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Andrew Brooks, Who Developed a Coronavirus Spit Test, Dies at 51",
+    "url": "https://www.nytimes.com/2021/01/31/science/andrew-brooks-dead.html",
+    "source": "The New York Times",
+    "time": "11 hours ago",
+    "date": "2021-01-31 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Free coronavirus testing site in Attleboro a long shot",
+    "url": "https://www.thesunchronicle.com/news/coronavirus/free-coronavirus-testing-site-in-attleboro-a-long-shot/article_70fe8680-bd3b-5396-87df-959b2fc6f3d9.html",
+    "source": "The Sun Chronicle",
+    "time": "15 mins ago",
+    "date": "2021-01-31 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.thesunchronicle.com"
+  }
+]

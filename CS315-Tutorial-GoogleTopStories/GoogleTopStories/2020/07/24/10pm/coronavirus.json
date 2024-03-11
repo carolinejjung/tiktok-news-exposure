@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/07/24/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "People with milder coronavirus cases still report health issues weeks after \ntesting, CDC says",
+    "url": "https://www.washingtonpost.com/nation/2020/07/24/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "13 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Scalia talks unemployment and the next coronavirus stimulus",
+    "url": "https://www.foxnews.com/media/labor-secretary-talks-unemployment-and-the-next-coronavirus-stimulus",
+    "source": "Fox News",
+    "time": "5 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Why rats are going into homes during coronavirus pandemic",
+    "url": "https://www.wwlp.com/news/local-news/hampden-county/why-rats-are-going-into-homes-during-coronavirus-pandemic/",
+    "source": "WWLP.com",
+    "time": "19 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "Los Angeles Coronavirus Update: Mayor Eric Garcetti Sees \u201cSmall, Hopeful \nSigns\u201d Of Pandemic Progress",
+    "url": "https://deadline.com/2020/07/los-angeles-coronavirus-update-mayor-eric-garcetti-small-hopeful-signs-progress-1202994891/",
+    "source": "Deadline",
+    "time": "34 mins ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "deadline.com"
+  },
+  {
+    "title": "A Texas hospital overwhelmed by the coronavirus may send some patients home \nto die",
+    "url": "https://www.cnn.com/2020/07/24/us/texas-starr-county-hospital-coronavirus/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Supreme Court denies Nevada church's appeal of attendance restriction amid \ncoronavirus pandemic",
+    "url": "https://www.foxnews.com/politics/supreme-court-rejects-nevada-churchs-appeal-attendance-restriction-amid-coronavirus-pandemic",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus updates: CDC finds 'prolonged illness' is common; experts call \nfor shut down; daily global cases break another record",
+    "url": "https://www.usatoday.com/story/news/health/2020/07/24/covid-update-trump-cancels-florida-portion-gop-convention-cdc-school/5495991002/",
+    "source": "USATODAY.com",
+    "time": "2 hours ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Does The Candle Test Tell You If Your Mask Is Doing A Good Job? : Goats and \nSoda",
+    "url": "https://www.npr.org/sections/goatsandsoda/2020/07/24/895090627/coronavirus-faq-what-does-it-mean-if-i-can-blow-out-a-candle-while-wearing-a-mas",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "To Fight Coronavirus, Chicago Moved Homeless Residents Into a Hotel. Now \nWhat?",
+    "url": "https://www.wsj.com/articles/to-fight-coronavirus-chicago-moved-homeless-residents-into-a-hotel-now-what-11595617499",
+    "source": "Wall Street Journal",
+    "time": "6 hours ago",
+    "date": "2020-07-24 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

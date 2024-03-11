@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-09-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'Play it down': Trump admits to concealing the true threat of coronavirus \nin new Woodward book",
+    "url": "https://www.cnn.com/2020/09/09/politics/bob-woodward-rage-book-trump-coronavirus/index.html",
+    "source": "CNN",
+    "time": "14 hours ago",
+    "date": "2020-09-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Biden knows how to use Trump\u2019s botched response to covid-19 to his advantage",
+    "url": "https://www.washingtonpost.com/opinions/2020/09/10/watch-out-biden-already-figured-out-covid-was-key/",
+    "source": "Washington Post",
+    "time": "2 hours ago",
+    "date": "2020-09-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Apple's product-launch extravaganza will be muted this year because of \nCovid-19",
+    "url": "https://www.cnbc.com/2020/09/10/apples-product-launch-extravaganza-muted-by-covid-19.html",
+    "source": "CNBC",
+    "time": "1 hour ago",
+    "date": "2020-09-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "A Texas respiratory therapist died of COVID-19. Her daughter is turning \ngrief into action.",
+    "url": "https://www.nbcnews.com/news/latino/texas-respiratory-therapist-died-covid-19-her-daughter-turning-grief-n1239632",
+    "source": "NBC News",
+    "time": "2 hours ago",
+    "date": "2020-09-10 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.nbcnews.com"
+  }
+]

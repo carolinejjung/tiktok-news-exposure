@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Prime Minister Boris Johnson in self-isolation; has no virus symptoms",
+    "url": "https://www.chicagotribune.com/coronavirus/ct-nw-boris-johnson-britain-prime-minister-covid19-20201115-swkrftycf5gphkbzgwd4xi5mci-story.html",
+    "source": "Chicago Tribune",
+    "time": "5 hours ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.chicagotribune.com"
+  },
+  {
+    "title": "Fever, symptom screening misses many coronavirus cases",
+    "url": "https://apnews.com/article/fever-symptom-screening-misses-virus-c31802fea6720906a9b9c2f913f9acb7",
+    "source": "Associated Press",
+    "time": "4 days ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Britain's PM Boris Johnson in self-isolation; has no coronavirus symptoms",
+    "url": "https://www.9news.com/article/news/health/coronavirus/british-pm-boris-johnson-self-isolation-no-virus-symptoms/507-81c18c34-98fa-468f-aaf0-18a41eaf994a",
+    "source": "9News.com KUSA",
+    "time": "2 hours ago",
+    "date": "2020-11-15 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.9news.com"
+  }
+]

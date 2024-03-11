@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: U.S. Breaks Global Case Record",
+    "url": "https://www.nytimes.com/live/2020/10/31/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "4 mins ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Trump campaign rallies led to more than 30,000 coronavirus cases, Stanford \nresearchers say",
+    "url": "https://www.cnbc.com/2020/10/31/coronavirus-trump-campaign-rallies-led-to-30000-cases-stanford-researchers-say.html",
+    "source": "CNBC",
+    "time": "10 hours ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Biden focuses on slamming Trump coronavirus plan, but faces questions over \nhis plan's specifics",
+    "url": "https://www.foxnews.com/politics/slamming-trump-coronavirus-plan-questions-biden-plan",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "U.S. airline launching trial program to test passengers for coronavirus \npre-flight",
+    "url": "https://www.cbsnews.com/video/u-s-airline-launching-trial-program-to-test-passengers-for-coronavirus-pre-flight/",
+    "source": "CBS News",
+    "time": "57 mins ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Texas tops California for most coronavirus cases",
+    "url": "https://www.sfchronicle.com/health/article/Texas-tops-California-for-most-coronavirus-cases-15691468.php",
+    "source": "San Francisco Chronicle",
+    "time": "59 mins ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.sfchronicle.com"
+  },
+  {
+    "title": "A woman died of coronavirus on a plane. Her fellow passengers were never \nnotified.",
+    "url": "https://www.washingtonpost.com/local/trafficandcommuting/woman-dies-coronavirus-plane/2020/10/31/2d8246dc-1878-11eb-82db-60b15c874105_story.html",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "US coronavirus cases break global daily record, and experts warn it will \nonly get worse",
+    "url": "https://www.cnn.com/2020/10/31/health/us-coronavirus-saturday/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Stars Show Off Their 2020 Halloween Costumes at Home amid Coronavirus \nPandemic",
+    "url": "https://people.com/celebrity/halloween-2020-stars-celebrate-at-home-amid-coronavirus-pandemic/",
+    "source": "PEOPLE.com",
+    "time": "8 hours ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "people.com"
+  },
+  {
+    "title": "Out-of-State Visitors Must Now Test Negative Upon Arrival",
+    "url": "https://www.ny1.com/nyc/all-boroughs/coronavirus/2020/10/31/cuomo--all-out-of-state-visitors-must-now-test-negative-for-covid-19-upon-arrival-",
+    "source": "Spectrum News NY1",
+    "time": "9 hours ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.ny1.com"
+  },
+  {
+    "title": "Nearly every N.J. county saw coronavirus infections climb last week. See \nhow yours fared.",
+    "url": "https://www.nj.com/data/2020/10/nearly-every-nj-county-saw-coronavirus-infections-climb-last-week-see-how-yours-fared.html",
+    "source": "nj.com",
+    "time": "4 hours ago",
+    "date": "2020-10-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.nj.com"
+  }
+]

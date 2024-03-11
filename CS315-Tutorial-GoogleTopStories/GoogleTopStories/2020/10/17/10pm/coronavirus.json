@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/10/17/world/covid-coronavirus",
+    "source": "The New York Times",
+    "time": "50 mins ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "How the Sturgis Motorcycle Rally may have spread coronavirus across the \nUpper Midwest",
+    "url": "https://www.washingtonpost.com/health/2020/10/17/sturgis-rally-spread/",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus exposure at Schenectady restaurant",
+    "url": "https://www.news10.com/news/coronavirus-exposure-at-schenectady-restaurant/",
+    "source": "NEWS10 ABC",
+    "time": "1 hour ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.news10.com"
+  },
+  {
+    "title": "Australia Eases Lockdown in its Coronavirus Epicenter Victoria",
+    "url": "https://www.bloomberg.com/news/articles/2020-10-18/australia-s-virus-state-eases-lockdown-as-case-numbers-fall",
+    "source": "Bloomberg",
+    "time": "1 hour ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.bloomberg.com"
+  },
+  {
+    "title": "Coronavirus digest: France reports over 32,000 new infections",
+    "url": "https://www.dw.com/en/coronavirus-digest-france-reports-over-32000-new-infections/a-55313509",
+    "source": "Deutsche Welle",
+    "time": "44 mins ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.dw.com"
+  },
+  {
+    "title": "'No surprise' we're seeing coronavirus surge in Republican areas, ER doctor \nexplains",
+    "url": "https://finance.yahoo.com/news/coronavirus-surge-in-republican-areas-124951839.html",
+    "source": "Yahoo Finance",
+    "time": "13 hours ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Senate to vote on $500 billion GOP coronavirus stimulus bill Wednesday",
+    "url": "https://www.cnbc.com/2020/10/17/senate-to-vote-on-500-billion-gop-coronavirus-stimulus-bill-wednesday.html",
+    "source": "CNBC",
+    "time": "4 hours ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Florida Reports Highest Coronavirus Numbers In Past Two Months",
+    "url": "https://miami.cbslocal.com/2020/10/17/florida-reports-highest-coronavirus-numbers-in-past-two-months/",
+    "source": "CBS Miami",
+    "time": "6 hours ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "miami.cbslocal.com"
+  },
+  {
+    "title": "Giuliana Rancic Gives Coronavirus Recovery Update After Testing Positive: \n'All Better Now'",
+    "url": "https://people.com/health/giuliana-rancic-gives-coronavirus-recovery-update/",
+    "source": "PEOPLE.com",
+    "time": "5 hours ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "people.com"
+  },
+  {
+    "title": "Coronavirus case increases set records in at least 7 states, prompting new \nrestrictions",
+    "url": "https://www.nbcnews.com/news/us-news/coronavirus-case-increases-set-records-least-7-states-prompting-new-n1243823",
+    "source": "NBC News",
+    "time": "6 hours ago",
+    "date": "2020-10-17 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.nbcnews.com"
+  }
+]

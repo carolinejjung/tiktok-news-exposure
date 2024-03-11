@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Top White House aide Stephen Miller tests positive for Covid-19",
+    "url": "https://www.cnn.com/2020/10/06/politics/stephen-miller-tests-positive-coronavirus/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump Says He's Beaten Covid-19. Doctors Aren't So Sure.",
+    "url": "https://www.nytimes.com/2020/10/06/health/trump-virus-doctors.html",
+    "source": "The New York Times",
+    "time": "2 hours ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Hyde County, NC reports COVID-19 spike due to correctional facility",
+    "url": "https://www.wavy.com/news/health/coronavirus/hyde-county-nc-reports-covid-19-spike-due-to-correctional-facility/",
+    "source": "WAVY.com",
+    "time": "12 mins ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wavy.com"
+  },
+  {
+    "title": "Georgia governor, public health commissioner to give briefing on COVID-19 \nWednesday",
+    "url": "https://www.11alive.com/article/news/health/coronavirus/kemp-to-give-georgia-covid-19-update-oct-7/85-eb9d3e96-5d4a-47bc-9563-70d13b00e1dd",
+    "source": "11Alive.com WXIA",
+    "time": "9 mins ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.11alive.com"
+  },
+  {
+    "title": "Pelosi questions COVID-19 treatments\u2019 effect on Trump\u2019s mental fitness \nafter relief talks fall apart",
+    "url": "https://www.foxbusiness.com/politics/pelosi-trump-covid-19-dexamethasone",
+    "source": "Fox Business",
+    "time": "1 hour ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Biden says there shouldn't be second debate if Trump still has COVID-19",
+    "url": "https://www.foxnews.com/politics/biden-no-debate-trump-coronavirus",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Cuomo orders shutdowns in NYC's COVID-19 hot spots",
+    "url": "https://nypost.com/2020/10/06/cuomo-orders-shutdowns-in-covid-19-hit-areas-of-nyc/",
+    "source": "New York Post",
+    "time": "6 hours ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Dr. Fauci contradicts Trump's false claim that Covid-19 is as deadly as flu",
+    "url": "https://www.nbcnews.com/news/us-news/dr-fauci-contradicts-trump-s-false-claim-covid-19-deadly-n1242340",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Trump halts COVID-19 relief talks until after election",
+    "url": "https://apnews.com/article/virus-outbreak-donald-trump-amy-coney-barrett-courts-mitch-mcconnell-ed5453fa2078982dba31919b8c1e274f",
+    "source": "Associated Press",
+    "time": "6 hours ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Bill Gates Says Antibody Drugs Could Sharply Reduce Covid-19 Death Rate",
+    "url": "https://www.wsj.com/articles/bill-gates-says-antibody-drugs-could-sharply-reduce-covid-19-death-rate-11602016762",
+    "source": "Wall Street Journal",
+    "time": "5 hours ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

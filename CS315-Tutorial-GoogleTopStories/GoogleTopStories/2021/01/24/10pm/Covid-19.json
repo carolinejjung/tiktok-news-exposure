@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Updates: The Latest Global News",
+    "url": "https://www.nytimes.com/live/2021/01/24/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Biden to reinstate Covid-19-related travel restrictions lifted by Trump",
+    "url": "https://www.cnn.com/2021/01/24/politics/biden-coronavirus-travel-trump/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Mexico\u2019s president says he tested positive for COVID-19",
+    "url": "https://nypost.com/2021/01/24/mexicos-president-says-he-tested-positive-for-covid-19/",
+    "source": "New York Post",
+    "time": "47 mins ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "COVID-19 in Wisconsin: 6 newly reported deaths, 1,119 newly reported cases",
+    "url": "https://kstp.com/minnesota-news/covid-19-in-wisconsin-6-newly-reported-deaths-1119-newly-reported-cases/5989164/?cat=12196",
+    "source": "KSTP",
+    "time": "24 mins ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "kstp.com"
+  },
+  {
+    "title": "University of the Pacific hosts COVID-19 vaccination clinic",
+    "url": "https://www.kcra.com/article/university-of-the-pacific-hosts-covid-19-vaccination-clinic/35302200",
+    "source": "KCRA Sacramento",
+    "time": "11 mins ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.kcra.com"
+  },
+  {
+    "title": "Deborah Birx: \u2018Parallel set of data\u2019 on Covid-19 was delivered to Trump",
+    "url": "https://www.politico.com/news/2021/01/24/birx-trump-parallel-covid-data-461928",
+    "source": "Politico",
+    "time": "7 hours ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "New Zealand Records Suspected COVID-19 Community Case : Coronavirus Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/24/960088009/new-zealand-records-first-suspected-covid-19-community-case-since-november",
+    "source": "NPR",
+    "time": "12 hours ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Mexico's president says he's tested positive for COVID-19",
+    "url": "https://apnews.com/article/pandemics-marcelo-ebrard-mexico-coronavirus-pandemic-vladimir-putin-7cf4feae9e363d519d5c336202be0ae6",
+    "source": "Associated Press",
+    "time": "2 hours ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Despite COVID-19, Amazon requests in-person unionizing vote for 'valid, \nfair and successful election'",
+    "url": "https://www.usatoday.com/story/money/business/2021/01/24/amazon-union-vote-in-person-covid-19/6693642002/",
+    "source": "USA TODAY",
+    "time": "6 hours ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, Jan. 24: What to know today about COVID-19 \nin the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-jan-24-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "10 hours ago",
+    "date": "2021-01-24 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.seattletimes.com"
+  }
+]

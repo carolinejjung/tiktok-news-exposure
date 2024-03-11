@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Massachusetts reports 435 new coronavirus cases as positive test rate \nremains low",
+    "url": "https://www.bostonherald.com/2020/09/12/massachusetts-reports-435-new-coronavirus-cases-as-positive-test-rate-remains-low/",
+    "source": "Boston Herald",
+    "time": "5 hours ago",
+    "date": "2020-09-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "NY sets record with 102,000 COVID-19 tests and two deaths",
+    "url": "https://www.nydailynews.com/coronavirus/ny-cuomo-coronavirus-testing-deaths-update-20200912-a3u3a2f6xjepbe4icuugpjgglq-story.html",
+    "source": "New York Daily News",
+    "time": "10 hours ago",
+    "date": "2020-09-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nydailynews.com"
+  },
+  {
+    "title": "Coronavirus cases at SDSU near 600 mark",
+    "url": "https://www.sandiegouniontribune.com/news/health/story/2020-09-12/covid-cases-at-sdsu-near-600-mark",
+    "source": "The San Diego Union-Tribune",
+    "time": "1 hour ago",
+    "date": "2020-09-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.sandiegouniontribune.com"
+  }
+]

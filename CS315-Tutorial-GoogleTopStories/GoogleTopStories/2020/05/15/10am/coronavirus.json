@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/05/15/us/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "46 mins ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Prestigious medical journal slams Trump as U.S. death toll \nsurpasses 85,000",
+    "url": "https://www.washingtonpost.com/nation/2020/05/15/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "17 mins ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Pelosi tries to rally support for $3T coronavirus relief bill in face of \nveto threat, GOP ridicule",
+    "url": "https://www.foxnews.com/politics/pelosi-tries-to-rally-support-for-3t-coronavirus-relief-bill-in-face-of-veto-threat-gop-ridicule",
+    "source": "Fox News",
+    "time": "34 mins ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Retail Sales Dive 16.4% Amid Coronavirus Lockdown, Amazon Surge; Dow Jones \nFalls",
+    "url": "https://www.investors.com/news/economy/retail-sales-april-dive-coronavirus-lockdown-amazon-surge-dow-jones-falls/",
+    "source": "Investor's Business Daily",
+    "time": "35 mins ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.investors.com"
+  },
+  {
+    "title": "Coronavirus Updates: Stay-At-Home Extended For NYC And Some Other Regions \nUntil May 28",
+    "url": "https://gothamist.com/news/coronavirus-updates-may-15",
+    "source": "Gothamist",
+    "time": "41 mins ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "gothamist.com"
+  },
+  {
+    "title": "Sorrento finds a coronavirus antibody that blocks viral infection 100% in \npreclinical lab experiments",
+    "url": "https://techcrunch.com/2020/05/15/sorrento-finds-a-coronavirus-antibody-that-blocks-viral-infection-100-in-preclinical-lab-experiments/",
+    "source": "TechCrunch",
+    "time": "1 hour ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "techcrunch.com"
+  },
+  {
+    "title": "Will you get a second coronavirus stimulus check? Everything we know so far",
+    "url": "https://www.foxbusiness.com/money/second-coronavirus-stimulus-check-what-we-know",
+    "source": "Fox Business",
+    "time": "1 hour ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Coronavirus updates: Prestigious medical journal blasts Trump; parts of New \nYork to open; CDC publishes (short) reopening guidance",
+    "url": "https://www.usatoday.com/story/news/health/2020/05/15/coronavirus-updates-stimulus-bill-new-york-reopening-wisconsin/5196033002/",
+    "source": "USA Today",
+    "time": "2 hours ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Can herd immunity help stop the coronavirus? Experts warn it's not that \neasy.",
+    "url": "https://www.nbcnews.com/science/science-news/can-herd-immunity-help-stop-coronavirus-experts-warn-it-s-n1207351",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "May 15 morning update: The latest on the coronavirus and Maine",
+    "url": "https://bangordailynews.com/2020/05/15/news/state/may-15-morning-update-the-latest-on-the-coronavirus-and-maine/",
+    "source": "Bangor Daily News",
+    "time": "3 hours ago",
+    "date": "2020-05-15 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "bangordailynews.com"
+  }
+]

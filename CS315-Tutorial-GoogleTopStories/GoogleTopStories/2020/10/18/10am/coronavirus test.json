@@ -1,0 +1,32 @@
+[
+  {
+    "title": "White House Opposes Expanded Coronavirus Testing, Complicating Stimulus \nTalks",
+    "url": "https://www.nytimes.com/2020/10/16/business/white-house-coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-10-18 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus test results must come in 24 hours, says Sage scientist",
+    "url": "https://www.theguardian.com/world/2020/oct/18/coronavirus-test-results-must-come-in-24-hours-says-sage-scientist",
+    "source": "The Guardian",
+    "time": "5 hours ago",
+    "date": "2020-10-18 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "NFL hopes to play all of Sunday\u2019s games despite raft of coronavirus-related \nissues",
+    "url": "https://www.washingtonpost.com/sports/2020/10/17/patriots-jaguars-nfl-coronavirus/",
+    "source": "Washington Post",
+    "time": "16 hours ago",
+    "date": "2020-10-18 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

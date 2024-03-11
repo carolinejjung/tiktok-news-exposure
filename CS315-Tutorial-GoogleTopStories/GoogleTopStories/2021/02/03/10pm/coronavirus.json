@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 News Updates: The Latest",
+    "url": "https://www.nytimes.com/live/2021/02/03/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "2 hours ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: House Democrats clear path for Biden\u2019s $1.9 trillion \ncoronavirus relief bill",
+    "url": "https://www.washingtonpost.com/nation/2021/02/03/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "As positive coronavirus tests mount, NWHL decides to suspend its season",
+    "url": "https://www.washingtonpost.com/sports/2021/02/03/nwhl-suspends-season-coronavirus/",
+    "source": "Washington Post",
+    "time": "16 mins ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Why a particular coronavirus mutation has scientists' attention",
+    "url": "https://www.nbcnews.com/science/science-news/why-particular-coronavirus-mutation-has-scientists-attention-n1256596",
+    "source": "NBC News",
+    "time": "9 hours ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Pennsylvania GOP blasts Gov. Wolf\u2019s proposed tax hike, demands better \ncoronavirus response",
+    "url": "https://www.foxnews.com/politics/pennsylvania-gop-gov-wolf-tax-hike-coronavirus",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-02-03-21/index.html",
+    "source": "CNN",
+    "time": "50 mins ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, February 3: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-february-3-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "The Seattle Times",
+    "time": "13 hours ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "Coronavirus: Bay Area health leaders urge residents 65+ to be given \npriority for vaccines",
+    "url": "https://www.mercurynews.com/2021/02/03/coronavirus-bay-area-health-leaders-urge-residents-65-to-be-given-priority-for-vaccines",
+    "source": "The Mercury News",
+    "time": "4 hours ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.mercurynews.com"
+  },
+  {
+    "title": "Coronavirus Updates: City To Open 24/7 Vaccination Site At Yankee Stadium \nOn Friday",
+    "url": "https://gothamist.com/news/coronavirus-updates-doh-nyc-dave-chokshi-catches-coronavirus",
+    "source": "Gothamist",
+    "time": "17 hours ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "gothamist.com"
+  },
+  {
+    "title": "Coronavirus update: US hits 1M shots per day average as scientists eye \nsecond generation COVID-19 vaccines",
+    "url": "https://finance.yahoo.com/news/coronavirus-update-variants-spur-focus-on-second-generation-of-covid-19-vaccines-as-us-hits-1-m-shots-per-day-average-190022691.html",
+    "source": "Yahoo Finance",
+    "time": "8 hours ago",
+    "date": "2021-02-03 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "finance.yahoo.com"
+  }
+]

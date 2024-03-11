@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Tracker",
+    "url": "https://www.nytimes.com/2020/09/16/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "21 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-16-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "26 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump contradicts CDC chief on coronavirus vaccine: Live news",
+    "url": "https://www.aljazeera.com/news/2020/09/trump-contradicts-cdc-chief-coronavirus-vaccine-live-news-200917000121100.html",
+    "source": "Aljazeera.com",
+    "time": "31 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Trump\u2019s messy attempt to clean up unwelcome coronavirus vaccine news",
+    "url": "https://www.washingtonpost.com/politics/2020/09/16/trumps-messy-attempt-clean-up-unwelcome-coronavirus-vaccine-news/",
+    "source": "Washington Post",
+    "time": "37 mins ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Maine Wedding Now Linked To 7 Coronavirus Deaths",
+    "url": "https://boston.cbslocal.com/2020/09/16/millinocket-maine-wedding-coronavirus-deaths-covid-19-big-moose-inn/",
+    "source": "CBS Boston",
+    "time": "22 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "boston.cbslocal.com"
+  },
+  {
+    "title": "Moderate Democrats pressure Pelosi, House leadership to move new \ncoronavirus bill: 'Stop the stupidity'",
+    "url": "https://www.foxnews.com/politics/democrats-pressure-pelosi-house-leadership-to-move-new-coronavirus-bill",
+    "source": "Fox News",
+    "time": "9 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Trump blames 'blue states' for increasing nation's coronavirus death rates, \nignores high rates in red states",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2020/09/16/trump-blames-blue-states-covid-19-death-rates/5819120002/",
+    "source": "USA TODAY",
+    "time": "4 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Trump says U.S. could start distributing a coronavirus vaccine in October, \ncontradicting CDC's timeline",
+    "url": "https://www.cnbc.com/2020/09/16/trump-says-he-thinks-us-could-start-distributing-a-coronavirus-vaccine-in-october.html",
+    "source": "CNBC",
+    "time": "4 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Sept. 16 evening update: The latest on the coronavirus and Maine",
+    "url": "https://bangordailynews.com/2020/09/16/news/sept-16-evening-update-the-latest-on-the-coronavirus-and-maine-0vzoa9n507wn/",
+    "source": "Bangor Daily News",
+    "time": "3 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "bangordailynews.com"
+  },
+  {
+    "title": "Coronavirus: Gavin Newsom says California has no restrictions preventing \nPac-12 football\u2019s restart",
+    "url": "https://www.mercurynews.com/coronavirus-gavin-newsom-addresses-state-restrictions-affecting-pac-12-footballs-restart",
+    "source": "The Mercury News",
+    "time": "6 hours ago",
+    "date": "2020-09-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.mercurynews.com"
+  }
+]

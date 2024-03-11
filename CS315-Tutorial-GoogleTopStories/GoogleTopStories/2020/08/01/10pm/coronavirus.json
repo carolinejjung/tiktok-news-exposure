@@ -1,0 +1,102 @@
+[
+  {
+    "title": "On the First Day of School, an Indiana Student Tests Positive for \nCoronavirus",
+    "url": "https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html",
+    "source": "The New York Times",
+    "time": "19 hours ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-01-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "45 mins ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "46 mins ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Media to be banned from Republican convention due to coronavirus \nrestrictions",
+    "url": "https://www.theguardian.com/us-news/2020/aug/02/media-to-be-banned-from-republican-convention-due-to-coronavirus-restrictions",
+    "source": "The Guardian",
+    "time": "57 mins ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Health officials report more than 1,700 new coronavirus cases, pass 1 \nmillion tests",
+    "url": "http://komonews.com/news/coronavirus/health-officials-report-more-than-1700-new-coronavirus-cases-pass-1-million-tests",
+    "source": "KOMO",
+    "time": "50 mins ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Thousands demand Netanyahu quit over coronavirus, corruption",
+    "url": "https://www.aljazeera.com/news/2020/08/thousands-demand-netanyahu-quit-coronavirus-handling-200802000808674.html",
+    "source": "Al Jazeera",
+    "time": "1 hour ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Thousands gather for 'end of the pandemic' protest in Berlin, ignore \ncoronavirus safety measures",
+    "url": "https://www.foxnews.com/world/thousands-protest-coronavirus-berlin-safety-measures",
+    "source": "Fox News",
+    "time": "12 hours ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus threat rises across U.S.: \u2018We just have to assume the monster \nis everywhere\u2019",
+    "url": "https://www.washingtonpost.com/health/coronavirus-threat-rises-across-us-we-just-have-to-assume-the-monster-is-everywhere/2020/08/01/cdb505e0-d1d8-11ea-8c55-61e7fa5e82ab_story.html",
+    "source": "Washington Post",
+    "time": "11 hours ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Student and staffer test positive for coronavirus at Indiana schools, first \nstate in U.S. to reopen",
+    "url": "https://www.cbsnews.com/news/indiana-schools-coronvirus-reopening-student-staffer-test-positive/",
+    "source": "CBS News",
+    "time": "6 hours ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, August 1: What to know today about COVID-19 \nin the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-august-1-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "The Seattle Times",
+    "time": "9 hours ago",
+    "date": "2020-08-01 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.seattletimes.com"
+  }
+]

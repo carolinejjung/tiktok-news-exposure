@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Trump's Doctor Says He's No Longer A 'Transmission Risk'",
+    "url": "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/10/922643331/trump-delivers-remarks-at-1st-public-event-since-positive-coronavirus-test",
+    "source": "NPR",
+    "time": "18 hours ago",
+    "date": "2020-10-11 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "New test detects coronavirus in just 5 minutes",
+    "url": "https://www.sciencemag.org/news/2020/10/new-test-detects-coronavirus-just-5-minutes",
+    "source": "Science Magazine",
+    "time": "2 days ago",
+    "date": "2020-10-11 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.sciencemag.org"
+  },
+  {
+    "title": "Tennessee Titans staff member tests positive for coronavirus, facility \nclosed",
+    "url": "https://www.espn.com/nfl/story/_/id/30090166/tennessee-titans-staff-member-tests-positive-coronavirus-facility-closed",
+    "source": "ESPN",
+    "time": "57 mins ago",
+    "date": "2020-10-11 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.espn.com"
+  }
+]

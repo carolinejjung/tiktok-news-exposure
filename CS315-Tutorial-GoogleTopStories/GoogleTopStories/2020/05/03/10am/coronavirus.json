@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus World Updates",
+    "url": "https://www.nytimes.com/2020/05/03/world/coronavirus-news.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "What happens if a coronavirus vaccine is never developed? It has happened \nbefore",
+    "url": "https://www.cnn.com/2020/05/03/health/coronavirus-vaccine-never-developed-intl/index.html",
+    "source": "CNN.com",
+    "time": "37 mins ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Flyover tribute to coronavirus responders draws crowds, sparks concern over \nlack of social distancing",
+    "url": "https://www.foxnews.com/us/blue-angels-thunderbirds-flyovers-dc-georgia-crowds-social-distancing-coronavirus",
+    "source": "Fox News",
+    "time": "38 mins ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Live updates: Excess U.S. coronavirus deaths in pandemic\u2019s early days were \nfar more than previously known",
+    "url": "https://www.washingtonpost.com/world/2020/05/03/coronavirus-latest-news/",
+    "source": "Washington Post",
+    "time": "39 mins ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Big hospitality firm Ashford returns coronavirus small business loan money",
+    "url": "https://www.foxbusiness.com/money/ashford-coronavirus-small-business-loan-monty-bennett",
+    "source": "Fox Business",
+    "time": "1 hour ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Safety Advice for Reopening: How to Reduce Your Risks as Coronavirus \nLockdowns Ease",
+    "url": "https://www.wsj.com/articles/safety-advice-for-reopening-how-to-reduce-your-risks-as-coronavirus-lockdowns-ease-11588510800",
+    "source": "The Wall Street Journal",
+    "time": "1 hour ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Trump rips George W. Bush after he calls for unity amid coronavirus \noutbreak | TheHill",
+    "url": "https://thehill.com/homenews/administration/495843-trump-rips-george-w-bush-after-he-issues-call-to-unite-amid",
+    "source": "The Hill",
+    "time": "1 hour ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Reopening states will cause 233,000 more people to die from coronavirus, \naccording to Wharton model",
+    "url": "https://finance.yahoo.com/news/reopening-states-will-cause-233000-more-people-to-die-from-coronavirus-according-to-wharton-model-120049573.html",
+    "source": "Yahoo Finance",
+    "time": "2 hours ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Global Backlash Builds Against China Over Coronavirus",
+    "url": "https://www.nytimes.com/2020/05/03/world/europe/backlash-china-coronavirus.html",
+    "source": "The New York Times",
+    "time": "3 hours ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "They did everything together, until the end: A mother and daughter's \ncoronavirus battle",
+    "url": "https://www.nbcnews.com/news/us-news/they-did-everything-together-until-end-mother-daughter-s-coronavirus-n1197766",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2020-05-03 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.nbcnews.com"
+  }
+]

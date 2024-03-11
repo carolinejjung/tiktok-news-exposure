@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Global Updates",
+    "url": "https://www.nytimes.com/live/2020/10/05/world/covid-trump",
+    "source": "The New York Times",
+    "time": "50 mins ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live Updates: Trump's coronavirus diagnosis, recovery",
+    "url": "https://www.foxnews.com/politics/live-updates-trumps-coronavirus-diagnosis-recovery",
+    "source": "Fox News",
+    "time": "3 hours ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus upends GOP plans for speedy Barrett confirmation process",
+    "url": "https://www.cnn.com/2020/10/05/politics/amy-coney-barrett-supreme-court-confirmation-coronavirus/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump's use of Regeneron's experimental coronavirus treatment creates 'very \ntough situation,' CEO says",
+    "url": "https://www.cnbc.com/2020/10/05/trumps-use-of-regenerons-experimental-coronavirus-treatment-creates-very-tough-situation-ceo-says.html",
+    "source": "CNBC",
+    "time": "48 mins ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Barcelona announce total debt has doubled to 488m amid coronavirus pandemic",
+    "url": "https://www.espn.com/soccer/barcelona/story/4201006/barcelona-announce-total-debt-has-doubled-to-488m-amid-coronavirus-pandemic",
+    "source": "ESPN",
+    "time": "1 hour ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Coronavirus relief deal elusive as Pelosi says Democrats await agreement \nfrom the administration",
+    "url": "https://www.washingtonpost.com/us-policy/2020/10/04/coronavirus-white-house-pelosi-economic-stimulus/",
+    "source": "Washington Post",
+    "time": "20 hours ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "COVID NYC Update: Mayor proposes shutdown of nonessential businesses, \nschools in 9 NYC ZIP codes",
+    "url": "https://abc7ny.com/covid-spike-compliance-order-shutdown-nyc-coronavirus/6784068/",
+    "source": "WABC-TV",
+    "time": "3 hours ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Claudia Conway announces she has coronavirus on TikTok",
+    "url": "https://nypost.com/2020/10/04/claudia-conway-announces-she-has-coronavirus-on-tiktok/",
+    "source": "New York Post",
+    "time": "14 hours ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Ireland's health chiefs recommending second nationwide shutdown over \ncoronavirus",
+    "url": "https://www.foxbusiness.com/economy/irelands-national-health-chiefs-recommending-second-nationwide-shutdown-over-coronavirus",
+    "source": "Fox Business",
+    "time": "9 hours ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Medical experts question Massachusetts move to next step of coronavirus \nreopening",
+    "url": "https://www.bostonherald.com/2020/10/04/medical-experts-question-massachusetts-move-to-next-step-of-reopening/",
+    "source": "Boston Herald",
+    "time": "15 hours ago",
+    "date": "2020-10-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bostonherald.com"
+  }
+]

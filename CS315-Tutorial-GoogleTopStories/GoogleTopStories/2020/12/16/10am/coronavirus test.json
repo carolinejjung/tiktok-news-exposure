@@ -1,0 +1,32 @@
+[
+  {
+    "title": "FDA authorizes first rapid, over-the-counter home coronavirus test",
+    "url": "https://www.washingtonpost.com/health/2020/12/15/covid-home-rapid-test/",
+    "source": "Washington Post",
+    "time": "15 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Over-the-counter home test for COVID-19 gets US green light",
+    "url": "https://apnews.com/article/over-the-counter-home-coronavirus-test-ac070f4d42d9d7eacc486c9bed4ccaa0",
+    "source": "Associated Press",
+    "time": "19 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Coronavirus updates: Texas joins California as only states with 1.5M cases; \nFDA approves first at-home COVID test; 303K US deaths",
+    "url": "https://www.usatoday.com/story/news/health/2020/12/16/covid-vaccine-news-california-body-bags-texas-ellume/3909433001/",
+    "source": "USA TODAY",
+    "time": "2 hours ago",
+    "date": "2020-12-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  }
+]

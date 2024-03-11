@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Sewage testing shows a country flush with coronavirus cases",
+    "url": "https://www.cnn.com/2020/10/28/health/covid-sewage-testing-spike/index.html",
+    "source": "CNN",
+    "time": "10 hours ago",
+    "date": "2020-10-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "United to offer free coronavirus testing on select Newark-to-London flights",
+    "url": "https://www.washingtonpost.com/transportation/2020/10/29/united-offers-free-covid-tests-international/",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2020-10-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "SUNY students who test positive for coronavirus may spend Thanksgiving in \ndorm rooms",
+    "url": "https://www.syracuse.com/coronavirus/2020/10/suny-students-who-test-positive-for-coronavirus-may-spend-thanksgiving-in-dorm-rooms.html",
+    "source": "syracuse.com",
+    "time": "1 hour ago",
+    "date": "2020-10-29 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.syracuse.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Latest Updates",
+    "url": "https://www.nytimes.com/live/2020/10/15/world/covid-coronavirus",
+    "source": "The New York Times",
+    "time": "24 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Big global study finds remdesivir doesn't help Covid-19 patients",
+    "url": "https://www.cnn.com/2020/10/15/health/remdesivir-covid-who-trial-mortality/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Oil falls as possible OPEC+ supply boost, COVID-19 spike weigh on sentiment",
+    "url": "https://www.reuters.com/article/us-global-oil/oil-falls-as-possible-opec-supply-boost-covid-19-spike-weigh-on-sentiment-idUSKBN27106N",
+    "source": "Reuters UK",
+    "time": "6 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "She was a healthy teenager. But 3 months after getting COVID-19, she still \nhasn't recovered.",
+    "url": "https://www.channel3000.com/she-was-a-healthy-teenager-but-3-months-after-getting-covid-19-she-still-hasnt-recovered/",
+    "source": "Channel3000.com - WISC-TV3",
+    "time": "42 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.channel3000.com"
+  },
+  {
+    "title": "Thursday Regional COVID-19 Update",
+    "url": "https://www.wkdzradio.com/2020/10/15/thursday-regional-covid-19-update/",
+    "source": "wkdzradio.com",
+    "time": "21 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wkdzradio.com"
+  },
+  {
+    "title": "Chris Christie says he was in ICU for 7 days battling Covid-19, urges \nAmericans to wear masks",
+    "url": "https://www.nbcnews.com/politics/politics-news/chris-christie-says-he-was-icu-7-days-battling-covid-n1243589",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "11 Connecticut Towns are Under COVID-19 \u201cRed Alert\u201d Status as \nHospitalizations Continue to Rise",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/governor-lamont-to-give-update-on-covid-19-in-ct-at-4-p-m/2346296/",
+    "source": "NBC Connecticut",
+    "time": "6 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Justin Trudeau: Canada-US border will stay closed until America gets \nCOVID-19 under control",
+    "url": "https://www.usatoday.com/story/travel/news/2020/10/15/justin-trudeau-canada-us-border-not-reopening-covid-19/3661758001/",
+    "source": "USA TODAY",
+    "time": "11 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "6 New Hampshire Counties Now On Vermont's COVID-19 Restricted Travel List",
+    "url": "https://www.nhpr.org/post/6-new-hampshire-counties-now-vermonts-covid-19-restricted-travel-list",
+    "source": "New Hampshire Public Radio",
+    "time": "9 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nhpr.org"
+  },
+  {
+    "title": "Surge in COVID-19 cases means fewer Minnesota schools meet in-person rules",
+    "url": "https://www.startribune.com/covid-surge-means-fewer-minnesota-schools-meet-in-person-rules/572755471/",
+    "source": "Minneapolis Star Tribune",
+    "time": "2 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.startribune.com"
+  }
+]

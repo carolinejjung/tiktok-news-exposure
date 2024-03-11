@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/11/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "FDA intends to 'proceed towards an authorization' of Covid-19 vaccine, \nofficial says, as cases soar",
+    "url": "https://www.cnn.com/2020/12/11/health/us-coronavirus-friday/index.html",
+    "source": "CNN",
+    "time": "39 mins ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Despite Covid-19, Older People Are Still Happier",
+    "url": "https://www.wsj.com/articles/despite-covid-19-older-people-are-still-happier-11607694788",
+    "source": "The Wall Street Journal",
+    "time": "1 hour ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Covid live updates: AstraZeneca to study combined use of its vaccine with \nRussia's Sputnik V vaccine",
+    "url": "https://www.cnbc.com/2020/12/11/coronavirus-live-updates.html",
+    "source": "CNBC",
+    "time": "19 mins ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Another 4 Mainers die as new COVID-19 infections remain high",
+    "url": "https://www.wabi.tv/2020/12/11/another-4-mainers-die-as-new-covid-19-infections-remain-high/",
+    "source": "WABI",
+    "time": "1 hour ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wabi.tv"
+  },
+  {
+    "title": "Biogen conference in Boston likely linked to as many as 300,000 COVID-19 \ncases worldwide, researchers say",
+    "url": "https://www.bostonglobe.com/2020/12/10/nation/biogen-conference-boston-likely-linked-330000-covid-19-cases-worldwide-researchers-say/",
+    "source": "The Boston Globe",
+    "time": "16 hours ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Congress stumbles on a Covid-19 aid package as vaccine approval passes a \nkey hurdle",
+    "url": "https://www.cnn.com/2020/12/11/politics/congress-stimulus-coronavirus-pfizer-vaccine/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "FDA to grant emergency use authorization for Pfizer's COVID-19 vaccine: HHS",
+    "url": "https://nypost.com/2020/12/11/fda-to-grant-emergency-use-authorization-for-pfizers-covid-19-vaccine/",
+    "source": "New York Post",
+    "time": "2 hours ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Gov. Wolf, Sec. of Health Announce New Protective Mitigation Efforts to Put \nPennsylvania on Pause through Early ...",
+    "url": "https://www.governor.pa.gov/newsroom/gov-wolf-sec-of-health-announce-new-protective-mitigation-efforts-to-put-pennsylvania-on-pause-through-early-january/",
+    "source": "pa.gov",
+    "time": "17 hours ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.governor.pa.gov"
+  },
+  {
+    "title": "Sanofi suffers major setback in development of a Covid-19 vaccine",
+    "url": "https://www.statnews.com/2020/12/11/sanofi-suffers-major-setback-in-development-of-a-covid-19-vaccine/",
+    "source": "STAT",
+    "time": "9 hours ago",
+    "date": "2020-12-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.statnews.com"
+  }
+]

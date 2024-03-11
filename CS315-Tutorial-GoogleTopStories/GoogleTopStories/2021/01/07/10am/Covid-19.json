@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live News and Updates",
+    "url": "https://www.nytimes.com/live/2021/01/07/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "27 mins ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-07-21/h_8abd0015ced9997128d522328487e631",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Pennsylvania reports first confirmed case of new COVID-19 variant in \nDauphin County",
+    "url": "https://6abc.com/covid-19-variant-new-coronavirus-in-pennsylvania-dauphin-county/9434942",
+    "source": "WPVI-TV",
+    "time": "31 mins ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "6abc.com"
+  },
+  {
+    "title": "Pennsylvania confirms its 1st case of more-contagious COVID-19 variant",
+    "url": "https://www.lehighvalleylive.com/coronavirus/2021/01/pennsylvania-confirms-1st-case-of-more-contagious-covid-19-variant.html",
+    "source": "lehighvalleylive.com",
+    "time": "15 mins ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.lehighvalleylive.com"
+  },
+  {
+    "title": "Covid live updates: Vaccine distribution expanding across U.S., new Covid \nvariants spread",
+    "url": "https://www.nbcnews.com/news/us-news/live-blog/2020-01-07-covid-live-updates-vaccine-news-n1253230",
+    "source": "NBC News",
+    "time": "16 mins ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Death of Florida doctor after receiving COVID-19 vaccine under investigation",
+    "url": "https://www.usatoday.com/story/news/health/2021/01/06/death-florida-doctor-following-pfizer-covid-19-vaccine-under-investigation-gregory-michael/6574414002/",
+    "source": "USA TODAY",
+    "time": "13 hours ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Early High-Titer Plasma Therapy to Prevent Severe Covid-19 in Older Adults",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2033700",
+    "source": "nejm.org",
+    "time": "17 hours ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.nejm.org"
+  },
+  {
+    "title": "Japan Issues COVID-19 State Of Emergency For Tokyo As Infections Rise",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/07/954341311/japan-issues-covid-19-state-of-emergency-for-tokyo-as-infections-rise",
+    "source": "NPR",
+    "time": "4 hours ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "A Year After Covid-19 Emerged, Australians Still Can\u2019t Get Home",
+    "url": "https://www.wsj.com/articles/a-year-after-covid-19-emerged-australians-still-cant-get-home-11610015403",
+    "source": "The Wall Street Journal",
+    "time": "2 hours ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "COVID-19 Vaccine",
+    "url": "https://scdhec.gov/covid19/covid-19-vaccine",
+    "source": "SCDHEC",
+    "time": "2 days ago",
+    "date": "2021-01-07 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "scdhec.gov"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 Live Updates",
+    "url": "https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html",
+    "source": "The New York Times",
+    "time": "9 hours ago",
+    "date": "2020-08-17 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus updates: Two top CDC officials step down; Birx urges Americans \nto wear masks indoors and outdoors",
+    "url": "https://www.usatoday.com/story/news/health/2020/08/16/coronavirus-news-yale-saliva-test-wear-masks-indoors-outdoors/5591407002/",
+    "source": "USA TODAY",
+    "time": "1 day ago",
+    "date": "2020-08-17 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "As Dallas County residents wait longer for COVID-19 test results at one \nsite, leaders demand change",
+    "url": "https://www.dallasnews.com/news/public-health/2020/08/17/dallas-county-leaders-demand-change-after-coronavirus-testing-delays/",
+    "source": "The Dallas Morning News",
+    "time": "17 mins ago",
+    "date": "2020-08-17 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.dallasnews.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News: World Updates",
+    "url": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "11 mins ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-31-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "24 mins ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Fauci testifies on US coronavirus response: Live updates",
+    "url": "https://www.cnn.com/politics/live-news/fauci-coronavirus-testimony-07-31-20/index.html",
+    "source": "CNN.com",
+    "time": "9 mins ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Nasdaq Composite kicks off last trade in July higher as tech earnings lift \nstocks but coronavirus stimulus-bill worries persist",
+    "url": "https://www.marketwatch.com/story/nasdaq-composite-kicks-off-last-trade-in-july-higher-as-tech-earnings-lift-stocks-but-coronavirus-stimulus-bill-worries-persist-2020-07-31",
+    "source": "MarketWatch",
+    "time": "40 mins ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Merck aims to start 'large pivotal' studies on coronavirus treatment in \nSeptember",
+    "url": "https://www.cnbc.com/2020/07/31/merck-aims-to-start-large-pivotal-studies-on-coronavirus-treatment-in-september.html",
+    "source": "CNBC.com",
+    "time": "42 mins ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Victor Davis Hanson: Coronavirus pandemic exposing cultural suicide by \nelites in sports, academia, Hollywood",
+    "url": "https://www.foxnews.com/opinion/coronavirus-cultural-suicide-elites-victor-davis-hanson",
+    "source": "Fox News",
+    "time": "3 hours ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "$1,200 checks? Money for schools? Breaking down what Republicans and \nDemocrats want in the coronavirus stimulus plan",
+    "url": "https://www.usatoday.com/in-depth/news/2020/07/31/second-coronavirus-stimulus-checks-schools-how-proposals-differ/5528514002/",
+    "source": "USATODAY.com",
+    "time": "3 hours ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Rhode Island is seeing a coronavirus spike. What does that mean for \nConnecticut?",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-rhode-island-spike-20200731-6swqdseuyze3pf4i5hjgqhehdu-story.html",
+    "source": "Hartford Courant",
+    "time": "4 hours ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.courant.com"
+  },
+  {
+    "title": "Unemployment benefits to expire as coronavirus talks deadlock | TheHill",
+    "url": "https://thehill.com/policy/finance/509908-unemployment-benefits-to-expire-as-coronavirus-talks-deadlock",
+    "source": "The Hill",
+    "time": "4 hours ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Coronavirus Is the Crisis Some Bank Investors Have Been Waiting For",
+    "url": "https://www.wsj.com/articles/coronavirus-is-the-crisis-some-bank-investors-have-been-waiting-for-11596187800",
+    "source": "The Wall Street Journal",
+    "time": "4 hours ago",
+    "date": "2020-07-31 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

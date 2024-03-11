@@ -1,0 +1,32 @@
+[
+  {
+    "title": "NYT: Fauci acknowledges moving goalposts on herd immunity from COVID-19",
+    "url": "https://www.axios.com/fauci-goalposts-herd-immunity-c83c7500-d8f9-4960-a334-06cc03d9a220.html",
+    "source": "Axios",
+    "time": "22 hours ago",
+    "date": "2020-12-26 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "Covid-19: How Much Herd Immunity is Enough?",
+    "url": "https://www.nytimes.com/2020/12/24/health/herd-immunity-covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "2 days ago",
+    "date": "2020-12-26 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Medical schools see surge in applicants, thanks to \"Fauci effect\"",
+    "url": "https://www.cbsnews.com/news/medical-schools-see-surge-in-applicants-thanks-to-fauci-effect/",
+    "source": "CBS News",
+    "time": "17 hours ago",
+    "date": "2020-12-26 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.cbsnews.com"
+  }
+]

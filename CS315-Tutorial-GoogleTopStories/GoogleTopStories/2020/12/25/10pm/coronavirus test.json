@@ -1,0 +1,32 @@
+[
+  {
+    "title": "US requires negative coronavirus test from UK travelers",
+    "url": "https://www.theverge.com/2020/12/25/22199682/covid-test-uk-travelers-us-cdc-virus-mutation",
+    "source": "The Verge",
+    "time": "13 hours ago",
+    "date": "2020-12-25 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.theverge.com"
+  },
+  {
+    "title": "U.S. to require negative coronavirus test from travelers from the U.K.",
+    "url": "https://www.axios.com/us-negative-coronavirus-test-travelers-uk-bc294bc1-42fb-4fdc-a807-5d380af113da.html",
+    "source": "Axios",
+    "time": "11 hours ago",
+    "date": "2020-12-25 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "Flushing out the coronavirus: Universities, cities and states are testing \nwastewater for the virus",
+    "url": "https://www.washingtonpost.com/local/md-politics/wastewater-coronavirus-testing-/2020/12/25/f83330ce-4011-11eb-8db8-395dedaaa036_story.html",
+    "source": "Washington Post",
+    "time": "4 hours ago",
+    "date": "2020-12-25 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

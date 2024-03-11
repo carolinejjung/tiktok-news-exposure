@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Trump Coronavirus Tracker: The Latest",
+    "url": "https://www.nytimes.com/live/2020/10/02/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "9 mins ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "President Trump at Walter Reed after coronavirus diagnosis: Live updates",
+    "url": "https://www.cnn.com/politics/live-news/trump-coronavirus-positive/index.html",
+    "source": "CNN.com",
+    "time": "6 mins ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Sen. Thom Tillis, Senate Judiciary Committee member, tests positive for \nCOVID-19",
+    "url": "https://nypost.com/2020/10/02/north-carolina-sen-thom-tillis-tests-positive-for-covid-19/",
+    "source": "New York Post",
+    "time": "23 mins ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "With Trump hospitalized for COVID-19, experimental therapeutics show some \npromise",
+    "url": "https://news.yahoo.com/with-trump-hospitalized-for-covid-19-experimental-therapeutics-show-some-promise-013903952.html",
+    "source": "Yahoo News",
+    "time": "33 mins ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "Trump Tests Positive for Covid-19: Latest Developments",
+    "url": "https://www.wsj.com/livecoverage/trump-tests-positive-covid",
+    "source": "Wall Street Journal",
+    "time": "23 mins ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Trump tests positive for coronavirus, plans to go to Walter Reed hospital, \ntwo officials say",
+    "url": "https://www.washingtonpost.com/politics/trump-covid/2020/10/02/b91072e6-04c3-11eb-a2db-417cddf4816a_story.html",
+    "source": "Washington Post",
+    "time": "2 hours ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "President Trump and first lady Melania test positive for COVID-19",
+    "url": "https://www.cbsnews.com/news/trump-covid-positive-first-lady-melania-coronavirus-2020-10-02/",
+    "source": "CBS News",
+    "time": "8 hours ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Regeneron is Trump's COVID-19 treatment: What to know",
+    "url": "https://www.foxbusiness.com/markets/regeneron-is-trumps-covid-19-treatment-what-to-know",
+    "source": "Fox Business",
+    "time": "2 hours ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Journalists who work at the White House are testing positive for Covid-19",
+    "url": "https://www.cnn.com/2020/10/02/media/journalists-white-house-covid-19/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "How Will Trump\u2019s Positive COVID-19 Test Affect The Election?",
+    "url": "https://fivethirtyeight.com/features/how-will-trumps-positive-covid-19-test-affect-the-election/",
+    "source": "FiveThirtyEight",
+    "time": "11 hours ago",
+    "date": "2020-10-02 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "fivethirtyeight.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Jul 20, 2020",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-02-04-21/index.html",
+    "source": "CNN",
+    "time": "45 mins ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, February 4: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-february-4-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "1 hour ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "Easing Coronavirus Restrictions as the Race to Vaccinate Heats Up: The \nLineup",
+    "url": "https://www.nbcphiladelphia.com/news/local/the-lineup/easing-coronavirus-restrictions-as-the-race-to-vaccinate-heats-up-the-lineup/2691524/",
+    "source": "NBC 10 Philadelphia",
+    "time": "1 hour ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nbcphiladelphia.com"
+  },
+  {
+    "title": "Gov. Whitmer to hold coronavirus briefing this afternoon",
+    "url": "https://www.woodtv.com/health/coronavirus/february-4-2021-michigan-coronavirus-update-gov-gretchen-whitmer/",
+    "source": "WOODTV.com",
+    "time": "28 mins ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.woodtv.com"
+  },
+  {
+    "title": "Live updates: U.S. infection rates are dropping; global vaccine trust is on \nthe rise, survey says",
+    "url": "https://www.washingtonpost.com/nation/2021/02/04/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "31 mins ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Covid-19 News Tracker: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/02/04/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "37 mins ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Biden's grand plan",
+    "url": "https://www.axios.com/biden-coronavirus-stimulus-compromise-7ee1c817-dc20-49c3-a885-55e56e481479.html",
+    "source": "Axios",
+    "time": "4 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "Coronavirus update: US hits 1M shots per day average as scientists eye \nsecond generation COVID-19 vaccines",
+    "url": "https://finance.yahoo.com/news/coronavirus-update-variants-spur-focus-on-second-generation-of-covid-19-vaccines-as-us-hits-1-m-shots-per-day-average-190022691.html",
+    "source": "Yahoo Finance",
+    "time": "20 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Senate braces for chaotic session as Democrats pursue coronavirus bill | \nTheHill",
+    "url": "https://thehill.com/homenews/senate/537267-senate-braces-for-chaotic-session-as-democrats-pursue-coronavirus-bill",
+    "source": "The Hill",
+    "time": "4 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "thehill.com"
+  }
+]

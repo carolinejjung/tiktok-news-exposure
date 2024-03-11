@@ -1,0 +1,32 @@
+[
+  {
+    "title": "At least 4 states combined numbers from two tests, possibly providing a \nmisleading picture of coronavirus spread",
+    "url": "https://www.cnn.com/2020/05/21/health/us-coronavirus-thursday/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "\u2018How Could the CDC Make That Mistake?\u2019",
+    "url": "https://www.theatlantic.com/health/archive/2020/05/cdc-and-states-are-misreporting-covid-19-test-data-pennsylvania-georgia-texas/611935/",
+    "source": "The Atlantic",
+    "time": "9 hours ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.theatlantic.com"
+  },
+  {
+    "title": "Where can I get a coronavirus test in N.J.? Latest list of testing centers, \nrequirements (May 21, 2020)",
+    "url": "https://www.nj.com/coronavirus/2020/05/where-can-i-get-a-coronavirus-test-in-nj-latest-list-of-testing-centers-requirements-may-21-2020.html",
+    "source": "NJ.com",
+    "time": "15 mins ago",
+    "date": "2020-05-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nj.com"
+  }
+]

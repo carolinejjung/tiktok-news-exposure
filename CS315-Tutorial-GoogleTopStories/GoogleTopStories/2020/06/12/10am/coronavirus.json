@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/06/12/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "26 mins ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-12-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "27 mins ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Stock Market Rebounds After Dow Plunge Spurred By Coronavirus Spike : \nCoronavirus Live Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/12/875669704/stocks-rebound-after-dramatic-plunge-spurred-by-a-spike-in-coronavirus-cases",
+    "source": "NPR",
+    "time": "10 mins ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "I'm over 60. Stop talking about coronavirus 'culling' me",
+    "url": "https://www.cnn.com/2020/06/12/opinions/insensitive-coronavirus-comments-most-vulnerable-people-adler/index.html",
+    "source": "CNN.com",
+    "time": "32 mins ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Michael Dell: Reopening amid coronavirus is 'going reasonably well'",
+    "url": "https://finance.yahoo.com/news/michael-dell-reopening-amid-coronavirus-is-going-reasonably-well-133821935.html",
+    "source": "Yahoo Finance",
+    "time": "36 mins ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Live updates: Oregon pauses its reopening plans for one week after \ncoronavirus cases hit new high",
+    "url": "https://www.washingtonpost.com/nation/2020/06/12/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "42 mins ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Trump campaign asks supporters to sign coronavirus waiver ahead of rally",
+    "url": "https://www.theguardian.com/us-news/2020/jun/12/trump-rally-supporters-sign-coronavirus-waiver",
+    "source": "The Guardian",
+    "time": "1 hour ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Oregon Gov. Kate Brown hits pause on lifting coronavirus restrictions with \ninfections on the rise",
+    "url": "https://www.oregonlive.com/coronavirus/2020/06/with-coronavirus-infections-on-the-rise-gov-brown-pauses-reopening-plans.html",
+    "source": "Oregon Live",
+    "time": "1 hour ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "Asymptomatic transmission of coronavirus appears to be worse than SARS or \ninfluenza \u2014 5 reasons you should care",
+    "url": "https://www.marketwatch.com/story/asymptomatic-transmission-of-coronavirus-may-be-worse-than-sars-or-influenza-2020-06-12",
+    "source": "MarketWatch",
+    "time": "2 hours ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Florida, South Carolina coronavirus figures are the states' highest yet for \na single day",
+    "url": "https://www.foxnews.com/health/florida-south-carolina-coronavirus-figures-are-the-states-highest-yet-for-a-single-day",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2020-06-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live Updates",
+    "url": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Coronavirus has been 12 times more deadly for people with \nunderlying conditions, CDC says",
+    "url": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "29 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "CDC report offers detailed demographic breakdown of who is getting \ncoronavirus",
+    "url": "https://www.cnn.com/2020/06/15/politics/cdc-coronavirus-demographics-report/index.html",
+    "source": "CNN.com",
+    "time": "13 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "This N.J. county is shutting down its coronavirus testing site. Here\u2019s why.",
+    "url": "https://www.nj.com/coronavirus/2020/06/this-nj-county-is-shutting-down-its-coronavirus-testing-site-heres-why.html",
+    "source": "NJ.com",
+    "time": "26 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "Veteran bus driver happy to be working again after beating the coronavirus",
+    "url": "https://abcnews.go.com/US/veteran-bus-driver-happy-working-beating-coronavirus/story?id=71265405",
+    "source": "ABC News",
+    "time": "34 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Beijing puts fresh curbs to stop spread of coronavirus out of Chinese \ncapital",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-china/beijing-puts-fresh-curbs-to-stop-spread-of-coronavirus-out-of-chinese-capital-idUSKBN23N03Y",
+    "source": "Reuters",
+    "time": "46 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Coronavirus in Oregon: State sets a record, again, with 184 new cases",
+    "url": "https://www.oregonlive.com/coronavirus/2020/06/coronavirus-in-oregon-oregon-again-sets-a-record-with-184-new-cases.html",
+    "source": "Oregon Live",
+    "time": "47 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "R.I. announces 18 coronavirus deaths, 151 cases since Friday; 'drive-up' \nvisits to some nursing homes will be allowed ...",
+    "url": "https://www.providencejournal.com/news/20200615/ri-announces-18-coronavirus-deaths-151-cases-since-friday-rsquodrive-uprsquo-visits-to-some-nursing-homes-will-be-allowed-on-fatherrsquos-day",
+    "source": "Providence Journal",
+    "time": "3 hours ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.providencejournal.com"
+  },
+  {
+    "title": "Second Wave Of Coronavirus Likely To Hit Philadelphia Region, Penn \nResearcher Says",
+    "url": "https://philadelphia.cbslocal.com/2020/06/15/second-wave-of-coronavirus-likely-to-hit-philadelphia-region-penn-researcher-says/",
+    "source": "CBS Philly",
+    "time": "5 hours ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "philadelphia.cbslocal.com"
+  },
+  {
+    "title": "Republican congressman with coronavirus refused to wear mask in Capitol - \nBusiness Insider",
+    "url": "https://www.businessinsider.com/republican-congressman-with-coronavirus-refused-to-wear-mask-in-capitol-2020-6",
+    "source": "Business Insider",
+    "time": "6 hours ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.businessinsider.com"
+  }
+]

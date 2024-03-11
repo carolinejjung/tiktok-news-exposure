@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "39 mins ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Single plane passenger infected 15 people with Covid-19, CDC says",
+    "url": "https://www.nbcnews.com/news/us-news/single-plane-passenger-infected-15-others-covid-19-cdc-says-n1240607",
+    "source": "NBC News",
+    "time": "9 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Dr. Fauci: Trump's 'Confused' COVID Messages Are 'Unfortunate'",
+    "url": "https://www.thedailybeast.com/dr-anthony-fauci-tells-trevor-noah-trumps-confused-messages-on-covid-19-are-unfortunate",
+    "source": "Daily Beast",
+    "time": "49 mins ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.thedailybeast.com"
+  },
+  {
+    "title": "Metro health officials release list of Nashville's COVID-19 hotspots",
+    "url": "https://www.newschannel5.com/news/newschannel-5-investigates/metro-health-officials-release-list-of-nashvilles-covid-19-hotspots",
+    "source": "NewsChannel5.com",
+    "time": "1 hour ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.newschannel5.com"
+  },
+  {
+    "title": "COVID-19 survivors have side effects months later including headaches, \nmuscle pain, exhaustion",
+    "url": "https://abc7chicago.com/health/covid-19-survivors-wonder-how-long-effects-will-persist/6490834/",
+    "source": "WLS-TV",
+    "time": "9 mins ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "abc7chicago.com"
+  },
+  {
+    "title": "See The Full List Of LI Schools That Have Reported COVID-19 Cases",
+    "url": "https://patch.com/new-york/portjefferson/see-full-list-li-schools-have-reported-covid-19-cases",
+    "source": "Patch.com",
+    "time": "1 hour ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "patch.com"
+  },
+  {
+    "title": "Sudbury parents, child charged in large gathering that violated COVID-19 \nprotocols",
+    "url": "https://www.bostonglobe.com/2020/09/21/metro/sudbury-parents-child-all-charged-connection-with-large-gathering-that-violated-coronavirus-safety-protocols/",
+    "source": "The Boston Globe",
+    "time": "2 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "What COVID-19 Does to the Heart",
+    "url": "https://www.theatlantic.com/health/archive/2020/09/covid-19-heart-pandemic-coronavirus-myocarditis/616420/",
+    "source": "The Atlantic",
+    "time": "11 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.theatlantic.com"
+  },
+  {
+    "title": "CDC reverts to previous guidance on airborne Covid-19 spread",
+    "url": "https://www.cnn.com/videos/health/2020/09/21/cdc-reverts-coronavirus-airborne-guidance-cohen-nr-vpx.cnn",
+    "source": "CNN",
+    "time": "8 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "At least 150 Providence College students test positive for COVID-19",
+    "url": "https://www.providencejournal.com/news/20200921/at-least-150-providence-college-students-test-positive-for-covid-19",
+    "source": "The Providence Journal",
+    "time": "2 hours ago",
+    "date": "2020-09-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.providencejournal.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News Tracker: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/02/04/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "37 mins ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "How COVID-19 Ended Flu Season Before It Started",
+    "url": "https://fivethirtyeight.com/features/how-covid-19-ended-flu-season-before-it-started/",
+    "source": "FiveThirtyEight",
+    "time": "4 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "fivethirtyeight.com"
+  },
+  {
+    "title": "Live Stream: Gov. Whitmer provides update on COVID-19 in Michigan",
+    "url": "https://www.clickondetroit.com/health/good-health/2021/02/04/live-stream-gov-whitmer-provides-update-on-covid-19-in-michigan/",
+    "source": "WDIV ClickOnDetroit",
+    "time": "26 mins ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.clickondetroit.com"
+  },
+  {
+    "title": "DC COVID-19 vaccine appointments continue to fill up quickly",
+    "url": "https://www.fox5dc.com/news/dc-covid-19-vaccine-appointments-continue-to-fill-up-quickly",
+    "source": "FOX 5 DC",
+    "time": "23 mins ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.fox5dc.com"
+  },
+  {
+    "title": "Side effect of COVID-19 vaccine mirrors breast cancer symptom, doctors say",
+    "url": "https://www.keloland.com/news/healthbeat/coronavirus/side-effect-of-covid-19-vaccine-mirrors-breast-cancer-symptom-doctors-say/",
+    "source": "KELOLAND.com",
+    "time": "32 mins ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.keloland.com"
+  },
+  {
+    "title": "Danish scientists see tough times ahead as they watch more contagious \nCOVID-19 virus surge",
+    "url": "https://www.sciencemag.org/news/2021/02/danish-scientists-see-tough-times-ahead-they-watch-more-contagious-covid-19-virus-surge",
+    "source": "Science Magazine",
+    "time": "19 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.sciencemag.org"
+  },
+  {
+    "title": "Reasons for cautious optimism amid Covid-19 crisis: 'The news about the \nfuture' is really promising",
+    "url": "https://www.cnn.com/2021/02/03/media/covid-19-optimism-reliable-sources/index.html",
+    "source": "CNN",
+    "time": "11 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "New Covid-19 trial tests mixing two different vaccines for first time",
+    "url": "https://www.nbcnews.com/news/world/new-covid-19-trial-tests-mixing-two-different-vaccines-first-n1256683",
+    "source": "NBC News",
+    "time": "2 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Digital Race For COVID-19 Vaccines Leaves Many Seniors Behind",
+    "url": "https://www.npr.org/sections/health-shots/2021/02/04/963758458/digital-race-for-covid-19-vaccines-leaves-many-seniors-behind",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Some CVS locations in Maryland, Virginia to offer COVID-19 vaccine",
+    "url": "https://wtop.com/local/2021/02/some-cvs-locations-in-maryland-virginia-to-offer-covid-19-vaccine/",
+    "source": "WTOP",
+    "time": "12 hours ago",
+    "date": "2021-02-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "wtop.com"
+  }
+]

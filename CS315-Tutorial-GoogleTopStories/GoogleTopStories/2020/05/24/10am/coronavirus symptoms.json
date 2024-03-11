@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC estimates that 35% of coronavirus patients don't have symptoms",
+    "url": "https://www.cnn.com/2020/05/22/health/cdc-coronavirus-estimates-symptoms-deaths/index.html",
+    "source": "CNN.com",
+    "time": "1 day ago",
+    "date": "2020-05-24 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Treating Mild Coronavirus Cases Could Help Save Everyone",
+    "url": "https://www.nytimes.com/2020/05/22/opinion/coronavirus-treatment-mild-symptoms.html",
+    "source": "The New York Times",
+    "time": "2 days ago",
+    "date": "2020-05-24 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "A hairstylist worked while symptomatic and exposed 91 people to coronavirus",
+    "url": "https://whdh.com/news/a-hairstylist-worked-while-symptomatic-and-exposed-91-people-to-coronavirus/",
+    "source": "WHDH 7News",
+    "time": "21 mins ago",
+    "date": "2020-05-24 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "whdh.com"
+  }
+]

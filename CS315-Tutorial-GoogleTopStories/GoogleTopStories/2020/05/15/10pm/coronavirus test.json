@@ -1,0 +1,32 @@
+[
+  {
+    "title": "New York barber working illicitly tests positive for Covid-19",
+    "url": "https://www.cnn.com/2020/05/15/us/new-york-coronavirus-kingston-barber-trnd/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "F.D.A. Halts Coronavirus Testing Program Backed by Bill Gates",
+    "url": "https://www.nytimes.com/2020/05/15/us/coronavirus-testing-seattle-bill-gates.html",
+    "source": "The New York Times",
+    "time": "4 hours ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'Fyre Fest of Coronavirus Testing': Ashton Kutcher's Fave COVID Crew \nSlammed in Nebraska",
+    "url": "https://www.thedailybeast.com/ashton-kutchers-fave-covid-crew-slammed-in-nebraska-as-fyre-fest-of-coronavirus-testing",
+    "source": "The Daily Beast",
+    "time": "52 mins ago",
+    "date": "2020-05-15 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.thedailybeast.com"
+  }
+]

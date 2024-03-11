@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "5 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "As coronavirus surges across South and West, Texas mayors plead with \nresidents to wear masks",
+    "url": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "8 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus US live updates: cases, deaths and stimulus checks today",
+    "url": "https://en.as.com/en/2020/06/20/latest_news/1592605745_783583.html",
+    "source": "AS English - Diario AS",
+    "time": "3 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "en.as.com"
+  },
+  {
+    "title": "Phoenix requires masks in public as coronavirus cases surge",
+    "url": "https://www.foxnews.com/us/phoenix-requires-masks-in-public-as-coronavirus-cases-surge",
+    "source": "Fox News",
+    "time": "7 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "FDNY captain released from hospital after near-deadly battle with \ncoronavirus",
+    "url": "https://nypost.com/2020/06/19/fdny-captain-released-from-hospital-after-coronavirus-battle/",
+    "source": "New York Post",
+    "time": "39 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "23 Clemson football players test positive for coronavirus",
+    "url": "https://www.cnn.com/2020/06/19/us/clemson-players-test-positive-for-coronavirus-trnd/index.html",
+    "source": "CNN.com",
+    "time": "45 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Secret recording reveals request for private coronavirus test set off \nbehind-the-scenes battle in Murphy team",
+    "url": "https://www.nj.com/politics/2020/06/secret-recording-reveals-request-for-private-coronavirus-test-set-off-behind-the-scenes-battle-in-murphy-team.html",
+    "source": "NJ.com",
+    "time": "1 hour ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "Here\u2019s what stock-market investors think is the biggest factor in their \ninvesting as coronavirus cases rise\u2014hint: it isn\u2019t a second wave",
+    "url": "https://www.marketwatch.com/story/heres-what-stock-market-investors-think-is-the-biggest-factor-in-their-investing-as-coronavirus-cases-risehint-it-isnt-a-second-wave-2020-06-19",
+    "source": "MarketWatch",
+    "time": "2 hours ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "What does the Phillies outbreak of coronavirus cases mean for baseball, and \nthe return of sports?",
+    "url": "https://www.bostonglobe.com/2020/06/19/sports/what-does-phillies-outbreak-coronavirus-cases-mean-baseball-return-sports/",
+    "source": "The Boston Globe",
+    "time": "3 hours ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Coronavirus Spread Hits 1-Day High, World Health Organization Says",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/06/19/880928603/coronavirus-spread-hits-one-day-high-world-health-organization-says",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC adds 3 new coronavirus symptoms to list",
+    "url": "https://nypost.com/2020/06/25/cdc-adds-3-new-coronavirus-symptoms-to-list/",
+    "source": "New York Post",
+    "time": "2 days ago",
+    "date": "2020-06-28 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "The CDC expands its list of coronavirus symptoms",
+    "url": "https://www.cnet.com/health/the-cdc-expands-its-list-of-coronavirus-symptoms/",
+    "source": "CNET.com",
+    "time": "1 day ago",
+    "date": "2020-06-28 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.cnet.com"
+  },
+  {
+    "title": "Some COVID-19 patients aren't getting better. Major medical centers are \ntrying to figure out how to help.",
+    "url": "https://www.nbcnews.com/health/health-news/some-covid-19-patients-aren-t-getting-better-major-medical-n1231281",
+    "source": "NBC News",
+    "time": "4 hours ago",
+    "date": "2020-06-28 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  }
+]

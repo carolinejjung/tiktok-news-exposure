@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Long lines and delayed results again plague coronavirus tests as \nThanksgiving approaches",
+    "url": "https://www.washingtonpost.com/health/2020/11/18/coronavirus-thanksgiving-test/",
+    "source": "Washington Post",
+    "time": "19 hours ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "FDA authorizes first rapid Covid-19 self-testing kit for at-home diagnosis",
+    "url": "https://www.cnn.com/2020/11/18/health/covid-home-self-test/index.html",
+    "source": "CNN",
+    "time": "1 day ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Heading into holidays, US COVID-19 testing strained again",
+    "url": "https://abcnews.go.com/Health/wireStory/heading-holidays-us-covid-19-testing-strained-74295697",
+    "source": "ABC News",
+    "time": "28 mins ago",
+    "date": "2020-11-19 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "abcnews.go.com"
+  }
+]

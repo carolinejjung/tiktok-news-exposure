@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "11 mins ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Amid coronavirus, Alaska sees surge in syphilis cases",
+    "url": "https://www.foxnews.com/health/alaska-surge-syphilis-cases",
+    "source": "Fox News",
+    "time": "18 hours ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Bill Gates describes 'what gives us hope' amid the coronavirus pandemic",
+    "url": "https://finance.yahoo.com/news/bill-gates-coronavirus-pandemic-124852599.html",
+    "source": "Yahoo Finance",
+    "time": "1 hour ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Coronavirus: Thousands protest in Germany against restrictions",
+    "url": "https://www.bbc.com/news/world-europe-53622797",
+    "source": "BBC",
+    "time": "39 mins ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Thousands march in Berlin to protest coronavirus curbs",
+    "url": "https://www.reuters.com/article/us-germany-protests/thousands-march-in-berlin-to-protest-coronavirus-curbs-idUSKBN24X3RZ",
+    "source": "Reuters",
+    "time": "1 hour ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Greenwich & Darien Deal With Coronavirus Party Zero-Type Cases",
+    "url": "https://patch.com/connecticut/greenwich/greenwich-darien-deal-coronavirus-party-zero-type-cases",
+    "source": "Patch",
+    "time": "14 hours ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "patch.com"
+  },
+  {
+    "title": "Sources - MLB commissioner warns of shutdown if coronavirus isn't better \nmanaged",
+    "url": "https://www.espn.com/mlb/story/_/id/29572885/sources-mlb-commissioner-warns-shutdown-players-do-better-job-managing-coronavirus",
+    "source": "ESPN.com",
+    "time": "17 hours ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Gov. Murphy Puts New Jersey On Notice, Warns Residents To Heed Coronavirus \nGuidelines As Cases Spike; \u2018The Alarms Are Going Off\u2019",
+    "url": "https://newyork.cbslocal.com/2020/07/31/gov-murphy-puts-new-jersey-on-notice-warns-residents-to-heed-coronavirus-guidelines-as-cases-spike-the-alarms-are-going-off/",
+    "source": "CBS New York",
+    "time": "10 hours ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "newyork.cbslocal.com"
+  },
+  {
+    "title": "Coronavirus safety plans already put to the test as some communities start \nthe school year",
+    "url": "https://www.cnn.com/2020/08/01/health/us-coronavirus-saturday/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "More than 200 kids test positive for coronavirus after attending Georgia \nsummer camp",
+    "url": "https://www.cbsnews.com/news/more-than-200-kids-test-positive-for-coronavirus-after-attending-georgia-summer-camp/",
+    "source": "CBS News",
+    "time": "12 hours ago",
+    "date": "2020-08-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cbsnews.com"
+  }
+]

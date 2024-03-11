@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-27-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "16 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus Live Updates: Moderna and N.I.H. Begin Vaccine Trial",
+    "url": "https://www.nytimes.com/2020/07/27/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Maryland reports 1,128 newly confirmed coronavirus cases Monday",
+    "url": "https://www.baltimoresun.com/coronavirus/bs-md-july27-coronavirus-update-20200727-kjsz3aj3fbeuzm5eu7wdcg6m3i-story.html",
+    "source": "Baltimore Sun",
+    "time": "7 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.baltimoresun.com"
+  },
+  {
+    "title": "Live updates: Trump\u2019s national security adviser tests positive for \ncoronavirus",
+    "url": "https://www.washingtonpost.com/nation/2020/07/27/coronavirus-covid-live-updates/",
+    "source": "Washington Post",
+    "time": "9 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "After Coronavirus Outbreak Among Marlins, Orioles Game Postponed",
+    "url": "https://www.wbal.com/article/471269/6/after-coronavirus-outbreak-among-marlins-orioles-game-postponed",
+    "source": "WBAL Radio",
+    "time": "18 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.wbal.com"
+  },
+  {
+    "title": "Trump's national security adviser Robert O'Brien tests positive for \ncoronavirus",
+    "url": "https://www.nbcnews.com/politics/white-house/trump-s-national-security-adviser-robert-o-brien-tests-positive-n1234965",
+    "source": "NBC News",
+    "time": "28 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Sources - Miami Marlins cancel game as coronavirus spreads",
+    "url": "https://www.espn.com/mlb/story/_/id/29546814/sources-marlins-cancel-game-virus-spreads",
+    "source": "ESPN.com",
+    "time": "54 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Marlins' game vs. Orioles canceled after 10 more coronavirus cases",
+    "url": "https://nypost.com/2020/07/27/marlins-game-vs-orioles-canceled-after-more-coronavirus-cases/",
+    "source": "New York Post",
+    "time": "58 mins ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Trump national security advisor Robert O'Brien tests positive for \ncoronavirus",
+    "url": "https://www.cnbc.com/2020/07/27/coronavirus-trump-national-security-advisor-robert-obrien-tests-positive.html",
+    "source": "CNBC.com",
+    "time": "1 hour ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Republican senators to introduce coronavirus stimulus package, including \n$1,200 checks, on Monday",
+    "url": "https://www.masslive.com/coronavirus/2020/07/republican-senators-to-introduce-coronavirus-stimulus-package-including-1200-checks-on-monday.html",
+    "source": "MassLive.com",
+    "time": "1 hour ago",
+    "date": "2020-07-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.masslive.com"
+  }
+]

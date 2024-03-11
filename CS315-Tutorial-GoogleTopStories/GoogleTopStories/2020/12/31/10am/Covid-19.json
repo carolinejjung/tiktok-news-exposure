@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 and Vaccine News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/31/world/coronavirus-updates",
+    "source": "The New York Times",
+    "time": "35 mins ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "US sets daily Covid-19 death record for the second straight day. Another \n80,000 could die in next 3 weeks, new forecast says",
+    "url": "https://www.cnn.com/2020/12/31/health/us-coronavirus-thursday/index.html",
+    "source": "CNN",
+    "time": "56 mins ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Cleveland Browns close facility for second straight day after positive \nCOVID-19 tests",
+    "url": "https://www.espn.com/nfl/story/_/id/30628991/cleveland-browns-close-facility-second-straight-day-positive-covid-19-tests",
+    "source": "ESPN",
+    "time": "12 mins ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Maine CDC reports 702 new COVID-19 cases, Aroostook County deaths double",
+    "url": "https://www.wabi.tv/2020/12/31/maine-cdc-reports-702-new-covid-19-cases-aroostook-county-deaths-double/",
+    "source": "WABI",
+    "time": "43 mins ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wabi.tv"
+  },
+  {
+    "title": "Biden's inaugural committee hosting national memorial for Covid-19 victims \non January 19",
+    "url": "https://www.cnn.com/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html",
+    "source": "CNN",
+    "time": "55 mins ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19 outbreak at Washington state Costco leaves 145 workers infected",
+    "url": "https://nypost.com/2020/12/31/covid-19-outbreak-at-washington-state-costco-leaves-145-workers-infected/",
+    "source": "New York Post",
+    "time": "7 hours ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Employee intentionally removed COVID-19 vaccine from fridge, ruining more \nthan 500 doses, hospital says; FBI investigating",
+    "url": "https://www.usatoday.com/story/news/nation/2020/12/31/wisconsin-covid-19-vaccine-ruined-aurora-employee/4097416001/",
+    "source": "USA TODAY",
+    "time": "3 hours ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "How Trump warped HHS long before Covid-19",
+    "url": "https://www.politico.com/news/2020/12/31/how-trump-warped-hhs-452964",
+    "source": "Politico",
+    "time": "5 hours ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Doctors, nurses 'can't take much more' amid Covid-19 surge in Southern \nCalifornia",
+    "url": "https://www.nbcnews.com/news/us-news/doctors-nurses-can-t-take-much-more-amid-covid-19-n1252582",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "COVID-19 positive rate rises to 'shocking' 12.8% in Suffolk",
+    "url": "https://riverheadlocal.com/2020/12/30/covid-19-positive-rate-rises-to-shocking-12-8-in-suffolk/",
+    "source": "RiverheadLOCAL",
+    "time": "16 hours ago",
+    "date": "2020-12-31 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "riverheadlocal.com"
+  }
+]

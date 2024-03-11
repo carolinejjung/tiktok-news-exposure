@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live Updates",
+    "url": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Coronavirus has been 12 times more deadly for people with \nunderlying conditions, CDC says",
+    "url": "https://www.washingtonpost.com/nation/2020/06/15/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "2 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Live Oak adult daycare facility temporarily shut down after housing people \nwith COVID-19",
+    "url": "https://www.ksat.com/news/local/2020/06/16/live-oak-adult-daycare-facility-temporarily-shut-down-after-housing-people-with-covid-19/",
+    "source": "KSAT.com",
+    "time": "2 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.ksat.com"
+  },
+  {
+    "title": "FDA revokes emergency use of hydroxychloroquine for COVID-19",
+    "url": "https://www.cnet.com/news/fda-revokes-emergency-use-of-hydroxychloroquine-for-covid-19-patients/",
+    "source": "CNet",
+    "time": "37 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnet.com"
+  },
+  {
+    "title": "Monterey County COVID-19 rates increasing",
+    "url": "https://www.ksbw.com/article/monterey-county-covid-19-rates-increasing/32873810",
+    "source": "KSBW.com",
+    "time": "41 mins ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.ksbw.com"
+  },
+  {
+    "title": "Several Major League Baseball players and coaches have tested positive for \nCOVID-19",
+    "url": "https://www.usatoday.com/story/sports/mlb/2020/06/15/coronavirus-mlb-players-coaches-test-positive-covid-19/3196046001/",
+    "source": "USA Today",
+    "time": "1 hour ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "COVID-19 patients with underlying health conditions are 12 times more \nlikely to die: CDC | TheHill",
+    "url": "https://thehill.com/policy/healthcare/502860-covid-19-patients-with-underlying-health-conditions-are-12-times-more",
+    "source": "TheHill",
+    "time": "2 hours ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "New Study Reveals COVID-19 Causes Serious Neurological Symptoms Shockingly \nOften",
+    "url": "https://www.sciencealert.com/covid-19-can-target-the-entire-nervous-system-causing-dizziness-and-delirium",
+    "source": "ScienceAlert",
+    "time": "2 hours ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.sciencealert.com"
+  },
+  {
+    "title": "COVID-19: Here Are Latest Positive Testing Percentages For Nassau, Suffolk",
+    "url": "https://dailyvoice.com/new-york/nassau/news/covid-19-here-are-latest-positive-testing-percentages-for-nassau-suffolk/789389/",
+    "source": "Daily Voice",
+    "time": "4 hours ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Conn. Sees Lowest Increase in COVID-19 Deaths Overnight",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/gov-lamont-to-give-update-on-covid-19-in-conn/2288299/",
+    "source": "NBC Connecticut",
+    "time": "5 hours ago",
+    "date": "2020-06-15 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcconnecticut.com"
+  }
+]

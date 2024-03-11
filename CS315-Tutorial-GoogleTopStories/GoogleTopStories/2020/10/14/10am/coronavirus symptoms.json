@@ -1,0 +1,32 @@
+[
+  {
+    "title": "When Symptoms of Covid-19 Don\u2019t Go Away",
+    "url": "https://www.nytimes.com/2020/10/12/well/live/coronavirus-symptoms-covid-19-persistent.html",
+    "source": "The New York Times",
+    "time": "2 days ago",
+    "date": "2020-10-14 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus Loss of Taste, Loss of Smell: Is It a Common Symptom?",
+    "url": "https://www.healthline.com/health/coronavirus-loss-of-taste-loss-of-smell",
+    "source": "Healthline",
+    "time": "1 day ago",
+    "date": "2020-10-14 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.healthline.com"
+  },
+  {
+    "title": "Another potential symptom of coronavirus: shame",
+    "url": "https://www.koaa.com/news/coronavirus/another-potential-symptom-of-coronavirus-shame",
+    "source": "KOAA.com Colorado Springs and Pueblo News",
+    "time": "8 hours ago",
+    "date": "2020-10-14 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.koaa.com"
+  }
+]

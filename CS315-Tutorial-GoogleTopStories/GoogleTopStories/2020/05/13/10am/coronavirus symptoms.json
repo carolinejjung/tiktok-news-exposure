@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 isn't just a respiratory disease. It hits the whole body",
+    "url": "https://www.cnn.com/2020/05/12/health/coronavirus-symptoms-blood-clots-inflammation/index.html",
+    "source": "CNN.com",
+    "time": "12 hours ago",
+    "date": "2020-05-13 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "How coronavirus attacks the human body - The Washington Post",
+    "url": "https://www.washingtonpost.com/health/2020/05/10/coronavirus-attacks-body-symptoms/",
+    "source": "Washington Post",
+    "time": "2 days ago",
+    "date": "2020-05-13 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Man with coronavirus presents symptoms of syndrome only found in children",
+    "url": "https://www.jpost.com/israel-news/man-with-coronavirus-presents-symptoms-of-syndrome-only-found-in-children-627822",
+    "source": "The Jerusalem Post",
+    "time": "2 hours ago",
+    "date": "2020-05-13 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.jpost.com"
+  }
+]

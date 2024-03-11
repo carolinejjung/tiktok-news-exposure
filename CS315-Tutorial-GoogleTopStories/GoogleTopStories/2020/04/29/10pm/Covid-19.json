@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Fauci says experimental coronavirus treatment remdesivir could shorten \nCOVID-19 recovery time",
+    "url": "https://www.foxnews.com/science/fauci-says-experimental-coronavirus-treatment-remdesivir-could-shorten-covid-19-recovery-time",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Spike in US deaths and cases flagged as pneumonia suggest even greater \nCOVID-19 impact",
+    "url": "https://www.usatoday.com/story/news/investigations/2020/04/29/far-greater-u-s-covid-19-death-toll-indicated-cdc-data/3048381001/",
+    "source": "USATODAY.com",
+    "time": "3 hours ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Some COVID-19 restrictions in Nevada will be eased Friday",
+    "url": "https://www.kolotv.com/content/news/Some-COVID-19-restrictions-in-Nevada-will-be-eased-Friday-570064451.html",
+    "source": "KOLO 8 News Now",
+    "time": "41 mins ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.kolotv.com"
+  },
+  {
+    "title": "Over 70% of tested inmates in federal prisons have COVID-19",
+    "url": "https://apnews.com/fb43e3ebc447355a4f71e3563dbdca4f",
+    "source": "AP News",
+    "time": "45 mins ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Debate emerges: Should businesses be protected from Covid-19 lawsuits?",
+    "url": "https://www.cnn.com/2020/04/29/business/business-liability-congress/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Elon Musk says shelter-in-place orders during COVID-19 are \u2018fascist\u2019",
+    "url": "https://www.theverge.com/2020/4/29/21242102/elon-musk-coronavirus-fascist-shelter-in-place-tesla-covid-19-safety-science",
+    "source": "The Verge",
+    "time": "2 hours ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.theverge.com"
+  },
+  {
+    "title": "Remdesivir Speeds Recovery From COVID-19 In Preliminary Trial Results : \nShots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/04/29/848034963/antiviral-drug-remdesivir-shows-promise-for-treating-coronavirus-in-nih-study",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "First bit of success from a randomized trial of a COVID-19 treatment \n[UPDATED]",
+    "url": "https://arstechnica.com/science/2020/04/first-treatment-for-sars-cov-2-shortens-recovery-time/",
+    "source": "Ars Technica",
+    "time": "4 hours ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "arstechnica.com"
+  },
+  {
+    "title": "Did This Nobel Prize Winner Say COVID-19 Was Created in a Lab?",
+    "url": "https://www.snopes.com/fact-check/luc-montagnier-covid-created-lab/",
+    "source": "Snopes.com",
+    "time": "4 hours ago",
+    "category": "Fact check article",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.snopes.com"
+  },
+  {
+    "title": "Coronavirus Updates: Study Shows Experimental Drug Helps Fight COVID-19; \nFauci Warns of Second Wave",
+    "url": "https://weather.com/health/coronavirus/news/2020-04-29-daily-coronavirus-updates-million-cases-second-wave",
+    "source": "The Weather Channel",
+    "time": "5 hours ago",
+    "date": "2020-04-29 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "weather.com"
+  }
+]

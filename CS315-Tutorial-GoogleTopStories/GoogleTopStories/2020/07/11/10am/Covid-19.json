@@ -1,0 +1,102 @@
+[
+  {
+    "title": "How coronavirus affects the entire body",
+    "url": "https://www.cnn.com/2020/07/10/health/coronavirus-entire-body-effects-columbia/index.html",
+    "source": "CNN.com",
+    "time": "12 hours ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "'All the hospitals are full': In Houston, overwhelmed ICUs leave COVID-19 \npatients waiting in ER",
+    "url": "https://www.nbcnews.com/news/us-news/all-hospitals-are-full-houston-overwhelmed-icus-leave-covid-19-n1233430",
+    "source": "NBC News",
+    "time": "20 hours ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Coronavirus: Parma players in isolation after positive test",
+    "url": "https://www.espn.com/soccer/parma/story/4133756/coronavirus-parma-players-in-isolation-after-positive-test",
+    "source": "ESPN.com",
+    "time": "42 mins ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Covid-19 sparked a mask-making boom in LA. Then the workers themselves got \nsick",
+    "url": "https://www.theguardian.com/us-news/2020/jul/11/coronavirus-los-angeles-mask-making",
+    "source": "The Guardian",
+    "time": "44 mins ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Coronavirus update: U.S. death toll rises as new infections reach record \nlevels",
+    "url": "https://www.washingtonpost.com/nation/2020/07/11/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Raimondo warns of a COVID-19 resurgence if rule following relaxes",
+    "url": "http://turnto10.com/news/local/raimondo-warns-of-a-covid-19-resurgence-if-rules-following-relaxes",
+    "source": "WJAR",
+    "time": "11 hours ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "Coronavirus update San Antonio, July 10: Almost 4,000 new COVID-19 cases in \nSan Antonio just this week",
+    "url": "https://www.ksat.com/news/local/2020/07/11/coronavirus-update-san-antonio-july-10-almost-4000-new-covid-19-cases-in-san-antonio-just-this-week/",
+    "source": "KSAT.com",
+    "time": "14 hours ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.ksat.com"
+  },
+  {
+    "title": "As COVID-19 cases climb, King County\u2019s top health official warns: \u2018If we \ndon\u2019t deal with it, it will deal with us\u2019",
+    "url": "https://www.seattletimes.com/seattle-news/health/as-covid-19-cases-climb-king-countys-top-health-official-warns-if-we-dont-deal-with-it-it-will-deal-with-us/",
+    "source": "The Seattle Times",
+    "time": "14 hours ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "California sees two deadliest days since pandemic began as Covid-19 cases \nrise",
+    "url": "https://www.theguardian.com/us-news/2020/jul/10/california-coronavirus-covid-19-cases-death-toll-record",
+    "source": "The Guardian",
+    "time": "15 hours ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Pennsylvania adds 1K COVID-19 cases, biggest 1-day report since May",
+    "url": "https://6abc.com/coronavirus-covid-19-in-pennsylvania-health/6311396/",
+    "source": "6abc Philadelphia",
+    "time": "16 hours ago",
+    "date": "2020-07-11 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "6abc.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Global Updates",
+    "url": "https://www.nytimes.com/live/2021/01/16/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "11 mins ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "California Rep. Lou Correa tests positive for Covid-19",
+    "url": "https://www.cnn.com/2021/01/16/politics/lou-correa-tests-positive-covid/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Michigan State basketball's Joshua Langford out with COVID-19",
+    "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2021/01/16/michigan-state-basketball-joshua-langford-covid-19/4194491001/",
+    "source": "Detroit Free Press",
+    "time": "37 mins ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.freep.com"
+  },
+  {
+    "title": "Iowa legislators say an individual in Statehouse tested positive for \nCOVID-19",
+    "url": "https://www.kcrg.com/2021/01/17/iowa-legislators-say-an-individual-in-statehouse-tested-positive-for-covid-19/",
+    "source": "KCRG",
+    "time": "1 hour ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.kcrg.com"
+  },
+  {
+    "title": "UFC pioneer, early fan favorite Paul Varelans dies after battle with \nCOVID-19",
+    "url": "https://mmajunkie.usatoday.com/2021/01/ufc-pioneer-paul-varelans-dies-covid-19",
+    "source": "MMA Junkie",
+    "time": "6 mins ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "mmajunkie.usatoday.com"
+  },
+  {
+    "title": "US life expectancy drops dramatically due to COVID-19",
+    "url": "https://www.livescience.com/us-life-expectancy-drop-covid-19.html",
+    "source": "Livescience.com",
+    "time": "15 hours ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.livescience.com"
+  },
+  {
+    "title": "Europe\u2019s Schools Are Closing Again on Concerns They Spread Covid-19",
+    "url": "https://www.wsj.com/articles/europes-schools-are-closing-again-on-concerns-they-spread-covid-19-11610805601",
+    "source": "The Wall Street Journal",
+    "time": "12 hours ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Beth Israel researcher awaits approval of the COVID-19 vaccine he helped \ncreate",
+    "url": "https://www.bostonglobe.com/2021/01/16/nation/beth-israel-researcher-awaits-approval-covid-19-vaccine-he-helped-create/",
+    "source": "The Boston Globe",
+    "time": "11 hours ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Kansas nurses refuse to give COVID-19 vaccines",
+    "url": "https://nypost.com/2021/01/16/kansas-nurses-refuse-to-give-covid-19-vaccines/",
+    "source": "New York Post",
+    "time": "4 hours ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Oregon reports 41 more COVID-19 deaths, 4 in C. Oregon; 1173 new cases",
+    "url": "https://ktvz.com/news/coronavirus/2021/01/16/oregon-reports-41-more-covid-19-deaths-4-in-c-oregon-1173-new-cases/",
+    "source": "KTVZ",
+    "time": "2 hours ago",
+    "date": "2021-01-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "ktvz.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live Updates",
+    "url": "https://www.nytimes.com/2020/07/21/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "9 mins ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: U.S. reports more than 1,000 coronavirus deaths in a day for \nfirst time since early June",
+    "url": "https://www.washingtonpost.com/nation/2020/07/21/covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "18 mins ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "These N95 masks aren't likely to stop coronavirus, health experts say",
+    "url": "https://www.foxnews.com/us/these-n95-masks-arent-likely-stop-coronavirus",
+    "source": "Fox News",
+    "time": "22 mins ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "\u2018Pitch Perfect\u2019 Star Anna Camp Shares Her Coronavirus Symptoms, Urges \nPeople to Wear Masks",
+    "url": "https://variety.com/2020/film/news/anna-camp-coronavirus-pitch-perfect-1234712889/",
+    "source": "Variety",
+    "time": "45 mins ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "variety.com"
+  },
+  {
+    "title": "Trump resumes coronavirus briefings, concedes things will \u2018probably get \nworse\u2019",
+    "url": "https://www.bostonglobe.com/2020/07/21/nation/trump-resumes-coronavirus-briefings-concedes-things-will-probably-get-worse/",
+    "source": "The Boston Globe",
+    "time": "1 hour ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Fact check: At his first coronavirus briefing since April, Trump repeats a \nhandful of classic false claims",
+    "url": "https://www.cnn.com/2020/07/21/politics/fact-check-trump-coronavirus-briefing-july-21/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "U.S. records over 1,000 coronavirus deaths in a single day for first time \nsince early June",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-usa-casualties/u-s-records-over-1000-coronavirus-deaths-in-a-single-day-for-first-time-since-early-june-idUSKCN24M32X",
+    "source": "Reuters",
+    "time": "3 hours ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "What Hamilton has to do with the EU\u2019s $800 billion coronavirus stimulus plan",
+    "url": "https://www.vox.com/2020/7/21/21332541/coronavirus-eu-stimulus-merkel-billion-hamilton",
+    "source": "Vox",
+    "time": "3 hours ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.vox.com"
+  },
+  {
+    "title": "15 counties get warning from state after rise in coronavirus cases",
+    "url": "https://www.9news.com/article/news/health/coronavirus/15-counties-coronavirus-variance-at-risk-rising-cases/73-0e424e02-4927-4fad-b1d0-d764f8007246",
+    "source": "9News",
+    "time": "3 hours ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.9news.com"
+  },
+  {
+    "title": "In Reversal, Trump Urges Mask Use, Warns Coronavirus Pandemic Will Get Worse",
+    "url": "https://www.npr.org/2020/07/21/893230477/watch-live-trump-holds-press-briefing-after-hiatus",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2020-07-21 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.npr.org"
+  }
+]

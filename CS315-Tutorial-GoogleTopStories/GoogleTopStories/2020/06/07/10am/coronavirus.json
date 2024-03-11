@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/06/07/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-06-07-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: Mosques told not to reopen despite government plan",
+    "url": "https://www.bbc.com/news/uk-52956280",
+    "source": "BBC",
+    "time": "39 mins ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Cuomo accelerates reopening plans as the coronavirus pandemic recedes",
+    "url": "https://riverheadlocal.com/2020/06/07/cuomo-accelerates-reopening-plans-as-the-coronavirus-pandemic-recedes/",
+    "source": "RiverheadLOCAL",
+    "time": "44 mins ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "riverheadlocal.com"
+  },
+  {
+    "title": "'All-pet private jet' to reunite animals stranded during coronavirus \npandemic",
+    "url": "https://www.foxnews.com/lifestyle/private-flight-pets-stranded-coronavirus",
+    "source": "Fox News",
+    "time": "56 mins ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "CT Coronavirus Updates: 358 New Cases As Number Of Tests Rises",
+    "url": "https://patch.com/connecticut/across-ct/ct-coronavirus-updates-358-new-cases-number-tests-rises",
+    "source": "Patch",
+    "time": "2 hours ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "patch.com"
+  },
+  {
+    "title": "June 7 morning update: The latest on the coronavirus and Maine",
+    "url": "https://bangordailynews.com/2020/06/07/news/state/june-7-morning-update-the-latest-on-the-coronavirus-and-maine/",
+    "source": "Bangor Daily News",
+    "time": "2 hours ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "bangordailynews.com"
+  },
+  {
+    "title": "Massachusetts, let\u2019s get more ambitious with coronavirus testing",
+    "url": "https://www.bostonglobe.com/2020/06/07/opinion/massachusetts-lets-get-more-ambitious-with-coronavirus-testing/",
+    "source": "The Boston Globe",
+    "time": "6 hours ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Dr. Fauci says George Floyd protests provide \u2018perfect recipe\u2019 for new \ncoronavirus surges",
+    "url": "https://www.foxnews.com/health/dr-fauci-says-george-floyd-protests-provide-perfect-recipe-for-new-coronavirus-surges",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Massachusetts coronavirus reopening: Retail, outdoor dining can start Monday",
+    "url": "https://www.bostonherald.com/2020/06/06/massachusetts-coronavirus-reopening-retail-outdoor-dining-can-start-monday/",
+    "source": "Boston Herald",
+    "time": "15 hours ago",
+    "date": "2020-06-07 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bostonherald.com"
+  }
+]

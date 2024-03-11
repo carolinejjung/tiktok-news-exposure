@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Cases, Deaths and Vaccine Updates",
+    "url": "https://www.nytimes.com/live/2021/01/08/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "41 mins ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: U.S. surpasses 300,000 daily coronavirus cases, the second \nalarming record this week",
+    "url": "https://www.washingtonpost.com/nation/2021/01/08/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "29 mins ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus live news: WHO says poorer countries not getting vaccines; \nDenmark to restrict all travel",
+    "url": "https://www.theguardian.com/world/live/2021/jan/08/coronavirus-live-news-poorest-countries-to-get-vaccine-in-weeks-says-who-brazil-deaths-pass-200000",
+    "source": "The Guardian",
+    "time": "16 mins ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "UT-Austin keeping most classes virtual through January as coronavirus \ninfections soar in Travis County",
+    "url": "https://www.click2houston.com/news/texas/2021/01/09/ut-austin-keeping-most-classes-virtual-through-january-as-coronavirus-infections-soar-in-travis-county/",
+    "source": "KPRC Click2Houston",
+    "time": "1 hour ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.click2houston.com"
+  },
+  {
+    "title": "Coronavirus Today: LA's testing positives \u2014 and negatives",
+    "url": "https://www.latimes.com/science/newsletter/2021-01-08/coronavirus-today-false-negative-tests-coronavirus-today",
+    "source": "Los Angeles Times",
+    "time": "13 mins ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.latimes.com"
+  },
+  {
+    "title": "Biden to release full coronavirus vaccine supply, not set half aside - \nBusiness Insider",
+    "url": "https://www.businessinsider.com/biden-release-all-available-coronavirus-vaccine-supply-doses-2021-1",
+    "source": "Business Insider",
+    "time": "6 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Pfizer's Covid-19 vaccine appears to work against mutation in new \ncoronavirus strains, study finds",
+    "url": "https://www.cnn.com/2021/01/08/health/pfizer-vaccine-variant-strain-mutation/index.html",
+    "source": "CNN",
+    "time": "7 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Baker announces coronavirus pool testing to be made available to all \nMassachusetts public schools",
+    "url": "https://www.bostonglobe.com/2021/01/08/metro/baker-says-coronavirus-pool-testing-will-be-made-available-all-schools-mass/",
+    "source": "The Boston Globe",
+    "time": "14 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Covid symptoms can linger at least 6 months, Wuhan study finds",
+    "url": "https://www.nbcnews.com/health/health-news/covid-symptoms-can-linger-least-6-months-wuhan-study-finds-n1253458",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "CDC has not seen emergence of a highly contagious U.S. variant of \ncoronavirus",
+    "url": "https://www.cnbc.com/2021/01/08/white-house-covid-task-force-warns-of-possible-new-usa-variant-driving-spread.html",
+    "source": "CNBC",
+    "time": "7 hours ago",
+    "date": "2021-01-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

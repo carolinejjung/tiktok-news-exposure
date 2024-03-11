@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Your Coronavirus Test Is Positive. Maybe It Shouldn\u2019t Be.",
+    "url": "https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/index.html",
+    "source": "CNN",
+    "time": "22 mins ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/30/world/coronavirus-covid.html",
+    "source": "The New York Times",
+    "time": "8 hours ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Auburn Tigers down 16 players for coronavirus-related issues",
+    "url": "https://www.espn.com/college-football/story/_/id/29775675/auburn-tigers-16-players-coronavirus-related-issues",
+    "source": "ESPN",
+    "time": "16 mins ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "CDC report on coronavirus deaths underlines why virus is so dangerous",
+    "url": "https://www.axios.com/cdc-covid-deaths-contributing-health-conditions-3315196c-986f-4ae3-ba35-2075fd64bce1.html",
+    "source": "Axios",
+    "time": "5 mins ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "Birx says she's hopeful about coronavirus vaccine but urges people to 'do \nthe right thing today'",
+    "url": "https://thehill.com/homenews/administration/514362-birx-says-shes-hopeful-about-coronavirus-vaccine-but-urges-people-to",
+    "source": "The Hill",
+    "time": "1 hour ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "A rural wedding led to dozens of coronavirus cases. Officials see it as a \ncautionary tale.",
+    "url": "https://www.washingtonpost.com/health/2020/08/30/coronavirus-millinocket-wedding-outbreak/",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "India records biggest single-day coronavirus infection spike with 78,761 \nnew cases",
+    "url": "https://www.foxnews.com/world/india-biggest-single-day-coronavirus-infection-spike",
+    "source": "Fox News",
+    "time": "13 hours ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Pelosi would rather have nothing than Republicans' $1.3T coronavirus aid \npackage: Meadows",
+    "url": "https://www.foxbusiness.com/economy/coronavirus-relief-mark-meadows-nancy-pelosi-trillion",
+    "source": "Fox Business",
+    "time": "9 hours ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "FDA willing to fast track coronavirus vaccine before phase three trials end",
+    "url": "https://www.cnbc.com/2020/08/30/fda-willing-to-fast-track-coronavirus-vaccine-before-phase-three-trials.html",
+    "source": "CNBC",
+    "time": "11 hours ago",
+    "date": "2020-08-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

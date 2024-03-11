@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/06/19/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "5 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "As coronavirus surges across South and West, Texas mayors plead with \nresidents to wear masks",
+    "url": "https://www.washingtonpost.com/nation/2020/06/19/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "8 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "New property valuations due amid uncertainty from COVID-19 crisis",
+    "url": "https://komonews.com/news/consumer/new-property-valuations-on-the-way-for-many-owners-but-will-the-pandemic-hamper-payments",
+    "source": "KOMO",
+    "time": "1 min ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Familiar Summer Activities Return Amidst COVID-19 Precautions",
+    "url": "https://www.nbcconnecticut.com/news/local/familiar-summer-activities-return-amidst-covid-19-precautions/2290935/",
+    "source": "NBC Connecticut",
+    "time": "7 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "9 ZIP codes where COVID-19 spread fastest in the past week: Coronavirus in \nOregon",
+    "url": "https://www.oregonlive.com/coronavirus/2020/06/9-zip-codes-where-covid-19-spread-fastest-in-the-past-week-coronavirus-in-oregon.html",
+    "source": "Oregon Live",
+    "time": "42 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "23 Clemson football players test positive for coronavirus",
+    "url": "https://www.cnn.com/2020/06/19/us/clemson-players-test-positive-for-coronavirus-trnd/index.html",
+    "source": "CNN.com",
+    "time": "45 mins ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "How Hawaii Became a Rare Covid Success Story",
+    "url": "https://www.politico.com/news/magazine/2020/06/19/hawaii-covid-success-story-322919",
+    "source": "Politico",
+    "time": "4 hours ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "How risky is it to attend a Trump campaign rally during a pandemic?",
+    "url": "https://www.cnn.com/2020/06/19/health/covid-19-trump-rally-risk/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Who Will Be First To Get A COVID-19 Vaccine?",
+    "url": "https://fivethirtyeight.com/features/who-will-be-first-to-get-a-covid-19-vaccine/",
+    "source": "FiveThirtyEight",
+    "time": "4 hours ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "fivethirtyeight.com"
+  },
+  {
+    "title": "12 San Antonio H-E-B stores announce positive COVID-19 cases in last 2 days",
+    "url": "https://www.ksat.com/news/local/2020/06/19/12-san-antonio-h-e-b-stores-announce-positive-covid-19-cases-in-last-2-days/",
+    "source": "KSAT.com",
+    "time": "5 hours ago",
+    "date": "2020-06-19 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.ksat.com"
+  }
+]

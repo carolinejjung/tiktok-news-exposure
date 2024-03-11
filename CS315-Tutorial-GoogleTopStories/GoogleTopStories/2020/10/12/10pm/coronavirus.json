@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-12-20-intl/index.html",
+    "source": "CNN",
+    "time": "18 mins ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: Global Tracker",
+    "url": "https://www.nytimes.com/live/2020/10/12/world/coronavirus-covid",
+    "source": "The New York Times",
+    "time": "32 mins ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "De Blasio says NYC entering 'crucial' week in coronavirus fight",
+    "url": "https://nypost.com/2020/10/12/de-blasio-says-nyc-entering-crucial-week-in-coronavirus-fight/",
+    "source": "New York Post",
+    "time": "32 mins ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "De Blasio Backs Coronavirus Protests Crack Down Measures",
+    "url": "https://www.ny1.com/nyc/all-boroughs/politics/2020/10/13/mondays-with-the-mayor-bill-de-blasio-borough-park-protest-nyc-coronavirus",
+    "source": "Spectrum News NY1",
+    "time": "35 mins ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.ny1.com"
+  },
+  {
+    "title": "The West is being left behind as it squanders Covid-19 lessons from \nAsia-Pacific",
+    "url": "https://www.cnn.com/2020/10/12/europe/coronavirus-asia-pacific-west-intl/index.html",
+    "source": "CNN",
+    "time": "31 mins ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "First Confirmed Case Of US Coronavirus Reinfection : Coronavirus Live \nUpdates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/12/922980490/scientists-confirm-nevada-man-was-infected-twice-with-coronavirus",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Coronavirus live updates: Johnson & Johnson pauses vaccine trial",
+    "url": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73558248",
+    "source": "ABC News",
+    "time": "56 mins ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Sen. Lee, recently infected with coronavirus, speaks without a mask at \nBarrett hearing",
+    "url": "https://www.washingtonpost.com/powerpost/senate-barrett-coronavirus-lee/2020/10/12/97fa17be-0ca8-11eb-8a35-237ef1eb2ef7_story.html",
+    "source": "Washington Post",
+    "time": "3 hours ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Dr. Fauci says U.S. faces 'a whole lot of trouble' as coronavirus cases \nrise heading into winter",
+    "url": "https://www.cnbc.com/2020/10/12/dr-fauci-says-us-is-facing-ce-as-coronavirus-cases-rise-heading-into-winter.html",
+    "source": "CNBC",
+    "time": "2 hours ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Coronavirus updates: First American to get COVID twice; 13 states set case \nrecords; Joe Biden tests negative again",
+    "url": "https://www.usatoday.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/",
+    "source": "USA TODAY",
+    "time": "2 hours ago",
+    "date": "2020-10-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

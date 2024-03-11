@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Scientists express doubts about coronavirus treatment touted \nas breakthrough by Trump",
+    "url": "https://www.washingtonpost.com/nation/2020/08/24/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "14 mins ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Stocks soar to record highs as coronavirus vaccine hopes build",
+    "url": "https://www.foxbusiness.com/markets/us-stocks-aug-24-2020",
+    "source": "Fox Business",
+    "time": "1 hour ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "All of NFL's positive coronavirus tests from the weekend return negative",
+    "url": "https://www.espn.com/nfl/story/_/id/29729892/source-all-77-nfl-positive-tests-return-negative",
+    "source": "ESPN",
+    "time": "1 hour ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "They went to India, now they're trapped by coronavirus rules 6,400 miles \naway",
+    "url": "https://www.cnn.com/travel/article/australia-entry-restrictions-covid-india-intl-hnk/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Maine wedding reception linked to 53 coronavirus cases, one death - \nBusiness Insider",
+    "url": "https://www.businessinsider.com/a-wedding-reception-spread-coronavirus-to-53-people-killing-one-2020-8",
+    "source": "Business Insider",
+    "time": "4 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Trump announces emergency authorization of \u2018breakthrough\u2019 coronavirus \ntreatment",
+    "url": "https://www.foxnews.com/politics/trump-announces-emergency-authorization-coronavirus-treatment",
+    "source": "Fox News",
+    "time": "17 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Connecticut city facing 'serious' COVID-19 outbreak, residents urged to \nstay home",
+    "url": "https://nypost.com/2020/08/23/connecticut-city-facing-serious-coronavirus-outbreak/",
+    "source": "New York Post",
+    "time": "13 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus curfew bust: Massachusetts State Police arrest \u2018suspicious\u2019 man \nout after curfew",
+    "url": "https://www.bostonherald.com/2020/08/23/coronavirus-curfew-bust-massachusetts-state-police-arrest-suspicious-man-out-after-curfew/",
+    "source": "Boston Herald",
+    "time": "14 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "Colleges and universities across US halt in-person classes and begin campus \nmonitoring after rising coronavirus cases",
+    "url": "https://www.cnn.com/2020/08/24/health/us-coronavirus-monday/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnn.com"
+  }
+]

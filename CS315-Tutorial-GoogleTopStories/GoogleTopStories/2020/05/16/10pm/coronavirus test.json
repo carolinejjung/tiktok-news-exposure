@@ -1,0 +1,32 @@
+[
+  {
+    "title": "F.D.A. Halts Coronavirus Testing Program Backed by Bill Gates",
+    "url": "https://www.nytimes.com/2020/05/15/us/coronavirus-testing-seattle-bill-gates.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-05-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/05/16/us/live-coronavirus-news-cases-deaths.html",
+    "source": "The New York Times",
+    "time": "7 hours ago",
+    "date": "2020-05-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus updates: Obama criticizes US response again; tourist arrested \nin Hawaii; North Carolina churches ruling",
+    "url": "https://www.usatoday.com/story/news/health/2020/05/16/coronavirus-update-relief-package-graduation-2020-vaccine-plans/5199063002/",
+    "source": "USA Today",
+    "time": "6 mins ago",
+    "date": "2020-05-16 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  }
+]

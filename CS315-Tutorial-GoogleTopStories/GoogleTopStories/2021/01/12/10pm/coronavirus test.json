@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 Vaccine, Cases, and Deaths News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/12/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "59 mins ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "CDC Requires COVID-19 Test From Air Passengers Entering the U.S.",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/12/956206410/cdc-requires-covid-19-test-from-air-passengers-entering-the-u-s",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "U.S. to Require Covid-19 Tests for All International Visitors",
+    "url": "https://www.wsj.com/articles/u-s-to-require-covid-19-tests-for-all-international-visitors-11610472867",
+    "source": "The Wall Street Journal",
+    "time": "3 hours ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wsj.com"
+  }
+]

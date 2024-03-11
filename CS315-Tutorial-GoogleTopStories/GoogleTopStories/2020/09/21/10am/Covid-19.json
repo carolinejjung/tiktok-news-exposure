@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/21/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The CDC says coronavirus is airborne and spread by aerosols, warns of badly \nventilated spaces",
+    "url": "https://www.washingtonpost.com/nation/2020/09/21/cdc-covid-aerosols-airborne-guidelines/",
+    "source": "Washington Post",
+    "time": "4 hours ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Officials: High school closed after positive COVID-19 test",
+    "url": "https://www.newsday.com/news/health/coronavirus/health-coronavirus-schools-closed-covid-19-1.49562694",
+    "source": "Newsday",
+    "time": "23 mins ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.newsday.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598",
+    "source": "CNN",
+    "time": "9 hours ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "The COVID-19 lockdown is squeezing real estate from all sides and threatens \nto burst the housing and mortgage bubble",
+    "url": "https://www.marketwatch.com/story/the-covid-19-lockdown-is-squeezing-real-estate-from-all-sides-and-threatens-to-burst-the-housing-and-mortgage-bubble-2020-09-21",
+    "source": "MarketWatch",
+    "time": "3 hours ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Joe Biden mistakenly says 200 million people have died from COVID-19 in US",
+    "url": "https://nypost.com/2020/09/21/biden-mistakenly-says-millions-have-died-from-covid-19-in-us/",
+    "source": "New York Post",
+    "time": "3 hours ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Tourists in Croatia Help Feed Covid-19 Surge Across Europe",
+    "url": "https://www.wsj.com/articles/tourists-in-croatia-help-feed-covid-19-surge-across-europe-11600684208",
+    "source": "Wall Street Journal",
+    "time": "3 hours ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Updated CDC guidance acknowledges coronavirus can spread through the air",
+    "url": "https://www.cnn.com/2020/09/20/health/cdc-coronavirus-airborne-transmission/index.html",
+    "source": "CNN",
+    "time": "12 hours ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "N.J. school district again delays start of in-person classes, suspends \nsports, over COVID-19 concerns",
+    "url": "https://www.nj.com/education/2020/09/nj-school-district-again-delays-start-of-in-person-classes-over-covid-19-concerns.html",
+    "source": "nj.com",
+    "time": "3 hours ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "Tests, masks, temperature checks: 'Healthy Sail Panel' submits 74 COVID-19 \ncruise recommendations to CDC",
+    "url": "https://www.usatoday.com/story/travel/cruises/2020/09/21/norwegian-royal-caribbean-cruise-panel-suggests-covid-19-rules/5839739002/",
+    "source": "USA TODAY",
+    "time": "4 hours ago",
+    "date": "2020-09-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

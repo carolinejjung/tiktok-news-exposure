@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Tracker",
+    "url": "https://www.nytimes.com/2020/09/10/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "20 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Adults with Covid-19 about 'twice as likely' to say they have dined at a \nrestaurant, CDC study suggests",
+    "url": "https://www.cnn.com/2020/09/10/health/restaurant-dining-covid-19-cdc-study-wellness/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "40 UAlbany students test positive for COVID-19",
+    "url": "https://www.news10.com/news/local-news/40-ualbany-students-test-positive-for-covid-19/",
+    "source": "NEWS10 ABC",
+    "time": "47 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.news10.com"
+  },
+  {
+    "title": "Trump Compares Downplaying COVID-19 to Churchill During World War II",
+    "url": "https://www.thedailybeast.com/trump-compares-downplaying-covid-19-pandemic-to-churchill-during-world-war-ii",
+    "source": "Daily Beast",
+    "time": "26 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.thedailybeast.com"
+  },
+  {
+    "title": "University Of Colorado Campus COVID-19 Cases Impact Long-Term Care Visits",
+    "url": "https://denver.cbslocal.com/2020/09/10/boulder-coronavirus-university-colorado-nursing-homes/",
+    "source": "CBS Denver",
+    "time": "17 mins ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "denver.cbslocal.com"
+  },
+  {
+    "title": "28-year-old South Carolina teacher dies of COVID-19 | TheHill",
+    "url": "https://thehill.com/homenews/state-watch/515825-28-year-old-south-carolina-teacher-dies-of-covid-19",
+    "source": "The Hill",
+    "time": "11 hours ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "CDC: People with COVID-19 twice as likely to have eaten out at a restaurant \nbefore getting sick",
+    "url": "https://www.fox5ny.com/news/cdc-people-with-covid-19-twice-as-likely-to-have-eaten-out-at-a-restaurant-before-getting-sick",
+    "source": "FOX 5 NY",
+    "time": "4 hours ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.fox5ny.com"
+  },
+  {
+    "title": "Cuomo threatens New Yorkers with tax hikes over COVID-19 shortfalls",
+    "url": "https://nypost.com/2020/09/10/cuomo-threatens-new-yorkers-with-tax-hikes-over-covid-19-shortfalls/",
+    "source": "New York Post",
+    "time": "4 hours ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Connecticut COVID-19 Test Positivity Rate Above 1% for Second Day in a Row",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/connecticut-covid-19-test-positivity-rate-above-1-for-second-day-in-a-row/2330879/",
+    "source": "NBC Connecticut",
+    "time": "1 hour ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "The Sturgis biker rally did not cause 266,796 cases of COVID-19.",
+    "url": "https://slate.com/technology/2020/09/sturgis-rally-covid19-explosion-paper.html",
+    "source": "Slate Magazine",
+    "time": "9 hours ago",
+    "date": "2020-09-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "slate.com"
+  }
+]

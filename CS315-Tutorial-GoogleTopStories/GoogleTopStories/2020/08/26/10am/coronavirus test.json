@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "37 mins ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Updated CDC guidelines now say people exposed to coronavirus may not need \nto be tested",
+    "url": "https://www.cnn.com/2020/08/26/health/cdc-guidelines-coronavirus-testing/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus tests not required for all Melania Trump speech attendees: \nreport",
+    "url": "https://thehill.com/homenews/administration/513712-coronavirus-tests-not-required-for-melania-trump-speech-attendees",
+    "source": "The Hill",
+    "time": "30 mins ago",
+    "date": "2020-08-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "thehill.com"
+  }
+]

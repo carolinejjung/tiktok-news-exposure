@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-28-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "11 mins ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Live updates: U.S. averages more than 70,000 new coronavirus cases a day \nover a week, shattering records",
+    "url": "https://www.washingtonpost.com/nation/2020/10/28/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "7 mins ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Los Angeles erupts into overnight unrest after Dodgers win, sparking \ncoronavirus, crime concerns",
+    "url": "https://www.foxnews.com/us/los-angeles-dodgers-win-unrest-crowds-coronavirus-crime",
+    "source": "Fox News",
+    "time": "51 mins ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Maine sees largest single-day jump in new coronavirus cases since pandemic \nbegan",
+    "url": "https://bangordailynews.com/2020/10/28/news/87-new-coronavirus-cases-have-been-reported-in-maine-0vzoa9n507wn/",
+    "source": "Bangor Daily News",
+    "time": "42 mins ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "bangordailynews.com"
+  },
+  {
+    "title": "Dow slides nearly 600 points as rising coronavirus counts threaten fragile \nrecovery",
+    "url": "https://www.washingtonpost.com/business/2020/10/28/stock-market-today-coronavirus/",
+    "source": "Washington Post",
+    "time": "33 mins ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "CTs Coronavirus Travel Advisory List: 3 States Added, 1 Dropped",
+    "url": "https://patch.com/connecticut/across-ct/cts-coronavirus-travel-advisory-list-3-states-added-1-dropped",
+    "source": "Patch.com",
+    "time": "14 hours ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "patch.com"
+  },
+  {
+    "title": "Baker calls out those under 30 for large part of coronavirus spike",
+    "url": "https://www.bostonglobe.com/2020/10/27/metro/gov-baker-speak-concern-rises-about-coronavirus-cases/",
+    "source": "The Boston Globe",
+    "time": "1 day ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Dodgers' Justin Turner seen on field after World Series win without mask \nafter positive COVID-19 test",
+    "url": "https://www.foxnews.com/sports/dodgers-justin-turner-world-series-coronavirus",
+    "source": "Fox News",
+    "time": "10 hours ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "America Is About to Choose How Bad the Pandemic Will Get",
+    "url": "https://www.theatlantic.com/health/archive/2020/10/coronavirus-election/616884/",
+    "source": "The Atlantic",
+    "time": "3 hours ago",
+    "date": "2020-10-28 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.theatlantic.com"
+  }
+]

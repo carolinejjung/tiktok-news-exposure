@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/02/05/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "9 mins ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/coronavirus-latest",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus live news: Israel to ease lockdown; Von der Leyen compares UK \nvaccine 'speedboat' to EU 'tanker'",
+    "url": "https://www.theguardian.com/world/live/2021/feb/05/coronavirus-live-news-us-records-40000-deaths-in-two-weeks-mexico-runs-out-of-vaccine",
+    "source": "The Guardian",
+    "time": "12 mins ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Alcohol-related deaths hit record high in UK amid coronavirus | TheHill",
+    "url": "https://thehill.com/policy/international/europe/537505-alcohol-related-deaths-hit-record-high-in-uk-amid-coronavirus",
+    "source": "The Hill",
+    "time": "36 mins ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Senate adopts budget resolution for coronavirus relief after Republicans \nsqueeze Dems in marathon vote-a-rama",
+    "url": "https://www.foxnews.com/politics/vote-a-rama-drags-into-friday-morning-as-senate-republicans-force-democrats-on-the-record-on-tough-issues",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Live updates: U.S. coronavirus deaths top 454,000 ahead of Super Bowl; \nSenate paves way for relief measures",
+    "url": "https://www.washingtonpost.com/nation/2021/02/05/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "22 mins ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Daily coronavirus updates: Connecticut reports lowest single-day positivity \nrate since Halloween; Gov. Ned Lamont directs $40M in aid toward hospitals",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-daily-updates-0204-20210204-lbs7wsjn3fc7hkauttq3yc7xua-story.html",
+    "source": "Hartford Courant",
+    "time": "16 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.courant.com"
+  },
+  {
+    "title": "Couple Married 52 Years Die of Coronavirus Just 3 Hours Apart After Sending \nEach Other Hospital Love Notes",
+    "url": "https://people.com/human-interest/couple-married-52-years-die-of-coronavirus-just-hours-apart/",
+    "source": "PEOPLE.com",
+    "time": "12 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "people.com"
+  },
+  {
+    "title": "LGBTQ Americans at heightened risk for severe coronavirus symptoms, CDC says",
+    "url": "https://www.axios.com/coronavirus-cdc-lgbtq-americans-27f12507-1174-412e-bb33-57f0ef4ce9b2.html",
+    "source": "Axios",
+    "time": "16 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "How can I get a coronavirus shot? Here are 5 vaccination questions answered",
+    "url": "https://www.cnbc.com/2021/02/05/how-can-i-get-a-coronavirus-vaccine-covid-vaccine-questions-answered.html",
+    "source": "CNBC",
+    "time": "9 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

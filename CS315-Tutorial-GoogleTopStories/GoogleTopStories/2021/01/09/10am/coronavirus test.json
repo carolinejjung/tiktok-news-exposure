@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Mass. Tops 400,000 Coronavirus Cases Amid Record-Breaking Surge",
+    "url": "https://www.nbcboston.com/news/coronavirus/mass-sets-2nd-single-day-coronavirus-cases-record-in-a-row/2276019/",
+    "source": "NBC10 Boston",
+    "time": "12 hours ago",
+    "date": "2021-01-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nbcboston.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-08-21/h_f58880d7db8b0f7dea8785528e3debc2",
+    "source": "CNN International",
+    "time": "19 hours ago",
+    "date": "2021-01-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "edition.cnn.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: More Than 150,000 Are Fully Vaccinated in the U.S.",
+    "url": "https://www.nytimes.com/live/2021/01/09/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "19 mins ago",
+    "date": "2021-01-09 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

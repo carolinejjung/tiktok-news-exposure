@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live Updates: Coronavirus Dominates G20 Summit",
+    "url": "https://www.nytimes.com/live/2020/11/21/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "2 hours ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'No beds anywhere': Minnesota hospitals strained to the limit by COVID-19",
+    "url": "https://www.startribune.com/covid-taxing-minnesota-hospitals/573157441/",
+    "source": "Minneapolis Star Tribune",
+    "time": "2 hours ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "FDA authorizes emergency use of the antibody cocktail given to Trump to \ntreat Covid-19",
+    "url": "https://www.cnn.com/2020/11/21/health/regeneron-fda-clearance-trump-coronavirus/index.html",
+    "source": "CNN",
+    "time": "19 mins ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Regeneron's antibody cocktail for COVID-19 authorized by FDA",
+    "url": "https://abc7ny.com/regeneron-fda-covid-antibody/8158180/",
+    "source": "WABC-TV",
+    "time": "18 mins ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "COVID-19 case explosion pushes limits of Northern Kentucky Health efforts \nto curtail spread",
+    "url": "https://www.cincinnati.com/story/news/2020/11/22/covid-19-rise-outstrips-northern-kentucky-health-contact-tracing-effort/6354347002/",
+    "source": "Cincinnati.com",
+    "time": "9 mins ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cincinnati.com"
+  },
+  {
+    "title": "Columbia University bans 70 students for Covid-19 travel violations",
+    "url": "https://www.cnn.com/2020/11/21/us/columbia-university-covid-travel-students-banned-trnd/index.html",
+    "source": "CNN",
+    "time": "9 hours ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Over 80 COVID-19 cases in Minnesota traced to Sturgis rally: CDC",
+    "url": "https://abcnews.go.com/US/80-covid-19-cases-minnesota-traced-sturgis-rally/story?id=74336914",
+    "source": "ABC News",
+    "time": "7 hours ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "U.S. reports 195,000 new COVID-19 cases in one day, a record",
+    "url": "https://www.cbsnews.com/news/covid-19-cases-united-states-195k-one-day-new-record/",
+    "source": "CBS News",
+    "time": "13 hours ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Fact check: Dolly Parton helped fund Moderna's COVID-19 vaccine research",
+    "url": "https://www.usatoday.com/story/news/factcheck/2020/11/21/fact-check-dolly-parton-donated-modernas-covid-19-vaccine-studies/6373339002/",
+    "source": "USA TODAY",
+    "time": "4 hours ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Regeneron Gets Emergency U.S. Clearance for Covid-19 Therapy",
+    "url": "https://www.bloomberg.com/news/articles/2020-11-22/regeneron-gets-emergency-u-s-clearance-for-covid-19-therapy",
+    "source": "Bloomberg",
+    "time": "1 hour ago",
+    "date": "2020-11-21 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.bloomberg.com"
+  }
+]

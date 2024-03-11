@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Some have no COVID symptoms: Could the common cold be a reason?",
+    "url": "https://abcnews.go.com/Health/covid-symptoms-common-cold-reason/story?id=72442666",
+    "source": "ABC News",
+    "time": "20 hours ago",
+    "date": "2020-08-23 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Long-lasting coronavirus cases resemble chronic fatigue syndrome - Business \nInsider",
+    "url": "https://www.businessinsider.com/coronavirus-long-haul-lasting-symptoms-chronic-fatigue-syndrome-2020-8",
+    "source": "Business Insider",
+    "time": "1 day ago",
+    "date": "2020-08-23 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Coronavirus survivors plagued by long-term ailments",
+    "url": "https://www.foxnews.com/health/coronavirus-survivors-plagued-by-long-term-ailments",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-08-23 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  }
+]

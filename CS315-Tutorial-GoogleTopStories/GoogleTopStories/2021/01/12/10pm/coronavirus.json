@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus World Map: Tracking the Global Outbreak",
+    "url": "https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html",
+    "source": "New York Times Australia",
+    "time": "Feb 27, 2020",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-12-21/index.html",
+    "source": "CNN.com",
+    "time": "15 mins ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Oregon ties record with 54 reported coronavirus deaths",
+    "url": "https://www.oregonlive.com/coronavirus/2021/01/oregon-ties-record-with-54-reported-coronavirus-deaths.html",
+    "source": "oregonlive.com",
+    "time": "1 hour ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "States that favored cats or dogs during coronavirus pandemic: Report",
+    "url": "https://www.foxnews.com/lifestyle/which-states-favored-cats-dogs-coronavirus-pandemic-report",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Boston mayoral race: Janey giving \u2018serious consideration\u2019; Campbell \nreleasing coronavirus plan",
+    "url": "https://www.bostonherald.com/2021/01/12/boston-mayoral-race-janey-giving-serious-consideration-campbell-releasing-coronavirus-plan/",
+    "source": "Boston Herald",
+    "time": "1 hour ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "CES 2021's coolest new gadgets: Rollable phones, giant TVs, coronavirus \nkillers",
+    "url": "https://www.cnet.com/pictures/ces-2021-coolest-new-gadgets-rollable-phones-giant-tvs-coronavirus-killers/",
+    "source": "CNET",
+    "time": "12 hours ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnet.com"
+  },
+  {
+    "title": "Livid Urgent Care Worker Got Coronavirus Waiting For Vaccine",
+    "url": "https://patch.com/new-york/riverhead/livid-urgent-care-worker-got-coronavirus-waiting-vaccine",
+    "source": "Patch.com",
+    "time": "2 hours ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "patch.com"
+  },
+  {
+    "title": "Live updates: U.S. sets new deaths record as sweeping changes in \nvaccination rollout announced",
+    "url": "https://www.washingtonpost.com/nation/2021/01/12/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "14 mins ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "CDC Requires COVID-19 Test From Air Passengers Entering the U.S.",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/12/956206410/cdc-requires-covid-19-test-from-air-passengers-entering-the-u-s",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Immunological characteristics govern the transition of COVID-19 to \nendemicity",
+    "url": "https://science.sciencemag.org/content/early/2021/01/11/science.abe6522",
+    "source": "Science",
+    "time": "11 hours ago",
+    "date": "2021-01-12 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "science.sciencemag.org"
+  }
+]

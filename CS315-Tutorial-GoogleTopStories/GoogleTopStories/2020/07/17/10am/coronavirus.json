@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus Cases Updates",
+    "url": "https://www.nytimes.com/2020/07/17/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "8 hours ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: U.S. blows past coronavirus record with more than 70,000 new \ncases in one day",
+    "url": "https://www.washingtonpost.com/nation/2020/07/17/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "13 mins ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus updates: Britain eases restrictions as US hits record number of \nCOVID cases in one day",
+    "url": "https://www.usatoday.com/story/news/nation/2020/07/17/covid-19-georgia-governor-sues-atlanta-mayor-florida-record-deaths/5455579002/",
+    "source": "USATODAY.com",
+    "time": "22 mins ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Coronavirus epicenter Miami-Dade County announces a $100 fine for anyone \nwho fails to wear a mask in public",
+    "url": "https://www.cnn.com/2020/07/17/us/miami-dade-mask-requirement-fine-trnd/index.html",
+    "source": "CNN.com",
+    "time": "31 mins ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Texas, Arizona bring in refrigerated trucks to store hundreds of bodies \nafter coronavirus deaths surge",
+    "url": "https://www.foxnews.com/us/texas-arizona-refrigerated-trucks-morgues-coronavirus-deaths",
+    "source": "Fox News",
+    "time": "39 mins ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Rising coronavirus infections risk a 'W-shaped' recovery, economists warn",
+    "url": "https://www.cnbc.com/2020/07/17/rising-coronavirus-infections-risk-a-w-shaped-recovery-economists-warn.html",
+    "source": "CNBC.com",
+    "time": "38 mins ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Gov. Wolf Yanks Coronavirus Funding From Rebellious Pa. County",
+    "url": "https://www.nbcphiladelphia.com/news/coronavirus/tom-wolf-coronavirus-funding-lebanon-county/2469477/",
+    "source": "NBC10 Philadelphia",
+    "time": "42 mins ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcphiladelphia.com"
+  },
+  {
+    "title": "US confirms over 75,600 coronavirus new cases, breaking single-day record | \nTheHill",
+    "url": "https://thehill.com/homenews/news/507781-us-confirms-over-75600-coronavirus-new-cases-breaking-single-day-record",
+    "source": "TheHill",
+    "time": "2 hours ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Florida coronavirus patient went from diagnosis to dying in her daughter's \narms in a matter of days",
+    "url": "https://www.cnn.com/2020/07/17/us/florida-coronavirus-patient-dies-hospital/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: Georgia governor sues Atlanta over face mask rules",
+    "url": "https://www.bbc.com/news/world-us-canada-53429800",
+    "source": "BBC",
+    "time": "3 hours ago",
+    "date": "2020-07-17 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bbc.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Forty percent of people with coronavirus infections have no symptoms. Might \nthey be the key to ending the pandemic?",
+    "url": "https://www.washingtonpost.com/health/2020/08/08/asymptomatic-coronavirus-covid/",
+    "source": "Washington Post",
+    "time": "20 hours ago",
+    "date": "2020-08-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Even Asymptomatic People Carry the Coronavirus in High Amounts",
+    "url": "https://www.nytimes.com/2020/08/06/health/coronavirus-asymptomatic-transmission.html",
+    "source": "The New York Times",
+    "time": "2 days ago",
+    "date": "2020-08-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Black And Hispanic Children At Risk For 'Severe' COVID-19 Symptoms, CDC \nFinds",
+    "url": "https://www.npr.org/2020/08/08/900494834/children-can-get-severe-covid-19-cdc-says-especially-black-and-hispanic-children",
+    "source": "NPR",
+    "time": "19 hours ago",
+    "date": "2020-08-09 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  }
+]

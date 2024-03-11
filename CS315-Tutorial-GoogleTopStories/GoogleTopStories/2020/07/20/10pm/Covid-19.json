@@ -1,0 +1,102 @@
+[
+  {
+    "title": "New Treatment for Covid-19 Shows Promise, but Scientists Urge Caution",
+    "url": "https://www.nytimes.com/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html",
+    "source": "The New York Times",
+    "time": "9 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "A Florida mother lost a son to Covid-19. Days later, her daughter also died \nof it",
+    "url": "https://www.cnn.com/2020/07/20/us/florida-mother-2-children-covid-19-deaths/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Hospital uses shipping containers to quickly construct Covid-19 unit",
+    "url": "https://www.cnn.com/videos/us/2020/07/21/georgia-coronavirus-gainesville-hospital-tuchman-pkg-ac360-vpx.cnn",
+    "source": "CNN.com",
+    "time": "33 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Businesses cited for failing to follow COVID-19 health orders",
+    "url": "https://www.13abc.com/2020/07/21/businesses-cited-for-failing-to-follow-covid-19-health-orders/",
+    "source": "13abc",
+    "time": "44 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.13abc.com"
+  },
+  {
+    "title": "Minnesota reports child COVID-19 death, more than 900 new cases",
+    "url": "https://www.startribune.com/state-reports-infant-covid-19-death-more-than-900-new-cases/571834671/",
+    "source": "Star Tribune",
+    "time": "46 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "Life Care Center of South Hill sees 50 new COVID-19 cases",
+    "url": "https://komonews.com/news/coronavirus/life-care-center-of-south-hill-sees-50-new-covid-19-cases",
+    "source": "KOMO",
+    "time": "49 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Sanitation Union Says More than 100 Workers Have Contracted COVID-19 As \nTrash Piles Up on Philly Streets",
+    "url": "https://6abc.com/philadelphia-trash-problem-in-philly-streets/6325922/",
+    "source": "6abc Philadelphia",
+    "time": "4 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "6abc.com"
+  },
+  {
+    "title": "The East Coast heat wave isn't helping COVID-19 efforts",
+    "url": "https://abcnews.go.com/Health/east-coast-heat-wave-helping-covid-19-efforts/story?id=71876129",
+    "source": "ABC News - Go.com",
+    "time": "4 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "'They\u2019re going to get over it': Missouri Gov. insists kids must go back to \nschool even though 'they will' get COVID-19",
+    "url": "https://www.usatoday.com/story/news/politics/2020/07/20/missouri-gov-mike-parson-says-kids-get-over-covid-19/5474557002/",
+    "source": "USATODAY.com",
+    "time": "4 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Travelers Coming to CT From COVID-19 Hotspots Must Follow Protocols Or \nCould Face Fine",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/watch-live-at-4pm-gov-lamont-to-provide-update-on-states-coronavirus-response-2/2304921/",
+    "source": "NBC Connecticut",
+    "time": "5 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcconnecticut.com"
+  }
+]

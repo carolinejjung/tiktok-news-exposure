@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Spread in Tennessee, Despite State Paying for Covid-19 Testing",
+    "url": "https://www.nytimes.com/2020/07/08/us/politics/tennessee-covid-testing.html",
+    "source": "The New York Times",
+    "time": "17 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "NIH launches clinical trials network to test COVID-19 vaccines and other \nprevention tools",
+    "url": "https://www.nih.gov/news-events/news-releases/nih-launches-clinical-trials-network-test-covid-19-vaccines-other-prevention-tools",
+    "source": "NIH",
+    "time": "11 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nih.gov"
+  },
+  {
+    "title": "Mariners coronavirus testing: Three positives and lots of speculation, but \nJerry Dipoto is encouraged",
+    "url": "https://www.seattletimes.com/sports/mariners/mariners-coronavirus-testing-three-positives-and-lots-of-speculation-but-jerry-dipoto-is-encouraged/",
+    "source": "The Seattle Times",
+    "time": "8 mins ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.seattletimes.com"
+  }
+]

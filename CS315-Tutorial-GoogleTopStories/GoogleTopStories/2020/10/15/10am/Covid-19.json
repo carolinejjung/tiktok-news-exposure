@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/10/15/world/covid-coronavirus",
+    "source": "The New York Times",
+    "time": "34 mins ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Melania Trump details Covid illness and reveals son Barron contracted it",
+    "url": "https://www.cnn.com/2020/10/14/politics/melania-trump-barron-covid/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Harris suspends travel after staffer tests COVID-19 positive",
+    "url": "https://apnews.com/article/election-2020-virus-outbreak-joe-biden-campaigns-kamala-harris-aa0bb12aca5568d20a7d6b86f24da7d0",
+    "source": "Associated Press",
+    "time": "21 mins ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Report: Falcons shutting down facility after 4 positive COVID-19 tests",
+    "url": "https://sports.yahoo.com/report-falcons-shutting-down-facility-after-multiple-positive-covid-19-tests-124712638.html",
+    "source": "Yahoo Sports",
+    "time": "1 hour ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "sports.yahoo.com"
+  },
+  {
+    "title": "Falcons working remotely Thursday after positive COVID-19 test",
+    "url": "https://www.nfl.com/news/falcons-working-remotely-facility-thursday-positive-covid-19-test",
+    "source": "NFL.com",
+    "time": "1 hour ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.nfl.com"
+  },
+  {
+    "title": "These 63 communities are now at high risk for COVID-19, according to the \nstate",
+    "url": "https://www.bostonglobe.com/2020/10/15/nation/these-63-communities-are-now-high-risk-covid-19-according-state/",
+    "source": "The Boston Globe",
+    "time": "9 hours ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "In COVID-19 red zone: Worcester, Shrewsbury, Auburn, Leicester, Webster, \nOxford, Milford, Southboro, Hudson, Marlboro",
+    "url": "https://www.telegram.com/news/20201014/in-covid-19-red-zone-worcester-shrewsbury-auburn-leicester-webster-oxford-milford-southboro-hudson-marlboro",
+    "source": "Worcester Telegram",
+    "time": "14 hours ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.telegram.com"
+  },
+  {
+    "title": "Scientific consensus on the COVID-19 pandemic: we need to act now",
+    "url": "https://www.thelancet.com/lancet/article/s0140-6736(20)32153-x",
+    "source": "The Lancet",
+    "time": "5 hours ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.thelancet.com"
+  },
+  {
+    "title": "What's your blood type? It may affect your risk for Covid-19",
+    "url": "https://www.nbcnews.com/health/health-news/what-s-your-blood-type-it-may-affect-your-risk-n1243322",
+    "source": "NBC News",
+    "time": "30 mins ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Why Covid-19 Is Spreading Again: Fatigue, Colder Weather, Eased Restrictions",
+    "url": "https://www.wsj.com/articles/why-covid-19-is-spreading-again-fatigue-colder-weather-eased-restrictions-11602759601",
+    "source": "Wall Street Journal",
+    "time": "3 hours ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "New Covid-19 cases are declining across the US, official says, but that \ncould quickly change if people aren't careful",
+    "url": "https://www.cnn.com/2020/08/20/health/us-coronavirus-thursday/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-08-20 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump administration limits FDA review of some coronavirus tests",
+    "url": "https://www.politico.com/news/2020/08/19/trump-fda-review-coronavirus-tests-398924",
+    "source": "Politico",
+    "time": "12 hours ago",
+    "date": "2020-08-20 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Massachusetts courthouse closes after coronavirus outbreak",
+    "url": "https://whdh.com/news/massachusetts-courthouse-closes-after-coronavirus-outbreak/",
+    "source": "Boston News, Weather, Sports | WHDH 7News",
+    "time": "16 mins ago",
+    "date": "2020-08-20 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "whdh.com"
+  }
+]

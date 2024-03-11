@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/24/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "7 mins ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "US FDA announces emergency authorization for convalescent plasma to treat \nCovid-19",
+    "url": "https://www.cnn.com/2020/08/23/health/covid-19-convalescent-plasma-eua-white-house/index.html",
+    "source": "CNN",
+    "time": "11 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Georgia Tech quarantines fraternity, reports 51 new COVID-19 cases",
+    "url": "https://www.nbcnews.com/news/us-news/georgia-tech-quarantines-fraternity-reports-51-new-covid-19-cases-n1237827",
+    "source": "NBC News",
+    "time": "25 mins ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "NFL's positive weekend coronavirus tests deemed negative after retests, lab \nsays",
+    "url": "https://www.usatoday.com/story/sports/nfl/2020/08/24/coronavirus-nfl-tests-weekend-deemed-false-positives/3428505001/",
+    "source": "USA TODAY",
+    "time": "27 mins ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Conservative lawmakers want to impeach Gov. Mike DeWine over COVID-19 \nresponse",
+    "url": "https://www.cincinnati.com/story/news/2020/08/24/conservative-lawmakers-want-impeach-gov-mike-dewine-over-covid-19-response/3428359001/",
+    "source": "Cincinnati.com",
+    "time": "1 hour ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.cincinnati.com"
+  },
+  {
+    "title": "Global stocks jump as Trump signals 'gamechanger' plan to deliver a \nCOVID-19 vaccine ahead of the election",
+    "url": "https://www.businessinsider.com/stock-market-global-stocks-jump-trump-covid-19-vaccine-november-2020-8",
+    "source": "Business Insider",
+    "time": "2 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "New Covid-19 Cases in U.S. Fall to Lowest Level in More Than Two Months",
+    "url": "https://www.wsj.com/articles/coronavirus-latest-news-08-24-2020-11598258429",
+    "source": "Wall Street Journal",
+    "time": "2 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Sunday's False Positives Gave the NFL's Gameday COVID-19 Policies a Trial \nRun",
+    "url": "https://www.si.com/nfl/2020/08/24/covid-19-false-positives-trial-run-sam-darnold-joe-judge",
+    "source": "Sports Illustrated",
+    "time": "4 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.si.com"
+  },
+  {
+    "title": "They Survived The Ventilator. But Why Does Their COVID Coma Persist? : \nShots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/08/24/904347130/another-covid-19-medical-mystery-patients-come-off-ventilator-but-linger-in-a-co",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "'What's poppin'?': Georgia teachers' COVID-19, back-to-school rendition of \nTikTok hit goes viral",
+    "url": "https://www.nbcnews.com/news/nbcblk/what-s-poppin-georgia-teachers-covid-19-back-school-rendition-n1237812",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcnews.com"
+  }
+]

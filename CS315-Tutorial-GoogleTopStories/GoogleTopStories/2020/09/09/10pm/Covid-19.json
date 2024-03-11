@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 News Updates",
+    "url": "https://www.nytimes.com/2020/09/09/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "31 mins ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Fauci pushes back on portrayal of Trump criticism in book",
+    "url": "https://www.washingtonpost.com/nation/2020/09/09/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "45 mins ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "'Wheel of Fortune' is spelling out changes to address the COVID-19 pandemic \nera",
+    "url": "https://www.usatoday.com/story/entertainment/tv/2020/09/09/wheel-fortune-return-changes-due-covid-19-pandemic/5765893002/",
+    "source": "USA TODAY",
+    "time": "30 mins ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Everett closing parks, courts and playgrounds until COVID-19 rate decreases",
+    "url": "https://www.wcvb.com/article/everett-closing-parks-courts-and-playgrounds-until-covid-19-rate-decreases/33973500",
+    "source": "WCVB Boston",
+    "time": "56 mins ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wcvb.com"
+  },
+  {
+    "title": "After 6 months of COVID-19, living, working and learning in Greater Lansing \nwill never be the same",
+    "url": "https://www.lansingstatejournal.com/story/news/2020/09/10/six-months-covid-19-how-life-lansing-may-never-same/5745304002/",
+    "source": "Lansing State Journal",
+    "time": "14 mins ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.lansingstatejournal.com"
+  },
+  {
+    "title": "AstraZeneca CEO says participant had neurological symptoms, could be \ndischarged today",
+    "url": "https://www.statnews.com/2020/09/09/astrazeneca-covid19-vaccine-trial-hold-patient-report/",
+    "source": "STAT",
+    "time": "1 hour ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.statnews.com"
+  },
+  {
+    "title": "'Play it down': Trump admits to concealing the true threat of coronavirus \nin new Woodward book",
+    "url": "https://www.cnn.com/2020/09/09/politics/bob-woodward-rage-book-trump-coronavirus/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Connecticut's COVID-19 Test Positivity Rate Jumps Above 1%; \nHospitalizations Increase",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/connecticuts-covid-19-test-positivity-rate-jumps-above-1-hospitalizations-increase/2330302/",
+    "source": "NBC Connecticut",
+    "time": "3 hours ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Was COVID-19 Manmade? Meet the Scientist Behind the Theory",
+    "url": "https://www.bostonmagazine.com/news/2020/09/09/alina-chan-broad-institute-coronavirus/",
+    "source": "Boston magazine",
+    "time": "12 hours ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.bostonmagazine.com"
+  },
+  {
+    "title": "250,000 COVID-19 infections from Sturgis? 'Made up' numbers, S.D. governor \nsays",
+    "url": "https://www.nbcnews.com/news/us-news/250-000-covid-19-infections-sturgis-made-numbers-s-d-n1239657",
+    "source": "NBC News",
+    "time": "6 hours ago",
+    "date": "2020-09-09 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcnews.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus tests delivered by drone pilot project in Texas",
+    "url": "https://www.foxnews.com/tech/covid-19-tests-delivered-drone-texas",
+    "source": "Fox News",
+    "time": "1 day ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "I'm going to visit family for Thanksgiving. Should I get a COVID test \nbefore I go?",
+    "url": "https://www.usatoday.com/story/news/health/2020/11/19/covid-19-test-before-thanksgiving-travel-when-get-coronavirus-test/6337856002/",
+    "source": "USA TODAY",
+    "time": "9 hours ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Suffolk piloting schools COVID-19 testing program in Hampton Bays, Riverhead",
+    "url": "https://www.newsday.com/long-island/education/long-island-coronavirus-testing-schools-1.50070260",
+    "source": "Newsday",
+    "time": "1 hour ago",
+    "date": "2020-11-19 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.newsday.com"
+  }
+]

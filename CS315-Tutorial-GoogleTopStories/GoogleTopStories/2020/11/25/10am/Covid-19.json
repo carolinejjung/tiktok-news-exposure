@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/11/25/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Los Angeles Dept of Public Health admits no science link between outdoor \ndining, COVID-19 spike",
+    "url": "https://www.foxbusiness.com/lifestyle/los-angeles-department-of-public-health-admits-no-science-to-back-up-link-between-outdoor-dining-and-covid-spike",
+    "source": "Fox Business",
+    "time": "14 hours ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "From Covid-19 to racial justice, how 2020's biggest issues influenced the \nBlack vote",
+    "url": "https://www.nbcnews.com/news/nbcblk/covid-19-racial-justice-how-2020-s-biggest-issues-influenced-n1248961",
+    "source": "NBC News",
+    "time": "32 mins ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Ravens considering flying to Pittsburgh on Thanksgiving amid COVID-19 \noutbreak, per report",
+    "url": "https://www.cbssports.com/nfl/news/ravens-considering-flying-to-pittsburgh-on-thanksgiving-amid-covid-19-outbreak-per-report/",
+    "source": "CBSSports.com",
+    "time": "50 mins ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cbssports.com"
+  },
+  {
+    "title": "Potential COVID-19 surge following Thanksgiving could cause 'humanitarian \ncrisis,' experts warn",
+    "url": "https://abcnews.go.com/Health/potential-covid-19-surge-thanksgiving-humanitarian-crisis-experts/story?id=74365407",
+    "source": "ABC News",
+    "time": "2 hours ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "The US reported more than 2,100 deaths in a single day. Things are \nprojected to get worse",
+    "url": "https://www.cnn.com/2020/11/25/health/us-coronavirus-wednesday/index.html",
+    "source": "CNN",
+    "time": "45 mins ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "YouTube Suspends OANN for a Week After It Posted Fake COVID-19 Cure",
+    "url": "https://www.nbcboston.com/news/business/money-report/youtube-suspends-oann-for-a-week-after-it-posted-fake-covid-19-cure/2240532/",
+    "source": "NBC10 Boston",
+    "time": "14 hours ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.nbcboston.com"
+  },
+  {
+    "title": "With US in COVID-19 panic, Sen. Perdue saw stock opportunity",
+    "url": "https://apnews.com/article/politics-georgia-coronavirus-pandemic-david-perdue-atlanta-198e39c67f90e25bb6b2398bd32c1363",
+    "source": "Associated Press",
+    "time": "2 hours ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "How Biden And Democrats Are Thinking About More COVID Relief",
+    "url": "https://www.npr.org/2020/11/25/938564215/move-fast-push-for-a-big-deal-biden-faces-debate-over-more-covid-aid",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Manchester Restaurant Loses Food License After Multiple COVID-19 Rule \nViolations",
+    "url": "https://www.nbcconnecticut.com/news/local/manchester-restaurant-loses-food-license-after-multiple-covid-19-rule-violations/2369828/",
+    "source": "NBC Connecticut",
+    "time": "13 hours ago",
+    "date": "2020-11-25 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcconnecticut.com"
+  }
+]

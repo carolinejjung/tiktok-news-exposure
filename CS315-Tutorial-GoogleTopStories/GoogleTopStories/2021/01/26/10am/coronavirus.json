@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-26-21/index.html",
+    "source": "CNN",
+    "time": "15 mins ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus Variants Are Posing New Threats To Vaccines",
+    "url": "https://www.buzzfeednews.com/article/danvergano/coronavirus-variants-moderna-pfizer-vaccines",
+    "source": "BuzzFeed News",
+    "time": "1 hour ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.buzzfeednews.com"
+  },
+  {
+    "title": "663 newly recorded cases of coronavirus in Maine, 11 new deaths",
+    "url": "https://www.wabi.tv/2021/01/26/663-newly-recorded-cases-of-coronavirus-in-maine-11-new-deaths/",
+    "source": "WABI",
+    "time": "1 hour ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.wabi.tv"
+  },
+  {
+    "title": "EU threatens to restrict exports of Covid-19 vaccines amid rollout anger",
+    "url": "https://www.nbcnews.com/news/world/eu-threatens-restrict-exports-covid-19-vaccines-amid-rollout-anger-n1255636",
+    "source": "NBC News",
+    "time": "57 mins ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Wealthy couple chartered a plane to the Yukon, took vaccines doses meant \nfor Indigenous elders, authorities said",
+    "url": "https://www.washingtonpost.com/nation/2021/01/26/yukon-vaccine-couple-ekaterina-baker/",
+    "source": "Washington Post",
+    "time": "5 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "A Coronavirus Variant First Detected In Brazil Has Been Found In Minnesota \n: Coronavirus Updates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/25/960566484/a-more-contagious-coronavirus-variant-from-brazil-is-found-in-minnesota",
+    "source": "NPR",
+    "time": "12 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "3 reasons why the Massachusetts coronavirus vaccine rollout has gone so \nslowly",
+    "url": "https://www.boston.com/news/coronavirus/2021/01/25/massachusetts-vaccine-rollout-slowly",
+    "source": "Boston.com",
+    "time": "13 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.boston.com"
+  },
+  {
+    "title": "Coronavirus live updates: Biden is a 'game-changer,' New Jersey governor \nsays",
+    "url": "https://abcnews.go.com/Health/live-updates/coronavirus/?id=75465043",
+    "source": "ABC News",
+    "time": "31 mins ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Biden's 'nothing we can do' comments on coronavirus trajectory cause stir",
+    "url": "https://www.foxnews.com/politics/biden-coronavirus-trajectory-nothing-we-can-do-reaction",
+    "source": "Fox News",
+    "time": "23 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

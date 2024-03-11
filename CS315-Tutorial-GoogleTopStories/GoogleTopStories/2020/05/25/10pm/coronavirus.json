@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus Global News Tracker: Latest Updates",
+    "url": "https://www.nytimes.com/2020/05/25/world/coronavirus-news-cases-deaths.html",
+    "source": "The New York Times",
+    "time": "11 mins ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Trump pays tribute at Arlington National Cemetery on Memorial \nDay as U.S. virus death toll nears 100,000",
+    "url": "https://www.washingtonpost.com/nation/2020/05/25/coronavirus-update-us/",
+    "source": "The Washington Post",
+    "time": "46 mins ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "From flu pandemic to coronavirus: 100-year-old photo unearths fascinating, \neerie story",
+    "url": "https://whdh.com/news/from-flu-pandemic-to-coronavirus-100-year-old-photo-unearths-fascinating-eerie-story/",
+    "source": "WHDH 7News",
+    "time": "25 mins ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "whdh.com"
+  },
+  {
+    "title": "WHO sounds warning on coronavirus 'second peak': Live updates",
+    "url": "https://www.aljazeera.com/news/2020/05/sounds-warning-coronavirus-peak-live-updates-200526002031517.html",
+    "source": "Al Jazeera",
+    "time": "42 mins ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "COVID-19 outbreak at Fayetteville veterans nursing home",
+    "url": "https://www.wral.com/coronavirus/covid-19-outbreak-at-fayetteville-veterans-nursing-home/19113902/",
+    "source": "WRAL-TV",
+    "time": "44 mins ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.wral.com"
+  },
+  {
+    "title": "For Economy, Worst of Coronavirus Shutdowns May Be Over",
+    "url": "https://www.wsj.com/articles/for-economy-worst-of-coronavirus-shutdowns-may-be-over-11590408000",
+    "source": "The Wall Street Journal",
+    "time": "2 hours ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Betty White is doing perfectly fine despite the coronavirus pandemic",
+    "url": "https://www.cnn.com/2020/05/25/us/betty-white-coronavirus-trnd/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: Connecticut hospitalizations tick up slightly",
+    "url": "http://turnto10.com/news/local/coronavirus-connecticut-hospitalizations-tick-up-slightly",
+    "source": "WJAR",
+    "time": "3 hours ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-05-25-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "3 hours ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Dow futures jump more than 200 points on hopes of a coronavirus vaccine",
+    "url": "https://www.cnbc.com/2020/05/25/stock-market-futures-open-to-close-news.html",
+    "source": "CNBC.com",
+    "time": "4 hours ago",
+    "date": "2020-05-25 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

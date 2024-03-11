@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/06/23/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "7 mins ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Dr. Fauci gets upset with GOP lawmaker's question",
+    "url": "https://www.cnn.com/videos/health/2020/06/23/anthony-fauci-masks-question-vpx.cnn",
+    "source": "CNN",
+    "time": "7 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Fauci says in 40 years of dealing with viral outbreaks, he\u2019s never seen \nanything like COVID-19",
+    "url": "https://www.marketwatch.com/story/fauci-says-covid-19-has-one-characteristic-hes-never-seen-before-ive-been-dealing-with-viral-outbreaks-for-the-last-40-years-2020-06-23",
+    "source": "MarketWatch",
+    "time": "2 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "States might not need to do an 'absolute shutdown' if they run into \ncoronavirus trouble, Dr. Fauci says",
+    "url": "https://www.cnbc.com/2020/06/23/coronavirus-states-might-not-need-an-absolute-shutdown-again-dr-fauci-says.html",
+    "source": "CNBC",
+    "time": "4 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Fauci says he knows of no order to slow down coronavirus testing",
+    "url": "https://www.cbsnews.com/news/fauci-coronavirus-testing-house-committee-testimony/",
+    "source": "CBS News",
+    "time": "5 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 5,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Fauci, Citing \u2018Disturbing Surge,\u2019 Tells Congress the Virus Is Not Under \nControl",
+    "url": "https://www.nytimes.com/2020/06/23/us/politics/fauci-congress-coronavirus.html",
+    "source": "The New York Times",
+    "time": "5 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 6,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Fauci: Institutional racism playing role in disproportionate coronavirus \nimpact on Black community | TheHill",
+    "url": "https://thehill.com/homenews/coronavirus-report/504167-fauciinstitutional-racism-is-playing-role-in-disproportionate",
+    "source": "The Hill",
+    "time": "5 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 7,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "'We've been hit badly', Fauci warns of US coronavirus surge",
+    "url": "https://www.aljazeera.com/news/2020/06/fauci-testify-coronavirus-cases-surge-200623122027159.html",
+    "source": "Aljazeera.com",
+    "time": "5 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 8,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Fauci says institutional racism contributes to coronavirus impact in black \ncommunities",
+    "url": "https://www.foxnews.com/politics/fauci-says-institutional-racism-contributes-to-coronavirus-impacting-black-communities",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Trump didn't order testing slowdown, Fauci says",
+    "url": "https://news.yahoo.com/trump-didnt-order-testing-slowdown-fauci-says-172901319.html",
+    "source": "Yahoo News",
+    "time": "8 hours ago",
+    "date": "2020-06-23 22:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 10,
+    "domain": "news.yahoo.com"
+  }
+]

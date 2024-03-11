@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Long delays in getting test results hobble coronavirus response",
+    "url": "https://www.washingtonpost.com/health/long-delays-in-getting-test-results-hobble-coronavirus-response/2020/07/12/d32f7fa8-c1fe-11ea-b4f6-cb39cd8940fb_story.html",
+    "source": "Washington Post",
+    "time": "15 hours ago",
+    "date": "2020-07-13 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Meet the new Pixel: It's not a phone, it's a coronavirus test",
+    "url": "https://www.cnet.com/health/meet-the-new-pixel-its-not-a-phone-its-a-coronavirus-test/",
+    "source": "CNet",
+    "time": "2 hours ago",
+    "date": "2020-07-13 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnet.com"
+  },
+  {
+    "title": "Choke Point for U.S. Coronavirus Response: The Fax Machine",
+    "url": "https://www.nytimes.com/2020/07/13/upshot/coronavirus-response-fax-machines.html",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2020-07-13 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nytimes.com"
+  }
+]

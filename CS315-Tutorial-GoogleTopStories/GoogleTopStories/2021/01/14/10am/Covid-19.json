@@ -1,0 +1,102 @@
+[
+  {
+    "title": "COVID-19 Vaccine",
+    "url": "https://scdhec.gov/covid19/covid-19-vaccine",
+    "source": "SCDHEC",
+    "time": "1 week ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "scdhec.gov"
+  },
+  {
+    "title": "Covid-19 Vaccine and Cases News: Live Global Updates",
+    "url": "https://www.nytimes.com/live/2021/01/14/world/covid19-coronavirus",
+    "source": "The New York Times",
+    "time": "19 mins ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Ohio researchers discover new strain of COVID-19",
+    "url": "https://www.cbsnews.com/news/new-covid-strain-found-ohio/",
+    "source": "CBS News",
+    "time": "2 hours ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Alexion's Ultomiris falls short in COVID-19 trial after months of testing \nin severe patients",
+    "url": "https://www.fiercepharma.com/pharma/alexion-s-ultomiris-fails-to-show-promise-covid-19-trial-after-months-testing-severe",
+    "source": "FiercePharma",
+    "time": "7 mins ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.fiercepharma.com"
+  },
+  {
+    "title": "George Foreman takes a swing at COVID-19 with vaccine message for minorities",
+    "url": "https://abc7ny.com/health/george-foreman-to-get-covid-19-vaccine/9651942/",
+    "source": "WABC-TV",
+    "time": "6 mins ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-14-21/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "He unknowingly had Covid-19. Now his blood contains rare antibodies.",
+    "url": "https://www.nbcnews.com/news/nbcblk/he-unknowingly-had-covid-19-now-his-blood-contains-rare-n1254232",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "BU to Begin Giving COVID-19 Vaccines Friday | BU Today",
+    "url": "https://www.bu.edu/articles/2021/bu-to-begin-giving-covid-19-vaccines/",
+    "source": "BU Today",
+    "time": "10 hours ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bu.edu"
+  },
+  {
+    "title": "Florida\u2019s Covid-19 Vaccines Draw Foreigners, Snowbirds",
+    "url": "https://www.wsj.com/articles/floridas-covid-19-vaccines-draw-foreigners-snowbirds-11610620200",
+    "source": "The Wall Street Journal",
+    "time": "4 hours ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Raimondo extends COVID-19 guidance as McKee prepares to take over RI \npandemic response; 823 new cases, 17 deaths",
+    "url": "https://www.wpri.com/health/coronavirus/january-13-ri-coronavirus-update/",
+    "source": "WPRI.com",
+    "time": "21 hours ago",
+    "date": "2021-01-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wpri.com"
+  }
+]

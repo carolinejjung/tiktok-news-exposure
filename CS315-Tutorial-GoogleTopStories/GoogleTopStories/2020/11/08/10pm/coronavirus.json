@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Latest News: U.S. Surpasses 10 Million Cases",
+    "url": "https://www.nytimes.com/live/2020/11/08/world/covid19-coronavirus-live-updates",
+    "source": "The New York Times",
+    "time": "27 mins ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Asymptomatic coronavirus patient shed virus for 70 days: study - Business \nInsider",
+    "url": "https://www.businessinsider.com/patient-with-coronavirus-shed-virus-for-70-days-2020-11",
+    "source": "Business Insider",
+    "time": "4 hours ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "5908 new COVID-19 cases in Minnesota, another record; 31 more deaths",
+    "url": "https://www.startribune.com/state-hits-fresh-record-with-5-908-new-coronavirus-cases/573008861/",
+    "source": "Minneapolis Star Tribune",
+    "time": "1 hour ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "Coronavirus live news: US nears 10m cases as global infections pass 50m",
+    "url": "https://www.theguardian.com/world/live/2020/nov/09/coronavirus-live-news-us-nears-10m-cases-as-global-infections-pass-50m",
+    "source": "The Guardian",
+    "time": "9 mins ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "3 Fayetteville-Manlius school teachers test positive for coronavirus; \nmiddle school goes remote Monday",
+    "url": "https://www.syracuse.com/coronavirus/2020/11/3-fayetteville-manlius-school-teachers-test-positive-for-coronavirus-middle-school-goes-remote-monday.html",
+    "source": "syracuse.com",
+    "time": "32 mins ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.syracuse.com"
+  },
+  {
+    "title": "#Factsfirst: Jake Tapper, CNN\u2019s coronavirus double standard on Trump and \nBiden rallies exposed",
+    "url": "https://www.foxnews.com/media/factsfirst-jake-tapper-cnns-coronavirus-double-standard-on-trump-and-biden-rallies-exposed",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Shake Shack in West Hartford Temporarily Closed Amid Coronavirus Pandemic",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/shake-shack-in-west-hartford-temporarily-closed-amid-coronavirus-pandemic/2357260/",
+    "source": "NBC Connecticut",
+    "time": "17 mins ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-11-08-20-intl/h_e5e5744856ea9dae5f34a357333ced45",
+    "source": "CNN",
+    "time": "18 mins ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "New York\u2019s block-by-block lockdowns are curbing covid-19. But residents \naren\u2019t pleased.",
+    "url": "https://www.washingtonpost.com/health/2020/11/08/nyc-covid-targeted-lockdowns/",
+    "source": "Washington Post",
+    "time": "5 hours ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Just how is coronavirus spreading in record numbers in Oregon?",
+    "url": "https://www.oregonlive.com/coronavirus/2020/11/just-how-is-coronavirus-spreading-in-record-numbers-in-oregon.html",
+    "source": "oregonlive.com",
+    "time": "11 hours ago",
+    "date": "2020-11-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.oregonlive.com"
+  }
+]

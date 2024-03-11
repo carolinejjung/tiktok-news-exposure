@@ -1,0 +1,32 @@
+[
+  {
+    "title": "New Type of Test May Better Discern Immunity to the Coronavirus",
+    "url": "https://www.nytimes.com/2020/11/10/health/t-cell-test-coronavirus-immunity.html",
+    "source": "The New York Times",
+    "time": "16 hours ago",
+    "date": "2020-11-11 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "State to begin surveillance testing for coronavirus in K-12 schools",
+    "url": "https://vtdigger.org/2020/11/10/state-to-begin-surveillance-testing-for-coronavirus-in-k-12-schools/",
+    "source": "vtdigger.org",
+    "time": "16 hours ago",
+    "date": "2020-11-11 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "vtdigger.org"
+  },
+  {
+    "title": "Virus that causes COVID-19 found during wastewater test at another UNCC dorm",
+    "url": "https://www.wsoctv.com/news/local/virus-that-causes-covid-19-found-during-wastewater-test-unc-charlotte-dorm/OA5EPVI25BEK7EYF6KJ4JBHPHU/",
+    "source": "WSOC Charlotte",
+    "time": "15 mins ago",
+    "date": "2020-11-11 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wsoctv.com"
+  }
+]

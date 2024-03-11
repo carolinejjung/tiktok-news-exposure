@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 and Vaccine News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/30/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "9 mins ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "US hits record for daily Covid-19 deaths. Winter will be 'awful' before we \nsee 'some light,' expert says",
+    "url": "https://www.cnn.com/2020/12/30/health/us-coronavirus-wednesday/index.html",
+    "source": "CNN",
+    "time": "41 mins ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "California Hospitals Raise Limits On Nursing Workloads As COVID Surges : \nShots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/12/30/950177471/california-is-overriding-its-limits-on-nurse-workloads-as-covid-19-surges",
+    "source": "NPR",
+    "time": "1 hour ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Covid: Colorado confirms new virus strain in U.S. as McConnell loads up \nstimulus boost bill",
+    "url": "https://www.cnbc.com/2020/12/29/covid-live-updates.html",
+    "source": "CNBC",
+    "time": "1 hour ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "COVID-19 Latest: Restaurant Lawsuit Dismissed, Anne Arundel County \nOfficials To Maintain 25% Indoor Dining Capacity",
+    "url": "https://baltimore.cbslocal.com/2020/12/30/covid-19-latest-restaurant-lawsuit-dismissed-anne-arundel-county-officials-to-maintain-25-indoor-dining-capacity/",
+    "source": "CBS Baltimore",
+    "time": "40 mins ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "baltimore.cbslocal.com"
+  },
+  {
+    "title": "Louisiana Congressman-elect Luke Letlow dead from COVID-19 at 41",
+    "url": "https://nypost.com/2020/12/29/louisiana-congressman-elect-hospitalized-with-covid-19-dies/",
+    "source": "New York Post",
+    "time": "12 hours ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Louisiana Congressman-elect Luke Letlow dead from COVID-19",
+    "url": "https://apnews.com/article/health-monroe-louisiana-coronavirus-pandemic-shreveport-c76bcda2e5abd46a500763ed5a7e3440",
+    "source": "Associated Press",
+    "time": "12 hours ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Luke Letlow, Congressman-Elect From Louisiana, Dies From COVID-19",
+    "url": "https://www.npr.org/2020/12/30/951332740/louisiana-congressman-elect-dies-after-battling-covid-19",
+    "source": "NPR",
+    "time": "11 mins ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Nurse tests positive for COVID-19 despite recent vaccine",
+    "url": "https://abcnews.go.com/Health/nurse-tests-positive-covid-19-shortly-vaccinated/story?id=74947995",
+    "source": "ABC News",
+    "time": "17 hours ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Covid-19 Was Consuming India, Until Nearly Everyone Started Wearing Masks",
+    "url": "https://www.wsj.com/articles/covid-19-was-consuming-india-until-nearly-everyone-started-wearing-masks-11609329603",
+    "source": "The Wall Street Journal",
+    "time": "3 hours ago",
+    "date": "2020-12-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wsj.com"
+  }
+]

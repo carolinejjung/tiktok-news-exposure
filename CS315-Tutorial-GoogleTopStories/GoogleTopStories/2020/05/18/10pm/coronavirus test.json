@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus News and Live Updates",
+    "url": "https://www.nytimes.com/2020/05/18/us/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Early results from Moderna coronavirus vaccine trial show participants \ndeveloped antibodies against the virus",
+    "url": "https://www.cnn.com/2020/05/18/health/coronavirus-vaccine-moderna-early-results/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Napa County Encourages Everyone To Get Tested For Coronavirus",
+    "url": "https://news.yahoo.com/napa-county-encourages-everyone-tested-011402031.html",
+    "source": "Yahoo News",
+    "time": "25 mins ago",
+    "date": "2020-05-18 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "news.yahoo.com"
+  }
+]

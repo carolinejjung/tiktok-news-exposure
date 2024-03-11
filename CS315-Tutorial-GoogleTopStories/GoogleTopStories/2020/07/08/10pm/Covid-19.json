@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Sweden Has Become the World\u2019s Cautionary Tale",
+    "url": "https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Tulsa sees Covid-19 surge in the wake of Trump's June rally",
+    "url": "https://www.cnn.com/2020/07/08/us/tulsa-covid-trump-rally-contact-tracers-trnd/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Cincinnati Museum Center employee tests positive for COVID-19",
+    "url": "https://www.wlwt.com/article/cincinnati-museum-center-employee-tests-positive-for-covid-19/33254422",
+    "source": "WLWT - Cincinnati",
+    "time": "24 mins ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wlwt.com"
+  },
+  {
+    "title": "You can now sign up to participate in COVID-19 vaccine clinical trials",
+    "url": "https://fortune.com/2020/07/08/coronavirus-vaccine-clinical-trial-volunteers/",
+    "source": "Fortune",
+    "time": "24 mins ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "fortune.com"
+  },
+  {
+    "title": "Rural counties to be added to state's COVID-19 watchlist",
+    "url": "https://www.kcra.com/article/rural-counties-to-be-added-states-covid-19-watchlist/33253476",
+    "source": "KCRA.com",
+    "time": "25 mins ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.kcra.com"
+  },
+  {
+    "title": "Coventry restaurant temporarily shut down for violating state\u2019s COVID-19 \nmandates",
+    "url": "https://www.wpri.com/news/local-news/west-bay/coventry-restaurant-closed-for-violating-states-covid-19-mandates/",
+    "source": "WPRI.com",
+    "time": "1 hour ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "Scientists warn of potential wave of brain damage linked to Covid-19",
+    "url": "https://www.cnbc.com/2020/07/08/scientists-warn-of-potential-wave-of-brain-damage-linked-to-covid-19.html",
+    "source": "CNBC.com",
+    "time": "2 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "A simple cough, a diagnosis of COVID-19 for a Tigard woman and the fight to \nkeep her alive",
+    "url": "https://www.oregonlive.com/coronavirus/2020/07/a-simple-cough-a-diagnosis-of-covid-19-for-a-tigard-woman-and-the-fight-to-keep-her-alive.html",
+    "source": "OregonLive.com",
+    "time": "3 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "COVID-19: Long Island Sees Uptick In Positive Tests In Latest Three-Day Data",
+    "url": "https://dailyvoice.com/new-york/nassau/news/covid-19-long-island-sees-uptick-in-positive-tests-in-latest-three-day-data/790540/",
+    "source": "Daily Voice",
+    "time": "3 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Special Report: Bolsonaro bets 'miraculous cure' for COVID-19 can save \nBrazil - and his life",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-brazil-hydroxychlo/special-report-bolsonaro-bets-miraculous-cure-for-covid-19-can-save-brazil-and-his-life-idUSKBN249396",
+    "source": "Reuters",
+    "time": "4 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.reuters.com"
+  }
+]

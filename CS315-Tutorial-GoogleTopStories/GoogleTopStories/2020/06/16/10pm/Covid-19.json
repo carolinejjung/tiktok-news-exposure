@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pence Tells Governors to Repeat Misleading Claim on Outbreaks",
+    "url": "https://www.nytimes.com/2020/06/15/world/coronavirus-usa-world.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live Coronavirus Updates",
+    "url": "https://www.nytimes.com/2020/06/16/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "53 mins ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Pence calls concerns about coronavirus spike \u2018overblown\u2019 as \ncases surge in a dozen states",
+    "url": "https://www.washingtonpost.com/nation/2020/06/16/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "16 mins ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Conservative talk's Heidi Harris: Fighting COVID-19",
+    "url": "http://news3lv.com/news/local/conservative-talks-heidi-harris-take-covid-19-seriously",
+    "source": "KSNV",
+    "time": "24 mins ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "news3lv.com"
+  },
+  {
+    "title": "Jacksonville woman, 15 friends test positive for COVID-19 after dinner at \nrestaurant",
+    "url": "https://www.wfla.com/news/florida/jacksonville-woman-15-friends-test-positive-for-covid-19-after-dinner-at-restaurant/",
+    "source": "WFLA",
+    "time": "39 mins ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.wfla.com"
+  },
+  {
+    "title": "Trump Mentions AIDS Vaccine That Does Not Exist, Predicts Covid-19 Vaccine \nBy End Of 2020",
+    "url": "https://www.forbes.com/sites/brucelee/2020/06/16/trump-mentions-aids-vaccine-that-does-not-exist-predicts-covid-19-vaccine-by-end-of-2020/",
+    "source": "Forbes",
+    "time": "47 mins ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.forbes.com"
+  },
+  {
+    "title": "'Poor leadership': Texas Gov. Greg Abbott criticized for blaming younger \nresidents for COVID-19 spread",
+    "url": "https://www.usatoday.com/story/news/politics/2020/06/16/texas-gov-abbott-blames-younger-residents-covid-19-spread/3202157001/",
+    "source": "USA Today",
+    "time": "1 hour ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Even as COVID-19 cases surge in some states, governors move ahead on \nreopening",
+    "url": "https://www.bostonglobe.com/2020/06/16/nation/even-covid-19-cases-surge-some-states-governors-move-ahead-reopening/",
+    "source": "The Boston Globe",
+    "time": "2 hours ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Florida health care worker, 15 friends contract COVID-19 at bar",
+    "url": "https://nypost.com/2020/06/16/florida-healthcare-worker-15-friends-catch-covid-19-at-bar/",
+    "source": "New York Post",
+    "time": "6 hours ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Commonly used steroid reduces risk of death in sickest coronavirus \npatients, preliminary study results suggest",
+    "url": "https://www.cnn.com/2020/06/16/health/dexamethasone-covid-drug-recovery-trial-bn/index.html",
+    "source": "CNN.com",
+    "time": "7 hours ago",
+    "date": "2020-06-16 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.cnn.com"
+  }
+]

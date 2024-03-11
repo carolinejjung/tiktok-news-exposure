@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid Testing: What You Need to Know",
+    "url": "https://www.nytimes.com/2020/12/09/well/live/covid-coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "12 hours ago",
+    "date": "2020-12-10 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The CDC advises COVID-19 tests for holiday travel: 8 do's and don'ts ahead \nof your trip",
+    "url": "https://www.usatoday.com/story/travel/airline-news/2020/12/09/covid-travel-test-things-to-know-coronavirus-testing-pcr-antigen/3800400001/",
+    "source": "USA TODAY",
+    "time": "1 day ago",
+    "date": "2020-12-10 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "FDA authorizes first over-the-counter, non-prescription Covid-19 test \nsystem for home use",
+    "url": "https://www.cnn.com/2020/12/09/health/fda-over-counter-covid-test/index.html",
+    "source": "CNN",
+    "time": "11 hours ago",
+    "date": "2020-12-10 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

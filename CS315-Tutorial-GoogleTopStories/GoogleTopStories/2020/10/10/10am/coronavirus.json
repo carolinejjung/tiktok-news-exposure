@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-10-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "39 mins ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Chris Christie released from hospital after coronavirus scare",
+    "url": "https://nypost.com/2020/10/10/chris-christie-released-from-hospital-after-coronavirus-scare/",
+    "source": "New York Post",
+    "time": "41 mins ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Africa 'needs $1.2tn' to recover coronavirus losses",
+    "url": "https://www.bbc.com/news/world-africa-54491053",
+    "source": "BBC.com",
+    "time": "1 hour ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Dr. Birx warns of \"silent\" coronavirus spread in the Northeast",
+    "url": "https://www.cbsnews.com/news/coronavirus-northeast-birx-silent-spread/",
+    "source": "CBS News",
+    "time": "1 hour ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Coronavirus outbreaks on Utah farms leave 10,000 minks dead",
+    "url": "https://www.foxbusiness.com/lifestyle/coronavirus-outbreaks-on-utah-farms-leave-10000-minks-dead",
+    "source": "Fox Business",
+    "time": "12 hours ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Tool's Maynard James Keenan Opens Up About Coronavirus Battle & \nAfter-Effects: 'I Survived It, But It Wasn't P",
+    "url": "https://www.billboard.com/articles/columns/rock/9463589/tool-maynard-james-keenan-coronavirus-battle-after-effects",
+    "source": "Billboard",
+    "time": "14 hours ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.billboard.com"
+  },
+  {
+    "title": "McDonald\u2019s, Chipotle and Domino\u2019s Are Booming During Coronavirus While Your \nNeighborhood Restaurant Struggles",
+    "url": "https://www.wsj.com/articles/mcdonalds-chipotle-and-dominos-are-feasting-during-coronavirus-while-your-neighborhood-restaurant-fasts-11602302431",
+    "source": "Wall Street Journal",
+    "time": "10 hours ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Nine people who attended Trump rally in Minnesota contracted coronavirus | \nTheHill",
+    "url": "https://thehill.com/homenews/state-watch/520459-nine-people-who-attended-trump-rally-in-minnesota-contracted-coronavirus",
+    "source": "The Hill",
+    "time": "11 hours ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Coronavirus: Dr. Birx seeing a \u2018very different\u2019 spread of COVID-19",
+    "url": "https://www.deseret.com/u-s-world/2020/10/9/21509132/coronavirus-covid-19-spread-dr-birx",
+    "source": "Deseret News",
+    "time": "13 hours ago",
+    "date": "2020-10-10 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.deseret.com"
+  }
+]

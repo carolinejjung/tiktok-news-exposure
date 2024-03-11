@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 and Vaccine News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/30/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "9 mins ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Massachusetts Democratic congressman, vaccinated for Covid-19, tests \npositive for virus",
+    "url": "https://www.cnn.com/2021/01/30/politics/stephen-lynch-tests-positive-covid/index.html",
+    "source": "CNN",
+    "time": "6 hours ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "People wait in line for hours for chance at COVID-19 vaccine in Downtown \nDallas during Saturday spree",
+    "url": "https://www.wfaa.com/article/news/health/coronavirus/vaccine/hours-long-lines-covid-19-vaccine-downtown-dallas-kay-bailey-hutchison/287-038c7dbe-84bd-486f-a914-46402dc92125",
+    "source": "WFAA.com",
+    "time": "5 mins ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wfaa.com"
+  },
+  {
+    "title": "Navarro County Health Director Kent Rogers Dies After Complications From \nCOVID-19",
+    "url": "https://dfw.cbslocal.com/2021/01/30/navarro-county-health-director-kent-rogers-dies-complications-covid-19/",
+    "source": "CBS Dallas / Fort Worth",
+    "time": "14 mins ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "dfw.cbslocal.com"
+  },
+  {
+    "title": "COVID-19 arrived in Wisconsin one year ago. Here's how local leaders are \nreflecting",
+    "url": "https://www.channel3000.com/covid-19-arrived-in-wisconsin-one-year-ago-heres-how-local-leaders-are-reflecting/",
+    "source": "Channel3000.com - WISC-TV3",
+    "time": "6 mins ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.channel3000.com"
+  },
+  {
+    "title": "Rep. Stephen Lynch Tests Positive for COVID-19",
+    "url": "https://www.nbcboston.com/news/coronavirus/rep-stephen-lynch-tests-positive-for-covid-19/2288818/",
+    "source": "NBC10 Boston",
+    "time": "1 day ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.nbcboston.com"
+  },
+  {
+    "title": "Congressman who had second COVID-19 vaccine dose tests positive for virus",
+    "url": "https://www.foxnews.com/us/congressman-second-covid-19-dose-tests-positive-virus",
+    "source": "Fox News",
+    "time": "8 hours ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Lifespan held COVID-19 vaccine clinic this weekend for 75+",
+    "url": "https://turnto10.com/news/local/lifespan-holds-covid-19-vaccine-clinic-this-weekend-for-75",
+    "source": "WJAR",
+    "time": "3 hours ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, January 30: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-january-30-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "11 hours ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "UConn Health Cancels First Dose COVID-19 Vaccinations Scheduled for Next \nWeek Due to Shortage",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/covid-vaccine/uconn-health-cancels-first-dose-covid-19-vaccinations-scheduled-for-this-week-due-to-shortage/2410778/",
+    "source": "NBC Connecticut",
+    "time": "3 hours ago",
+    "date": "2021-01-30 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcconnecticut.com"
+  }
+]

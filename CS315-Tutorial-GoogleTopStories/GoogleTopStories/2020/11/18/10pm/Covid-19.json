@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Updates",
+    "url": "https://www.nytimes.com/live/2020/11/18/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Covid-19 has killed 250,000 people in the US. That's 10 times the deaths \nfrom car crashes in a year",
+    "url": "https://www.cnn.com/2020/11/18/health/covid-19-deaths-us-250k-trnd/index.html",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19 testing sites inundated going into the holiday season",
+    "url": "https://komonews.com/news/coronavirus/covid-19-testing-sites-inundated-before-the-holidays",
+    "source": "KOMO News",
+    "time": "43 mins ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "A COVID-19 patient played the violin in the ICU to thank health care workers",
+    "url": "https://www.kcci.com/article/covid-19-patient-played-the-violin-in-the-icu-to-thank-health-care-workers/34720021",
+    "source": "KCCI Des Moines",
+    "time": "6 mins ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.kcci.com"
+  },
+  {
+    "title": "Schools don't operate in a bubble, and Knoxville's COVID-19 spike may have \nreal consequences",
+    "url": "https://www.knoxnews.com/story/news/education/2020/11/19/knox-county-covid-19-spike-may-have-real-consequences-schools/6277532002/",
+    "source": "Knoxville News Sentinel",
+    "time": "14 mins ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.knoxnews.com"
+  },
+  {
+    "title": "The End of the Pandemic Is Now in Sight",
+    "url": "https://www.theatlantic.com/health/archive/2020/11/vaccines-end-covid-19-pandemic-sight/617141/",
+    "source": "The Atlantic",
+    "time": "6 hours ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.theatlantic.com"
+  },
+  {
+    "title": "Newsom's controversial dinner attended by top medical lobbyist, CEO amid \nCOVID-19 spike",
+    "url": "https://www.foxnews.com/politics/newsoms-controversial-dinner-attended-by-top-medical-lobbyist-ceo-amid-covid-19-spike",
+    "source": "Fox News",
+    "time": "2 hours ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Walz orders temporarily closing of bars, restaurants, fitness centers as \nCOVID-19 cases surge",
+    "url": "https://www.startribune.com/walz-to-close-bars-restaurants-and-fitness-centers-for-4-weeks/573114521/",
+    "source": "Minneapolis Star Tribune",
+    "time": "11 hours ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "Covid-19 vaccines could be available by the end of December. Here's what \nneeds to happen first.",
+    "url": "https://www.nbcnews.com/health/health-news/covid-vaccines-could-be-available-end-december-here-s-what-n1248135",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "COVID-19 In Pittsburgh: Allegheny County Issues Stay-At-Home Public Health \nAdvisory",
+    "url": "https://pittsburgh.cbslocal.com/2020/11/18/allegheny-county-stay-at-home-adivsory/",
+    "source": "CBS Pittsburgh",
+    "time": "6 hours ago",
+    "date": "2020-11-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "pittsburgh.cbslocal.com"
+  }
+]

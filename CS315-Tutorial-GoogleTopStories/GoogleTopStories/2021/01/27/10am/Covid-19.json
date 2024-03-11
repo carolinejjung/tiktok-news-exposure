@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live News and Updates",
+    "url": "https://www.nytimes.com/live/2021/01/27/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "34 mins ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Bill and Melinda Gates: Covid-19 will change how the world thinks about \nhealth forever",
+    "url": "https://www.cnn.com/2021/01/27/opinions/covid-global-health-bill-melinda-gates/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Vir Will Test Its Covid-19 Antibody With Eli Lilly\u2019s, Sending Shares Up \nAgain",
+    "url": "https://www.barrons.com/articles/vir-will-test-its-covid-19-antibody-with-eli-lillys-sending-shares-up-again-51611760089",
+    "source": "Barron's",
+    "time": "6 mins ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.barrons.com"
+  },
+  {
+    "title": "Watch Live: Federal health officials hold briefing on COVID-19 response",
+    "url": "https://www.cbsnews.com/news/covid-19-response-press-conference-live-stream-today-2021-01-27/",
+    "source": "CBS News",
+    "time": "40 mins ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Bill Gates calls COVID-19 pandemic conspiracies 'crazy' and 'evil' | TheHill",
+    "url": "https://thehill.com/changing-america/well-being/536057-bill-gates-calls-covid-19-pandemic-conspiracies-crazy-and-evil",
+    "source": "The Hill",
+    "time": "4 mins ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "NBA reporter and analyst Sekou Smith dies at 48 due to COVID-19",
+    "url": "https://www.espn.com/nba/story/_/id/30786000/nba-reporter-analyst-sekou-smith-dies-48-due-covid-19",
+    "source": "ESPN",
+    "time": "9 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Thousands are dying from COVID-19. Deborah Birx wants to save her reputation",
+    "url": "https://www.bostonglobe.com/2021/01/26/opinion/thousands-are-dying-covid-19-deborah-birx-wants-save-her-reputation/",
+    "source": "The Boston Globe",
+    "time": "21 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Eli Lilly says monoclonal antibody cocktail cuts hospitalizations by 70% \nfor high-risk COVID-19 patients",
+    "url": "https://www.usatoday.com/story/news/health/2021/01/26/eli-lilly-monoclonal-antibodies-high-risk-covid-19-patients-coronavirus/4263087001/",
+    "source": "USA TODAY",
+    "time": "13 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "How to Get a Covid-19 Vaccine: a State-by-State Guide",
+    "url": "https://www.wsj.com/articles/how-to-get-a-covid-19-vaccine-a-state-by-state-guide-11611703769",
+    "source": "The Wall Street Journal",
+    "time": "14 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "How Much Did COVID-19 Affect The 2020 Election?",
+    "url": "https://fivethirtyeight.com/features/how-much-did-covid-19-affect-the-2020-election/",
+    "source": "FiveThirtyEight",
+    "time": "4 hours ago",
+    "date": "2021-01-27 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "fivethirtyeight.com"
+  }
+]

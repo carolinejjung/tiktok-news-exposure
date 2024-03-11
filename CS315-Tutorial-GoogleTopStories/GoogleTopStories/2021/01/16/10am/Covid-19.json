@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Global Updates",
+    "url": "https://www.nytimes.com/live/2021/01/16/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "11 mins ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Microsoft, Oracle and and other tech giants team up Covid-19 vaccine \n'passports'",
+    "url": "https://www.cnn.com/2021/01/16/tech/coronavirus-vaccine-records-microsoft-salesforce/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Texas family with COVID-19 couldn't smell smoke from house fire, saved by \nteen",
+    "url": "https://abc7ny.com/covid-19-smell-house-fire-covid-waco/9713104",
+    "source": "WABC-TV",
+    "time": "1 hour ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Australian Open: 47 players In quarantine after positive Covid-19 tests on \ntwo charter flights",
+    "url": "https://edition.cnn.com/2021/01/16/tennis/australian-open-covid-19-flights-spt-intl/index.html",
+    "source": "CNN International",
+    "time": "1 hour ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "edition.cnn.com"
+  },
+  {
+    "title": "CES showed off the COVID-19 mask gimmick arms race",
+    "url": "https://www.theverge.com/2021/1/16/22233507/ces-masks-covid-pandemic-capitol-antivirus",
+    "source": "The Verge",
+    "time": "14 mins ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.theverge.com"
+  },
+  {
+    "title": "Where did COVID-19 come from?",
+    "url": "https://www.usatoday.com/in-depth/news/health/2021/01/16/covid-one-year-anniversary-unknowns-remain-coronavirus-origins/6582961002/",
+    "source": "USA TODAY",
+    "time": "6 hours ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Maine was managing COVID-19 spread better than almost all states. Not \nanymore.",
+    "url": "https://bangordailynews.com/2021/01/16/news/maine-was-managing-covid-19-spread-better-than-almost-all-states-not-anymore/",
+    "source": "Bangor Daily News",
+    "time": "8 hours ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "bangordailynews.com"
+  },
+  {
+    "title": "Pfizer says it has second doses of COVID-19 shot on hand, expects no U.S. \nsupply problems",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-vaccine-pfizer/pfizer-says-it-has-second-doses-of-covid-19-shot-on-hand-expects-no-us-supply-problems-idUSKBN29K2LR",
+    "source": "Reuters",
+    "time": "17 hours ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "U.S. Steps Up Claims Covid-19 May Have Escaped From Chinese Lab",
+    "url": "https://www.bloomberg.com/news/articles/2021-01-16/u-s-steps-up-claims-covid-19-may-have-escaped-from-chinese-lab",
+    "source": "Bloomberg",
+    "time": "13 hours ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.bloomberg.com"
+  },
+  {
+    "title": "New coronavirus variants could cause more reinfections, require updated \nvaccines",
+    "url": "https://www.sciencemag.org/news/2021/01/new-coronavirus-variants-could-cause-more-reinfections-require-updated-vaccines",
+    "source": "Science Magazine",
+    "time": "17 hours ago",
+    "date": "2021-01-16 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.sciencemag.org"
+  }
+]

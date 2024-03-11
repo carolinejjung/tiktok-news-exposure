@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Five U.S. agencies have started telling employees they could get Covid \nvaccine shots in as little as 8 weeks",
+    "url": "https://www.cnbc.com/2020/11/20/coronavirus-5-us-agencies-have-started-telling-employees-they-could-get-vaccine-shots-in-8-weeks.html",
+    "source": "CNBC",
+    "time": "10 hours ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Donald Trump Jr. tests positive for COVID-19",
+    "url": "https://www.cbsnews.com/news/donald-trump-jr-covid-positive/",
+    "source": "CBS News",
+    "time": "2 hours ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "King County unveils less invasive test to detect COVID-19",
+    "url": "https://komonews.com/news/coronavirus/less-invasive-covid-test-being-rolled-out-in-king-county",
+    "source": "KOMO News",
+    "time": "1 hour ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "State working on COVID-19 vaccine prioritization plan",
+    "url": "https://komonews.com/news/local/state-working-on-covid-19-vaccine-prioritization-plan",
+    "source": "KOMO News",
+    "time": "41 mins ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Dallas County again sets record for daily COVID-19 cases, with 1,974",
+    "url": "https://www.fox4news.com/news/dallas-county-again-sets-record-for-daily-covid-19-cases-with-1974",
+    "source": "FOX 4 Dallas",
+    "time": "43 mins ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.fox4news.com"
+  },
+  {
+    "title": "Church patriarch dies from Covid-19 after leading open-casket funeral of \nbishop killed by the virus",
+    "url": "https://www.cnn.com/2020/11/20/europe/serbian-orthodox-church-patriarch-irinej-dies-covid-19-intl/index.html",
+    "source": "CNN",
+    "time": "13 hours ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "CDC says mask mandates can slow Covid-19 spread",
+    "url": "https://www.nbcnews.com/health/health-news/cdc-says-mask-mandates-can-slow-covid-19-spread-n1248417",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "COVID-19: Long Island Reports 805 New Cases; Here's Brand-New Breakdown By \nLocation",
+    "url": "https://dailyvoice.com/new-york/nassau/news/covid-19-long-island-reports-805-new-cases-heres-brand-new-breakdown-by-location/798334/",
+    "source": "Daily Voice",
+    "time": "5 hours ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Cluster of COVID-19 hits case investigators and contact tracers",
+    "url": "https://www.wpri.com/target-12/cluster-of-covid-19-hits-case-investigators-and-contact-tracers/",
+    "source": "WPRI.com",
+    "time": "6 hours ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "Utah sees another 4588 COVID-19 cases and 17 deaths Friday",
+    "url": "https://www.sltrib.com/news/2020/11/20/utah-sees-another-covid/",
+    "source": "Salt Lake Tribune",
+    "time": "6 hours ago",
+    "date": "2020-11-20 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.sltrib.com"
+  }
+]

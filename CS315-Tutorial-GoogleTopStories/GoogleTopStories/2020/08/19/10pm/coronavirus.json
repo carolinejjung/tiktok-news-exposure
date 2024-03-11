@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Updates",
+    "url": "https://www.nytimes.com/2020/08/19/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "13 mins ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Vaccine is likely to be available next spring, Trump \nadministration adviser says",
+    "url": "https://www.washingtonpost.com/nation/2020/08/19/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "20 mins ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Trump admin limits FDA review of some coronavirus tests",
+    "url": "https://www.politico.com/news/2020/08/19/trump-fda-review-coronavirus-tests-398924",
+    "source": "Politico",
+    "time": "15 mins ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Massachuetts coronavirus rates by city and town: 10 communities labeled \nhigh risk",
+    "url": "https://www.bostonherald.com/2020/08/19/massachuetts-coronavirus-rates-by-city-and-town-10-communities-labeled-high-risk/",
+    "source": "Boston Herald",
+    "time": "1 hour ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "Brazil sees signs coronavirus outbreak slowing: Live updates",
+    "url": "https://www.aljazeera.com/news/2020/08/brazil-sees-signs-coronavirus-outbreak-slowing-live-updates-200819233912919.html",
+    "source": "Aljazeera.com",
+    "time": "53 mins ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-19-20-intl/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus case at Sturgis Motorcycle Rally prompts warning from health \ndepartment",
+    "url": "https://www.nbcnews.com/news/us-news/coronavirus-case-sturgis-motorcycle-rally-prompts-warning-health-department-n1237322",
+    "source": "NBC News",
+    "time": "7 hours ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Coronavirus updates: University of North Carolina temporarily suspends fall \nsports; Pope warns against the rich getting vaccine first",
+    "url": "https://www.usatoday.com/story/news/health/2020/08/19/covid-news-north-carolina-cluster-dnc-coronavirus/3392246001/",
+    "source": "USA TODAY",
+    "time": "4 hours ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "\u2018Died for other reasons\u2019: 10% of RI coronavirus deaths not caused by \nCOVID-19",
+    "url": "https://www.wpri.com/target-12/died-for-other-reasons-10-of-ri-coronavirus-deaths-not-caused-by-covid-19/",
+    "source": "WPRI.com",
+    "time": "2 hours ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, August 19: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-august-19-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "12 hours ago",
+    "date": "2020-08-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.seattletimes.com"
+  }
+]

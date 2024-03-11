@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/10/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "FDA panel recommends use of Pfizer COVID-19 vaccine",
+    "url": "https://www.cbsnews.com/news/covid-19-vaccine-pfizer-fda-panel-approves-emergency-use/",
+    "source": "CBS News",
+    "time": "2 hours ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Baystate Health: 123 COVID-19 hospitalizations at western Massachusetts \nfacilities",
+    "url": "https://www.wwlp.com/news/health/coronavirus-local-impact/baystate-health-123-covid-19-hospitalizations-at-western-massachusetts-facilities/",
+    "source": "WWLP.com",
+    "time": "19 mins ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "Erie County man says he\u2019s waiting on COVID-19 results two weeks after test",
+    "url": "https://www.wivb.com/health/coronavirus/erie-county-man-says-hes-waiting-on-covid-19-results-two-weeks-after-test/",
+    "source": "WIVB.com - News 4",
+    "time": "4 mins ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wivb.com"
+  },
+  {
+    "title": "Communities of color skeptical about COVID-19 vaccine",
+    "url": "https://www.startribune.com/communities-of-color-skeptical-about-covid-19-vaccine/573363771/",
+    "source": "Minneapolis Star Tribune",
+    "time": "15 mins ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "N.H. House Speaker Dick Hinch died of COVID-19, medical examiner says",
+    "url": "https://www.bostonglobe.com/2020/12/10/metro/nh-speaker-died-covid-19-medical-examiner-says/",
+    "source": "The Boston Globe",
+    "time": "2 hours ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Ellen DeGeneres announces she has Covid-19",
+    "url": "https://www.cnn.com/2020/12/10/entertainment/ellen-degeneres-covid/index.html",
+    "source": "CNN",
+    "time": "8 hours ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Republican NH House Speaker Dies Of COVID-19",
+    "url": "https://www.npr.org/2020/12/10/945137222/newly-sworn-in-n-h-gop-house-speaker-dies-of-covid-19-autopsy-shows",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Gov. Wolf, Sec. of Health Announce New Protective Mitigation Efforts to Put \nPennsylvania on Pause through Early ...",
+    "url": "https://www.governor.pa.gov/newsroom/gov-wolf-sec-of-health-announce-new-protective-mitigation-efforts-to-put-pennsylvania-on-pause-through-early-january/",
+    "source": "pa.gov",
+    "time": "5 hours ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.governor.pa.gov"
+  },
+  {
+    "title": "Larry Fitzgerald focused on 'staying alive', not football future, during \nbout with COVID-19",
+    "url": "https://www.nfl.com/news/larry-fitzgerald-focused-on-staying-alive-not-football-future-during-bout-with-c",
+    "source": "NFL.com",
+    "time": "7 hours ago",
+    "date": "2020-12-10 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nfl.com"
+  }
+]

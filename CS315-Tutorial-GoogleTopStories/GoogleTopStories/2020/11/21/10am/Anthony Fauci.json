@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Dr. Fauci Sees \u2018Terribly Painful Months\u2019 Ahead",
+    "url": "https://www.nytimes.com/2020/11/20/us/coronavirus-today.html",
+    "source": "The New York Times",
+    "time": "18 hours ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Santa Claus is 'immune' to COVID-19, says Dr. Anthony Fauci",
+    "url": "https://nypost.com/2020/11/20/santa-claus-is-immune-from-covid-19-says-dr-anthony-fauci/",
+    "source": "New York Post",
+    "time": "23 hours ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Dr. Fauci Says Santa Can't Catch COVID, And Neither Can the Mensch on a \nBench",
+    "url": "https://www.newsweek.com/dr-fauci-santa-covid-mensch-bench-1549220",
+    "source": "Newsweek",
+    "time": "42 mins ago",
+    "date": "2020-11-21 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.newsweek.com"
+  }
+]

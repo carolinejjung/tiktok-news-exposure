@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "It'll be months before vaccines are widespread enough to turn the tide of \nthe pandemic in the US, experts say",
+    "url": "https://www.cnn.com/2021/01/01/health/us-coronavirus-friday/index.html",
+    "source": "CNN",
+    "time": "42 mins ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus means life won't go back to normal until fall 2021, despite \nvaccines: Fauci",
+    "url": "https://www.foxnews.com/politics/fauci-2021-coronavirus-fall-vaccines-normal-life",
+    "source": "Fox News",
+    "time": "36 mins ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "'No need to panic,' China official says of coronavirus variants",
+    "url": "https://www.reuters.com/article/health-coronavirus-china/no-need-to-panic-china-official-says-of-coronavirus-variants-idUSL4N2JC080",
+    "source": "Reuters",
+    "time": "1 hour ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "With Man City Positives, Premier League's Coronavirus Outbreak Widens",
+    "url": "https://www.nytimes.com/2021/01/01/sports/soccer/premier-league-man-city-coronavirus.html",
+    "source": "The New York Times",
+    "time": "24 mins ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The Mutated Virus Is a Ticking Time Bomb",
+    "url": "https://www.theatlantic.com/science/archive/2020/12/virus-mutation-catastrophe/617531/",
+    "source": "The Atlantic",
+    "time": "21 hours ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.theatlantic.com"
+  },
+  {
+    "title": "Georgia Sen. David Perdue Quarantines After Possible Coronavirus Exposure",
+    "url": "https://www.npr.org/2021/01/01/952633271/georgia-sen-david-perdue-quarantines-after-possible-coronavirus-exposure",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Wis. pharmacist who admitted to ruining coronavirus vaccine arrested",
+    "url": "https://nypost.com/2020/12/31/wi-pharmacist-who-admitted-to-ruining-coronavirus-vaccine-arrested/",
+    "source": "New York Post",
+    "time": "15 hours ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Coronavirus live updates: Quiet goodbye to 2020 in Times Square; pharmacist \nsabotages 500 vaccine doses; Sen. David Perdue in quarantine",
+    "url": "https://www.usatoday.com/story/news/nation/2021/01/01/covid-news-times-square-2020-quiet-vaccine-damaged-wisconsin/4106926001/",
+    "source": "USA TODAY",
+    "time": "2 hours ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Number of coronavirus patients at EMMC spikes on New Year's Eve",
+    "url": "https://bangordailynews.com/2020/12/31/news/bangor/number-of-coronavirus-patients-at-emmc-spikes-on-new-years-eve/",
+    "source": "Bangor Daily News",
+    "time": "19 hours ago",
+    "date": "2021-01-01 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "bangordailynews.com"
+  }
+]

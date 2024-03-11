@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Unexpected Message Revealed by Long Lines for Coronavirus Testing",
+    "url": "https://www.nytimes.com/2020/11/27/nyregion/covid-tests-long-lines.html",
+    "source": "The New York Times",
+    "time": "3 days ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "False positives, false negatives: Coronavirus, other tests have limits",
+    "url": "https://www.seattletimes.com/nation-world/false-positives-false-negatives-coronavirus-other-tests-have-limits/",
+    "source": "Seattle Times",
+    "time": "21 hours ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "Hawaii County requires coronavirus test to skip quarantine",
+    "url": "https://www.sfgate.com/news/article/Hawaii-County-requires-coronavirus-test-to-skip-15762819.php",
+    "source": "SFGate",
+    "time": "48 mins ago",
+    "date": "2020-11-30 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.sfgate.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "COVID-19 Vaccine",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx",
+    "source": "Governor.Pa.gov",
+    "time": "5 days ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.health.pa.gov"
+  },
+  {
+    "title": "Covid-19 Global Live Updates: US at 400,000 Deaths, Variants and Vaccines",
+    "url": "https://www.nytimes.com/live/2021/01/19/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "36 mins ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-19-21/index.html",
+    "source": "CNN.com",
+    "time": "33 mins ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Cornyn presses Psaki on coronavirus rules for migrant caravan after \ntransition resists ending travel limits",
+    "url": "https://www.foxnews.com/politics/cornyn-presses-psaki-on-coronavirus-rules-for-migrant-caravan-after-transition-opposes-ending-travel-limits",
+    "source": "Fox News",
+    "time": "8 mins ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus in Oregon: State reports 637 new cases, 5 new deaths",
+    "url": "https://www.oregonlive.com/coronavirus/2021/01/coronavirus-in-oregon-state-reports-637-new-cases-5-new-deaths.html",
+    "source": "oregonlive.com",
+    "time": "42 mins ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "Attleboro public schools report over 30 new coronavirus cases",
+    "url": "https://www.thesunchronicle.com/news/coronavirus/attleboro-public-schools-report-over-30-new-coronavirus-cases/article_6c3bc0ee-cd88-59c7-8404-b05fd8240f2a.html",
+    "source": "The Sun Chronicle",
+    "time": "14 mins ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.thesunchronicle.com"
+  },
+  {
+    "title": "COVID vaccine is 'nothing like Tuskegee': Black scientist on FDA panel - \nBusiness Insider",
+    "url": "https://www.businessinsider.com/black-scientist-coronavirus-vaccine-is-nothing-like-tuskegee-2021-1",
+    "source": "Business Insider",
+    "time": "4 hours ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "400 Lights, For 400000 Dead, Illuminate Lincoln Memorial Reflecting Pool",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/19/958449203/400-lights-for-400-000-dead-to-illuminate-lincoln-memorial-reflecting-pool",
+    "source": "NPR",
+    "time": "4 hours ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Biden transition finds culture of coronavirus denial throughout Trump's \nfederal government",
+    "url": "https://www.cnn.com/2021/01/19/politics/transition-coronavirus-trump/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus daily news updates, January 19: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-january-19-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "The Seattle Times",
+    "time": "13 hours ago",
+    "date": "2021-01-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.seattletimes.com"
+  }
+]

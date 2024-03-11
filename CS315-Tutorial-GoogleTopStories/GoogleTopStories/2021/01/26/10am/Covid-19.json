@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Pennsylvania COVID-19 Vaccines",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx",
+    "source": "Governor.Pa.gov",
+    "time": "1 week ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.health.pa.gov"
+  },
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/01/26/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Everyday activities are more dangerous now that new Covid-19 variants are \ncirculating, expert says",
+    "url": "https://www.cnn.com/2021/01/26/health/us-coronavirus-tuesday/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Lonely Millennials Who Fled Cities During Covid-19 Turn to Co-Living",
+    "url": "https://www.wsj.com/articles/lonely-millennials-who-fled-cities-during-covid-19-turn-to-co-living-11611666022",
+    "source": "The Wall Street Journal",
+    "time": "2 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Nursing Home Critics Say COVID-19 Immunity Laws Are Just A Free Pass For \nNeglect",
+    "url": "https://www.npr.org/2021/01/26/959466144/nursing-home-critics-say-covid-19-immunity-laws-are-just-a-free-pass-for-neglect",
+    "source": "NPR",
+    "time": "2 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "RHOC Alum Jo De La Rosa Announces Father's Death from COVID-19: 'I've Never \nCried More Tears'",
+    "url": "https://people.com/tv/jo-de-la-rosa-fathers-death-covid-19/",
+    "source": "PEOPLE.com",
+    "time": "52 mins ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "people.com"
+  },
+  {
+    "title": "Moderna CEO: US needs to prepare for fall, COVID-19 resurgence",
+    "url": "https://finance.yahoo.com/news/moderna-ceo-us-needs-to-prepare-for-fall-covid-19-resurgence-202434869.html",
+    "source": "Yahoo Finance",
+    "time": "18 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Celtics look dangerous with Jayson Tatum back from COVID-19, and other \nobservations from rout of Bulls",
+    "url": "https://www.bostonglobe.com/2021/01/26/sports/jayson-tatum-24-shows-little-rust-first-game-back-after-two-week-covid-hiatus-win-over-bulls/",
+    "source": "The Boston Globe",
+    "time": "15 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Portland mayor pepper-sprayed man who confronted him about Covid-19 rules",
+    "url": "https://www.nbcnews.com/news/us-news/portland-mayor-pepper-sprayed-man-who-confronted-him-about-covid-n1255620",
+    "source": "NBC News",
+    "time": "11 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Moderna CEO offers a bleak assessment of COVID-19: Virus to stay with the \nworld 'forever'",
+    "url": "https://finance.yahoo.com/news/coronavirus-is-going-to-stay-with-us-forever-moderna-ceo-224622557.html",
+    "source": "Yahoo! Voices",
+    "time": "16 hours ago",
+    "date": "2021-01-26 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "finance.yahoo.com"
+  }
+]

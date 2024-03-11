@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus updates: CDC adds 6 new possible symptoms of COVID-19",
+    "url": "https://abcnews.go.com/US/coronavirus-live-updates-cdc-adds-symptoms-covid-19/story?id=70351472",
+    "source": "ABC News",
+    "time": "12 hours ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "New York couple suing Chinese government: Coronavirus' 'impact has been \npretty big'",
+    "url": "https://www.foxnews.com/media/new-york-couple-sues-china-coronavirus-impact",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Reporter's Notebook: Coronavirus and the era of big government",
+    "url": "https://www.foxnews.com/politics/coronavirus-big-government-era-pergram",
+    "source": "Fox News",
+    "time": "11 mins ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus pandemic: Updates from around the world",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-04-27-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "16 mins ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "India announces rollback of coronavirus lockdown restrictions",
+    "url": "https://www.foxnews.com/world/india-rollback-coronavirus-lockdown-restrictions",
+    "source": "Fox News",
+    "time": "46 mins ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "New York clinical trial testing heartburn medication as coronavirus \ntreatment",
+    "url": "https://nypost.com/2020/04/26/ny-clinical-trial-testing-heartburn-medication-as-coronavirus-treatment/",
+    "source": "New York Post",
+    "time": "1 hour ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "The noble art of sarcasm: Trump replaces coronavirus briefing with tweets",
+    "url": "https://www.politico.com/news/2020/04/26/trump-replaces-coronavirus-briefing-anti-media-tweets-210037",
+    "source": "Politico",
+    "time": "2 hours ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Bill Gates explains how the United States can safely ease coronavirus \nrestrictions",
+    "url": "https://www.cnn.com/2020/04/26/business/bill-gates-coronavirus-reopening-gps/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus: The US resistance to a continued lockdown",
+    "url": "https://www.bbc.com/news/world-us-canada-52417610",
+    "source": "BBC",
+    "time": "3 hours ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Coronavirus live updates: U.S. reaches 'plateau,' nears 1 million cases; \nGOP governor calls out Trump; last patient leaves hospital in Wuhan",
+    "url": "https://www.usatoday.com/story/news/health/2020/04/26/coronavirus-updates-georgia-mayor-asks-churches-not-open/3013443001/",
+    "source": "USA Today",
+    "time": "3 hours ago",
+    "date": "2020-04-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

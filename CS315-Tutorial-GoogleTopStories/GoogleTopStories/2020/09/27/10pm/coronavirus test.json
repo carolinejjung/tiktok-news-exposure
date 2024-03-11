@@ -1,0 +1,32 @@
+[
+  {
+    "title": "A New Test for SAT Takers: Covid-19",
+    "url": "https://www.nytimes.com/2020/09/27/us/sat-test-coronavirus.html",
+    "source": "The New York Times",
+    "time": "5 hours ago",
+    "date": "2020-09-27 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "United Airlines Says It Will Offer Travelers Coronavirus Tests At The \nAirport",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/09/24/916541587/united-airlines-says-it-will-offer-travelers-coronavirus-tests-at-the-airport",
+    "source": "NPR",
+    "time": "3 days ago",
+    "date": "2020-09-27 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Test and trace: 'I spoke to one person in four months'",
+    "url": "https://www.bbc.com/news/health-54284095",
+    "source": "BBC News",
+    "time": "2 hours ago",
+    "date": "2020-09-27 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.bbc.com"
+  }
+]

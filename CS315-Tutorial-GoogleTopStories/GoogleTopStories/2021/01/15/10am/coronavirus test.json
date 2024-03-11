@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Negative Coronavirus Test Required For Travelers Entering U.S.",
+    "url": "https://www.nytimes.com/2021/01/14/travel/international-travel-covid-test.html",
+    "source": "The New York Times",
+    "time": "21 hours ago",
+    "date": "2021-01-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "CDC to require all air travelers to US to show negative coronavirus test",
+    "url": "https://www.cnn.com/2021/01/12/health/cdc-international-travel-covid-19-test/index.html",
+    "source": "CNN",
+    "time": "2 days ago",
+    "date": "2021-01-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Report: 5 Wizards test positive for COVID-19 as Suns remain on hold",
+    "url": "https://arizonasports.com/story/2507679/reports-5-wizards-test-positive-for-covid-19-as-suns-remain-on-hold/",
+    "source": "Arizona Sports",
+    "time": "21 mins ago",
+    "date": "2021-01-15 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "arizonasports.com"
+  }
+]

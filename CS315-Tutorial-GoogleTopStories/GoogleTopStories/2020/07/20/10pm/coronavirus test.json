@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-20-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "21 hours ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus updates: Newsom presses Californians to fight spread as ICU \nbeds run low",
+    "url": "https://abcnews.go.com/US/coronavirus-updates-85-members-shipping-vessel-alaska-test/story?id=71873472",
+    "source": "ABC News",
+    "time": "1 hour ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Texas county residents exposed to coronavirus could face charges if they \ndon\u2019t quarantine",
+    "url": "https://www.foxnews.com/us/texas-county-residents-coronavirus-charges-quarantine",
+    "source": "Fox News",
+    "time": "14 mins ago",
+    "date": "2020-07-20 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  }
+]

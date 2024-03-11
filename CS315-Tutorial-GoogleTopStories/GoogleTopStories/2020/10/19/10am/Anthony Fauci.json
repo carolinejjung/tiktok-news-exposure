@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fauci says he's not surprised Trump got COVID, admits administration has \nrestricted his media appearances",
+    "url": "https://www.cbsnews.com/news/fauci-trump-covid-19-media-appearances-60-minutes/",
+    "source": "CBS News",
+    "time": "2 hours ago",
+    "date": "2020-10-19 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 1,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Fauci 'absolutely not' surprised Trump got COVID-19",
+    "url": "https://www.foxnews.com/media/fauci-says-us-heading-in-wrong-direction-on-pandemic-absolutely-not-surprised-trump-got-covid-19",
+    "source": "Fox News",
+    "time": "8 hours ago",
+    "date": "2020-10-19 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Fauci warns against thinking coronavirus pandemic is nearly over",
+    "url": "https://www.cnet.com/news/fauci-warns-against-thinking-coronavirus-pandemic-is-nearly-over/",
+    "source": "CNET",
+    "time": "21 mins ago",
+    "date": "2020-10-19 10:00:00",
+    "query": "Anthony Fauci",
+    "story_position": 3,
+    "domain": "www.cnet.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Dodger Stadium coronavirus testing site to reopen Monday",
+    "url": "https://www.latimes.com/california/story/2021-01-03/dodger-stadium-coronavirus-testing-site-reopen-monday-complaints-neighbors",
+    "source": "Los Angeles Times",
+    "time": "6 hours ago",
+    "date": "2021-01-03 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.latimes.com"
+  },
+  {
+    "title": "Woman questions COVID-19 test accuracy at CenturyLink Sports Complex",
+    "url": "https://www.winknews.com/2021/01/01/woman-questions-covid-19-test-accuracy-at-centurylink-sports-complex/",
+    "source": "Wink News",
+    "time": "1 day ago",
+    "date": "2021-01-03 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.winknews.com"
+  },
+  {
+    "title": "New COVID-19 Test Kit vending machines installed at UCSD",
+    "url": "https://www.10news.com/news/coronavirus/new-covid-19-test-kit-vending-machines-installed-at-ucsd",
+    "source": "10News",
+    "time": "44 mins ago",
+    "date": "2021-01-03 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.10news.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "First lady: Son Barron had coronavirus, but no symptoms",
+    "url": "https://news.yahoo.com/first-lady-barron-trump-positive-200845628.html",
+    "source": "Yahoo News",
+    "time": "18 hours ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "Hong Kong doctors urged to identify, test patients with symptoms, 12 cases \nrecorded",
+    "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3105586/hong-kong-minister-attending-orchestral-concert",
+    "source": "South China Morning Post",
+    "time": "2 hours ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.scmp.com"
+  },
+  {
+    "title": "Long Covid: what we know so far",
+    "url": "https://www.theguardian.com/world/2020/oct/15/long-covid-what-we-know-so-far",
+    "source": "The Guardian",
+    "time": "9 hours ago",
+    "date": "2020-10-15 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.theguardian.com"
+  }
+]

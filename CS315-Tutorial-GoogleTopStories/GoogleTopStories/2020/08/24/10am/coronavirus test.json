@@ -1,0 +1,32 @@
+[
+  {
+    "title": "All of NFL's positive coronavirus tests from the weekend return negative",
+    "url": "https://www.espn.com/nfl/story/_/id/29729892/source-all-77-nfl-positive-tests-return-negative",
+    "source": "ESPN",
+    "time": "1 hour ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "NFL coronavirus testing debacle renders 77 false positives",
+    "url": "https://nypost.com/2020/08/24/nfl-coronavirus-testing-debacle-rendered-77-false-positives/",
+    "source": "New York Post",
+    "time": "9 hours ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Modelling suggests over 100,000 infected in US by emergency declaration",
+    "url": "https://www.scmp.com/news/china/science/article/3098654/coronavirus-modelling-suggests-over-100000-infected-us-time",
+    "source": "South China Morning Post",
+    "time": "15 mins ago",
+    "date": "2020-08-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.scmp.com"
+  }
+]

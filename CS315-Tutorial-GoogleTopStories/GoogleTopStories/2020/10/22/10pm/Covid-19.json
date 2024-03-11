@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CDC study suggests Covid-19 can be passed in brief interactions",
+    "url": "https://www.statnews.com/2020/10/21/cumulative-time-covid-19-spread/",
+    "source": "STAT",
+    "time": "1 day ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.statnews.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: Houston Teachers Protest Coronavirus Policies",
+    "url": "https://www.nytimes.com/live/2020/10/22/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "11 mins ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Remdesivir becomes first Covid-19 treatment to receive FDA approval",
+    "url": "https://www.cnn.com/2020/10/22/health/remdesivir-fda-approved-covid-19/index.html",
+    "source": "CNN",
+    "time": "4 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump says NYC has become 'ghost down' under Democratic COVID-19 shutdowns",
+    "url": "https://nypost.com/2020/10/22/trump-says-nyc-became-ghost-down-under-covid-19-shutdowns/",
+    "source": "New York Post",
+    "time": "30 mins ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Trump, Biden tangle over COVID-19 in opening of final presidential debate",
+    "url": "https://nypost.com/2020/10/22/trump-biden-tangle-on-covid-19-in-opening-of-final-presidential-debate/",
+    "source": "New York Post",
+    "time": "49 mins ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Birx: Closing public spaces not enough to stop COVID-19",
+    "url": "https://www.chicagotribune.com/coronavirus/ct-coronavirus-birx-chicago-covid-19-northwestern-20201023-fqwtqkk2ybecpdctvxfi2rvaue-story.html",
+    "source": "Chicago Tribune",
+    "time": "1 hour ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.chicagotribune.com"
+  },
+  {
+    "title": "Las Vegas Raiders place four starting offensive linemen on reserve/COVID-19 \nlist",
+    "url": "https://www.espn.com/nfl/story/_/id/30169653/las-vegas-raiders-place-four-starting-offensive-linemen-reserve-covid-19-list",
+    "source": "ESPN",
+    "time": "5 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "State Announces 10 More COVID-19 Red Alert Towns, Removes 2",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/governor-lamont-to-hold-4-p-m-briefing-on-covid-19-pandemic/2349338/",
+    "source": "NBC Connecticut",
+    "time": "6 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "'I don't know what to do anymore': Utah officials share dire words as state \nsees record 1543 new COVID-19 cases",
+    "url": "https://www.ksl.com/article/50035781/i-dont-know-what-to-do-anymore-utah-officials-share-dire-words-as-state-sees-record-1543-new-covid-19-cases",
+    "source": "KSL.com",
+    "time": "7 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.ksl.com"
+  },
+  {
+    "title": "7 western Massachusetts communities at high-risk for COVID-19, DPH map shows",
+    "url": "https://www.wwlp.com/news/health/coronavirus-local-impact/7-western-massachusetts-communities-at-high-risk-for-covid-19-dph-map-shows/",
+    "source": "WWLP.com",
+    "time": "4 hours ago",
+    "date": "2020-10-22 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.wwlp.com"
+  }
+]

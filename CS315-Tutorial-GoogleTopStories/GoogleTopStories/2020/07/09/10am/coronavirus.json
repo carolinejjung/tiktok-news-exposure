@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus Updates: U.S. Daily Cases Surpass 59,000",
+    "url": "https://www.nytimes.com/2020/07/09/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "33 mins ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: U.S. sets another daily record for coronavirus infections",
+    "url": "https://www.washingtonpost.com/nation/2020/07/09/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "21 mins ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "The limits of the coronavirus-related emissions dip",
+    "url": "https://www.axios.com/coronavirus-carbon-emissions-cuts-fc22324c-6592-4f00-ba41-5d3097397f39.html",
+    "source": "Axios",
+    "time": "45 mins ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.axios.com"
+  },
+  {
+    "title": "States with serious coronavirus problems need to consider shutting down \nagain, Fauci says",
+    "url": "https://www.cnn.com/2020/07/09/health/us-coronavirus-thursday/index.html",
+    "source": "CNN",
+    "time": "46 mins ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Sweden: High coronavirus cases, deaths fall, doesn't mean plan worked - \nBusiness Insider",
+    "url": "https://www.businessinsider.com/sweden-coronavirus-cases-deaths-fall-not-mean-lockdown-plan-worked-2020-7",
+    "source": "Business Insider",
+    "time": "1 hour ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Texas emergency chief who led efforts to secure PPE dies of coronavirus and \neffects of leukemia",
+    "url": "https://www.cnn.com/2020/07/09/us/texas-atascosa-emergency-chief-coronavirus-trnd/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "These coronavirus benefits are ending before July 31. Make sure you're \nprepared",
+    "url": "https://www.cnet.com/personal-finance/these-coronavirus-benefits-are-ending-before-july-31-make-sure-youre-prepared/",
+    "source": "CNET",
+    "time": "2 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnet.com"
+  },
+  {
+    "title": "Wearing a mask cuts own risk of novel coronavirus by 65 percent, experts say",
+    "url": "https://www.foxnews.com/health/wearing-mask-cuts-own-risk-novel-coronavirus-65-percent-experts-say",
+    "source": "Fox News",
+    "time": "3 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "In race to bring vaccine to market, big pharma struggles to protect its \nintellectual property rights",
+    "url": "https://www.cnbc.com/2020/07/09/coronavirus-vaccine-race-pharma-balancing-access-intellectual-property.html",
+    "source": "CNBC",
+    "time": "7 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "See Town-By-Town Coronavirus Case Numbers For Massachusetts",
+    "url": "https://boston.cbslocal.com/2020/07/08/coronavirus-massachusetts-town-cities-case-numbers/",
+    "source": "CBS Boston",
+    "time": "11 hours ago",
+    "date": "2020-07-09 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "boston.cbslocal.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "COVID-19 Vaccine",
+    "url": "https://scdhec.gov/covid19/covid-19-vaccine",
+    "source": "SCDHEC",
+    "time": "1 week ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "scdhec.gov"
+  },
+  {
+    "title": "The Latest on Covid-19 Global Pandemic: Live Updates on Cases, Vaccine and \nMore",
+    "url": "https://www.nytimes.com/live/2021/01/13/world/covid19-coronavirus",
+    "source": "The New York Times",
+    "time": "40 mins ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "California To Vaccinate Residents 65 Or Older Against COVID-19",
+    "url": "https://www.npr.org/2021/01/13/956574947/california-to-vaccinate-residents-65-or-older-against-covid-19",
+    "source": "NPR",
+    "time": "2 hours ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Cuomo still refuses to disclose total number of COVID-19 nursing home \ndeaths: watchdog",
+    "url": "https://nypost.com/2021/01/13/cuomo-refuses-to-fully-disclose-covid-19-nursing-home-deaths-watchdog/",
+    "source": "New York Post",
+    "time": "4 mins ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Senate agrees to COVID-19 health protocols for first 60 days",
+    "url": "https://cbsaustin.com/news/local/senate-agrees-to-covid-19-health-protocols-for-first-60-days",
+    "source": "KEYE TV CBS Austin",
+    "time": "16 mins ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "cbsaustin.com"
+  },
+  {
+    "title": "North Carolina nurse in COVID-19 facility hits $1 million jackpot",
+    "url": "https://nypost.com/2021/01/13/north-carolina-nurse-in-covid-19-facility-hits-1-million-jackpot/",
+    "source": "New York Post",
+    "time": "29 mins ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "US will require all arriving passengers to get COVID-19 test",
+    "url": "https://apnews.com/article/us-will-require-travelers-covid-19-test-7bd66c0014e597f930423c86beca5707",
+    "source": "Associated Press",
+    "time": "1 day ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Saliva could hold clues to how sick you will get from COVID-19",
+    "url": "https://www.sciencemag.org/news/2021/01/saliva-could-hold-clues-how-sick-you-will-get-covid-19",
+    "source": "Science Magazine",
+    "time": "5 hours ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.sciencemag.org"
+  },
+  {
+    "title": "Ellen DeGeneres returns to talk show after recovering from Covid-19",
+    "url": "https://www.cnn.com/2021/01/13/entertainment/ellen-degeneres-returns/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Convalescent Plasma Antibody Levels and the Risk of Death from Covid-19",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2031893",
+    "source": "nejm.org",
+    "time": "5 hours ago",
+    "date": "2021-01-13 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nejm.org"
+  }
+]

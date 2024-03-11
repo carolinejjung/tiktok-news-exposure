@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The surge in US cases has left labs overwhelmed and Covid-19 tests delayed",
+    "url": "https://www.cnn.com/2020/07/21/health/us-coronavirus-tuesday/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "How Deadly Is Covid-19? Researchers Are Getting Closer to an Answer",
+    "url": "https://www.wsj.com/articles/how-deadly-is-covid-19-researchers-are-getting-closer-to-an-answer-11595323801",
+    "source": "Wall Street Journal",
+    "time": "4 hours ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "As people leave New York because of COVID-19, rents start to come down",
+    "url": "https://www.marketplace.org/2020/07/21/rent-landlords-covid-19-new-york-vacancies-evictions/",
+    "source": "Marketplace.org",
+    "time": "9 mins ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.marketplace.org"
+  },
+  {
+    "title": "Cuomo: Travelers to NY could boost COVID-19 infection rate",
+    "url": "https://www.newsday.com/news/health/coronavirus/coronavirus-long-island-new-york-1.47123308",
+    "source": "Newsday",
+    "time": "13 mins ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.newsday.com"
+  },
+  {
+    "title": "Report: Delays in COVID-19 test results make virus containment more \nchallenging",
+    "url": "https://www.boston.com/news/coronavirus/2020/07/21/report-delays-in-covid-19-test-results-make-virus-containment-more-challenging",
+    "source": "Boston.com",
+    "time": "42 mins ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.boston.com"
+  },
+  {
+    "title": "Moleculin Biotech says second lab test found antiviral activity for \npotential COVID-19 treatment",
+    "url": "https://www.marketwatch.com/story/moleculin-biotech-says-second-lab-test-found-antiviral-activity-for-potential-covid-19-treatment-2020-07-21",
+    "source": "MarketWatch",
+    "time": "2 hours ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Brazil Tops 80000 COVID-19 Deaths As 2 Government Ministers Test Positive \nFor Virus",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/21/893416808/brazil-tops-80-000-covid-19-deaths-as-2-government-ministers-test-positive-for-v",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "New COVID-19 testing site opens as two others close",
+    "url": "https://www.wpri.com/health/coronavirus/new-covid-19-testing-site-opens-as-two-others-close/",
+    "source": "WPRI.com",
+    "time": "4 hours ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "Coronavirus updates: Church-related COVID-19 cases keep popping up in West \nVirginia",
+    "url": "https://abcnews.go.com/US/coronavirus-updates-church-related-covid-19-outbreaks-continue/story?id=71891037",
+    "source": "ABC News",
+    "time": "5 hours ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Minnesota reports child COVID-19 death, more than 900 new cases",
+    "url": "https://www.startribune.com/state-reports-infant-covid-19-death-more-than-900-new-cases/571834671/",
+    "source": "Star Tribune",
+    "time": "12 hours ago",
+    "date": "2020-07-21 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.startribune.com"
+  }
+]

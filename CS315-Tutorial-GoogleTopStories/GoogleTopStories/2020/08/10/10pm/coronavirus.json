@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live Updates",
+    "url": "https://www.nytimes.com/2020/08/10/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-10-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "58 mins ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Global Coronavirus Case Count Surpasses 20 Million : Coronavirus Live \nUpdates",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/10/901172452/global-coronavirus-case-count-surpasses-20-million",
+    "source": "NPR",
+    "time": "25 mins ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Citing coronavirus, Trump administration weighs more restrictions on the \nUS-Mexico border that could include citizens",
+    "url": "https://www.cnn.com/2020/08/10/politics/us-mexico-border-administration-coronavirus/index.html",
+    "source": "CNN.com",
+    "time": "48 mins ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Under Cover of Coronavirus, Maduro Is Consolidating Control",
+    "url": "https://foreignpolicy.com/2020/08/10/coronavirus-maduro-consolidating-control-venezuela/",
+    "source": "Foreign Policy",
+    "time": "1 hour ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "foreignpolicy.com"
+  },
+  {
+    "title": "Avoid wearing coronavirus face masks with vents, valves, CDC says in \nupdated guidance",
+    "url": "https://www.foxnews.com/health/coronavirus-face-mask-vent-valve-cdc",
+    "source": "Fox News",
+    "time": "8 hours ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "California Coronavirus Update: Governor Gavin Newsom Addresses Major Data \nIssues Amid Resignations, New Ethics Complaint About $1B Deal: \u201cI\u2019m \nGovernor, The Buck Stops With Me\u201d",
+    "url": "https://deadline.com/2020/08/california-coronavirus-update-governor-gavin-newsom-ethics-complaint-one-billion-dollars-1203009219/",
+    "source": "Deadline",
+    "time": "5 hours ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "deadline.com"
+  },
+  {
+    "title": "Mass. reports 214 new confirmed coronavirus cases, 5 new deaths",
+    "url": "https://www.bostonglobe.com/2020/08/10/nation/mass-reports-214-new-confirmed-coronavirus-cases-5-new-deaths/",
+    "source": "The Boston Globe",
+    "time": "9 hours ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Coronavirus live updates: Global cases top 20 million; Mnuchin says relief \ndeal could come this week",
+    "url": "https://www.cnbc.com/2020/08/10/coronavirus-live-updates.html",
+    "source": "CNBC.com",
+    "time": "24 mins ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Coronavirus live updates: Big Ten presidents may opt against fall football; \ninside Wuhan virology lab; when will Disneyland reopen?",
+    "url": "https://www.usatoday.com/story/news/health/2020/08/10/coronavirus-live-updates-trump-executive-actions-us-5-million-cases/3331751001/",
+    "source": "USATODAY.com",
+    "time": "6 hours ago",
+    "date": "2020-08-10 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.usatoday.com"
+  }
+]

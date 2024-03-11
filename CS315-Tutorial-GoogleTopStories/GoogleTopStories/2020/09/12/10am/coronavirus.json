@@ -1,0 +1,52 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-12-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "40 mins ago",
+    "date": "2020-09-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Hospitals prepare for \u2018nightmare\u2019 scenario of flu and coronavirus striking \nat same time",
+    "url": "https://www.washingtonpost.com/national/covid-flu-hospitals/2020/09/11/44570438-f1f9-11ea-b796-2dd09962649c_story.html",
+    "source": "Washington Post",
+    "time": "14 hours ago",
+    "date": "2020-09-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus-positive students at Miami University ignore health \nrestrictions, throw house party",
+    "url": "https://www.foxnews.com/us/coronavirus-positive-students-at-miami-university-ignore-health-restrictions-throw-house-party",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-09-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "AstraZeneca coronavirus vaccine clinical trials resume in U.K. after pause \nover safety concerns",
+    "url": "https://www.cnbc.com/2020/09/12/astrazeneca-coronavirus-vaccine-clinical-trials-resume-in-uk-after-pause-over-safety-concerns.html",
+    "source": "CNBC",
+    "time": "36 mins ago",
+    "date": "2020-09-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Virginia sees 1,300 new coronavirus cases, now reporting 132,940 statewide",
+    "url": "https://www.wsls.com/news/virginia/2020/09/12/virginia-sees-1300-new-coronavirus-cases-now-reporting-132940-statewide/",
+    "source": "WSLS 10",
+    "time": "1 hour ago",
+    "date": "2020-09-12 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.wsls.com"
+  }
+]

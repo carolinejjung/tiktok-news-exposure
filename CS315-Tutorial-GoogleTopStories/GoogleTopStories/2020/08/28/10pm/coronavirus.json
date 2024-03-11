@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/28/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "9 mins ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-28-20-intl/index.html",
+    "source": "CNN",
+    "time": "29 mins ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "University of Alabama Reports More Than 1,000 New Student Coronavirus Cases \nSince Starting Fall Semester",
+    "url": "https://people.com/health/university-of-alabama-reports-more-than-1000-student-coronavirus-cases-since-start-semester/",
+    "source": "PEOPLE.com",
+    "time": "43 mins ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "people.com"
+  },
+  {
+    "title": "MCAS Iwakuni bars family for coronavirus travel incident last month in Japan",
+    "url": "https://www.stripes.com/news/mcas-iwakuni-bars-family-for-coronavirus-travel-incident-last-month-in-japan-1.643086",
+    "source": "Stars and Stripes",
+    "time": "44 mins ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.stripes.com"
+  },
+  {
+    "title": "Grove City College receives grant to help with coronavirus related costs",
+    "url": "https://www.wfmj.com/story/42561630/grove-city-college-receives-grant-to-help-with-coronavirus-related-costs",
+    "source": "WFMJ",
+    "time": "31 mins ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.wfmj.com"
+  },
+  {
+    "title": "California Coronavirus Update: Governor Gavin Newsom Reveals Stricter, \n\u201cSlower\u201d COVID-19 Reopening Guidelines For Businesses And Schools",
+    "url": "https://deadline.com/2020/08/california-coronavirus-governor-gavin-newsom-reveals-new-reopening-guidelines-1203026079/",
+    "source": "Deadline",
+    "time": "7 hours ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "deadline.com"
+  },
+  {
+    "title": "Coronavirus vaccine on track for FDA approval by end of 2020, says \nOperation Warp Speed official",
+    "url": "https://www.usatoday.com/story/news/2020/08/28/us-should-have-four-coronavirus-vaccines-phase-3-mid-september/5660584002/",
+    "source": "USA TODAY",
+    "time": "4 hours ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Secret Service copes with coronavirus cases in aftermath of Trump \nappearances",
+    "url": "https://www.washingtonpost.com/politics/secret-service-copes-with-coronavirus-cases-in-aftermath-of-trump-appearances/2020/08/28/fa0e7b6e-e22a-11ea-8dd2-d07812bf00f7_story.html",
+    "source": "Washington Post",
+    "time": "4 hours ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Pelosi slams GOP, says $1.3 trillion in coronavirus relief not enough",
+    "url": "https://thehill.com/homenews/house/514223-pelosi-slams-gop-says-13-trillion-in-coronavirus-relief-not-enough",
+    "source": "The Hill",
+    "time": "2 hours ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Nevada lab confirms 1st coronavirus reinfection in the US",
+    "url": "https://abcnews.go.com/Health/nevada-lab-confirms-1st-coronavirus-reinfection-us/story?id=72691353",
+    "source": "ABC News",
+    "time": "3 hours ago",
+    "date": "2020-08-28 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "abcnews.go.com"
+  }
+]

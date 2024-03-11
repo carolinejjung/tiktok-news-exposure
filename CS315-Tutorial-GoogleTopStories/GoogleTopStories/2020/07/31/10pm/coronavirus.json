@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News: World Updates",
+    "url": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "13 mins ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-07-31-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "38 mins ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Miami-Dade mayor tells residents to prepare Hurricane Isaias, shuts down \ncoronavirus testing sites",
+    "url": "https://www.foxnews.com/us/miami-dade-mayor-tells-residents-to-prepare-hurricane-isaias-shuts-down-coronavirus-testing-sites",
+    "source": "Fox News",
+    "time": "29 mins ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Rapid coronavirus testing for Congress a hot topic again after Rep. Gohmert \ncatches COVID-19",
+    "url": "https://www.nbcnews.com/politics/congress/rapid-coronavirus-testing-congress-hot-topic-again-after-rep-gohmert-n1235553",
+    "source": "NBC News",
+    "time": "10 mins ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Idaho reports daily record 13 new coronavirus deaths; long-term care \nfacilities hit hard",
+    "url": "https://www.idahostatesman.com/news/coronavirus/article244644452.html",
+    "source": "Idaho Statesman",
+    "time": "55 mins ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.idahostatesman.com"
+  },
+  {
+    "title": "Sources - MLB commissioner warns of shutdown if coronavirus isn't better \nmanaged",
+    "url": "https://www.espn.com/mlb/story/_/id/29572885/sources-mlb-commissioner-warns-shutdown-players-do-better-job-managing-coronavirus",
+    "source": "ESPN.com",
+    "time": "5 hours ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Gov. Murphy Puts New Jersey On Notice, Warns Residents To Heed Coronavirus \nGuidelines As Cases Spike; 'The ...",
+    "url": "https://newyork.cbslocal.com/2020/07/31/gov-murphy-puts-new-jersey-on-notice-warns-residents-to-heed-coronavirus-guidelines-as-cases-spike-the-alarms-are-going-off/",
+    "source": "CBS New York",
+    "time": "3 hours ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "newyork.cbslocal.com"
+  },
+  {
+    "title": "Hundreds of Georgia campers infected with coronavirus at YMCA camp in just \ndays, CDC report finds",
+    "url": "https://www.wsbtv.com/news/local/hundreds-georgia-campers-infected-with-coronavirus-ymca-summer-camp-cdc-report-finds/EL5FFTVSDVETRGROPEXK6CIZNM/",
+    "source": "WSBTV.com",
+    "time": "7 hours ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wsbtv.com"
+  },
+  {
+    "title": "Fauci clashes with Rep. Jim Jordan at House coronavirus hearing - Business \nInsider",
+    "url": "https://www.businessinsider.com/fauci-clashes-with-jim-jordan-house-coronavirus-hearing-video-2020-7",
+    "source": "Business Insider",
+    "time": "8 hours ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.businessinsider.com"
+  },
+  {
+    "title": "Pelosi defends cannabis in coronavirus response: 'This is a therapy' | \nTheHill",
+    "url": "https://thehill.com/homenews/house/510038-pelosi-defends-cannabis-in-coronavirus-response-this-is-a-therapy",
+    "source": "TheHill",
+    "time": "6 hours ago",
+    "date": "2020-07-31 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "thehill.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/07/19/world/coronavirus-live-updates.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "'We need to close down' \u2014 Florida reports more than 10,000 coronavirus \ncases for fifth day",
+    "url": "https://www.cnbc.com/2020/07/19/we-need-to-close-down-florida-reports-more-than-10000-coronavirus-cases-for-fifth-day.html",
+    "source": "CNBC.com",
+    "time": "5 hours ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Washington reports over 900 new coronavirus cases, three additional deaths",
+    "url": "https://komonews.com/news/coronavirus/washington-reports-over-900-new-coronavirus-cases-three-additional-deaths",
+    "source": "KOMO",
+    "time": "43 mins ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Trump cites few coronavirus deaths among kids in N.J. as reason for \nreopening schools",
+    "url": "https://www.nj.com/coronavirus/2020/07/trump-cites-few-coronavirus-deaths-among-kids-in-nj-as-reason-for-reopening-schools.html",
+    "source": "NJ.com",
+    "time": "57 mins ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "July 19 | Idaho reports 517 new coronavirus cases, no deaths",
+    "url": "https://www.idahostatesman.com/news/coronavirus/article244339697.html",
+    "source": "Idaho Statesman",
+    "time": "1 hour ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.idahostatesman.com"
+  },
+  {
+    "title": "Coronavirus delays Louisiana fishing rodeo, nation's oldest tournament of \nits kind",
+    "url": "https://www.foxnews.com/great-outdoors/coronavirus-louisiana-fishing-rodeo-tournament-postponed",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Endangered GOP senators under pressure as Senate considers new coronavirus \nmeasures",
+    "url": "https://www.washingtonpost.com/politics/endangered-gop-senators-under-pressure-as-senate-considers-new-coronavirus-measures/2020/07/19/44dd7af0-c88b-11ea-a9d3-74640f25b953_story.html",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus updates: Congress takes up stimulus checks, $600 weekly jobless \nbenefit; Trump says 'I'll be right eventually' as records fall",
+    "url": "https://www.usatoday.com/story/news/health/2020/07/19/coronavirus-updates-ers-filling-up-us-new-global-case-record/5452984002/",
+    "source": "USATODAY.com",
+    "time": "4 hours ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Donald Trump is sealing his fate as the coronavirus denier-in-chief",
+    "url": "https://www.cnn.com/2020/07/19/politics/donald-trump-chris-wallace-interview-coronavirus/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Jack Nicklaus says he tested positive for coronavirus, antibodies",
+    "url": "https://www.espn.com/golf/story/_/id/29496403/nicklaus-says-tested-positive-coronavirus-antibodies",
+    "source": "ESPN.com",
+    "time": "4 hours ago",
+    "date": "2020-07-19 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.espn.com"
+  }
+]

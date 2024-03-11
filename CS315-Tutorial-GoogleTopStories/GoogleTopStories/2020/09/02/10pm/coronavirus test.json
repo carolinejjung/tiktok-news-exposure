@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 Live Updates and Tracker",
+    "url": "https://www.nytimes.com/2020/09/02/world/coronavirus-covid-live.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-09-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "CDC official affirms coronavirus deaths really are coronavirus deaths",
+    "url": "https://www.cnn.com/2020/09/02/health/us-coronavirus-wednesday/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-09-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "The Latest: 'The Rock,' family test positive for coronavirus",
+    "url": "https://www.lowellsun.com/2020/09/02/the-latest-the-rock-family-test-positive-for-coronavirus/",
+    "source": "Lowell Sun",
+    "time": "22 mins ago",
+    "date": "2020-09-02 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.lowellsun.com"
+  }
+]

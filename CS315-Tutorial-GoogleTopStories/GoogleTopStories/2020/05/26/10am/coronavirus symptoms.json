@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CDC estimates that 35% of coronavirus patients don't have symptoms",
+    "url": "https://www.cnn.com/2020/05/22/health/cdc-coronavirus-estimates-symptoms-deaths/index.html",
+    "source": "CNN.com",
+    "time": "3 days ago",
+    "date": "2020-05-26 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Baystate Health Systems reports 15 additional people hospitalized with \ncoronavirus symptoms",
+    "url": "https://www.masslive.com/news/2020/05/baystate-health-systems-reports-15-additional-people-hospitalized-with-coronavirus-symptoms.html",
+    "source": "MassLive.com",
+    "time": "15 hours ago",
+    "date": "2020-05-26 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.masslive.com"
+  },
+  {
+    "title": "Covid-19 tests within 24 hours for symptomatic Bavarians: state premier",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-germany-bavaria/covid-19-tests-within-24-hours-for-symptomatic-bavarians-state-premier-idUSKBN2321J0",
+    "source": "Reuters",
+    "time": "2 hours ago",
+    "date": "2020-05-26 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.reuters.com"
+  }
+]

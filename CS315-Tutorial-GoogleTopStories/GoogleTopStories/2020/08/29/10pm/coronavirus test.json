@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Your Coronavirus Test Is Positive. Maybe It Shouldn\u2019t Be.",
+    "url": "https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html",
+    "source": "The New York Times",
+    "time": "6 hours ago",
+    "date": "2020-08-29 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Over 1,000 students have tested positive for Covid-19 at University of \nAlabama since classes resumed",
+    "url": "https://www.cnn.com/2020/08/29/us/university-of-alabama-covid-19-cases-trnd/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2020-08-29 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Kauai resident tests COVID-positive while on Oahu",
+    "url": "https://www.khon2.com/coronavirus/kauai-resident-tests-covid-positive-while-on-oahu/",
+    "source": "KHON2",
+    "time": "36 mins ago",
+    "date": "2020-08-29 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.khon2.com"
+  }
+]

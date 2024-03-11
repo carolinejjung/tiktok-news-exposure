@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus cases are growing in 11 U.S. states as Fauci warns of \n'disturbing' data",
+    "url": "https://www.cnbc.com/2020/09/13/coronavirus-cases-are-growing-in-11-us-states.html",
+    "source": "CNBC",
+    "time": "1 day ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "39 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus testing plummets in Oregon amid historic wildfires",
+    "url": "https://www.oregonlive.com/coronavirus/2020/09/coronavirus-testing-plummets-in-oregon-amid-historic-wildfires.html",
+    "source": "oregonlive.com",
+    "time": "16 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "Coronavirus USA live updates: cases, deaths and stimulus checks, latest news",
+    "url": "https://en.as.com/en/2020/09/15/latest_news/1600121020_180298.html",
+    "source": "AS English",
+    "time": "17 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "en.as.com"
+  },
+  {
+    "title": "Coronavirus: Law gives legal immunity to schools, health care, businesses",
+    "url": "https://www.daytondailynews.com/local/coronavirus-law-gives-legal-immunity-to-schools-health-care-businesses/RSEHTXVURJGVZMAEMSEE3K4KHE/",
+    "source": "Dayton Daily News",
+    "time": "31 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.daytondailynews.com"
+  },
+  {
+    "title": "Live updates: WHO reports highest one-day increase in global coronavirus \ncases since pandemic began",
+    "url": "https://www.washingtonpost.com/nation/2020/09/14/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "45 mins ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "University of Pittsburgh scientists discover antibody that 'neutralizes' \nvirus that causes coronavirus",
+    "url": "https://www.foxnews.com/health/university-pittsburgh-antibody-neutralizes-coronavirus",
+    "source": "Fox News",
+    "time": "3 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Fines Will Now Be Issued For Those Not Following Masks, Event Size Limit \nOrders in CT: Lamont",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/watch-live-at-4pm-gov-lamont-provides-update-on-conn-coronavirus-response/2332326/",
+    "source": "NBC Connecticut",
+    "time": "3 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "University Of Pittsburgh Scientists Discover Biomolecule That May \nNeutralize Coronavirus",
+    "url": "https://pittsburgh.cbslocal.com/2020/09/14/pitt-scientists-discover-biomolecule-that-may-neutralize-coronavirus/",
+    "source": "CBS Pittsburgh",
+    "time": "5 hours ago",
+    "date": "2020-09-14 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "pittsburgh.cbslocal.com"
+  }
+]

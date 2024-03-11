@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Trump offers new testing proposal and then shifts focus to himself",
+    "url": "https://www.cnn.com/2020/04/28/politics/donald-trump-testing-coronavirus-news-conference/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-04-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Pug in North Carolina tests positive for coronavirus, may be first for dog \nin U.S.",
+    "url": "https://www.nbcnews.com/news/animal-news/pug-north-carolina-tests-positive-coronavirus-may-be-first-dog-n1194096",
+    "source": "NBC News",
+    "time": "2 hours ago",
+    "date": "2020-04-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Coronavirus pandemic in the US: Live updates",
+    "url": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-28-20/index.html",
+    "source": "CNN.com",
+    "time": "4 mins ago",
+    "date": "2020-04-28 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

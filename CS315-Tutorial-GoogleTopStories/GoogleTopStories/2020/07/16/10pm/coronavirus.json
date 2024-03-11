@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/07/16/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus data has already disappeared after Trump administration shifted \ncontrol from CDC",
+    "url": "https://www.cnbc.com/2020/07/16/us-coronavirus-data-has-already-disappeared-after-trump-administration-shifted-control-from-cdc-to-hhs.html",
+    "source": "CNBC.com",
+    "time": "12 hours ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Target, CVS Shoppers Will Be Required To Wear Masks",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/07/16/892146238/target-cvs-shoppers-will-be-required-to-wear-masks",
+    "source": "NPR",
+    "time": "30 mins ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Texas shutdown not coming, Gov. Greg Abbott says during coronavirus surge",
+    "url": "https://www.texastribune.org/2020/07/16/texas-shutdown-greg-abbott/",
+    "source": "The Texas Tribune",
+    "time": "36 mins ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.texastribune.org"
+  },
+  {
+    "title": "Live updates: Unpublished White House report recommends stricter \ncoronavirus measures in hard-hit states",
+    "url": "https://www.washingtonpost.com/nation/2020/07/16/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "1 hour ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "MacCallum presses Meadows over low approval of Trump's handling of \ncoronavirus pandemic",
+    "url": "https://www.foxnews.com/media/mark-meadows-trump-coronavirus-low-approval-response",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "America went shopping as lockdowns lifted \u2014 but retail could take another \nhit as coronavirus cases rise",
+    "url": "https://www.nbcnews.com/business/consumer/america-went-shopping-lockdowns-lifted-retail-could-take-another-hit-n1234095",
+    "source": "NBC News",
+    "time": "1 hour ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Rand Paul has some wildly irresponsible ideas about a future coronavirus \nvaccine",
+    "url": "https://www.cnn.com/2020/07/16/politics/rand-paul-coronavirus-immune/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "In the coronavirus \u2018red zone,\u2019 leaked federal guidelines suggest Florida \ntake harsher measures",
+    "url": "https://www.palmbeachpost.com/news/20200716/in-coronavirus-lsquored-zonersquo-leaked-federal-guidelines-suggest-florida-take-harsher-measures",
+    "source": "The Palm Beach Post",
+    "time": "2 hours ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.palmbeachpost.com"
+  },
+  {
+    "title": "Californians turn on one another as coronavirus shuts down the state for a \nsecond time",
+    "url": "https://www.foxnews.com/us/californians-turn-on-one-another-as-coronavirus-shuts-down-the-state-for-a-second-time",
+    "source": "Fox News",
+    "time": "7 hours ago",
+    "date": "2020-07-16 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.foxnews.com"
+  }
+]

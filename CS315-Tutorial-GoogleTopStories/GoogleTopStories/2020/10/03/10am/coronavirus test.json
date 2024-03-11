@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Live updates: Trump hospitalized with the coronavirus, receives \nexperimental drug remdesivir",
+    "url": "https://www.washingtonpost.com/elections/2020/10/03/trump-covid-live-updates/",
+    "source": "Washington Post",
+    "time": "12 mins ago",
+    "date": "2020-10-03 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Kellyanne Conway has tested positive for the coronavirus. Here\u2019s everyone \nin the White House cluster who\u2019s te\u2026",
+    "url": "https://www.vox.com/2020/10/2/21498870/white-house-cluster-tested-positive-covid-19-coronavirus",
+    "source": "Vox",
+    "time": "20 mins ago",
+    "date": "2020-10-03 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.vox.com"
+  },
+  {
+    "title": "Trump begins remdesivir therapy as more people in his orbit test positive \nfor COVID-19",
+    "url": "https://www.cbsnews.com/live-updates/president-trump-covid-19-positive-test-latest-news-2020-10-03/",
+    "source": "CBS News",
+    "time": "7 mins ago",
+    "date": "2020-10-03 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.cbsnews.com"
+  }
+]

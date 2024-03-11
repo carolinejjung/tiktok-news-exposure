@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Artificial intelligence model detects asymptomatic Covid-19 infections \nthrough cellphone-recorded coughs",
+    "url": "https://news.mit.edu/2020/covid-19-cough-cellphone-detection-1029",
+    "source": "MIT News",
+    "time": "3 days ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "news.mit.edu"
+  },
+  {
+    "title": "Covid-19 News: Coronavirus Live Updates",
+    "url": "https://www.nytimes.com/live/2020/11/01/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Lack of readiness, questionable federal inspection helped fuel first U.S. \nCOVID-19 outbreak - 60 Minutes",
+    "url": "https://www.cbsnews.com/news/covid-19-outbreak-nursing-facility-kirkland-washington-60-minutes-2020-11-01/",
+    "source": "CBS News",
+    "time": "3 hours ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "'How is this kind of f***ery permitted?': Few consequences for businesses \nflouting mask rules",
+    "url": "https://www.cincinnati.com/story/news/2020/11/01/ohio-mask-mandate-no-real-punishment-breaking-covid-19-rules/6068476002/",
+    "source": "Cincinnati.com",
+    "time": "22 mins ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cincinnati.com"
+  },
+  {
+    "title": "Hormone boost could be COVID-19 key",
+    "url": "https://www.startribune.com/hormone-boost-could-be-covid-19-key/572944532/",
+    "source": "Minneapolis Star Tribune",
+    "time": "47 mins ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "Stillwater inmate dies after testing positive for COVID-19",
+    "url": "https://www.kare11.com/article/news/health/coronavirus/stillwater-inmate-dies-after-testing-positive-for-covid-19/89-8805bd27-aa80-4b6f-9c6b-2a8d650b7555",
+    "source": "KARE11.com",
+    "time": "1 hour ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.kare11.com"
+  },
+  {
+    "title": "Trump criticizes lockdowns in Europe as Covid-19 cases surge on the \ncontinent and in US",
+    "url": "https://www.cnn.com/2020/11/01/politics/trump-europe-lockdowns-criticism/index.html",
+    "source": "CNN",
+    "time": "8 hours ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19: Another North Jersey School District Closes Until January 2021",
+    "url": "https://dailyvoice.com/new-jersey/garfield/schools/covid-19-another-north-jersey-school-district-closes-until-january-2021/797060/",
+    "source": "Garfield Daily Voice",
+    "time": "11 hours ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Reports: Prince William was diagnosed with COVID-19 in April",
+    "url": "https://www.today.com/popculture/reports-prince-william-was-diagnosed-covid-19-april-t196847",
+    "source": "Today.com",
+    "time": "2 hours ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.today.com"
+  },
+  {
+    "title": "COVID NYC Update: Illegal Bronx warehouse party busted; gathering includes \nmore than 557 people",
+    "url": "https://abc7ny.com/bronx-warehouse-party-illegal-brooklyn-nyc-deputy-sheriffs/7547203/",
+    "source": "WABC-TV",
+    "time": "36 mins ago",
+    "date": "2020-11-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "abc7ny.com"
+  }
+]

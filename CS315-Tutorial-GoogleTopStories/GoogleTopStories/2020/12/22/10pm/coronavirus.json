@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 Global News Tracker: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/22/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "10 mins ago",
+    "date": "2020-12-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-12-22-20/index.html",
+    "source": "CNN.com",
+    "time": "5 hours ago",
+    "date": "2020-12-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Live updates: Pfizer and Trump administration nearing a deal for additional \nvaccine doses",
+    "url": "https://www.washingtonpost.com/nation/2020/12/22/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "41 mins ago",
+    "date": "2020-12-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

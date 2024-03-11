@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/25/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "52 mins ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "State health officials report more than 950 new COVID-19 cases Friday",
+    "url": "https://komonews.com/news/coronavirus/state-health-officials-report-more-than-950-new-covid-19-cases-friday",
+    "source": "KOMO",
+    "time": "1 hour ago",
+    "date": "2020-09-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "komonews.com"
+  }
+]

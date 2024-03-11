@@ -1,0 +1,32 @@
+[
+  {
+    "title": "American Airlines will offer coronavirus testing kits you can do at home",
+    "url": "https://www.washingtonpost.com/transportation/2020/12/08/american-airlines-will-offer-coronavirus-testing-kits-you-can-do-home/",
+    "source": "Washington Post",
+    "time": "10 hours ago",
+    "date": "2020-12-08 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Hauppauge firm wins $12.7M contract to develop COVID test",
+    "url": "https://www.newsday.com/business/coronavirus/covid-test-fda-coronavirus-manufacturer-contract-1.50085388",
+    "source": "Newsday",
+    "time": "16 hours ago",
+    "date": "2020-12-08 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.newsday.com"
+  },
+  {
+    "title": "KC metro school nurses provide free COVID-19 tests for students, staff",
+    "url": "https://www.kshb.com/news/coronavirus/kc-metro-school-nurses-provide-free-covid-19-tests-for-students-staff",
+    "source": "KSHB",
+    "time": "10 mins ago",
+    "date": "2020-12-08 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.kshb.com"
+  }
+]

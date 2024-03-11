@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Trump returns to Oval Office after doctor says he's been free of \ncoronavirus symptoms",
+    "url": "https://www.cnbc.com/2020/10/07/trump-has-been-symptom-free-for-more-than-24-hours-doctor-says-in-new-memo.html",
+    "source": "CNBC",
+    "time": "9 hours ago",
+    "date": "2020-10-07 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "More than 80% positive UK cases in Covid study had no core symptoms",
+    "url": "https://www.theguardian.com/world/2020/oct/08/more-than-80-positive-cases-in-covid-study-had-no-core-symptoms",
+    "source": "The Guardian",
+    "time": "3 hours ago",
+    "date": "2020-10-07 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.theguardian.com"
+  },
+  {
+    "title": "Covid: Trump back at work in Oval Office days after testing positive",
+    "url": "https://www.bbc.com/news/world-us-canada-54455040",
+    "source": "BBC",
+    "time": "2 hours ago",
+    "date": "2020-10-07 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.bbc.com"
+  }
+]

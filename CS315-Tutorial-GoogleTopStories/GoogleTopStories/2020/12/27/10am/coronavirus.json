@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News: Latest Updates",
+    "url": "https://www.nytimes.com/live/2020/12/27/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "15 mins ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-12-27-20/index.html",
+    "source": "CNN.com",
+    "time": "15 mins ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Vaccination begins for 450 million in Europe as fears grow about new \ncoronavirus variant",
+    "url": "https://www.nbcnews.com/news/world/vaccination-begins-450-million-europe-fears-grow-about-new-coronavirus-n1252384",
+    "source": "NBC News",
+    "time": "42 mins ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Fans defend Jennifer Aniston from backlash to coronavirus-themed Christmas \nornament",
+    "url": "https://www.foxnews.com/entertainment/fans-defend-jennifer-aniston-backlash-coronavirus-christmas-ornament",
+    "source": "Fox News",
+    "time": "25 mins ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "What is the fight over the \u2018COVID relief bill\u2019 all about?",
+    "url": "https://www.aljazeera.com/opinions/2020/12/27/what-is-the-fight-over-the-covid-relief-bill-all-about",
+    "source": "Aljazeera.com",
+    "time": "1 hour ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Maine CDC reports 4 deaths and 333 new coronavirus cases",
+    "url": "https://bangordailynews.com/2020/12/26/news/maine-cdc-reports-4-deaths-and-333-new-coronavirus-cases-0vzoa9n507wn/",
+    "source": "Bangor Daily News",
+    "time": "20 hours ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "bangordailynews.com"
+  },
+  {
+    "title": "Coronavirus updates: Unemployment benefits expire for millions of \nAmericans; more infectious UK strain edges closer to US",
+    "url": "https://www.usatoday.com/story/news/health/2020/12/26/covid-news-new-strain-france-spain-california-crisis-global-cases/4044787001/",
+    "source": "USA TODAY",
+    "time": "1 day ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Massachusetts cities are increasing resident-only coronavirus testing amid \n\u2018squeeze\u2019 at state-run sites",
+    "url": "https://www.bostonherald.com/2020/12/26/massachusetts-cities-turning-to-resident-only-coronavirus-testing-amid-squeeze-at-state-run-sites/",
+    "source": "Boston Herald",
+    "time": "17 hours ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "Coronavirus In New Hampshire: 1,031 New Cases; 11 More Deaths",
+    "url": "https://patch.com/new-hampshire/concord-nh/coronavirus-new-hampshire-1-031-new-cases-11-more-deaths",
+    "source": "Patch.com",
+    "time": "15 hours ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "patch.com"
+  },
+  {
+    "title": "Should pregnant women get the coronavirus vaccine? CDC issues new guidance",
+    "url": "https://www.news10.com/health/should-pregnant-women-get-the-coronavirus-vaccine-cdc-issues-new-guidance/",
+    "source": "NEWS10 ABC",
+    "time": "3 hours ago",
+    "date": "2020-12-27 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.news10.com"
+  }
+]

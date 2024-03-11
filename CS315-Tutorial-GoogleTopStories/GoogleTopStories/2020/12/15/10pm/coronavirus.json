@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/15/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "18 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: California prepares for onslaught of covid-19 \ndeaths as second vaccine nears approval",
+    "url": "https://www.washingtonpost.com/nation/2020/12/15/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "44 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Comparing the Moderna and Pfizer coronavirus vaccines",
+    "url": "https://www.cnn.com/videos/health/2020/12/16/moderna-pfizer-vaccine-comparison-gupta-sot-ac360-vpx.cnn",
+    "source": "CNN",
+    "time": "32 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus digest: Germany enters strict lockdown",
+    "url": "https://www.dw.com/en/coronavirus-digest-germany-enters-strict-lockdown/a-55955437",
+    "source": "Deutsche Welle",
+    "time": "7 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.dw.com"
+  },
+  {
+    "title": "Coronavirus by the numbers for Tuesday, Dec. 15",
+    "url": "https://www.mypanhandle.com/news/coronavirus-by-the-numbers-for-tuesday-dec-15/",
+    "source": "WMBB - mypanhandle.com",
+    "time": "40 mins ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.mypanhandle.com"
+  },
+  {
+    "title": "White House security director lost foot, lower leg in battle against \ncoronavirus: report",
+    "url": "https://www.foxnews.com/politics/white-house-security-director-lost-foot-lower-leg-covid-19",
+    "source": "Fox News",
+    "time": "6 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "FDA Authorizes Coronavirus Test You Can Take At Home Without Prescription : \nShots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/12/15/946692950/fda-authorizes-first-home-coronavirus-test-that-doesnt-require-a-prescription",
+    "source": "NPR",
+    "time": "9 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Coronavirus daily news updates, December 15: What to know today about \nCOVID-19 in the Seattle area, Washington state and the world",
+    "url": "https://www.seattletimes.com/seattle-news/health/coronavirus-daily-news-updates-december-15-what-to-know-today-about-covid-19-in-the-seattle-area-washington-state-and-the-world/",
+    "source": "Seattle Times",
+    "time": "13 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.seattletimes.com"
+  },
+  {
+    "title": "Coronavirus Updates: As COVID Spreads Through NYC, De Blasio Recommends \nFull Shutdown\u2026After Christmas",
+    "url": "https://gothamist.com/news/coronavirus-updates-moderna-vaccine-headed-approval-fda-releases-favorable-analysis",
+    "source": "Gothamist",
+    "time": "9 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "gothamist.com"
+  },
+  {
+    "title": "Traces of coronavirus in Mass. wastewater tick down for one region, up in \nanother",
+    "url": "https://www.bostonglobe.com/2020/12/15/nation/traces-coronavirus-mass-wastewater-tick-down-by-one-measure-an-up-by-another/",
+    "source": "The Boston Globe",
+    "time": "9 hours ago",
+    "date": "2020-12-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bostonglobe.com"
+  }
+]

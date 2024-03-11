@@ -1,0 +1,32 @@
+[
+  {
+    "title": "How coronavirus attacks the human body - The Washington Post",
+    "url": "https://www.washingtonpost.com/health/2020/05/10/coronavirus-attacks-body-symptoms/",
+    "source": "Washington Post",
+    "time": "1 day ago",
+    "date": "2020-05-11 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Dr. Gupta explains symptom called 'Covid toes'",
+    "url": "https://www.cnn.com/videos/health/2020/05/08/covid-toes-gupta-explainer-town-hall-vpx.cnn",
+    "source": "CNN.com",
+    "time": "3 days ago",
+    "date": "2020-05-11 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "U.S. Coronavirus Deaths Top 80,000 as States Expand Moves to Reopen",
+    "url": "https://www.wsj.com/articles/coronavirus-latest-news-05-11-2020-11589189980",
+    "source": "The Wall Street Journal",
+    "time": "1 hour ago",
+    "date": "2020-05-11 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.wsj.com"
+  }
+]

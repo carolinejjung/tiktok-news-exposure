@@ -1,0 +1,32 @@
+[
+  {
+    "title": "How coronavirus attacks the human body - The Washington Post",
+    "url": "https://www.washingtonpost.com/health/2020/05/10/coronavirus-attacks-body-symptoms/",
+    "source": "Washington Post",
+    "time": "2 days ago",
+    "date": "2020-05-12 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "All the Covid-19 Symptoms You Didn't Know About",
+    "url": "https://www.bloomberg.com/news/features/2020-05-11/all-the-covid-19-symptoms-you-didn-t-know-about",
+    "source": "Bloomberg",
+    "time": "1 day ago",
+    "date": "2020-05-12 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.bloomberg.com"
+  },
+  {
+    "title": "Covid-19 isn't just a respiratory disease. It hits the whole body",
+    "url": "https://www.cnn.com/2020/05/12/health/coronavirus-symptoms-blood-clots-inflammation/index.html",
+    "source": "CNN.com",
+    "time": "25 mins ago",
+    "date": "2020-05-12 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.cnn.com"
+  }
+]

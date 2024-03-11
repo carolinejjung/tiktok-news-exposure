@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/10/25/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "7 mins ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Europe Imposes New Restrictions As COVID-19 Cases Soar",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/10/25/927637746/europe-imposes-new-restrictions-as-covid-19-cases-soar",
+    "source": "NPR",
+    "time": "2 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Kellogg Center turns into a short-term home for students exposed to COVID-19",
+    "url": "https://www.lansingstatejournal.com/story/news/2020/10/26/kellogg-center-turns-into-home-students-exposed-covid-19/3730888001/",
+    "source": "Lansing State Journal",
+    "time": "10 mins ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.lansingstatejournal.com"
+  },
+  {
+    "title": "Route 66 Casino shuts down due to COVID-19 surge",
+    "url": "https://www.krqe.com/health/coronavirus-new-mexico/route-66-casino-shuts-down-due-to-covid-19-surge/",
+    "source": "KRQE News 13",
+    "time": "26 mins ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.krqe.com"
+  },
+  {
+    "title": "Lowville church connected to cluster of 40 new COVID-19 cases",
+    "url": "https://www.northcountrypublicradio.org/news/story/42559/20201025/lowville-church-connected-to-cluster-of-40-new-covid-19-cases",
+    "source": "North Country Public Radio",
+    "time": "24 mins ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.northcountrypublicradio.org"
+  },
+  {
+    "title": "Arizona voters have Covid-19 top of mind. That could spell trouble for \nTrump.",
+    "url": "https://www.nbcnews.com/politics/2020-election/arizona-voters-have-covid-19-top-mind-could-spell-trouble-n1244577",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "The Third Wave of COVID-19 in the U.S. Is Officially Worse Than the First \nTwo",
+    "url": "https://time.com/5903673/record-daily-coronavirus-cases/",
+    "source": "TIME",
+    "time": "11 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "time.com"
+  },
+  {
+    "title": "Source of infections unknown in half of Mass. COVID-19 cases, state says",
+    "url": "https://www.bostonglobe.com/2020/10/25/metro/source-infections-unknown-half-mass-covid-19-cases-state-says/",
+    "source": "The Boston Globe",
+    "time": "2 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "The White House is its own worst enemy on Covid-19",
+    "url": "https://www.cnn.com/2020/10/25/politics/2020-election-week-ahead/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Covid-19 Pandemic: Live Updates and News for Oct. 26, 2020",
+    "url": "https://www.bloomberg.com/news/articles/2020-10-25/u-s-adds-more-than-85-000-cases-in-one-day-record-virus-update",
+    "source": "Bloomberg",
+    "time": "3 hours ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.bloomberg.com"
+  }
+]

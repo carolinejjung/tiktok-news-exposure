@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/31/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "3 mins ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The CDC\u2019s testing guidance will make the pandemic worse",
+    "url": "https://www.theverge.com/2020/8/29/21404000/cdc-coronavirus-testing-guidance-asymptomatic-testing-bad-advice",
+    "source": "The Verge",
+    "time": "1 day ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.theverge.com"
+  },
+  {
+    "title": "Coronavirus positivity rate drops, hospitalizations increase in Maryland",
+    "url": "http://foxbaltimore.com/news/local/maryland-coronavirus-positivity-rate-drops-hospitalizations-increase",
+    "source": "Fox Baltimore",
+    "time": "9 mins ago",
+    "date": "2020-08-31 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "foxbaltimore.com"
+  }
+]

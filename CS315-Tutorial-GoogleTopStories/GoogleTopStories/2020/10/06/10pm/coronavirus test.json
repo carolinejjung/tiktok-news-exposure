@@ -1,0 +1,32 @@
+[
+  {
+    "title": "White House Adviser Stephen Miller Tests Positive For The Coronavirus",
+    "url": "https://www.npr.org/2020/10/06/920960047/wh-adviser-stephen-miller-tests-positive-for-the-coronavirus",
+    "source": "NPR",
+    "time": "1 hour ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Bill Gates says U.S. coronavirus testing is still 'truly a sad thing'",
+    "url": "https://www.cnbc.com/2020/10/06/bill-gates-says-us-coronavirus-testing-is-still-truly-a-sad-thing-.html",
+    "source": "CNBC",
+    "time": "7 hours ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Stephen Miller, senior White House aide, tests positive for coronavirus, \nofficials say",
+    "url": "https://www.washingtonpost.com/elections/2020/10/06/trump-biden-live-updates/",
+    "source": "Washington Post",
+    "time": "17 mins ago",
+    "date": "2020-10-06 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

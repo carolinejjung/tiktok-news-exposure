@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Covid-19 Tracker and Updates",
+    "url": "https://www.nytimes.com/2020/09/18/world/covid-coronavirus.html",
+    "source": "The New York Times",
+    "time": "54 mins ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "CDC reverses course on testing asymptomatic people for Covid-19, again",
+    "url": "https://www.nbcnews.com/health/health-news/cdc-reverses-course-testing-asymptomatic-people-covid-19-again-n1240442",
+    "source": "NBC News",
+    "time": "7 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Emotional health concerns during the COVID-19 pandemic",
+    "url": "https://komonews.com/news/coronavirus/emotional-health-concerns-during-the-covid-19-pandemic",
+    "source": "KOMO News",
+    "time": "57 mins ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Could pesticides make us more vulnerable to COVID-19?",
+    "url": "http://katv.com/news/local/could-pesticides-make-us-more-vulnerable-to-covid-19",
+    "source": "KATV",
+    "time": "1 hour ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "katv.com"
+  },
+  {
+    "title": "Teen sent to Houston for medical treatment contracts COVID-19",
+    "url": "https://abc13.com/teenager-with-lupus-covid-19-pre-existing-conditions-dianita-rodriguez-teenagers/6442893/",
+    "source": "KTRK-TV",
+    "time": "58 mins ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "abc13.com"
+  },
+  {
+    "title": "NYC Restaurateurs React to New COVID-19 Surcharge",
+    "url": "https://ny.eater.com/2020/9/18/21444468/nyc-restaurateurs-coronavirus-surcharge-debate",
+    "source": "Eater NY",
+    "time": "11 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "ny.eater.com"
+  },
+  {
+    "title": "3 COVID-19 cases force dozens of sorority, fraternity members at URI to \nquarantine",
+    "url": "https://www.wpri.com/news/local-news/south-county/3-covid-19-cases-force-dozens-of-sorority-fraternity-members-at-uri-to-quarantine/",
+    "source": "WPRI.com",
+    "time": "3 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "How reinfection changes the calculus on Covid-19 prevention",
+    "url": "https://www.cnn.com/2020/09/18/opinions/reinfection-covid-19-prevention-herd-immunity-haseltine/index.html",
+    "source": "CNN",
+    "time": "6 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "These countries crushed covid-19 \u2014 but are now reporting higher infection \nrates than the U.S.",
+    "url": "https://www.washingtonpost.com/world/europe/covid-france-spain-israel/2020/09/18/d8f750ac-f6c2-11ea-85f7-5941188a98cd_story.html",
+    "source": "Washington Post",
+    "time": "11 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Another record-breaking day Friday as Utah sees 1117 more COVID-19 cases, \nno new deaths",
+    "url": "https://www.ksl.com/article/50018878/another-record-breaking-day-friday-as-utah-sees-1117-more-covid-19-cases-no-new-deaths",
+    "source": "KSL.com",
+    "time": "6 hours ago",
+    "date": "2020-09-18 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.ksl.com"
+  }
+]

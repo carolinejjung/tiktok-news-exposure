@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/01/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "4 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: US to shun world effort to develop vaccine; \nHere's who should get first vaccinations; Fauci debunks COVID theories",
+    "url": "https://www.usatoday.com/story/news/health/2020/09/01/covid-19-news-fauci-labor-day-weekend-safety-iowa-state-football/3447396001/",
+    "source": "USA TODAY",
+    "time": "2 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Kentucky Gov. Andy Beshear to skip Kentucky Derby due to COVID-19 pandemic",
+    "url": "https://sports.yahoo.com/kentucky-governor-andy-beshear-skipping-kentucky-derby-churchill-downs-coronavirus-covid19-pandemic-014534352.html",
+    "source": "Yahoo Sports",
+    "time": "37 mins ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "sports.yahoo.com"
+  },
+  {
+    "title": "Free COVID-19 testing in Pleasant Grove after city identified as 'hot spot'",
+    "url": "http://kutv.com/news/coronavirus/free-covid-19-testing-in-pleasant-grove-after-city-identified-as-hot-spot",
+    "source": "KUTV 2News",
+    "time": "3 mins ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "kutv.com"
+  },
+  {
+    "title": "USF starts randomized pool testing for COVID-19 testing on campus",
+    "url": "https://www.fox13news.com/news/usf-starts-randomized-pool-testing-for-covid-19-testing-on-campus",
+    "source": "FOX 13 Tampa Bay",
+    "time": "8 mins ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.fox13news.com"
+  },
+  {
+    "title": "U.S. Won\u2019t Join Global Coronavirus Vaccine Effort Because It\u2019s Led By The \nWHO",
+    "url": "https://www.forbes.com/sites/tommybeer/2020/09/01/us-wont-join-global-coronavirus-vaccine-effort-because-its-led-by-the-who/",
+    "source": "Forbes",
+    "time": "5 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.forbes.com"
+  },
+  {
+    "title": "Senate GOP poised to offer slimmed-down COVID-19 relief bill as Mnuchin \ntakes the hot seat in the House",
+    "url": "https://abcnews.go.com/Politics/senate-gop-poised-offer-slimmed-covid-19-relief/story?id=72748087",
+    "source": "ABC News",
+    "time": "7 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "New Covid-19 study reveals more about possible risks to pregnant women",
+    "url": "https://www.cnn.com/2020/09/01/health/covid-19-pregnant-women-study-wellness/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19: Long Island School District Cuts Staff Amid Budget Gap Due To \nLack Of State Aid",
+    "url": "https://dailyvoice.com/new-york/nassau/schools/covid-19-long-island-school-district-cuts-staff-amid-budget-gap-due-to-lack-of-state-aid/793471/",
+    "source": "Daily Voice",
+    "time": "8 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Convalescent plasma not recommended to treat COVID-19, government panel says",
+    "url": "https://www.nbcnews.com/health/health-news/convalescent-plasma-not-recommended-treat-covid-19-government-panel-says-n1239025",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-09-01 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.nbcnews.com"
+  }
+]

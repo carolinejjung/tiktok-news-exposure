@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Lake of the Ozarks pool party reveler tests positive for coronavirus",
+    "url": "https://www.foxnews.com/us/lake-of-the-ozarks-pool-party-reveler-tests-positive-coronavirus",
+    "source": "Fox News",
+    "time": "8 hours ago",
+    "date": "2020-05-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Person who attended Lake of the Ozarks Memorial Day gathering tests \npositive for coronavirus",
+    "url": "https://www.cnn.com/2020/05/29/us/ozarks-missouri-party-coronavirus/index.html",
+    "source": "CNN.com",
+    "time": "23 hours ago",
+    "date": "2020-05-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Boston Officials Concerned Many Asian American Residents Not Tested for \nCoronavirus",
+    "url": "https://www.nbcboston.com/news/local/boston-officials-concerned-many-asian-american-residents-not-tested-for-coronavirus/2134111/",
+    "source": "NBC Boston",
+    "time": "21 mins ago",
+    "date": "2020-05-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcboston.com"
+  }
+]

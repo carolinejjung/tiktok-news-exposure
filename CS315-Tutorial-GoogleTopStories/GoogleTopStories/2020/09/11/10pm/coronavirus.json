@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/11/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "26 mins ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-11-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "The last day to get coronavirus testing at the Pepsi Center will be Sept. 30",
+    "url": "https://www.denverpost.com/2020/09/11/coronavirus-covid-pepsi-center-testing-to-end/",
+    "source": "The Denver Post",
+    "time": "43 mins ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.denverpost.com"
+  },
+  {
+    "title": "New study shows the impact of coronavirus on the heart",
+    "url": "https://www.fox10phoenix.com/video/850004",
+    "source": "FOX 10 News Phoenix",
+    "time": "1 hour ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.fox10phoenix.com"
+  },
+  {
+    "title": "Santa Ana rolls out coronavirus help to neighborhoods",
+    "url": "https://www.ocregister.com/2020/09/11/santa-ana-rolls-out-coronavirus-help-to-neighborhoods/",
+    "source": "OCRegister",
+    "time": "1 hour ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.ocregister.com"
+  },
+  {
+    "title": "Live updates: U.S. may not return to pre-coronavirus life until late 2021, \nFauci says",
+    "url": "https://www.washingtonpost.com/nation/2020/09/11/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "2 hours ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Kids caught the coronavirus at child care centers and infected family \nmembers, CDC report says",
+    "url": "https://www.cnbc.com/2020/09/11/kids-caught-coronavirus-at-childcare-infected-family-cdc-report-says.html",
+    "source": "CNBC",
+    "time": "6 hours ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "U.S. House Speaker Pelosi voices optimism about passing coronavirus aid bill",
+    "url": "https://news.yahoo.com/u-house-speaker-pelosi-says-215218429.html",
+    "source": "Yahoo News",
+    "time": "4 hours ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "House Democrats probing $250M coronavirus messaging contract",
+    "url": "https://www.politico.com/news/2020/09/11/hhs-congress-coronavirus-contract-412219",
+    "source": "Politico",
+    "time": "12 hours ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "Utah County has worst COVID-19 infection rates in the state, as Utah cases \nspike to 656",
+    "url": "https://www.sltrib.com/news/2020/09/11/utah-coronavirus-case/",
+    "source": "Salt Lake Tribune",
+    "time": "6 hours ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.sltrib.com"
+  }
+]

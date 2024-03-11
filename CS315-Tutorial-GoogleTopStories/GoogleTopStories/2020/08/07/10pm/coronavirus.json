@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live Updates: Global Tracker",
+    "url": "https://www.nytimes.com/2020/08/07/world/covid-19-news.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus relief package talks stall; Trump might use executive actions \nto bypass congress",
+    "url": "https://www.washingtonpost.com/nation/2020/08/07/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "17 mins ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Trump shoots down reporter claim NJ club members violating coronavirus \nguidelines: 'It's a peaceful protest'",
+    "url": "https://www.foxnews.com/media/trump-defends-nj-club-members-coronavirus-guidelines",
+    "source": "Fox News",
+    "time": "51 mins ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Ohio Gov. DeWine tells 'Your World' positive coronavirus test 'certainly \nscared me'",
+    "url": "https://www.foxnews.com/politics/mike-dewine-positive-coronavirus-test-ohio-governor",
+    "source": "Fox News",
+    "time": "33 mins ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Stanford graduate students question university\u2019s coronavirus policies as \ncampus move-ins begin",
+    "url": "https://www.sfchronicle.com/bayarea/article/Stanford-graduate-students-question-15468352.php",
+    "source": "San Francisco Chronicle",
+    "time": "47 mins ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.sfchronicle.com"
+  },
+  {
+    "title": "Dr. Anthony Fauci says chance of coronavirus vaccine being highly effective \nis 'not great'",
+    "url": "https://www.cnbc.com/2020/08/07/coronavirus-vaccine-dr-fauci-says-chances-of-it-being-highly-effective-is-not-great.html",
+    "source": "CNBC.com",
+    "time": "8 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Coronavirus has already dealt a blow to Social Security's finances. Trump's \npayroll tax holiday could make it worse",
+    "url": "https://www.cnn.com/2020/08/07/politics/social-security-medicare-trump-payroll-taxes/index.html",
+    "source": "CNN.com",
+    "time": "8 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Map: State-by-state breakdown of coronavirus travel restrictions",
+    "url": "https://www.nbcnews.com/news/us-news/map-coronavirus-travel-restrictions-inside-united-states-n1236157",
+    "source": "NBC News",
+    "time": "9 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "CDC: Children Can Develop Severe Cases of the Coronavirus",
+    "url": "https://www.usnews.com/news/health-news/articles/2020-08-07/cdc-children-can-develop-severe-cases-of-the-coronavirus",
+    "source": "US News & World Report",
+    "time": "5 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.usnews.com"
+  },
+  {
+    "title": "Pelosi, Schumer say White House declined $2T coronavirus deal | TheHill",
+    "url": "https://thehill.com/homenews/senate/511055-pelosi-schumer-say-white-house-declined-2t-coronavirus-deal",
+    "source": "The Hill",
+    "time": "9 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "thehill.com"
+  }
+]

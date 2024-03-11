@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Trump Program to Cover Uninsured Covid-19 Patients Falls Short of Promise",
+    "url": "https://www.nytimes.com/2020/08/29/health/Covid-obamacare-uninsured.html",
+    "source": "The New York Times",
+    "time": "2 hours ago",
+    "date": "2020-08-29 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Doctors find possible case of Covid-19 reinfection in US",
+    "url": "https://www.cnn.com/2020/08/28/health/covid-19-reinfection-nevada/index.html",
+    "source": "CNN",
+    "time": "12 hours ago",
+    "date": "2020-08-29 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "COVID-19 Live Updates: 1st possible reinfection case in US",
+    "url": "https://abc7ny.com/reinfection-case-coronavirus-can-you-get-reinfected-by-covid-nevada/6394817/",
+    "source": "WABC-TV",
+    "time": "1 hour ago",
+    "date": "2020-08-29 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Live updates: Oregon reports death of 29-year-old to COVID-19",
+    "url": "https://www.opb.org/article/2020/08/29/coronavirus-oregon-washington-updates/",
+    "source": "OPB News",
+    "time": "12 mins ago",
+    "date": "2020-08-29 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.opb.org"
+  },
+  {
+    "title": "Albany County Saturday COVID-19 update",
+    "url": "http://cbs6albany.com/news/local/albany-county-saturday-covid-19-update-08-29-2020",
+    "source": "WRGB",
+    "time": "58 mins ago",
+    "date": "2020-08-29 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "cbs6albany.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/05/14/us/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Vaccine expert to warn of \u2018darkest winter in modern history\u2019 \nwithout coordinated U.S. response",
+    "url": "https://www.washingtonpost.com/nation/2020/05/14/coronavirus-update-us/",
+    "source": "Washington Post",
+    "time": "12 mins ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Dems' $3T coronavirus bill includes marijuana banking protections",
+    "url": "https://www.foxnews.com/politics/dems-3t-coronavirus-bill-includes-marijuana-banking-protections",
+    "source": "Fox News",
+    "time": "34 mins ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Simply talking in confined spaces may be enough to spread the coronavirus, \nresearchers say",
+    "url": "https://www.usatoday.com/story/news/nation/2020/05/13/closed-environments-high-risk-coronavirus-infections/5186862002/",
+    "source": "USA Today",
+    "time": "1 hour ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Restaurant, bar owners pan de Blasio's partial coronavirus reopening plan",
+    "url": "https://nypost.com/2020/05/14/restaurant-bar-owners-pan-de-blasios-coronavirus-reopening-plan/",
+    "source": "New York Post",
+    "time": "3 hours ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Education leaders ask what's next as nearly all states ease coronavirus \nrestrictions",
+    "url": "https://www.cnn.com/2020/05/14/health/us-coronavirus-thursday/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Livestream: Richard Bright Testifies About Coronavirus",
+    "url": "https://www.npr.org/2020/05/14/855254610/ousted-scientist-says-window-of-opportunity-to-fight-coronavirus-is-closing",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Coronavirus hot spot in Minnesota connected to surge of cases at \nmeatpacking plant",
+    "url": "https://www.nbcnews.com/news/us-news/coronavirus-hot-spot-minnesota-connected-surge-cases-meatpacking-plant-n1206176",
+    "source": "NBC News",
+    "time": "5 hours ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "\u2018It\u2019s nuts down there\u2019 -- Lawlessness spikes in Portland\u2019s Old Town as \ncoronavirus shutters businesses",
+    "url": "https://www.oregonlive.com/coronavirus/2020/05/its-nuts-down-there-lawlessness-spikes-in-portlands-old-town-as-coronavirus-shutters-businesses.html",
+    "source": "Oregon Live",
+    "time": "9 hours ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.oregonlive.com"
+  },
+  {
+    "title": "L.A. Coronavirus Update: Mayor Eric Garcetti Says, \u201cI Don\u2019t Want To Turn \nLos Angeles Into Some Sort Of Police State\u201d",
+    "url": "https://deadline.com/2020/05/l-a-coronavirus-update-mayor-eric-garcetti-says-i-dont-want-to-turn-los-angeles-into-some-sort-of-police-state-1202934246/",
+    "source": "Deadline",
+    "time": "13 hours ago",
+    "date": "2020-05-14 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "deadline.com"
+  }
+]

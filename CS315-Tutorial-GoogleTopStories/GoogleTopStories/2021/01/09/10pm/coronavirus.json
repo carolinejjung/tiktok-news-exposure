@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus World Map: Tracking the Global Outbreak",
+    "url": "https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html",
+    "source": "New York Times Australia",
+    "time": "Feb 27, 2020",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-01-09-21/index.html",
+    "source": "CNN.com",
+    "time": "4 hours ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Father Reynato Rodillas, 58, was Pastor of Saint James the Just in Ogden \nwhen he died after testing positive for the ...",
+    "url": "https://sltrib.com/news/2021/01/10/catholic-priest-dies/",
+    "source": "Salt Lake Tribune",
+    "time": "1 hour ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "sltrib.com"
+  },
+  {
+    "title": "Saturday's coronavirus updates: Region 6 now falls short in two of four \nmetrics needed to relax restrictions; 480 ...",
+    "url": "https://www.news-gazette.com/coronavirus/saturdays-coronavirus-updates-region-6-now-falls-short-in-two-of-four-metrics-needed-to/article_502aea7f-7b9b-5ff4-bb54-a9cad3b10338.html",
+    "source": "Champaign/Urbana News-Gazette",
+    "time": "1 hour ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.news-gazette.com"
+  },
+  {
+    "title": "New coronavirus cases in China double, mainly in Hebei province",
+    "url": "https://news.yahoo.com/coronavirus-cases-china-double-mainly-020303382.html",
+    "source": "Yahoo News",
+    "time": "1 hour ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "news.yahoo.com"
+  },
+  {
+    "title": "Minnesota reports first cases of coronavirus variant",
+    "url": "https://www.startribune.com/minnesota-reports-first-cases-of-coronavirus-variant/600008819/",
+    "source": "Minneapolis Star Tribune",
+    "time": "1 hour ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "Millions In China Under New Restrictions Amid COVID-19 Spike Near Beijing",
+    "url": "https://www.npr.org/sections/coronavirus-live-updates/2021/01/09/955298826/millions-in-china-under-new-restrictions-amid-covid-19-spike-near-beijing",
+    "source": "NPR",
+    "time": "3 hours ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Coronavirus pandemic 'will get worse' in next few weeks as U.S. sees \nhistoric pain",
+    "url": "https://finance.yahoo.com/news/coronavirus-deaths-and-hospitalizations-record-highs-155628109.html",
+    "source": "Yahoo Finance",
+    "time": "11 hours ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "finance.yahoo.com"
+  },
+  {
+    "title": "Boston crosses coronavirus hospitalization threshold",
+    "url": "https://www.bostonherald.com/2021/01/09/boston-crosses-coronavirus-hospitalization-threshold/",
+    "source": "Boston Herald",
+    "time": "4 hours ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "California records a high of 695 coronavirus deaths in a single day | \nTheHill",
+    "url": "https://thehill.com/homenews/state-watch/533501-california-records-a-record-695-coronavirus-deaths-in-a-single-day",
+    "source": "The Hill",
+    "time": "4 hours ago",
+    "date": "2021-01-09 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "thehill.com"
+  }
+]

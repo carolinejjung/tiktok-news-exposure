@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Pence Misleadingly Blames Coronavirus Spikes on Rise in Testing",
+    "url": "https://www.nytimes.com/2020/06/15/us/politics/pence-coronavirus-governors.html",
+    "source": "The New York Times",
+    "time": "12 hours ago",
+    "date": "2020-06-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "DeSantis defies critics as coronavirus spreads in Florida",
+    "url": "https://www.politico.com/news/2020/06/16/trump-florida-coronavirus-321600",
+    "source": "Politico",
+    "time": "5 hours ago",
+    "date": "2020-06-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.politico.com"
+  },
+  {
+    "title": "WWE cancels TV tapings after wrestler tests positive for coronavirus",
+    "url": "https://nypost.com/2020/06/16/wwe-cancels-tv-tapings-after-wrestler-tests-positive-for-coronavirus/",
+    "source": "New York Post",
+    "time": "1 hour ago",
+    "date": "2020-06-16 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "nypost.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-14-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "10 mins ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/14/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Europe starts testing app interoperability service to power cross-border \nCOVID-19 exposure alerts",
+    "url": "https://techcrunch.com/2020/09/14/europe-starts-testing-app-interoperability-service-to-power-cross-border-covid-19-exposure-alerts/",
+    "source": "TechCrunch",
+    "time": "32 mins ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "techcrunch.com"
+  },
+  {
+    "title": "World Health Organization reports new daily record in COVID-19 cases",
+    "url": "https://www.cbsnews.com/news/coronavirus-world-health-organization-daily-record-covid-19-cases/",
+    "source": "CBS News",
+    "time": "21 mins ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Why Covid-19 case numbers are falling in the US",
+    "url": "https://www.vox.com/future-perfect/2020/9/14/21432199/coronavirus-covid-19-decline-statistics-chart",
+    "source": "Vox",
+    "time": "1 hour ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.vox.com"
+  },
+  {
+    "title": "Some Boston Colleges See Coronavirus Clusters; State Travel Exemption List \nChanges Yet Again [COVID-19 Weekly Update]",
+    "url": "https://northendwaterfront.com/2020/09/some-boston-colleges-see-coronavirus-clusters-state-travel-exemption-list-changes-yet-again-covid-19-weekly-update/",
+    "source": "NorthEndWaterfront.com",
+    "time": "1 day ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "northendwaterfront.com"
+  },
+  {
+    "title": "Manchester restaurant temporarily closed after employee tests positive for \nCOVID-19",
+    "url": "https://www.unionleader.com/news/business/manchester-restaurant-temporarily-closed-after-employee-tests-positive-for-covid-19/article_d4c16bb8-f3e6-5d42-b94f-a20336dc8de2.html",
+    "source": "The Union Leader",
+    "time": "16 hours ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.unionleader.com"
+  },
+  {
+    "title": "Multiple Schools Across Conn. Closed Today Due to COVID-19 Cases",
+    "url": "https://www.nbcconnecticut.com/news/local/back-to-school/multiple-schools-across-conn-close-due-to-covid-19-cases/2332067/",
+    "source": "NBC Connecticut",
+    "time": "4 hours ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "COVID-19: School District In Westchester Announces Reopening Plans After \nLarge Parties",
+    "url": "https://dailyvoice.com/new-york/mountpleasant/news/covid-19-school-district-in-westchester-announces-reopening-plans-after-large-parties/794146/",
+    "source": "Mount Pleasant Daily Voice",
+    "time": "14 hours ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "dailyvoice.com"
+  },
+  {
+    "title": "Boston College COVID-19 outbreak worries epidemiologists, students, \ncommunity",
+    "url": "https://www.bostonglobe.com/2020/09/11/metro/bc-outbreak-worries-epidemiologists-students-community/",
+    "source": "The Boston Globe",
+    "time": "2 days ago",
+    "date": "2020-09-14 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.bostonglobe.com"
+  }
+]

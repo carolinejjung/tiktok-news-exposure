@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/09/08/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "44 mins ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-08-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "49 mins ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Senate to vote on scaled-down coronavirus relief package | TheHill",
+    "url": "https://thehill.com/homenews/senate/515427-senate-to-vote-on-scaled-down-coronavirus-relief-package",
+    "source": "The Hill",
+    "time": "49 mins ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Pfizer CEO says people who don't take the coronavirus vaccine will become \n'weak link' that allows it to spread",
+    "url": "https://www.cnbc.com/2020/09/08/coronavirus-vaccine-pfizer-ceo-says-people-who-dont-take-it-will-become-weak-link.html",
+    "source": "CNBC",
+    "time": "39 mins ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Late YouTuber Lloyd Cafe Cadena was hospitalized for coronavirus before \ndeath, family says",
+    "url": "https://www.foxnews.com/entertainment/youtube-lloyd-cafe-cadena-hospitalized-coronavirus-before-death",
+    "source": "Fox News",
+    "time": "20 mins ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "The coronavirus is mutating \u2014 does it matter?",
+    "url": "https://www.nature.com/articles/d41586-020-02544-6",
+    "source": "Nature.com",
+    "time": "4 hours ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.nature.com"
+  },
+  {
+    "title": "Fraternity rager sparks coronavirus cluster at University of New Hampshire",
+    "url": "https://nypost.com/2020/09/07/frat-rager-sparks-coronavirus-cluster-at-university-of-new-hampshire/",
+    "source": "New York Post",
+    "time": "11 hours ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "Pastor holds prayer rally in defiance of coronavirus health guidelines at \nthe California State Capitol",
+    "url": "https://www.cbsnews.com/news/california-pastor-coronavirus-health-guidelines-prayer-rally/",
+    "source": "CBS News",
+    "time": "3 hours ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Coronavirus updates: West Virginia University suspends in-person classes; \nTrump asks reporter to remove mask; US nears 190K deaths",
+    "url": "https://www.usatoday.com/story/news/health/2020/09/08/covid-news-us-deaths-french-open-montana-meth-vaccine/5739730002/",
+    "source": "USA TODAY",
+    "time": "1 hour ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Rebuilt after 9/11, World Trade Center threatened anew by coronavirus",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-sept11/rebuilt-after-9-11-world-trade-center-threatened-anew-by-coronavirus-idUSKBN25Z1JD",
+    "source": "Reuters",
+    "time": "4 hours ago",
+    "date": "2020-09-08 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.reuters.com"
+  }
+]

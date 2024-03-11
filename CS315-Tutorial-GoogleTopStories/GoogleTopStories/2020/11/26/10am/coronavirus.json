@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid in the U.S.: Latest Map and Case Count",
+    "url": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+    "source": "The New York Times",
+    "time": "Mar 3, 2020",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus updates: Thanksgiving parade goes on without crowds; Supreme \nCourt blocks NY worship restrictions; CDC projects 321K deaths",
+    "url": "https://www.usatoday.com/story/news/health/2020/11/26/covid-news-cdc-joe-biden-los-angeles-coronavirus/6427266002/",
+    "source": "USA TODAY",
+    "time": "59 mins ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Greece extends coronavirus lockdown by a week",
+    "url": "https://medicalxpress.com/news/2020-11-greece-coronavirus-lockdown-week.html",
+    "source": "Medical Xpress",
+    "time": "24 mins ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "medicalxpress.com"
+  },
+  {
+    "title": "Education Min. reports 1,792 active coronavirus cases in students",
+    "url": "https://www.jpost.com/breaking-news/education-min-reports-1792-active-coronavirus-cases-in-students-650377",
+    "source": "The Jerusalem Post",
+    "time": "7 mins ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.jpost.com"
+  },
+  {
+    "title": "Americans celebrate Thanksgiving, while cities and counties set records for \ncoronavirus infections",
+    "url": "https://www.washingtonpost.com/nation/2020/11/26/covid-coronavirus-update/",
+    "source": "Washington Post",
+    "time": "19 mins ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Daily Covid-19 deaths will soon double, expert says, while others warn \nThanksgiving gatherings could worsen case surge",
+    "url": "https://www.cnn.com/2020/11/26/health/us-coronavirus-thursday/index.html",
+    "source": "CNN",
+    "time": "1 hour ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Supreme Court backs religious challenge to NY coronavirus restrictions",
+    "url": "https://www.bostonglobe.com/2020/11/26/nation/supreme-court-rules-against-ny-coronavirus-restrictions/",
+    "source": "The Boston Globe",
+    "time": "9 hours ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "High court blocks NY coronavirus limits on houses of worship",
+    "url": "https://apnews.com/article/ruth-bader-ginsburg-amy-coney-barrett-coronavirus-pandemic-us-supreme-court-john-roberts-d0de27dbb3e16f49d1e73718bd56448d",
+    "source": "Associated Press",
+    "time": "9 hours ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "apnews.com"
+  },
+  {
+    "title": "Disney increases layoffs to 32,000 workers as coronavirus batters its theme \npark business",
+    "url": "https://www.cnbc.com/2020/11/26/disney-increases-layoffs-to-32000-amid-coronavirus-pandemic.html",
+    "source": "CNBC",
+    "time": "8 hours ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "2nd Coronavirus Wave Hits Buffalo Area \u2018With a Vengeance\u2019",
+    "url": "https://www.nytimes.com/2020/11/26/nyregion/buffalo-covid-rates.html",
+    "source": "The New York Times",
+    "time": "5 hours ago",
+    "date": "2020-11-26 10:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.nytimes.com"
+  }
+]

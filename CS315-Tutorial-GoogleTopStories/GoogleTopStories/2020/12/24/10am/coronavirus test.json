@@ -1,0 +1,32 @@
+[
+  {
+    "title": "How Confident Can You Be in a Coronavirus Test?",
+    "url": "https://www.nytimes.com/2020/12/23/upshot/coronavirus-tests-positives-negatives.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-12-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "US Needs More Coronavirus Tests To Stop The Winter Surge : Shots - Health \nNews",
+    "url": "https://www.npr.org/sections/health-shots/2020/12/22/948085513/vaccines-are-coming-but-the-u-s-still-needs-more-testing-to-stop-the-surge",
+    "source": "NPR",
+    "time": "2 days ago",
+    "date": "2020-12-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "A Maryland county offered antibody tests to all its employees. They learned \ntheir COVID precautions are working.",
+    "url": "https://www.baltimoresun.com/coronavirus/bs-md-howard-county-antibody-testing-20201224-jjmzyrnbz5cq3i2flosavbuoce-story.html",
+    "source": "Baltimore Sun",
+    "time": "4 hours ago",
+    "date": "2020-12-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.baltimoresun.com"
+  }
+]

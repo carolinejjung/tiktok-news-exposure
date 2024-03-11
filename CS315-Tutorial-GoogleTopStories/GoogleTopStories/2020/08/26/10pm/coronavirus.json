@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "23 mins ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Democrats denounce CDC rules change as \u2018political propaganda\u2019",
+    "url": "https://www.washingtonpost.com/nation/2020/08/26/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "26 mins ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "US u-turn on testing coronavirus contacts raises alarm: Live news",
+    "url": "https://www.aljazeera.com/news/2020/08/turn-testing-coronavirus-contacts-raises-alarm-live-news-200826235009384.html",
+    "source": "Aljazeera.com",
+    "time": "26 mins ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Far Hills horse race -- a century-old tradition -- canceled due to \ncoronavirus",
+    "url": "https://www.nj.com/coronavirus/2020/08/far-hills-horse-race-a-century-old-tradition-canceled-due-to-coronavirus.html",
+    "source": "nj.com",
+    "time": "45 mins ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.nj.com"
+  },
+  {
+    "title": "S.Korea reports 441 new coronavirus cases, most since March - KCDC",
+    "url": "https://www.jpost.com/breaking-news/skorea-reports-441-new-coronavirus-cases-most-since-march-kcdc-640077",
+    "source": "The Jerusalem Post",
+    "time": "37 mins ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.jpost.com"
+  },
+  {
+    "title": "GOP set to propose smaller coronavirus stimulus bill",
+    "url": "https://www.cnbc.com/2020/08/26/gop-set-to-propose-smaller-coronavirus-stimulus-bill.html",
+    "source": "CNBC",
+    "time": "5 hours ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Woman may have caught coronavirus in airplane toilet, researchers say",
+    "url": "https://www.cnn.com/2020/08/26/health/coronavirus-passenger-toilet-korea/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Reports: Trump Sabotaged Coronavirus Testing to Keep Numbers Low",
+    "url": "https://nymag.com/intelligencer/2020/08/trump-cdc-coronavirus-testing-keep-numbers-low.html",
+    "source": "New York Magazine",
+    "time": "6 hours ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "nymag.com"
+  },
+  {
+    "title": "CDC changes coronavirus testing guidance; asymptomatic people no longer \nrequire test",
+    "url": "https://www.foxnews.com/health/cdc-coronavirus-testing-guidance-change",
+    "source": "Fox News",
+    "time": "7 hours ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "9 Communities At High Risk For Coronavirus Infections In Massachusetts",
+    "url": "https://boston.cbslocal.com/2020/08/26/9-cities-towns-massachusetts-high-risk-coronavirus-map/",
+    "source": "CBS Boston",
+    "time": "3 hours ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "boston.cbslocal.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "White House chief of staff tests positive for coronavirus",
+    "url": "https://www.cnn.com/2020/11/06/politics/mark-meadows-coronavirus-positive-test/index.html",
+    "source": "CNN",
+    "time": "3 hours ago",
+    "date": "2020-11-07 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "US Sees Record-Breaking Week In Coronavirus Cases : Shots - Health News",
+    "url": "https://www.npr.org/sections/health-shots/2020/11/06/931928803/new-coronavirus-cases-shattered-records-this-week-and-hospitalizations-surged",
+    "source": "NPR",
+    "time": "22 hours ago",
+    "date": "2020-11-07 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Madrid\u2019s Hazard and Casemiro test positive for COVID-19",
+    "url": "https://wtop.com/sports/2020/11/madrids-hazard-and-casemiro-test-positive-for-covid-19/",
+    "source": "WTOP",
+    "time": "11 mins ago",
+    "date": "2020-11-07 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "wtop.com"
+  }
+]

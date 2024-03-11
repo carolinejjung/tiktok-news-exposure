@@ -1,0 +1,32 @@
+[
+  {
+    "title": "In NYC Schools, Only 18 Positive Coronavirus Tests Out of 10,676",
+    "url": "https://www.nytimes.com/2020/10/19/nyregion/schools-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-10-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Will the Pac-12 be forced to cancel games? The aggressive COVID-19 testing \nplan is designed to prevent outbreaks",
+    "url": "https://www.mercurynews.com/will-the-pac-12-have-to-cancel-games-the-aggressive-covid-19-testing-plan-is-designed-to-prevent-outbreaks",
+    "source": "The Mercury News",
+    "time": "1 day ago",
+    "date": "2020-10-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.mercurynews.com"
+  },
+  {
+    "title": "2 In Redding Schools Test Positive For Coronavirus",
+    "url": "https://patch.com/connecticut/weston-ct/2-redding-schools-test-positive-coronavirus",
+    "source": "Patch.com",
+    "time": "13 mins ago",
+    "date": "2020-10-21 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "patch.com"
+  }
+]

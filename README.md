@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tiktok-news-exposure
 CS 315 Project on analyzing the amount of news exposure on TikTok. 
 
@@ -42,3 +43,14 @@ Once you run, you should output 2 new files: `...metadata.csv` and `failed.csv` 
 **IMPORTANT AND CRUCIAL STEP: RENAME YOUR `failed.csv` FILE BEFORE PUSHING!!** In the bolded area, replace the initial and chunk number of the file you ran to make it look like `failed_RB_chunk_1.csv` for chunk 1 of RB's data. You must do this step to not overwrite other user data and chunk numbers. 
 
 Also, make sure that the csv's are located in the correct folders. If not, place it in the correct location (see bullets above).
+=======
+# cs3152024
+Tutorials for CS 315 Spring 2024 (Wellesley College)
+
+## Table of Content
+
+1. Google Top Stories (solutions + some activities that are a variation on the solutions). Added on Feb 20, 2024.
+2. Week 6 Task Solutions. Added on Mar 5, 2024.
+3. cs315project2datacollectionV2. Contains the modified pyktok library and a script example for how to use it. Added on Mar 10, 2024.
+4. Week 7 Lecture Code. Contains examples of how to generate word embeddings and using them for clustering and t-SNE visualization. Added on Mar 10, 2024.
+>>>>>>> upstream/main

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus pandemic in the US: Live updates",
+    "url": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-26-20/index.html",
+    "source": "CNN.com",
+    "time": "8 mins ago",
+    "date": "2020-05-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus Live News: Global Updates",
+    "url": "https://www.nytimes.com/2020/05/26/world/coronavirus-news.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-05-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Why Coronavirus Tests Give Some People a \u2018Yes\u2019 and a \u2018No\u2019",
+    "url": "https://www.wsj.com/articles/why-coronavirus-tests-give-some-people-a-yes-and-a-no-11590501600",
+    "source": "The Wall Street Journal",
+    "time": "15 mins ago",
+    "date": "2020-05-26 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.wsj.com"
+  }
+]

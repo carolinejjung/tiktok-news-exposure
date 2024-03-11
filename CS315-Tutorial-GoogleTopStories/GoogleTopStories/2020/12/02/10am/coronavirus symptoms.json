@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Should Isolation Periods Be Shorter for People With Covid-19?",
+    "url": "https://www.nytimes.com/2020/11/29/health/should-covid-19-isolation-periods-be-shorter.html",
+    "source": "The New York Times",
+    "time": "2 days ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "COVID in Kids: The Most Telling Symptoms",
+    "url": "https://www.webmd.com/lung/news/20201130/covid-in-kids-the-most-telling-symptoms",
+    "source": "WebMD",
+    "time": "1 day ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.webmd.com"
+  },
+  {
+    "title": "'I Got COVID 9 Months Ago and Still Have Symptoms'",
+    "url": "https://www.newsweek.com/this-what-its-like-covid-long-hauler-1551431",
+    "source": "Newsweek",
+    "time": "4 hours ago",
+    "date": "2020-12-02 10:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.newsweek.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2021/02/05/world/covid-19-coronavirus",
+    "source": "The New York Times",
+    "time": "9 mins ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "If you've had Covid-19, here's what you should know about vaccines, \nvariants and more",
+    "url": "https://www.cnn.com/2021/02/05/health/what-covid-19-survivors-should-know-explainer-wellness/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Spike Lee chats up COVID-19 vaccine seekers at Yankee Stadium",
+    "url": "https://nypost.com/2021/02/05/spike-lee-chats-up-covid-19-vaccine-seekers-at-yankee-stadium/",
+    "source": "New York Post",
+    "time": "23 mins ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "nypost.com"
+  },
+  {
+    "title": "As demand for COVID-19 vaccine increases, RI to start getting more doses \nper week",
+    "url": "https://www.wpri.com/health/coronavirus/as-demand-for-covid-19-vaccine-increases-ri-to-start-getting-more-doses-per-week/",
+    "source": "WPRI.com",
+    "time": "16 mins ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wpri.com"
+  },
+  {
+    "title": "AstraZeneca vaccine 75 percent effective against highly contagious COVID-19 \nvariant | TheHill",
+    "url": "https://thehill.com/changing-america/well-being/prevention-cures/537515-astrazeneca-vaccine-75-percent-effective-against",
+    "source": "The Hill",
+    "time": "7 mins ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Senate passes key procedural step to allow Democrats to pass Covid-19 \nrelief without threat of GOP filibuster",
+    "url": "https://www.cnn.com/2021/02/05/politics/senate-budget-resolution-covid-19-relief/index.html",
+    "source": "CNN",
+    "time": "2 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "DPH: 15 western Massachusetts communities at high-risk for COVID-19",
+    "url": "https://www.wwlp.com/news/health/coronavirus-local-impact/dph-15-western-massachusetts-communities-at-high-risk-for-covid-19/",
+    "source": "WWLP.com",
+    "time": "9 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wwlp.com"
+  },
+  {
+    "title": "White House Looks Outside Washington For Republicans Who Back COVID-19 Aid \nPlan",
+    "url": "https://www.npr.org/sections/president-biden-takes-office/2021/02/05/964224706/white-house-looks-outside-washington-for-republicans-who-back-covid-19-aid-plan",
+    "source": "NPR",
+    "time": "5 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "EXCLUSIVE-Pfizer withdraws application for emergency use of its COVID-19 \nvaccine in India",
+    "url": "https://www.reuters.com/article/health-coronavirus-india-pfizer/exclusive-pfizer-withdraws-application-for-emergency-use-of-its-covid-19-vaccine-in-india-idUSL4N2KB1NZ",
+    "source": "Reuters",
+    "time": "9 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "Johnson & Johnson requests emergency authorization from FDA for Covid \nvaccine",
+    "url": "https://www.cnbc.com/2021/02/04/covid-vaccine-jj-requests-fda-emergency-use-authorization.html",
+    "source": "CNBC",
+    "time": "16 hours ago",
+    "date": "2021-02-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

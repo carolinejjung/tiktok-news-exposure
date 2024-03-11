@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "16 hours ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Stephen Miller's Grandmother Died of COVID-19. Her Son Blames the Trump \nAdministration.",
+    "url": "https://www.motherjones.com/politics/2020/07/stephen-millers-grandmother-died-of-covid-19-her-son-blames-the-trump-administration/",
+    "source": "Mother Jones",
+    "time": "7 hours ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.motherjones.com"
+  },
+  {
+    "title": "26-day-old baby tests positive for COVID-19 following autopsy in Berks \nCounty",
+    "url": "https://6abc.com/26-day-old-baby-tests-positive-for-covid-19-coroner/6331951/",
+    "source": "6abc Philadelphia",
+    "time": "24 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "6abc.com"
+  },
+  {
+    "title": "Massachusetts health officials report 270 new COVID-19 cases, 16 additional \ndeaths",
+    "url": "https://www.wcvb.com/article/massachusetts-covid-19-cornonavirus-numbers-daily-update-july-23-2020/33405143",
+    "source": "WCVB Boston",
+    "time": "33 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.wcvb.com"
+  },
+  {
+    "title": "Guilford County Greensboro courthouse COVID-19 positive cases reach cluster \nstatus",
+    "url": "https://myfox8.com/news/coronavirus/guilford-county-greensboro-courthouse-covid-19-positive-cases-reach-cluster-status/",
+    "source": "WGHP",
+    "time": "54 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "myfox8.com"
+  },
+  {
+    "title": "Bill Gates' message to Covid-19 conspiracy theorists",
+    "url": "https://www.cnn.com/videos/us/2020/07/24/bill-gates-conspiracy-theories-coronavirus-social-media-town-hall-vpx.cnn",
+    "source": "CNN.com",
+    "time": "56 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "A 26-day-old baby tests positive for Covid-19 following autopsy in \nPennsylvania",
+    "url": "https://www.cnn.com/2020/07/23/health/pennsylvania-infant-death-covid-autopsy/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "CDC COVID-19 advice tells schools to wash hands, wear masks, don't touch. \nBut not when to close",
+    "url": "https://www.usatoday.com/story/news/2020/07/23/cdc-covid-19-guidelines-schools-wash-hands-wear-masks-dont-touch/5498641002/",
+    "source": "USA Today",
+    "time": "1 hour ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Feds in town to assess Minnesota's COVID-19 response",
+    "url": "https://www.startribune.com/feds-now-in-town-to-assess-covid-response-in-minnesota/571882692/",
+    "source": "Star Tribune",
+    "time": "1 hour ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "How A 60-Year-Old Drug Became Our Best Hope For Saving People With COVID-19",
+    "url": "https://fivethirtyeight.com/videos/how-a-60-year-old-drug-became-our-best-hope-for-saving-people-with-covid-19/",
+    "source": "FiveThirtyEight",
+    "time": "6 hours ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "fivethirtyeight.com"
+  }
+]

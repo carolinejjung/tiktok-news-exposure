@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-30-20-intl/index.html",
+    "source": "CNN.com",
+    "time": "11 mins ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Connecticut health officials investigating why coronavirus test results \nfrom a chain of urgent care clinics have not been reported to the state",
+    "url": "https://www.courant.com/coronavirus/hc-news-coronavirus-urgent-care-investigation-20201030-dbiowddizzhmlnnhunv4htk6cu-story.html",
+    "source": "Hartford Courant",
+    "time": "10 hours ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.courant.com"
+  },
+  {
+    "title": "Thurston County COVID-19 cases on the rise, outbreaks reported in 6 nursing \nhomes",
+    "url": "https://komonews.com/news/coronavirus/thurston-county-covid-19-cases-on-the-rise",
+    "source": "KOMO News",
+    "time": "13 mins ago",
+    "date": "2020-10-30 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "komonews.com"
+  }
+]

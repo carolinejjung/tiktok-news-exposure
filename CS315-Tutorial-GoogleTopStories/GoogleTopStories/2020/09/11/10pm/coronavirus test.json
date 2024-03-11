@@ -1,0 +1,32 @@
+[
+  {
+    "title": "California Coronavirus Updates: Sacramento County Passes 20000 COVID-19 \nCases",
+    "url": "http://www.capradio.org/articles/2020/09/11/california-coronavirus-updates/",
+    "source": "Capital Public Radio News",
+    "time": "1 day ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.capradio.org"
+  },
+  {
+    "title": "Montgomery Co. private school student, employee test positive for \ncoronavirus",
+    "url": "https://wtop.com/montgomery-county/2020/09/montgomery-co-private-school-student-employee-test-positive-for-coronavirus/",
+    "source": "WTOP",
+    "time": "1 hour ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "wtop.com"
+  },
+  {
+    "title": "Giants' positive COVID test leads to postponement of games",
+    "url": "https://www.nbcsports.com/bayarea/giants/giants-positive-coronavirus-test-leads-postponement-padres-games",
+    "source": "NBC Sports",
+    "time": "23 mins ago",
+    "date": "2020-09-11 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcsports.com"
+  }
+]

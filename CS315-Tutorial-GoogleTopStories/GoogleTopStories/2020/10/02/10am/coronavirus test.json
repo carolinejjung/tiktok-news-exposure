@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Trump Tests Positive for the Coronavirus",
+    "url": "https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html",
+    "source": "The New York Times",
+    "time": "28 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Trump's positive Covid-19 test throws country into fresh upheaval",
+    "url": "https://www.cnn.com/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html",
+    "source": "CNN",
+    "time": "19 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Live updates: Trump tests positive for coronavirus",
+    "url": "https://www.nbcnews.com/news/us-news/live-blog/2020-10-02-trump-covid-n1241780",
+    "source": "NBC News",
+    "time": "12 mins ago",
+    "date": "2020-10-02 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.nbcnews.com"
+  }
+]

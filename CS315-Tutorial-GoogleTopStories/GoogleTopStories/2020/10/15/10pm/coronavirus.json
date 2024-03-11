@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 News: Latest Updates",
+    "url": "https://www.nytimes.com/live/2020/10/15/world/covid-coronavirus",
+    "source": "The New York Times",
+    "time": "24 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus live updates: New single-day cases in U.S. reach highest level \nsince late July",
+    "url": "https://www.washingtonpost.com/nation/2020/10/15/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "43 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Trump grilled on coronavirus and conspiracy theories in tense town hall",
+    "url": "https://www.cnbc.com/2020/10/15/trump-town-hall-president-grilled-on-coronavirus-qanon-white-supremacy.html",
+    "source": "CNBC",
+    "time": "33 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Trump fields questions on coronavirus, conspiracy theories in combative \ntown hall | TheHill",
+    "url": "https://thehill.com/homenews/campaign/521332-trump-fields-questions-on-coronavirus-conspiracy-theories-in-combative-town",
+    "source": "The Hill",
+    "time": "22 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Trump says coronavirus pandemic is to blame for policy changes on DACA \nprogram",
+    "url": "https://www.nbcnews.com/video/trump-says-coronavirus-pandemic-is-to-blame-for-policy-changes-on-daca-program-93940805719",
+    "source": "NBC News",
+    "time": "24 mins ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "11 Connecticut Towns are Under COVID-19 \u201cRed Alert\u201d Status as \nHospitalizations Continue to Rise",
+    "url": "https://www.nbcconnecticut.com/news/coronavirus/governor-lamont-to-give-update-on-covid-19-in-ct-at-4-p-m/2346296/",
+    "source": "NBC Connecticut",
+    "time": "6 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.nbcconnecticut.com"
+  },
+  {
+    "title": "Chris Christie says he was in ICU for 7 days battling Covid-19, urges \nAmericans to wear masks",
+    "url": "https://www.nbcnews.com/politics/politics-news/chris-christie-says-he-was-icu-7-days-battling-covid-n1243589",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Catching coronavirus on plane 'extremely unlikely' while wearing mask, \nDepartment of Defense study finds",
+    "url": "https://www.foxnews.com/travel/catching-covid-19-plane-wearing-mask-department-of-defense",
+    "source": "Fox News",
+    "time": "5 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "College football's next steps after Nick Saban coronavirus diagnosis and \nhigh-profile postponements",
+    "url": "https://www.espn.com/college-football/story/_/id/30121257/college-football-next-steps-nick-saban-coronavirus-diagnosis-high-profile-postponements",
+    "source": "ESPN",
+    "time": "7 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.espn.com"
+  },
+  {
+    "title": "Biden campaign halts Kamala Harris' travel after two people in campaign's \norbit test positive for coronavirus",
+    "url": "https://www.cnn.com/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html",
+    "source": "CNN",
+    "time": "5 hours ago",
+    "date": "2020-10-15 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnn.com"
+  }
+]

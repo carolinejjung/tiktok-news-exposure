@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Coronavirus News Updates",
+    "url": "https://www.nytimes.com/2020/07/23/world/coronavirus-covid-19.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: U.S. hits 4 million reported coronavirus cases as infections \ndouble in just six weeks",
+    "url": "https://www.washingtonpost.com/nation/2020/07/23/covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "13 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Universal Orlando updates coronavirus dining and mask policy",
+    "url": "https://www.foxbusiness.com/lifestyle/universal-orlando-updates-coronavirus-dining-mask-policy",
+    "source": "Fox Business",
+    "time": "42 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "South Africa's 'excess deaths' surge as coronavirus cases spike; report \ncites 'huge discrepancy'",
+    "url": "https://www.foxnews.com/world/south-africas-excess-deaths-surge-as-coronavirus-cases-spike-top-health-official-says-huge-discrepancy",
+    "source": "Fox News",
+    "time": "55 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus News: Troubling rise in COVID cases among young adults in New \nYork",
+    "url": "https://abc7ny.com/coronavirus-young-adults-governor-cuomo-covid-cluster-middletown/6331869/",
+    "source": "abc7NY",
+    "time": "54 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "abc7ny.com"
+  },
+  {
+    "title": "Part 2: Entire CNN coronavirus town hall (July 23)",
+    "url": "https://www.cnn.com/videos/health/2020/07/23/entire-july-23-coronavirus-town-hall-part-2-sot-vpx.cnn",
+    "source": "CNN.com",
+    "time": "57 mins ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Trump cancels Florida convention as coronavirus cases spike: Live",
+    "url": "https://www.aljazeera.com/news/2020/07/trump-cancels-florida-convention-coronavirus-cases-spike-live-200723235641667.html",
+    "source": "Al Jazeera",
+    "time": "1 hour ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "New CDC guidelines come down hard in favor of opening schools",
+    "url": "https://www.cnn.com/2020/07/23/health/cdc-coronavirus-school-guidelines-new/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Senate GOP punts coronavirus package to next week | TheHill",
+    "url": "https://thehill.com/homenews/senate/508823-senate-gop-punts-coronavirus-package-to-next-week",
+    "source": "TheHill",
+    "time": "2 hours ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "thehill.com"
+  },
+  {
+    "title": "Homemade face masks likely need multiple layers to prevent spread of \ncoronavirus, study says",
+    "url": "https://www.cnbc.com/2020/07/23/coronavirus-face-masks-home-made-coverings-likely-need-multiple-layers-to-prevent-spread.html",
+    "source": "CNBC.com",
+    "time": "3 hours ago",
+    "date": "2020-07-23 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnbc.com"
+  }
+]

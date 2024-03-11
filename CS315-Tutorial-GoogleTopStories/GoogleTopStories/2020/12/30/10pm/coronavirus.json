@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 and Vaccine News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/12/30/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "43 mins ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "The latest on the coronavirus pandemic and vaccines: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-12-30-20/index.html",
+    "source": "CNN.com",
+    "time": "34 mins ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Dr. Drew Reveals He Tested Positive for Coronavirus",
+    "url": "https://www.hollywoodreporter.com/news/dr-drew-reveals-he-tested-positive-for-coronavirus",
+    "source": "Hollywood Reporter",
+    "time": "57 mins ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.hollywoodreporter.com"
+  },
+  {
+    "title": "Some 500 Coronavirus Vaccine Doses Intentionally Destroyed, Hospital Says",
+    "url": "https://www.npr.org/2020/12/30/951736164/some-500-coronavirus-vaccine-doses-intentionally-destroyed-hospital-says",
+    "source": "NPR",
+    "time": "5 mins ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.npr.org"
+  },
+  {
+    "title": "Bernie Sanders agrees with Trump\u2019s push for more coronavirus stimulus",
+    "url": "https://www.foxnews.com/politics/bernie-sanders-admits-trumps-push-for-coronavirus-stimulus-happens-to-be-right",
+    "source": "Fox News",
+    "time": "10 mins ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus infects nearly 150 Costco employees at Washington state store, \nlocation to remain open",
+    "url": "https://www.foxbusiness.com/retail/washington-state-costco-employees-infected-covid-19",
+    "source": "Fox Business",
+    "time": "12 hours ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.foxbusiness.com"
+  },
+  {
+    "title": "Case of highly infectious UK variant of coronavirus identified in California",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-usa/case-of-highly-infectious-uk-variant-of-coronavirus-identified-in-california-idUSKBN2942D3",
+    "source": "Reuters",
+    "time": "5 hours ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.reuters.com"
+  },
+  {
+    "title": "One year since coronavirus emerged in Wuhan, Americans there look home",
+    "url": "https://www.nbcnews.com/news/world/one-year-coronavirus-emerged-wuhan-americans-there-look-home-n1250672",
+    "source": "NBC News",
+    "time": "14 hours ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Mass. coronavirus deaths rise past 12000",
+    "url": "https://www.bostonglobe.com/2020/12/30/nation/mass-coronavirus-deaths-rise-past-12000/",
+    "source": "The Boston Globe",
+    "time": "9 hours ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "Massachusetts coronavirus cases surge 6,135, a single-day record high ahead \nof New Year\u2019s Eve",
+    "url": "https://www.bostonherald.com/2020/12/30/massachusetts-coronavirus-cases-surge-6135-a-single-day-record-high-ahead-of-new-years-eve/",
+    "source": "Boston Herald",
+    "time": "5 hours ago",
+    "date": "2020-12-30 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.bostonherald.com"
+  }
+]

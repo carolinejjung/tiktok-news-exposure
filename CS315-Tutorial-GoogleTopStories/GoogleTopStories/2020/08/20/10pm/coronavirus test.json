@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Live Covid-19 Updates",
+    "url": "https://www.nytimes.com/2020/08/20/world/coronavirus-covid.html",
+    "source": "The New York Times",
+    "time": "55 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus Updates: These Five NYC Zip Codes Have The Highest Positive \nTest Rates",
+    "url": "https://gothamist.com/news/coronavirus-updates-after-slow-decline-jobless-claims-climb-above-1-million-again",
+    "source": "Gothamist",
+    "time": "16 hours ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "gothamist.com"
+  },
+  {
+    "title": "Sturgis motorcycle rally attendees test positive for coronavirus",
+    "url": "https://nypost.com/2020/08/20/sturgis-motorcycle-rally-attendees-test-positive-for-coronavirus/",
+    "source": "New York Post",
+    "time": "16 mins ago",
+    "date": "2020-08-20 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "nypost.com"
+  }
+]

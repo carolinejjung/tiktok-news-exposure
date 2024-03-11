@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Genes May Leave Some People More Vulnerable to Severe Covid-19",
+    "url": "https://www.nytimes.com/2020/06/03/health/coronavirus-blood-type-genetics.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Ex-New York Times reporter Alex Berenson: Unreported truths about COVID-19 \nand lockdowns",
+    "url": "https://www.foxnews.com/opinion/unreported-truths-covid-19-lockdowns-alex-berenson",
+    "source": "Fox News",
+    "time": "1 hour ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "DHHR: Three Jefferson County residents die of COVID-19; 11 new cases",
+    "url": "https://wchstv.com/news/local/dhhr-three-jefferson-county-residents-die-of-covid-19-11-new-cases",
+    "source": "WCHS",
+    "time": "7 mins ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "wchstv.com"
+  },
+  {
+    "title": "Lawmaker threatens to subpoena Department of Health over data about \nCOVID-19 in long-term care facilities",
+    "url": "https://www.minnpost.com/state-government/2020/06/lawmaker-threatens-to-subpoena-department-of-health-over-data-about-covid-19-in-long-term-care-facilities/",
+    "source": "MinnPost",
+    "time": "11 mins ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.minnpost.com"
+  },
+  {
+    "title": "So How Deadly Is COVID-19?",
+    "url": "https://blogs.scientificamerican.com/observations/so-how-deadly-is-covid-19/",
+    "source": "Scientific American Blogs",
+    "time": "14 mins ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "blogs.scientificamerican.com"
+  },
+  {
+    "title": "Live updates: Federal unemployment rate drops to 13.3 percent in May, from \n14.7 percent in April",
+    "url": "https://www.washingtonpost.com/nation/2020/06/05/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "29 mins ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Hydroxychloroquine Studies Tied to Data Firm Surgisphere Retracted",
+    "url": "https://www.wsj.com/articles/authors-retract-study-that-found-risks-of-using-antimalaria-drug-against-covid-19-11591299329",
+    "source": "The Wall Street Journal",
+    "time": "52 mins ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Over 1,000 coronavirus deaths reported in the past 24 hours. Officials fear \nprotests will drive up numbers",
+    "url": "https://www.cnn.com/2020/06/05/health/us-coronavirus-friday/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Novavax's stock soars after DoD contract to make its COVID-19 vaccine \ncandidate",
+    "url": "http://www.marketwatch.com/story/novavaxs-stock-soars-after-dod-contract-to-make-its-covid-19-vaccine-candidate-2020-06-05",
+    "source": "MarketWatch",
+    "time": "3 hours ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.marketwatch.com"
+  },
+  {
+    "title": "Coronavirus updates: 316 new Utah COVID-19 cases; TestUtah lab 'not in \ncompliance,' federal letter says",
+    "url": "https://www.ksl.com/article/46761012/coronavirus-updates-316-new-utah-covid-19-cases-testutah-lab-not-in-compliance-federal-letter-says",
+    "source": "KSL.com",
+    "time": "10 hours ago",
+    "date": "2020-06-05 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.ksl.com"
+  }
+]

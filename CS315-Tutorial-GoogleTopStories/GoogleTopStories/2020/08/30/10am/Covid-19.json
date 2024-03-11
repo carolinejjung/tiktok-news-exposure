@@ -1,0 +1,52 @@
+[
+  {
+    "title": "The latest on the coronavirus pandemic: Live updates",
+    "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-30-20-intl/h_cc41de2a837abb6fcacdb136f6335aba",
+    "source": "CNN",
+    "time": "13 mins ago",
+    "date": "2020-08-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "The Recovered: Mainers tell their COVID-19 stories",
+    "url": "https://www.centralmaine.com/2020/08/30/mainers-who-survived-covid-19-tell-their-stories/",
+    "source": "Kennebec Journal & Morning Sentinel",
+    "time": "6 hours ago",
+    "date": "2020-08-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.centralmaine.com"
+  },
+  {
+    "title": "'Small events add up to a lot': Limited gatherings quietly emerge as source \nof coronavirus infections",
+    "url": "https://www.usatoday.com/story/news/nation/2020/08/30/covid-19-small-gatherings-quietly-significant-source-infections/5650677002/",
+    "source": "USA TODAY",
+    "time": "1 hour ago",
+    "date": "2020-08-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.usatoday.com"
+  },
+  {
+    "title": "Paire tests positive for COVID-19 before U.S. Open: report",
+    "url": "https://sports.yahoo.com/paire-tests-positive-covid-19-131421376.html",
+    "source": "Yahoo Sports",
+    "time": "1 hour ago",
+    "date": "2020-08-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "sports.yahoo.com"
+  },
+  {
+    "title": "Covid-19 Live Updates: Latest News",
+    "url": "https://www.nytimes.com/2020/08/30/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-08-30 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "www.nytimes.com"
+  }
+]

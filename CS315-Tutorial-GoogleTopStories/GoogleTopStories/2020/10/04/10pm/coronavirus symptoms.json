@@ -1,0 +1,32 @@
+[
+  {
+    "title": "How to Identify the Different Symptoms of the Flu and Covid-19",
+    "url": "https://www.nytimes.com/2020/10/03/at-home/coronavirus-flu-symptoms.html",
+    "source": "The New York Times",
+    "time": "23 hours ago",
+    "date": "2020-10-04 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Melania Trump tweets about her coronavirus symptoms after testing positive",
+    "url": "https://www.cbsnews.com/news/melania-trump-covid-symptoms-positive-test/",
+    "source": "CBS News",
+    "time": "2 days ago",
+    "date": "2020-10-04 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.cbsnews.com"
+  },
+  {
+    "title": "Donald Trump leaves hospital for brief motorcade as doubts over his \ncondition persist",
+    "url": "https://www.france24.com/en/20201004-trump-s-condition-continues-to-improve-after-serious-covid-19-symptoms-wh-doctor-says",
+    "source": "FRANCE 24",
+    "time": "10 hours ago",
+    "date": "2020-10-04 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.france24.com"
+  }
+]

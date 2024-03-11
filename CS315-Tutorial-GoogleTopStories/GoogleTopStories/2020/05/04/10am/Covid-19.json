@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The Covid-19 Riddle: Why Does the Virus Wallop Some Places and Spare Others?",
+    "url": "https://www.nytimes.com/2020/05/03/world/asia/coronavirus-spread-where-why.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Before Covid-19, Trump Aide Sought to Use Disease to Close Borders",
+    "url": "https://www.nytimes.com/2020/05/03/us/coronavirus-immigration-stephen-miller-public-health.html",
+    "source": "The New York Times",
+    "time": "16 hours ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Under This Doctor's Care, Most COVID-19 Patients Are Recovering",
+    "url": "https://www.dailysignal.com/2020/05/04/under-this-doctors-care-most-covid-19-patients-are-recovering/",
+    "source": "The Daily Signal",
+    "time": "52 mins ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.dailysignal.com"
+  },
+  {
+    "title": "Coronavirus in California: Controlled Burns Could Cause Respiratory Issues \nfor Covid-19 Patients",
+    "url": "https://www.nytimes.com/2020/05/04/us/coronavirus-california-air-pollution.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Coronavirus updates: COVID-19 was present in Europe in December, doctor \nclaims",
+    "url": "https://abcnews.go.com/Health/coronavirus-updates-italy-cautiously-emerges-worlds-longest-lockdown/story?id=70484662",
+    "source": "ABC News",
+    "time": "1 hour ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "abcnews.go.com"
+  },
+  {
+    "title": "Newton man who died from COVID-19 had trouble getting seen",
+    "url": "https://www.kcrg.com/content/news/Newton-man-who-died-from-COVID-19-had-trouble-getting-seen-570169301.html",
+    "source": "KCRG",
+    "time": "1 hour ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "www.kcrg.com"
+  },
+  {
+    "title": "More than 'covid toes': Numerous reports of skin rashes tied to COVID-19",
+    "url": "https://www.livescience.com/skin-rashes-covid-19-symptoms.html",
+    "source": "Live Science",
+    "time": "2 hours ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.livescience.com"
+  },
+  {
+    "title": "90 new positive COVID-19 tests; two more death in New Hampshire",
+    "url": "https://www.nashuatelegraph.com/news/local-news/2020/05/04/90-new-positive-covid-19-tests-two-more-death-in-new-hampshire/",
+    "source": "The Nashua Telegraph",
+    "time": "2 hours ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.nashuatelegraph.com"
+  },
+  {
+    "title": "Trump Says He Won't Approve Covid-19 Package Without Tax Cut That Offers \nZero Relief for 30 Million Newly Unemployed",
+    "url": "https://www.commondreams.org/news/2020/05/04/trump-says-he-wont-approve-covid-19-package-without-tax-cut-offers-zero-relief-30",
+    "source": "Common Dreams",
+    "time": "4 hours ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.commondreams.org"
+  },
+  {
+    "title": "Latest on COVID-19 in MN: Death toll passes 400 as more businesses reopen",
+    "url": "https://www.mprnews.org/story/2020/05/04/latest-on-covid19-in-mn",
+    "source": "MPR News",
+    "time": "4 hours ago",
+    "date": "2020-05-04 10:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "www.mprnews.org"
+  }
+]

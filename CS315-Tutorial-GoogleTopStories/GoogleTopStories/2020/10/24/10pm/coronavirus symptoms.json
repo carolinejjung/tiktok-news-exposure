@@ -1,0 +1,32 @@
+[
+  {
+    "title": "At 12, She\u2019s a Covid \u2018Long Hauler\u2019",
+    "url": "https://www.nytimes.com/2020/10/22/well/family/coronavirus-symptoms-kids-children-long-hauler.html",
+    "source": "The New York Times",
+    "time": "1 day ago",
+    "date": "2020-10-24 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Life after COVID-19 can lead to prolonged ordeal of symptoms",
+    "url": "https://www.newsday.com/news/health/coronavirus/covid-19-life-after-virus-symptoms-1.50045549",
+    "source": "Newsday",
+    "time": "1 hour ago",
+    "date": "2020-10-24 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.newsday.com"
+  },
+  {
+    "title": "With long-haul covid-19, important advice for patients, doctors and \nresearchers",
+    "url": "https://www.washingtonpost.com/health/long-haul-covid-patients/2020/10/23/ab7c5324-0712-11eb-9be6-cf25fb429f1a_story.html",
+    "source": "Washington Post",
+    "time": "13 hours ago",
+    "date": "2020-10-24 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.washingtonpost.com"
+  }
+]

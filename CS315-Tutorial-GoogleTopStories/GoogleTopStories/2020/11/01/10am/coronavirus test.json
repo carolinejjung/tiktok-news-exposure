@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus: Slovakia holds national test but president calls for rethink",
+    "url": "https://www.bbc.com/news/world-europe-54747022",
+    "source": "BBC News",
+    "time": "1 day ago",
+    "date": "2020-11-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "United to offer free coronavirus testing on select Newark-to-London flights",
+    "url": "https://www.washingtonpost.com/transportation/2020/10/29/united-offers-free-covid-tests-international/",
+    "source": "Washington Post",
+    "time": "3 days ago",
+    "date": "2020-11-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Half of Slovakia's population tested for coronavirus in one day",
+    "url": "https://www.theguardian.com/world/2020/nov/01/half-slovakia-population-covid-tested-covid-one-day",
+    "source": "The Guardian",
+    "time": "2 hours ago",
+    "date": "2020-11-01 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.theguardian.com"
+  }
+]

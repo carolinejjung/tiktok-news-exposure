@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Coronavirus Cases Spike Across Sun Belt as Economy Lurches into Motion",
+    "url": "https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html",
+    "source": "The New York Times",
+    "time": "10 hours ago",
+    "date": "2020-06-14 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Newt Gingrich: Testing won\u2019t help fight coronavirus unless we do this",
+    "url": "https://www.foxnews.com/opinion/coronavirus-testing-newt-gingrich",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2020-06-14 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "How CZI stood up a Covid-19 testing lab in record time",
+    "url": "https://qz.com/1867761/how-czi-stood-up-a-covid-19-testing-lab-in-record-time/",
+    "source": "Quartz",
+    "time": "6 mins ago",
+    "date": "2020-06-14 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "qz.com"
+  }
+]

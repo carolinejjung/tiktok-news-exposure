@@ -1,0 +1,32 @@
+[
+  {
+    "title": "No, a Negative Coronavirus Test Does Not Mean You Can Safely Socialize",
+    "url": "https://www.nytimes.com/2020/11/21/upshot/coronavirus-test-thanksgiving-plans.html",
+    "source": "The New York Times",
+    "time": "3 days ago",
+    "date": "2020-11-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Why you can't test your way to a COVID-safe Thanksgiving",
+    "url": "https://www.opb.org/article/2020/11/23/covid-19-testing-thanksgiving/",
+    "source": "OPB News",
+    "time": "1 day ago",
+    "date": "2020-11-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.opb.org"
+  },
+  {
+    "title": "Greater Minnesota COVID-19 tests have lagged and they could be slowed \nfurther by growing demand",
+    "url": "https://www.duluthnewstribune.com/newsmd/coronavirus/6771244-Greater-Minnesota-COVID-19-tests-have-lagged-and-they-could-be-slowed-further-by-growing-demand",
+    "source": "Duluth News Tribune",
+    "time": "15 mins ago",
+    "date": "2020-11-24 10:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.duluthnewstribune.com"
+  }
+]

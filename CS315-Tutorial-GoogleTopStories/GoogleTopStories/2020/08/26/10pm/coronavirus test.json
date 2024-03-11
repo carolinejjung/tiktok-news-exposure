@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/2020/08/26/world/covid-19-coronavirus.html",
+    "source": "The New York Times",
+    "time": "6 mins ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: Democrats denounce CDC rules change as \u2018political propaganda\u2019",
+    "url": "https://www.washingtonpost.com/nation/2020/08/26/coronavirus-covid-live-updates-us/",
+    "source": "Washington Post",
+    "time": "26 mins ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Coronavirus in US: Santa Clara County's top health officer Dr. Sara Cody \nsays CDC reversal on COVID-19 testing is 'entirely bizarre'",
+    "url": "https://abc7news.com/cdc-covid-testing-coronavirus-19-for/6390560/",
+    "source": "KGO-TV",
+    "time": "21 mins ago",
+    "date": "2020-08-26 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "abc7news.com"
+  }
+]

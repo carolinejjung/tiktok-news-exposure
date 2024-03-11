@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Massachusetts coronavirus positive test rate hits new low of 0.8%",
+    "url": "https://www.bostonherald.com/2020/09/05/massachusetts-coronavirus-positive-test-rate-hits-new-low-of-0-8/",
+    "source": "Boston Herald",
+    "time": "5 hours ago",
+    "date": "2020-09-05 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.bostonherald.com"
+  },
+  {
+    "title": "An Austin ER charged its employee's insurance $11,000 for a COVID-19 test",
+    "url": "https://www.texastribune.org/2020/09/05/austin-texas-coronavirus-test-insurance-emergency-room/",
+    "source": "Texas Tribune",
+    "time": "16 hours ago",
+    "date": "2020-09-05 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.texastribune.org"
+  },
+  {
+    "title": "South Korean who works on Osan Air Base tests positive for coronavirus",
+    "url": "https://www.stripes.com/news/pacific/south-korean-who-works-on-osan-air-base-tests-positive-for-coronavirus-1.644051",
+    "source": "Stars and Stripes",
+    "time": "1 hour ago",
+    "date": "2020-09-05 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.stripes.com"
+  }
+]

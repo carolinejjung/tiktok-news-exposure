@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid symptoms: Is it a cold, flu or coronavirus?",
+    "url": "https://www.bbc.com/news/health-54145299",
+    "source": "BBC News",
+    "time": "1 day ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 1,
+    "domain": "www.bbc.com"
+  },
+  {
+    "title": "Coronavirus vs smoke inhalation during wildfires: How to differentiate \nbetween symptoms",
+    "url": "https://www.foxnews.com/health/coronavirus-vs-smoke-inhalation-during-wildfires-how-to-differentiate-between-symptoms",
+    "source": "Fox News",
+    "time": "4 hours ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 2,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Stoke-on-Trent men with coronavirus symptoms urged to give plasma",
+    "url": "https://www.bbc.com/news/uk-england-stoke-staffordshire-54194566",
+    "source": "BBC News",
+    "time": "3 hours ago",
+    "date": "2020-09-17 22:00:00",
+    "query": "coronavirus symptoms",
+    "story_position": 3,
+    "domain": "www.bbc.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Live Global Coronavirus News",
+    "url": "https://www.nytimes.com/2020/06/22/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "12 hours ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: State and city leaders in U.S. respond to coronavirus surge \nwith new rules, dire warnings",
+    "url": "https://www.washingtonpost.com/nation/2020/06/22/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "22 mins ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Florida mayors vow stricter coronavirus rules as cases spike",
+    "url": "https://www.foxnews.com/lifestyle/florida-mayor-stricter-coronavirus-rules-cases-spike",
+    "source": "Fox News",
+    "time": "33 mins ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.foxnews.com"
+  },
+  {
+    "title": "Coronavirus has exacerbated school divides: Live updates",
+    "url": "https://www.aljazeera.com/news/2020/06/coronavirus-exacerbated-school-divides-live-updates-200622233620330.html",
+    "source": "Al Jazeera",
+    "time": "58 mins ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.aljazeera.com"
+  },
+  {
+    "title": "Fifth Avenue is going out of style for luxury retailers, as coronavirus \nerodes sales",
+    "url": "https://www.nbcnews.com/business/business-news/fifth-avenue-going-out-style-luxury-retailers-coronavirus-erodes-sales-n1231810",
+    "source": "NBC News",
+    "time": "1 hour ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Trump says he told his people too much coronavirus testing puts US at \n'disadvantage,' contradicting staff",
+    "url": "https://www.cnn.com/2020/06/22/politics/donald-trump-testing-slow-down-response/index.html",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Mass. now has the lowest coronavirus transmission rate in the country, \nwebsite reports",
+    "url": "https://www.bostonglobe.com/2020/06/22/nation/mass-has-lowest-coronavirus-transmission-rate-country-according-trend-tracking-website/",
+    "source": "The Boston Globe",
+    "time": "3 hours ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "As Coronavirus Cases Rise in Arizona, New Mask Rules Spark a Fight",
+    "url": "https://www.wsj.com/articles/as-coronavirus-cases-rise-in-arizona-new-mask-rules-spark-a-fight-11592829000",
+    "source": "The Wall Street Journal",
+    "time": "4 hours ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.wsj.com"
+  },
+  {
+    "title": "Texas governor warns tougher actions will be required if coronavirus cases, \nhospitalizations continue spiking",
+    "url": "https://www.cnbc.com/2020/06/22/texas-governor-warns-tough-actions-will-be-needed-if-coronavirus-spikes-more.html",
+    "source": "CNBC.com",
+    "time": "5 hours ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.cnbc.com"
+  },
+  {
+    "title": "Raleigh BBQ joint thumbs its nose at NC's coronavirus rules",
+    "url": "https://www.wral.com/coronavirus/raleigh-bbq-joint-thumbs-its-nose-at-nc-s-coronavirus-rules/19156303/",
+    "source": "WRAL-TV",
+    "time": "5 hours ago",
+    "date": "2020-06-22 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.wral.com"
+  }
+]

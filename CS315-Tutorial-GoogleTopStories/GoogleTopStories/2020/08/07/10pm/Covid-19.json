@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Covid-19 Live Updates: Global Tracker",
+    "url": "https://www.nytimes.com/2020/08/07/world/covid-19-news.html",
+    "source": "The New York Times",
+    "time": "1 hour ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Promising Covid-19 treatment offers test run for vaccine distribution",
+    "url": "https://www.cnn.com/2020/08/07/politics/antibody-treatments-coronavirus-shortage-government/index.html",
+    "source": "CNN.com",
+    "time": "2 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Prince George\u2019s County residents being turned away from free COVID-19 \ntesting",
+    "url": "https://www.fox5dc.com/news/prince-georges-county-residents-being-turned-away-from-free-covid-19-testing",
+    "source": "Fox 5 DC",
+    "time": "9 mins ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 3,
+    "domain": "www.fox5dc.com"
+  },
+  {
+    "title": "Free COVID-19 testing in Ramsey Co.",
+    "url": "https://www.kare11.com/article/news/local/as-seen-on-tv/free-covid-19-testing-in-ramsey-co/89-a5635ee8-4e29-47aa-b087-f7fc528baf4a",
+    "source": "Kare 11",
+    "time": "14 mins ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 4,
+    "domain": "www.kare11.com"
+  },
+  {
+    "title": "COVID-19: Rate of transmission numbers are down across the state",
+    "url": "https://komonews.com/news/coronavirus/covid-19-rate-of-transmission-numbers-are-down-across-the-state",
+    "source": "KOMO",
+    "time": "28 mins ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 5,
+    "domain": "komonews.com"
+  },
+  {
+    "title": "Elevated COVID-19 cases change vacation plans in the Ocean State",
+    "url": "https://turnto10.com/news/local/elevated-covid-19-cases-change-vacation-plans-in-the-ocean-state",
+    "source": "WJAR",
+    "time": "3 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 6,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "Minnesota COVID-19 cases surge again among long-term care residents and \nworkers",
+    "url": "https://www.startribune.com/state-s-covid-cases-increasing-among-long-term-care-residents/572041592/",
+    "source": "Star Tribune",
+    "time": "3 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 7,
+    "domain": "www.startribune.com"
+  },
+  {
+    "title": "2nd stimulus check, COVID-19 relief talks collapse; Uncertainty now as \nmillions of people wait",
+    "url": "https://www.masslive.com/coronavirus/2020/08/2nd-stimulus-check-covid-19-relief-talks-collapse-uncertainty-now-as-millions-of-people-wait.html",
+    "source": "MassLive.com",
+    "time": "4 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 8,
+    "domain": "www.masslive.com"
+  },
+  {
+    "title": "Daily Hawaii COVID-19 cases exceeds 200, 2 new deaths reported",
+    "url": "https://www.khon2.com/coronavirus/daily-hawaii-covid-19-cases-exceeds-200-for-the-first-time-2-new-deaths-reported/",
+    "source": "KHON2",
+    "time": "5 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 9,
+    "domain": "www.khon2.com"
+  },
+  {
+    "title": "Officials warn of COVID-19 exposure at Frog Alley in Schenectady",
+    "url": "https://dailygazette.com/article/2020/08/07/officials-warn-of-covid-19-exposure-at-frog-alley",
+    "source": "The Daily Gazette",
+    "time": "6 hours ago",
+    "date": "2020-08-07 22:00:00",
+    "query": "Covid-19",
+    "story_position": 10,
+    "domain": "dailygazette.com"
+  }
+]

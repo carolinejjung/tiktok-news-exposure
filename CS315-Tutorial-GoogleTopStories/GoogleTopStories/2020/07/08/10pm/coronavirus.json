@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Coronavirus Live News and Updates",
+    "url": "https://www.nytimes.com/2020/07/08/world/coronavirus-updates.html",
+    "source": "The New York Times",
+    "time": "12 mins ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "Live updates: U.S. surpasses 3 million confirmed coronavirus cases as Trump \npushes to reopen schools",
+    "url": "https://www.washingtonpost.com/nation/2020/07/08/coronavirus-live-updates-us/",
+    "source": "Washington Post",
+    "time": "7 mins ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 2,
+    "domain": "www.washingtonpost.com"
+  },
+  {
+    "title": "Justin Trudeau says Canada managed coronavirus better than U.S.",
+    "url": "https://www.nydailynews.com/news/politics/ny-justin-trudeau-canada-trump-coronavirus-20200709-k2wgsqvf7nf5bg64otbuqxdrfy-story.html",
+    "source": "NY Daily News",
+    "time": "36 mins ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 3,
+    "domain": "www.nydailynews.com"
+  },
+  {
+    "title": "Anderson Cooper slams 'lies and noise' from Mike Pence",
+    "url": "https://www.cnn.com/videos/politics/2020/07/09/coronavirus-task-force-white-house-cdc-donald-trump-schools-kth-ac360-vpx.cnn",
+    "source": "CNN.com",
+    "time": "1 hour ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 4,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Los Angeles City Coronavirus Update: Mayor Eric Garcetti Warns Of Possible \nNew Stay-At-Home Order; \u201cAll Options\u201d On Table",
+    "url": "https://deadline.com/2020/07/los-angeles-city-coronavirus-update-mayor-eric-garcetti-warns-of-possible-new-stay-at-home-order-all-options-on-table-1202981030/",
+    "source": "Deadline",
+    "time": "1 hour ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 5,
+    "domain": "deadline.com"
+  },
+  {
+    "title": "Contact tracing for coronavirus in Mass. significantly downscaled as \nleaders report chronic problems",
+    "url": "https://www.bostonglobe.com/2020/07/08/metro/contact-tracing-coronavirus-mass-significantly-downscaled-leaders-report-chronic-problems/",
+    "source": "The Boston Globe",
+    "time": "2 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 6,
+    "domain": "www.bostonglobe.com"
+  },
+  {
+    "title": "NBC 10 I-Team: State shuts down Coventry restaurant for coronavirus \nviolations",
+    "url": "http://turnto10.com/i-team/nbc-10-i-team-state-shuts-down-coventry-restaurant-for-coronavirus-violations",
+    "source": "WJAR",
+    "time": "3 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 7,
+    "domain": "turnto10.com"
+  },
+  {
+    "title": "As coronavirus surges, Houston confronts its hidden toll: People dying at \nhome",
+    "url": "https://www.nbcnews.com/news/us-news/coronavirus-surges-houston-confronts-its-hidden-toll-people-dying-home-n1233151",
+    "source": "NBC News",
+    "time": "3 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 8,
+    "domain": "www.nbcnews.com"
+  },
+  {
+    "title": "Coronavirus updates: Record new 722 cases, 7 more deaths; Trump threatens \nfederal aid for schools that don't reopen",
+    "url": "https://www.ksl.com/article/46774298/coronavirus-updates-record-new-722-cases-7-more-deaths-trump-threatens-federal-aid-for-schools-that-dont-reopen",
+    "source": "KSL.com",
+    "time": "5 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 9,
+    "domain": "www.ksl.com"
+  },
+  {
+    "title": "This doctor and his family got the coronavirus when they relaxed rules \nalong with Florida's reopening",
+    "url": "https://www.cnn.com/2020/07/08/us/doctor-family-florida-reopening-coronavirus/index.html",
+    "source": "CNN.com",
+    "time": "8 hours ago",
+    "date": "2020-07-08 22:00:00",
+    "query": "coronavirus",
+    "story_position": 10,
+    "domain": "www.cnn.com"
+  }
+]

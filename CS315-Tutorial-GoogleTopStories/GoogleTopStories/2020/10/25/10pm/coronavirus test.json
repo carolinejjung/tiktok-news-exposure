@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Covid-19 News: Live Updates",
+    "url": "https://www.nytimes.com/live/2020/10/25/world/covid-19-coronavirus-updates",
+    "source": "The New York Times",
+    "time": "8 mins ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 1,
+    "domain": "www.nytimes.com"
+  },
+  {
+    "title": "At least 5 of Vice President Pence's aides test positive for coronavirus",
+    "url": "https://www.cnn.com/2020/10/24/politics/mac-short-coronavirus-positive-test/index.html",
+    "source": "CNN",
+    "time": "12 mins ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 2,
+    "domain": "www.cnn.com"
+  },
+  {
+    "title": "Coronavirus doctor's diary: 'We blame Eat Out To Help Out for our tragedy'",
+    "url": "https://www.bbc.com/news/health-54666568",
+    "source": "BBC News",
+    "time": "1 hour ago",
+    "date": "2020-10-25 22:00:00",
+    "query": "coronavirus test",
+    "story_position": 3,
+    "domain": "www.bbc.com"
+  }
+]
