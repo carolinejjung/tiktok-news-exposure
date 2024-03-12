@@ -2,7 +2,7 @@ import pyktok as pyk
 import json
 
 
-filepath = "raw_data_compiled/compiled_data.json"
+filepath = "3-filter-metadata/new_relevant_videos.csv"
 with open(filepath, "r") as filetoread:
     list_of_dict = json.load(filetoread)
 filetoread.close()
