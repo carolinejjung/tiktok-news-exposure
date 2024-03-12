@@ -2,6 +2,7 @@
 import json
 import os
 
+# FILES FOR DATE AND LINK (PUBLIC)
 def get_all_links(file):
   all_links = []
   
@@ -32,3 +33,32 @@ dir_path = '/users/carolinejung/cs315-private/project2-files' # hardcoded for se
 files = os.listdir(dir_path)
 create_user_json(files)
 
+# FILES FOR FOLLOWER LIST (NON-PUBLIC)
+def collect_following(file):
+  file_name = dir_path + "/" + file
+  with open(file_name, 'r') as myFile:
+    data = json.load(myFile)
+  myFile.close()
+
+  following=[]
+  followers = data["Activity"]["Following List"]
+  if followers == {}:
+    print("this user does not follow anyone")
+    return []
+  else:
+    user = followers["Following"]
+    for i in range(len(user)):
+      following.append(user[i]["UserName"]) #date, username
+  return following
+
+def following_json(files):
+  for file in files:
+    data = collect_following(file)
+    initial = file[10:12]
+    filepath_to_write = f'/users/carolinejung/cs315-private/project2-files/user_data_{initial}_following.json'
+    # note: we want to keep non-news accounts that users follow private
+    with open(filepath_to_write, "w") as file_to_write:
+      json.dump(data, file_to_write)
+    file_to_write.close()
+
+following_json(files)
