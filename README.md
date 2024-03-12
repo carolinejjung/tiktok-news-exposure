@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # tiktok-news-exposure
 CS 315 Project on analyzing the amount of news exposure on TikTok. 
 
@@ -43,4 +42,3 @@ Once you run, you should output 2 new files: `...metadata.csv` and `failed.csv` 
 **IMPORTANT AND CRUCIAL STEP: RENAME YOUR `failed.csv` FILE BEFORE PUSHING!!** In the bolded area, replace the initial and chunk number of the file you ran to make it look like `failed_RB_chunk_1.csv` for chunk 1 of RB's data. You must do this step to not overwrite other user data and chunk numbers. 
 
 Also, make sure that the csv's are located in the correct folders. If not, place it in the correct location (see bullets above).
-=======
