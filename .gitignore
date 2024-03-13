@@ -1,2 +1,4 @@
 # ignore .env file (for API key)
 .env
+
+.mp4
