@@ -2,12 +2,12 @@
 # install open ai: pip install openai
 
 from openai import OpenAI
+import pandas as pd
 
 # pip install python-decouple
 # from decouple import config
 # API_KEY = config('WHISPER_API_KEY')
 # client = OpenAI(api_key=API_KEY)
-
 
 # pip install python-dotenv
 # from dotenv import load_dotenv
@@ -20,9 +20,6 @@ import os
 # API_KEY = os.getenv("WHISPER_API_KEY")  
 # client = OpenAI(api_key=API_KEY)
 
-# client = OpenAI()
-# OpenAI.api_key = os.getenv('WHISPER_API_KEY')
-
 client = OpenAI()
 
 def transcribe_vid(file):
@@ -30,21 +27,18 @@ def transcribe_vid(file):
     transcription = client.audio.transcriptions.create(model="whisper-1", file=audio_file)
     return transcription.text
 
-
-# testfile = "4-get-transcriptions/mp4-files/share_video_7062567867182714158_.mp4"
-# print(transcribe_vid(testfile))
-
-# 50 requests per minute limit - sleep 1 second after each request
-# don't run yet -- just do two columns
-
-
 def get_all_transcriptions():
-    files = os.listdir("4-get-transcriptions/mp4-files/")[:2]
-    print(files)
-    
-    # for file in files:
-    #     transcribe_vid(file)
+    mp4_path = "4-get-transcriptions/mp4-files/"
+    files = os.listdir(mp4_path)[:2]
+    data = pd.read_csv("3-filter-metadata/new_relevant_videos.csv")
+    #data["transcription"] = [transcribe_vid(mp4_path+file) for file in files] 
+    # REPLACE WITH THIS LATER
+    # 50 requests per minute limit - sleep 1 second after each request
 
-print(get_all_transcriptions())
-#testfile = "4-get-transcriptions/mp4-files/share_video_7062567867182714158_.mp4"
-#print(transcribe_vid(testfile))
+    # create new temporary dataframe
+    new = data.iloc[0:2, 1:].copy()
+    new["transcription"] = [transcribe_vid(mp4_path+file) for file in files]
+
+    return new
+
+get_all_transcriptions().to_csv('4-get-transcriptions/filtered_w_transcription.csv')
