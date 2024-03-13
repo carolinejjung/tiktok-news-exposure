@@ -29,7 +29,7 @@ def create_user_json(files):
       json.dump(data, file_to_write)
     file_to_write.close()
 
-dir_path = '/users/carolinejung/cs315-private/project2-files' # hardcoded for security purposes
+dir_path = '/users/carolinejung/cs315-private/project2-files/raw' # hardcoded for security purposes
 files = os.listdir(dir_path)
 create_user_json(files)
 
