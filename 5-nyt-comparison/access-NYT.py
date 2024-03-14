@@ -1,6 +1,6 @@
 import requests
 
-myAPIkey = 'bPv2NYsDnFkDWUxGACZUWFPKqzktIx5l' #sandy
+myAPIkey = "" #sandy
 
 def get_NYT_articles(start_year, end_year):
     for year in range(start_year, end_year):
