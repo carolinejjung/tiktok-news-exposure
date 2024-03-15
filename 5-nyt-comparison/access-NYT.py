@@ -2,6 +2,7 @@ import requests, json
 import pandas as pd
 from collections import Counter
 import os
+from datetime import datetime, timedelta
 
 myAPIkey = 'CYJUbGC4TcnBoLg8PF1HlnEhJEEPHlBv' #maya 
 
@@ -84,6 +85,22 @@ def flattenAllArticles(date):
     df.to_csv(file_name, index=False)
     return df
 
-desired_date = "2024-01-06"
-articles = flattenAllArticles(desired_date)
-#print(len(articles))
+
+def get_date_range(start_date, end_date):
+    start = datetime.strptime(start_date, "%Y-%m-%d")
+    end = datetime.strptime(end_date, "%Y-%m-%d")
+    date_range = [start + timedelta(days=x) for x in range((end - start).days + 1)]
+    return date_range
+
+start_date = "2023-12-16"
+end_date = "2024-03-04"
+
+dates = get_date_range(start_date, end_date)
+
+for date in dates:
+    date_str = date.strftime("%Y-%m-%d")
+    articles = flattenAllArticles(date_str)
+    folder_path = "articles_data"  # Path to the existing subfolder
+    file_name = os.path.join(folder_path, f"articles_{date_str}.csv")
+    articles.to_csv(file_name, index=False)
+    print(f"Data saved for {date_str}")
