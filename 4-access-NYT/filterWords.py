@@ -38,9 +38,11 @@ def get_all_articles():
     #files = os.listdir("4-access-NYT/")
     #return files
     all_articles = []
-    with open("4-access-NYT/NYT_2024-1.json") as file1:
+
+    
+    with open("5-nyt-comparison/articles_data/articles_2013-12-16.csv") as file1:
         f1 = json.load(file1)
-    with open("4-access-NYT/NYT_2024-3.json") as file2:
+    with open("5-nyt-comparison/articles_data/articles_2013-12-17.csv") as file2:
         f2 = json.load(file2)
     
     all_articles.append(f1)
