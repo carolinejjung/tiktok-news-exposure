@@ -41,7 +41,7 @@ def getArticlesOfDay(date):
     #print(month)
     file_name = f"NYT_{year}-{month}.json"
     if os.path.exists(file_name):  # Check if CSV file exists
-        print("found file!")
+        #print("found file!")
         pass
     else:
         getNYTArticles(year, month, myAPIkey)
