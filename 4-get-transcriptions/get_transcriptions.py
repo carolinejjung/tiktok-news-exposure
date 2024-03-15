@@ -3,6 +3,7 @@
 
 from openai import OpenAI
 import pandas as pd
+import time
 
 # pip install python-decouple
 # from decouple import config
@@ -27,18 +28,29 @@ def transcribe_vid(file):
     transcription = client.audio.transcriptions.create(model="whisper-1", file=audio_file)
     return transcription.text
 
+# def get_all_transcriptions():
+#     mp4_path = "4-get-transcriptions/mp4-files/"
+#     files = os.listdir(mp4_path)[:2]
+#     data = pd.read_csv("3-filter-metadata/new_relevant_videos.csv")
+#     #data["transcription"] = [transcribe_vid(mp4_path+file) for file in files] 
+#     # REPLACE WITH THIS LATER
+#     # 50 requests per minute limit - sleep 1 second after each request
+
+#     # create new temporary dataframe
+#     new = data.iloc[0:2, 1:].copy()
+#     new["transcription"] = [transcribe_vid(mp4_path+file) for file in files]
+
+#     return new
+
 def get_all_transcriptions():
     mp4_path = "4-get-transcriptions/mp4-files/"
-    files = os.listdir(mp4_path)[:2]
-    data = pd.read_csv("3-filter-metadata/new_relevant_videos.csv")
-    #data["transcription"] = [transcribe_vid(mp4_path+file) for file in files] 
-    # REPLACE WITH THIS LATER
-    # 50 requests per minute limit - sleep 1 second after each request
+    files = os.listdir(mp4_path)
+    data = pd.read_csv("3-filter-metadata/new_relevant_videos_chunk_5.csv")
+    
+    for i, file in enumerate(files):
+        data["transcription"][i] = transcribe_vid(mp4_path + file)
+        time.sleep(1)
 
-    # create new temporary dataframe
-    new = data.iloc[0:2, 1:].copy()
-    new["transcription"] = [transcribe_vid(mp4_path+file) for file in files]
+    return data
 
-    return new
-
-get_all_transcriptions().to_csv('4-get-transcriptions/filtered_w_transcription.csv')
+get_all_transcriptions().to_csv('4-get-transcriptions/filtered_w_transcription_v2.csv')
