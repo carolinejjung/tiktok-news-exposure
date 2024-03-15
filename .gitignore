@@ -1,4 +1,5 @@
 # ignore .env file (for API key)
 .env
+.DS_Store
 
 *.mp4
