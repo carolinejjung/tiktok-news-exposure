@@ -13,15 +13,15 @@ def save_mp4(filepath, user):
 
 # FINAL
 # user RB data chunks (83721)
-#save_mp4("3-filter-metadata/news_relevant_videos_chunk_3.csv", "83721") 
-#save_mp4("3-filter-metadata/news_relevant_videos_chunk_4.csv", "83721")
-#save_mp4("3-filter-metadata/news_relevant_videos_chunk_5.csv", "83721")
+#save_mp4("3-filter-metadata/news_relevant_videos_chunk_3.csv", "83721") # DONE
+#save_mp4("3-filter-metadata/news_relevant_videos_chunk_4.csv", "83721") # DONE
+#save_mp4("3-filter-metadata/news_relevant_videos_chunk_5.csv", "83721") # DONE
 
 # other users
-# save_mp4("3-filter-metadata/news_relevant_videos_26301.csv", "26301")
-# save_mp4("3-filter-metadata/news_relevant_videos_33534.csv", "33534")
-# save_mp4("3-filter-metadata/news_relevant_videos_38129.csv", "38129")
-# save_mp4("3-filter-metadata/news_relevant_videos_69117.csv", "69117")
+save_mp4("3-filter-metadata/news_relevant_videos_26301.csv", "26301") # PAUSED - REDO LATER
+save_mp4("3-filter-metadata/news_relevant_videos_33534.csv", "33534") # WAITING
+#save_mp4("3-filter-metadata/news_relevant_videos_38129.csv", "38129") # WAITING - BUT THIS SHOULD BE EMPTY
+#save_mp4("3-filter-metadata/news_relevant_videos_69117.csv", "69117") # WAITING
 
 
 # TESTING
