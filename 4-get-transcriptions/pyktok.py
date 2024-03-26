@@ -216,7 +216,8 @@ def alt_get_tiktok_json(video_url,browser_name=None):
 def save_tiktok(video_url,
                 save_video=True,
                 metadata_fn='',
-                browser_name=None):
+                browser_name=None,
+                usernum=''):
     if 'cookies' not in globals() and browser_name is None:
         raise BrowserNotSpecifiedError
     if save_video == False and metadata_fn == '':
@@ -308,7 +309,7 @@ def save_tiktok(video_url,
                 print("timed out, moving on to next vid..")
                 locate_el = False
         if save_video == True and tt_video:
-            with open("4-get-transcriptions/mp4-files/" + video_fn, 'wb') as fn: # CAROLINE: EDITED THIS TO SAVE IN CORRECT FOLDER
+            with open(f"4-get-transcriptions/mp4-files-{usernum}/" + video_fn, 'wb') as fn: # CAROLINE: EDITED THIS TO SAVE IN CORRECT FOLDER
                 fn.write(tt_video.content)
 
         if metadata_fn != '':
@@ -371,7 +372,8 @@ def save_tiktok_multi_urls(video_urls,
                            save_video=True,
                            metadata_fn='',
                            sleep=4,
-                           browser_name=None):
+                           browser_name=None,
+                           usernum=''): #CAROLINE EDIT
     if 'cookies' not in globals() and browser_name is None:
         raise BrowserNotSpecifiedError
     if type(video_urls) is str:
@@ -385,6 +387,6 @@ def save_tiktok_multi_urls(video_urls,
                 fn.close()
 
     for u in tt_urls:
-        save_tiktok(u,save_video,metadata_fn,browser_name)
+        save_tiktok(u,save_video,metadata_fn,browser_name, usernum) #CAROLINE EDIT
         time.sleep(random.randint(1, sleep))
     print('Saved',len(tt_urls),'videos and/or lines of metadata')
