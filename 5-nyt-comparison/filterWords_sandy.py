@@ -44,9 +44,30 @@ def text2vector(sentence, voc):
     return vector
 
 sent2vec = [text2vector(sent, voc) for sent in cleaned_paragraphs]
-sent2vec
+#sent2vec
+ 
+ def filterFuncWords(v1, csv_file_path): #removes all func words
+    filtered_list = [] #represents unique words from tikTok
+    with open(csv_file_path, 'r') as file:
+        csv_reader = csv.reader(file)
+        word_set = set(row[0] for row in csv_reader)
+    
+    # Iterate through the word list and filter out words present in the CSV
+    for word in v1:
+        if word not in word_set:
+            filtered_list.append(word)
+    return filtered_list #list w/ no stop words
 
-import pandas as pd
+    #take in a vector, compare to words on stopwords.csv, filter out all common words, return unique words as vector
+
+
+
+
+
+
+
+
+
 df = pd.DataFrame(sent2vec, 
                   columns=voc,
                   index=[f"doc_{i+1}" for i in range(len(sentences))])
