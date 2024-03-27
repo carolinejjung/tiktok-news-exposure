@@ -18,11 +18,11 @@ def save_mp4(filepath, user):
 # save_mp4("3-filter-metadata/news_relevant_videos_chunk_5.csv", "83721") # DONE
 
 # other users
-# save_mp4("3-filter-metadata/news_relevant_videos_26301.csv", "26301") # DONE
+# save_mp4("3-filter-metadata/news_relevant_videos_26301.csv", "26301") # DONE - SEC 1 GROUP 2
 # save_mp4("3-filter-metadata/news_relevant_videos_33534.csv", "33534") # DONE
 # save_mp4("3-filter-metadata/news_relevant_videos_38129.csv", "38129") # DONE
-#save_mp4("3-filter-metadata/news_relevant_videos_48271.csv", "48271") # HOLD - VIDEO ID STRUCTURED DIFF, FROM SEC 1
 # save_mp4("3-filter-metadata/news_relevant_videos_69117.csv", "69117") # DONE
+# save_mp4("3-filter-metadata/news_relevant_videos_48271.csv", "48271") # WAIT FOR METADATA - SEC 2 GROUP 1
 
 
 # TESTING
