@@ -22,7 +22,7 @@ def save_mp4(filepath, user):
 # save_mp4("3-filter-metadata/news_relevant_videos_33534.csv", "33534") # DONE
 # save_mp4("3-filter-metadata/news_relevant_videos_38129.csv", "38129") # DONE
 #save_mp4("3-filter-metadata/news_relevant_videos_48271.csv", "48271") # HOLD - VIDEO ID STRUCTURED DIFF, FROM SEC 1
-save_mp4("3-filter-metadata/news_relevant_videos_69117.csv", "69117") # TO DO
+# save_mp4("3-filter-metadata/news_relevant_videos_69117.csv", "69117") # DONE
 
 
 # TESTING
