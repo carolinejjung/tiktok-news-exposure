@@ -77,8 +77,8 @@ path_to_write = '4-get-transcriptions/final-data-transcribed/'
 # data_to_write("26301").to_csv(path_to_write + 'final_26301.csv') # TO DO
 
 
-# data_to_write("33534").to_csv(path_to_write + 'final_33534.csv') # TO DO - error: length of values(64) doesn't match length of index (70)
-# data_to_write("38129").to_csv(path_to_write + 'final_38129.csv') # DONE
+data_to_write("33534").to_csv(path_to_write + 'final_33534.csv') # TO DO - initial error: length of values(64) doesn't match length of index (70)
+# data_to_write("38129").to_csv(path_to_write + 'final_38129.csv') # TO DO - should be empty
 # data_to_write("48271").to_csv(path_to_write + 'final_48271.csv') # DONE
 # data_to_write("69117").to_csv(path_to_write + 'final_69117.csv') # TO DO
 # data_to_write("83721").to_csv(path_to_write + 'final_83721.csv') # RUN LAST (more videos)
