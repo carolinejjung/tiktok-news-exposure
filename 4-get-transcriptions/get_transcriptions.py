@@ -31,43 +31,31 @@ def transcribe_vid(file):
     return transcription.text
 
 
-def get_all_transcriptions(batch, user):
+def get_transcription_for_file(file, user): # for one file
     mp4_path = f"4-get-transcriptions/mp4-files-{user}/"
 
-    transcripts = []
     try:
-        for file in batch:
-            transcripts.append(transcribe_vid(mp4_path + file))
-            time.sleep(1)
-        print("Batch of videos is able to be transcribed. Transcribing...")
-        return transcripts
+        transcription = transcribe_vid(mp4_path + file)
+        time.sleep(1)
+        print("SUCCESS: Video was transcribed.") # already done transcribing
+        return transcription
     
     except APIStatusError:
-        print("File size is too big to be able to transcribe. Empty transcriptions will be returned. Moving onto the next batch...")
-        return ["",""]
-
-def create_batches(user):
+        print("FAILURE: Video file size was too big to be transcribed. An empty transcription will be returned.")
+        return ""
+    
+def data_to_write(user): # for one user
     mp4_path = f"4-get-transcriptions/mp4-files-{user}/"
     files = os.listdir(mp4_path)
 
-    even_nums = np.array(range(0,len(files)+1,2)) #list of even indices, experiment w max size
-
-    batches = []
-    for i in range(len(even_nums)):
-        if i != len(even_nums)-1:
-            batches.append(files[even_nums[i]:even_nums[i+1]])
-    return batches
-    
-def data_to_write(user):
-    batches = create_batches(user)
     data = pd.read_csv(f"3-filter-metadata/news_relevant_videos_{user}.csv")
 
-    transcript_batches = []
-    for i in range(len(batches)):  # range(3) was used for testing purposes
-        transcript_batches.append(get_all_transcriptions(batches[i], user))
+    transcripts_all = []
+    for file in files: 
+        transcripts_all.append(get_transcription_for_file(file, user))
     
     #append all the batches of transcriptions together into one flattened list with strings
-    flattened_list_transcript = [transcript for batch in transcript_batches for transcript in batch]
+    flattened_list_transcript = [transcript for transcript in transcripts_all]
     data["transcription"] = flattened_list_transcript
     return data
 
@@ -80,7 +68,6 @@ path_to_write = '4-get-transcriptions/final-data-transcribed/'
 # data_to_write("26301").to_csv(path_to_write + 'final_26301.csv') # TO DO
 # data_to_write("33534").to_csv(path_to_write + 'final_33534.csv') # TO DO
 # data_to_write("38129").to_csv(path_to_write + 'final_38129.csv') # DONE
-# data_to_write("48271").to_csv(path_to_write + 'final_48271.csv') # DONE
+data_to_write("48271").to_csv(path_to_write + 'final_48271.csv') # DONE
 # data_to_write("69117").to_csv(path_to_write + 'final_69117.csv') # TO DO
 # data_to_write("83721").to_csv(path_to_write + 'final_83721.csv') # RUN LAST (more videos)
-
